@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.percula.dev/planter_blog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "PaperMod"
