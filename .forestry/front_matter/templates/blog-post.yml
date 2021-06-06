@@ -2,3 +2,5 @@
 label: Blog post
 hide_body: false
 fields: []
+pages:
+- content/posts/square_foot_gardening_into.md
