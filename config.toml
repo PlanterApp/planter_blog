@@ -1,4 +1,4 @@
-baseURL = "https://blog.percula.dev/planter_blog/"
+baseURL = "https://blog.gardenplanter.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "PaperMod"
