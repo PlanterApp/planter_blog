@@ -1,6 +1,26 @@
 ---
 label: Blog post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Title of the page or post
+- name: date
+  type: datetime
+  label: Date
+  description: Date that the page or post was created
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
 pages:
 - content/posts/square_foot_gardening_into.md
