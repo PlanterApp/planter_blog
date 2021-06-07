@@ -33,9 +33,9 @@ params:
     safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
-    text: "Home"
+    text: "Planter"
     icon: /apple-touch-icon.png
-    iconHeight: 35
+    iconHeight: 28
 
 outputs:
   home:
