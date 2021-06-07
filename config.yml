@@ -3,6 +3,22 @@ languageCode: "en-us"
 title: "Planter"
 theme: "PaperMod"
 
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Documentation
+          url: "https://info.gardenplanter.app"
+          weight: 10
+        - name: Categories
+          url: categories/
+          weight: 10
+
 params:
   env: production
   keywords: [Planter, Blog, Guide]
