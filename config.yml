@@ -53,3 +53,9 @@ outputs:
   home:
     - HTML
     - JSON
+  page:
+    - HTML
+    - JSON
+  section:
+    - HTML
+    - JSON
