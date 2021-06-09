@@ -1,9 +1,11 @@
 {
   "title": "{{ .Title }}",
   "author": "{{ .Params.author }}",
-  "cover.image" : "{{ .Params.cover.image }}",
-  "cover.caption" : "{{ .Params.cover.caption }}",
-  "cover.alt" : "{{ .Params.cover.alt }}",
+  "image": {
+    "url" : "{{.Site.BaseURL }}{{.Params.cover.image }}",
+    "caption" : "{{ .Params.cover.caption }}",
+    "alt" : "{{ .Params.cover.alt }}"
+  },
   "date" : "{{ .Params.date }}",
   "permalink" : "{{ .Permalink }}",
   "content" : "{{ .Plain }}"
