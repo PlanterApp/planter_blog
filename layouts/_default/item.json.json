@@ -8,5 +8,5 @@
   },
   "date" : "{{ .Params.date }}",
   "permalink" : "{{ .Permalink }}",
-  "content" : "{{ .Plain | jsonify}}"
+  "content" : {{ .Plain | jsonify }}
 }
