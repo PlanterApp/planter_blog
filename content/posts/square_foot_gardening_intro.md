@@ -13,4 +13,19 @@ They look beautiful and organized, but what exactly are square foot gardens, and
 
 ### What is square foot gardening?
 
-Square foot gardening is a simple method of gardening where the garden is divided into squares, each 1 foot by 1 foot.
+Square foot gardening is a simple method of gardening where the garden is divided into squares, each 1 foot by 1 foot. It is organized and highly productive. It was invented by Mel Bartholomew, a backyard gardener, and became popular after the release of his book [Square Foot Gardening](https://amzn.to/3g5sBCn) in 1981. He has since released an updated book [All New Square Foot Gardening](https://amzn.to/3vdo4St).
+
+Square foot gardening typically utilizes raised beds, although you can use the method without a raised bed. 
+
+### Creating a square foot garden
+
+First, create a small garden bed, typically 4 feet wide and anywhere from 4 to 8 feet long. You don't want to go any wider than 4 feet, otherwise, it may become difficult to reach the plants in the middle of the garden bed. 
+
+Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety of materials to do this:
+
+* Wood slats
+* Twine
+* Plastic pipe
+* Garden stakes
+
+Next, decide which plants and how many plants go in each square. [Planter]() makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots in a square or 4 lettuce plants or a single pepper plant. Some larger plants require multiple squares, such as squash or tomatoes. When deciding where to place each plant, consider which plants it's a companion of.
