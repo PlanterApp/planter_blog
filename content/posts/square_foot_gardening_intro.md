@@ -29,3 +29,10 @@ Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety
 * Garden stakes
 
 Next, decide which plants and how many plants go in each square. [Planter]() makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots in a square or 4 lettuce plants or a single pepper plant. Some larger plants require multiple squares, such as squash or tomatoes. When deciding where to place each plant, consider which plants it's a companion of.
+
+### Benefits of square foot gardening
+
+* **High yields:** Square foot gardening optimizes the number of crops you can plant in a small space, so no space is wasted.
+* **Less water:** With crops planted closer together, they shade the underlying soil and reduce the need for watering.
+* **Less weeding:** Yep, you read that right! Raised beds require less weeding. And since square foot gardening optimizes spacing, there is less room for weeds to grow.
+* **Easy:**
