@@ -3,9 +3,9 @@ author = "Peter Keefe"
 date = 2021-06-05T04:00:00Z
 title = "What is Square Foot Gardening?"
 [cover]
-alt = ""
+alt = "Square foot garden with wooden dividers."
 caption = "Square foot gardening in raised beds."
-image = "/uploads/square-foot-gardening-by-planting-flowers-herbs-and-news-photo-584618354-1532960706.webp"
+image = "https://blog.gardenplanter.app/uploads/square-foot-gardening-by-planting-flowers-herbs-and-news-photo-584618354-1532960706-1.webp"
 
 +++
 They look beautiful and organized, but what exactly are square foot gardens, and should you build one? Square foot gardening is rapidly growing in popularity, and for good reason! It's also the gardening method that [Planter](https://gardenplanter.app) is best suited for.
@@ -35,7 +35,7 @@ Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety
 
 ![](/uploads/raised_bed_pipes.webp)
 
-Next, decide which plants and how many plants go in each square. [Planter](https://gardenplanter.app) makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots, 4 lettuce plants, or 1 pepper plant in a  single square. Some larger plants require multiple squares, such as squash and tomatoes. When deciding where to place each plant, consider which plants it's a companion of. This is another area that Planter excels in, by showing a green indicator between companion plants and a red indicator between combative plants. 
+Next, decide which plants and how many plants go in each square. [Planter](https://gardenplanter.app) makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots, 4 lettuce plants, or 1 pepper plant in a  single square. Some larger plants require multiple squares, such as squash and tomatoes. When deciding where to place each plant, consider which plants it's a companion of. This is another area that Planter excels in, by showing a green indicator between companion plants and a red indicator between combative plants.
 
 ![Spacing and compatibility in Planter](/uploads/compatibility.webp "Spacing and compatibility in Planter")
 
