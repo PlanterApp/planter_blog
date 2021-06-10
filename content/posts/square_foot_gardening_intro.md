@@ -37,6 +37,8 @@ Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety
 
 Next, decide which plants and how many plants go in each square. [Planter](https://gardenplanter.app) makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots, 4 lettuce plants, or 1 pepper plant in a  single square. Some larger plants require multiple squares, such as squash and tomatoes. When deciding where to place each plant, consider which plants it's a companion of.
 
+![Spacing and compatibility in Planter](/uploads/compatibility.webp "Spacing and compatibility in Planter")
+
 ### Benefits of square foot gardening
 
 * **High yields:** Square foot gardening optimizes the number of crops you can plant in a small space, so no space is wasted.
