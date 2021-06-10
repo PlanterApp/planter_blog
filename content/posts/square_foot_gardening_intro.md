@@ -9,7 +9,7 @@ caption = "Square foot gardening in raised beds."
 image = "/uploads/3684086591_086c92d71b_o.webp"
 
 +++
-They look beautiful and organized, but what exactly are square foot gardens, and should you build one? Square foot gardening is rapidly growing in popularity, and for good reason! It's also the gardening method that [Planter](gardenplanter.app) is best suited for.
+They look beautiful and organized, but what exactly are square foot gardens, and should you build one? Square foot gardening is rapidly growing in popularity, and for good reason! It's also the gardening method that [Planter](https://gardenplanter.app) is best suited for.
 
 ### What is square foot gardening?
 
@@ -28,7 +28,7 @@ Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety
 * Plastic pipe
 * Garden stakes
 
-Next, decide which plants and how many plants go in each square. [Planter]() makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots in a square or 4 lettuce plants or a single pepper plant. Some larger plants require multiple squares, such as squash or tomatoes. When deciding where to place each plant, consider which plants it's a companion of.
+Next, decide which plants and how many plants go in each square. [Planter](https://gardenplanter.app) makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots in a square or 4 lettuce plants or a single pepper plant. Some larger plants require multiple squares, such as squash or tomatoes. When deciding where to place each plant, consider which plants it's a companion of.
 
 ### Benefits of square foot gardening
 
@@ -66,3 +66,7 @@ Next, decide which plants and how many plants go in each square. [Planter]() mak
 | Radishes |  |  |
 | Spinach |  |  |
 | Strawberries |  |  |
+
+### Conclusion
+
+Square foot gardening is rapidly growing in popularity, and for very good reason! It's great for both beginners and experienced gardeners. Most importantly, it maximizes crop output while minimizing effort. It might not be for everyone, but if it interests you, give it a shot! It's easy to get started with square foot gardening, especially with a helpful app like [Planter](https://gardenplanter.app).
