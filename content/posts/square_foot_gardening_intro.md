@@ -1,7 +1,6 @@
 +++
 author = "Peter Keefe"
 date = 2021-06-05T04:00:00Z
-draft = true
 title = "What is Square Foot Gardening?"
 [cover]
 alt = ""
