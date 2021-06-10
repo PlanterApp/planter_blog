@@ -48,23 +48,23 @@ Next, decide which plants and how many plants go in each square. [Planter]() mak
 
 <center>
 
-| Shallow Rooting 12" - 18" | Medium Rooting 18" - 24" | Deep Rooting 24" - 36"+ |
+| Shallow Rooting (12"-18") | Medium Rooting (18"-24") | Deep Rooting (24"+) |
 | --- | --- | --- |
-| Arugula | Beans, dry | Artichokes |
-| Broccoli | Beans, pole | Asparagus |
-| Brussel sprouts | Beans, snap | Beans, lima |
+| Arugula | Beans | Artichokes |
+| Broccoli | Turnips | Asparagus |
+| Brussel sprouts | Squash (summer) | Beans, lima |
 | Cabbage | Beets | Okra |
 | Cauliflower | Cantaloupe | Parsnips |
 | Celery | Carrots | Pumpkins |
 | Chinese cabbage | Chard | Rhubarb |
-| Corn | Cucumber | Squash, winter |
+| Corn | Cucumber | Squash (winter) |
 | Endive | Eggplant | Sweet potatoes |
 | Garlic | Kale | Tomatoes |
 | Kohlrabi, Bok Choy | Peas | Watermelon |
 | Lettuce | Peppers |  |
 | Onions, Leeks, Chives | Rutabagas |  |
-| Potatoes | Squash, summer |  |
-| Radishes | Turnips |  |
+| Potatoes |  |  |
+| Radishes |  |  |
 | Spinach |  |  |
 | Strawberries |
   
