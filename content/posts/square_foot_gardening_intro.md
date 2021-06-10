@@ -66,6 +66,6 @@ Next, decide which plants and how many plants go in each square. [Planter](https
 | Spinach |  |  |
 | Strawberries |  |  |
 
-### Conclusion
+### Should you create a square foot garden?
 
 Square foot gardening is rapidly growing in popularity, and for very good reason! It's great for both beginners and experienced gardeners. Most importantly, it maximizes crop output while minimizing effort. It might not be for everyone, but if it interests you, give it a shot! It's easy to get started with square foot gardening, especially with a helpful app like [Planter](https://gardenplanter.app).
