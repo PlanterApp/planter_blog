@@ -18,11 +18,11 @@ Square foot gardening typically utilizes raised beds, although you can use the m
 
 ### Creating a square foot garden
 
-![](/uploads/garden_bed_empty.webp)
+![Raised garden bed without soil.](https://blog.gardenplanter.app/uploads/garden_bed_empty.webp "Raised garden bed without soil.")
 
 First, create a small garden bed, typically 4 feet wide and anywhere from 4 to 8 feet long. You don't want to go any wider than 4 feet, otherwise, it may become difficult to reach the plants in the middle of the garden bed. Depth is up to you, typically 6 - 12 inches.
 
-![](/uploads/garden_bed_soil.webp)
+![Raised garden bed filled with soil.](https://blog.gardenplanter.app/uploads/garden_bed_soil.webp "Raised garden bed filled with soil.")
 
 Next, fill the bed with soil mixed with compost or pre-made raised garden bed mix.
 
@@ -35,9 +35,9 @@ Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety
 
 ![](/uploads/raised_bed_pipes.webp)
 
-Next, decide which plants and how many plants go in each square. [Planter](https://gardenplanter.app) makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots, 4 lettuce plants, or 1 pepper plant in a  single square. Some larger plants require multiple squares, such as squash and tomatoes. When deciding where to place each plant, consider which plants it's a companion of. This is another area that Planter excels in, by showing a green indicator between companion plants and a red indicator between combative plants.
+Next, decide which plants and how many plants go in each square. [Planter](https://gardenplanter.app) makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots, 4 lettuce plants, or 1 pepper plant in a  single square. Some larger plants require multiple squares, such as squash and tomatoes. When deciding where to place each plant, consider which plants it's a companion of. This is another area that Planter excels in, by showing a green indicator between companion plants and a red indicator between combative plan
 
-![Spacing and compatibility in Planter](/uploads/compatibility.webp "Spacing and compatibility in Planter")
+![Spacing and compatibility in Planter](https://blog.gardenplanter.app/uploads/compatibility.webp "Spacing and compatibility in Planter")
 
 ### Benefits of square foot gardening
 
