@@ -5,7 +5,7 @@ title = "What is Square Foot Gardening?"
 [cover]
 alt = ""
 caption = "Square foot gardening in raised beds."
-image = "/uploads/3684086591_086c92d71b_o.webp"
+image = "/uploads/square-foot-gardening-by-planting-flowers-herbs-and-news-photo-584618354-1532960706-1.webp"
 
 +++
 They look beautiful and organized, but what exactly are square foot gardens, and should you build one? Square foot gardening is rapidly growing in popularity, and for good reason! It's also the gardening method that [Planter](https://gardenplanter.app) is best suited for.
@@ -19,6 +19,10 @@ Square foot gardening typically utilizes raised beds, although you can use the m
 ### Creating a square foot garden
 
 First, create a small garden bed, typically 4 feet wide and anywhere from 4 to 8 feet long. You don't want to go any wider than 4 feet, otherwise, it may become difficult to reach the plants in the middle of the garden bed. Depth is up to you, typically 6 - 12 inches.
+
+![](/uploads/garden_bed_soil.webp)
+
+Next, fill the bed with soil mixed with compost or pre-made raised garden bed mix.
 
 Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety of materials to do this:
 
