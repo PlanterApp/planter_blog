@@ -5,7 +5,7 @@ title = "What is Square Foot Gardening?"
 [cover]
 alt = ""
 caption = "Square foot gardening in raised beds."
-image = "/uploads/square-foot-gardening-by-planting-flowers-herbs-and-news-photo-584618354-1532960706-1.webp"
+image = "/uploads/square-foot-gardening-by-planting-flowers-herbs-and-news-photo-584618354-1532960706.webp"
 
 +++
 They look beautiful and organized, but what exactly are square foot gardens, and should you build one? Square foot gardening is rapidly growing in popularity, and for good reason! It's also the gardening method that [Planter](https://gardenplanter.app) is best suited for.
@@ -18,6 +18,8 @@ Square foot gardening typically utilizes raised beds, although you can use the m
 
 ### Creating a square foot garden
 
+![](/uploads/garden_bed_empty.webp)
+
 First, create a small garden bed, typically 4 feet wide and anywhere from 4 to 8 feet long. You don't want to go any wider than 4 feet, otherwise, it may become difficult to reach the plants in the middle of the garden bed. Depth is up to you, typically 6 - 12 inches.
 
 ![](/uploads/garden_bed_soil.webp)
@@ -27,9 +29,11 @@ Next, fill the bed with soil mixed with compost or pre-made raised garden bed mi
 Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety of materials to do this:
 
 * Wood slats
-* Twine
+* Twine or string
 * Plastic pipe
 * Garden stakes
+
+![](/uploads/raised_bed_pipes.webp)
 
 Next, decide which plants and how many plants go in each square. [Planter](https://gardenplanter.app) makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots in a square or 4 lettuce plants or a single pepper plant. Some larger plants require multiple squares, such as squash or tomatoes. When deciding where to place each plant, consider which plants it's a companion of.
 
