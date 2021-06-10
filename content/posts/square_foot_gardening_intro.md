@@ -19,7 +19,7 @@ Square foot gardening typically utilizes raised beds, although you can use the m
 
 ### Creating a square foot garden
 
-First, create a small garden bed, typically 4 feet wide and anywhere from 4 to 8 feet long. You don't want to go any wider than 4 feet, otherwise, it may become difficult to reach the plants in the middle of the garden bed. 
+First, create a small garden bed, typically 4 feet wide and anywhere from 4 to 8 feet long. You don't want to go any wider than 4 feet, otherwise, it may become difficult to reach the plants in the middle of the garden bed. Depth is up to you, typically 6 - 12 inches.
 
 Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety of materials to do this:
 
@@ -33,6 +33,34 @@ Next, decide which plants and how many plants go in each square. [Planter]() mak
 ### Benefits of square foot gardening
 
 * **High yields:** Square foot gardening optimizes the number of crops you can plant in a small space, so no space is wasted.
-* **Less water:** With crops planted closer together, they shade the underlying soil and reduce the need for watering.
+* **Less water:** With crops planted closer together, they shade the underlying soil and reduce the need for watering. However, raised beds typically require more watering than in-ground planting.
 * **Less weeding:** Yep, you read that right! Raised beds require less weeding. And since square foot gardening optimizes spacing, there is less room for weeds to grow.
-* **Easy:**
+* **Easy to get started:** A raised bed can be placed anywhere, even over concrete or grass (you'll want to first put down cardboard or landscape fabric to prevent weeds from coming up through the bed). Just build the bed, fill it, and start planting!
+
+### Downsides of square foot gardening
+
+* **High up-front cost:** It can be expensive to build a raised bed and fill it with soil. However, many gardeners have found creative ways to build raised bed out of cheap or recycled materials.
+* **Small space:** Large plants such as pumpkins, watermelon, and sweet corn can take up a lot of room and require a lot of water. You may want to grow these in traditional row gardens. Or relegate sprawling vine plants such as pumpkins to an edge of the raised garden bed, where they can overflow without blocking an important part of the walkway.
+* **Depth issues:** If you've placed your garden bed on top of concrete, you'll be limited in what you can plant depending on how deep your raised garden bed is. To work around this, some gardeners create beds of varying depths, allocating plants with deep roots to the taller beds.
+
+## Soil Depth Requirements for Common Garden Vegetables
+
+| Shallow Rooting 12" - 18" | Medium Rooting 18" - 24" | Deep Rooting 24" - 36"+ |
+| --- | --- | --- |
+| Arugula | Beans, dry | Artichokes |
+| Broccoli | Beans, pole | Asparagus |
+| Brussel sprouts | Beans, snap | Beans, lima |
+| Cabbage | Beets | Okra |
+| Cauliflower | Cantaloupe | Parsnips |
+| Celery | Carrots | Pumpkins |
+| Chinese cabbage | Chard | Rhubarb |
+| Corn | Cucumber | Squash, winter |
+| Endive | Eggplant | Sweet potatoes |
+| Garlic | Kale | Tomatoes |
+| Kohlrabi, Bok Choy | Peas | Watermelon |
+| Lettuce | Peppers |  |
+| Onions, Leeks, Chives | Rutabagas |  |
+| Potatoes | Squash, summer |  |
+| Radishes | Turnips |  |
+| Spinach |  |  |
+| Strawberries |
