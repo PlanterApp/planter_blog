@@ -35,7 +35,7 @@ Then, divide the garden bed into 1 foot by 1 foot squares. You can use a variety
 
 ![](/uploads/raised_bed_pipes.webp)
 
-Next, decide which plants and how many plants go in each square. [Planter](https://gardenplanter.app) makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots in a square or 4 lettuce plants or a single pepper plant. Some larger plants require multiple squares, such as squash or tomatoes. When deciding where to place each plant, consider which plants it's a companion of.
+Next, decide which plants and how many plants go in each square. [Planter](https://gardenplanter.app) makes this easy and will tell you the recommended spacing of plants for each square. For instance, you can plant 16 carrots, 4 lettuce plants, or 1 pepper plant in a  single square. Some larger plants require multiple squares, such as squash and tomatoes. When deciding where to place each plant, consider which plants it's a companion of.
 
 ### Benefits of square foot gardening
 
