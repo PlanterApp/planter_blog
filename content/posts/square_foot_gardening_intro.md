@@ -9,13 +9,13 @@ caption = "Square foot gardening in raised beds."
 image = "/uploads/3684086591_086c92d71b_o.webp"
 
 +++
-They look beautiful and organized, but what exactly are square foot gardens, and should you build one? Square foot gardening is rapidly growing in popularity, and for good reason! It's also the gardening method that [Planter](gardenplanter.app) is best suited for. 
+They look beautiful and organized, but what exactly are square foot gardens, and should you build one? Square foot gardening is rapidly growing in popularity, and for good reason! It's also the gardening method that [Planter](gardenplanter.app) is best suited for.
 
 ### What is square foot gardening?
 
 Square foot gardening is a simple method of gardening where the garden is divided into squares, each 1 foot by 1 foot. It is organized and highly productive. It was invented by Mel Bartholomew, a backyard gardener, and became popular after the release of his book [Square Foot Gardening](https://amzn.to/3g5sBCn) in 1981. He has since released an updated book [All New Square Foot Gardening](https://amzn.to/3vdo4St).
 
-Square foot gardening typically utilizes raised beds, although you can use the method without a raised bed. 
+Square foot gardening typically utilizes raised beds, although you can use the method without a raised bed.
 
 ### Creating a square foot garden
 
@@ -43,29 +43,26 @@ Next, decide which plants and how many plants go in each square. [Planter]() mak
 * **Small space:** Large plants such as pumpkins, watermelon, and sweet corn can take up a lot of room and require a lot of water. You may want to grow these in traditional row gardens. Or relegate sprawling vine plants such as pumpkins to an edge of the raised garden bed, where they can overflow without blocking an important part of the walkway.
 * **Depth issues:** If you've placed your garden bed on top of concrete, you'll be limited in what you can plant depending on how deep your raised garden bed is. To work around this, some gardeners create beds of varying depths, allocating plants with deep roots to the taller beds.
 
-  
-#### Soil Depth Requirements for Common Garden Vegetables
-
-<center>
+#### Soil Depth Requirements for Common Vegetables
 
 | Shallow Rooting (12"-18") | Medium Rooting (18"-24") | Deep Rooting (24"+) |
 | --- | --- | --- |
-| Arugula | Beans | Artichokes |
-| Broccoli | Turnips | Asparagus |
-| Brussel sprouts | Squash (summer) | Beans, lima |
-| Cabbage | Beets | Okra |
-| Cauliflower | Cantaloupe | Parsnips |
-| Celery | Carrots | Pumpkins |
-| Chinese cabbage | Chard | Rhubarb |
-| Corn | Cucumber | Squash (winter) |
-| Endive | Eggplant | Sweet potatoes |
-| Garlic | Kale | Tomatoes |
-| Kohlrabi, Bok Choy | Peas | Watermelon |
-| Lettuce | Peppers |  |
-| Onions, Leeks, Chives | Rutabagas |  |
+| Arugula | Beans | Artichoke |
+| Bok Choy | Beets | Asparagus |
+| Broccoli | Cantaloupe | Okra |
+| Brussel sprouts | Carrots | Parsnips |
+| Cabbage | Chard | Pumpkin |
+| Cauliflower | Cucumber | Rhubarb |
+| Celery | Eggplant | Squash (winter) |
+| Chives | Kale | Sweet potatoes |
+| Corn | Peas | Tomatoes |
+| Endive | Peppers | Watermelon |
+| Garlic | Rutabagas |  |
+| Kohlrabi | Squash (summer) |  |
+| Leeks | Turnips |  |
+| Lettuce |  |  |
+| Onions |  |  |
 | Potatoes |  |  |
 | Radishes |  |  |
 | Spinach |  |  |
-| Strawberries |
-  
-</center>
+| Strawberries |  |  |
