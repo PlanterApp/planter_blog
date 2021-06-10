@@ -43,7 +43,10 @@ Next, decide which plants and how many plants go in each square. [Planter]() mak
 * **Small space:** Large plants such as pumpkins, watermelon, and sweet corn can take up a lot of room and require a lot of water. You may want to grow these in traditional row gardens. Or relegate sprawling vine plants such as pumpkins to an edge of the raised garden bed, where they can overflow without blocking an important part of the walkway.
 * **Depth issues:** If you've placed your garden bed on top of concrete, you'll be limited in what you can plant depending on how deep your raised garden bed is. To work around this, some gardeners create beds of varying depths, allocating plants with deep roots to the taller beds.
 
+  
 #### Soil Depth Requirements for Common Garden Vegetables
+
+<center>
 
 | Shallow Rooting 12" - 18" | Medium Rooting 18" - 24" | Deep Rooting 24" - 36"+ |
 | --- | --- | --- |
@@ -64,3 +67,5 @@ Next, decide which plants and how many plants go in each square. [Planter]() mak
 | Radishes | Turnips |  |
 | Spinach |  |  |
 | Strawberries |
+  
+</center>
