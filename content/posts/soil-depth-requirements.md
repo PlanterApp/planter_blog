@@ -2,10 +2,10 @@
 author = "Peter Keefe"
 date = 2021-06-10T04:00:00Z
 title = "Soil Depth Requirements"
-weight = 5
+weight = nil
 [cover]
 alt = "Roots"
-caption = ""
+caption = "Photo by Marina Zasorina "
 image = "https://blog.gardenplanter.app/uploads/pexels-marina-zasorina-7717862.jpg"
 
 +++
