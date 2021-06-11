@@ -44,6 +44,17 @@ fields:
     label: Caption
   label: Cover
   description: The cover photo
+- name: weight
+  type: number
+  label: Weight
+  default: 5
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  description: Used to determine the order of the posts. Use a lower value such as
+    1 to pin the post.
 pages:
 - content/posts/soil-depth-requirements.md
 - content/posts/square_foot_gardening_intro.md
