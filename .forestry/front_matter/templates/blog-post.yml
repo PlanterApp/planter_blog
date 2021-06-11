@@ -45,4 +45,5 @@ fields:
   label: Cover
   description: The cover photo
 pages:
+- content/posts/soil-depth-requirements.md
 - content/posts/square_foot_gardening_intro.md
