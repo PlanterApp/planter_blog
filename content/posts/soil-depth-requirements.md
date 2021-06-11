@@ -2,6 +2,7 @@
 author = "Peter Keefe"
 date = 2021-06-10T04:00:00Z
 title = "Soil Depth Requirements"
+weight = 5
 [cover]
 alt = "Roots"
 caption = ""
