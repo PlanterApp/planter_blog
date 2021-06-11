@@ -2,7 +2,7 @@
   "title": "{{ .Title }}",
   "author": "{{ .Params.author }}",
   "image": {
-    "url" : "{{.Site.BaseURL }}{{.Params.cover.image }}",
+    "url" : "{{.Params.cover.image }}",
     "caption" : "{{ .Params.cover.caption }}",
     "alt" : "{{ .Params.cover.alt }}"
   },
