@@ -2,6 +2,7 @@
 author = "Peter Keefe"
 date = 2021-06-05T04:00:00Z
 title = "What is Square Foot Gardening?"
+weight = 1
 [cover]
 alt = "Square foot garden with wooden dividers."
 caption = "Square foot gardening in raised beds."
