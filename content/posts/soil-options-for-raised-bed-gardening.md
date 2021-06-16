@@ -1,7 +1,6 @@
 +++
 author = "Lexi Hovan"
 date = 2021-06-16T04:00:00Z
-draft = true
 title = "Soil Options for Raised Bed Gardening"
 weight = 5
 [cover]
