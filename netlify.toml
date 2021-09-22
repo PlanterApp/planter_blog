@@ -1,6 +1,6 @@
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
-  for = "/posts/*"
+  for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "https://gardenplanter.app"
     Access-Control-Allow-Methods = "GET"
