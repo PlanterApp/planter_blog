@@ -56,6 +56,7 @@ fields:
   description: "(optional) Used to determine the order of the posts. Use a lower value
     such as 1 to pin the post. Defaults to 5."
 pages:
+- content/posts/preparing-your-garden-for-winter.md
 - content/posts/soil-depth-requirements.md
 - content/posts/soil-options-for-raised-bed-gardening.md
 - content/posts/square_foot_gardening_intro.md
