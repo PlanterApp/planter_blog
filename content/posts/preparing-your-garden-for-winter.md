@@ -1,7 +1,6 @@
 +++
 author = "Lexi Hovan"
 date = 2021-11-04T04:00:00Z
-draft = true
 title = "Preparing Your Garden for Winter"
 weight = 5
 [cover]
