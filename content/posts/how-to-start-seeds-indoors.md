@@ -1,7 +1,6 @@
 +++
 author = "Lexi Hovan"
 date = 2022-03-01T05:00:00Z
-draft = true
 title = "How to Start Seeds Indoors"
 weight = 5
 [cover]
