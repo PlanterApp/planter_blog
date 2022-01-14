@@ -23,4 +23,4 @@ Another important task to take care of is sanitizing your garden tools before wi
 
 Fall is a great time to get your soil tested. Most regions have some type of Extension office that can help point you in the right direction. Testing your soil in the fall ensures you have enough time to develop and implement a soil nutrition plan (if necessary) for next year’s growing season.
 
-These simple measures can help ensure a productive garden for the upcoming season. Winter is also an excellent time to plan out next year’s garden. Apps such as [Planter](https://gardenplanter.app/) make garden planning easier than ever!
+These simple measures can help ensure a productive garden for the upcoming season. Winter is also an excellent time to plan out next year’s garden. Apps such as [Planter](https://planter.garden) make garden planning easier than ever!
