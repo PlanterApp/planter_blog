@@ -21,7 +21,7 @@ When you look at most fertilizer bottles, you will see a sequence of three numbe
 
 **Potassium:** Potassium, sometimes referred to as the compound ‘potash’ on labels, helps with overall plant growth. It helps to balance root growth and top growth. This equilibrium helps plants in many aspects, including cold/drought tolerance, and disease/pest resistance.
 
-For example, a 5-5-5 fertilizer contains 5% nitrogen, 5% phosphorus, and 5% potassium. It is crucial to select the proper fertilizer when planning your garden. Most vegetables need more phosphorus and potassium than nitrogen, but there are always exceptions. Plants like zucchini are heavy feeders, and if the soil does not contain the required nutrients, you could run into trouble. There are other plants that can thrive in very nutrient-devoid soil. If you do not want to deal with the burden of fertilizing, these plants might be your best bet. Each plant description on the Planter app contains feeding instructions, specific to the selected plant.
+For example, a 5-5-5 fertilizer contains 5% nitrogen, 5% phosphorus, and 5% potassium. It is crucial to select the proper fertilizer when planning your garden. Most vegetables need more phosphorus and potassium than nitrogen, but there are always exceptions. Plants like zucchini are heavy feeders, and if the soil does not contain the required nutrients, you could run into trouble. There are other plants that can thrive in very nutrient-devoid soil. If you do not want to deal with the burden of fertilizing, these plants might be your best bet. Each plant description on the [Planter](https://planter.garden) app contains feeding instructions, specific to the selected plant.
 
 **Sources:**
 
