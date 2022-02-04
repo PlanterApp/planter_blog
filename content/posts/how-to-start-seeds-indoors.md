@@ -4,7 +4,7 @@ date = 2022-03-01T05:00:00Z
 title = "How to Start Seeds Indoors"
 weight = 5
 [cover]
-alt = ""
+alt = "Seedlings"
 caption = ""
 image = "https://blog.planter.garden/uploads/thumbnail1.jpg"
 
