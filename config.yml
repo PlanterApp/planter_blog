@@ -1,4 +1,4 @@
-baseURL: "https://blog.gardenplanter.app/"
+baseURL: "https://blog.planter.garden/"
 languageCode: "en-us"
 title: "Planter"
 theme: "PaperMod"
@@ -9,10 +9,10 @@ menu:
       url: search/
       weight: 5
     - name: Documentation
-      url: "https://info.gardenplanter.app"
+      url: "https://info.planter.garden"
       weight: 10
     - name: Web App (coming soon)
-      url: "https://gardenplanter.app"
+      url: "https://planter.garden"
       weight: 10
 
 params:

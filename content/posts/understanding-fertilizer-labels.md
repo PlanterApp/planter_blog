@@ -6,12 +6,12 @@ weight = 5
 [cover]
 alt = ""
 caption = ""
-image = "https://blog.gardenplanter.app/uploads/peter-fertilizer-bag-img.jpg"
+image = "https://blog.planter.garden/uploads/peter-fertilizer-bag-img.jpg"
 
 +++
 Not everybody fertilizes their garden. However, consistent fertilization can make or break your crop yield. Different plants require different ratios of nutrients, hence the plethora of different fertilizer types available today.
 
-![](https://blog.gardenplanter.app/uploads/fertilizer-bag.png)
+![](https://blog.planter.garden/uploads/fertilizer-bag.png)
 
 When you look at most fertilizer bottles, you will see a sequence of three numbers separated by dashes; 5-5-5, for example. These numbers represent the ratios of three specific nutrients which are essential for growing most plants, expressed as percentages. In order, the numbers represent:
 
