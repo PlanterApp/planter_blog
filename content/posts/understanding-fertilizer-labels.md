@@ -6,7 +6,7 @@ weight = 5
 [cover]
 alt = ""
 caption = ""
-image = "https://blog.planter.garden/uploads/peter-fertilizer-bag-img.jpg"
+image = "https://blog.planter.garden/uploads/peter-fertilizer-bag-img.webp"
 
 +++
 Not everybody fertilizes their garden. However, consistent fertilization can make or break your crop yield. Different plants require different ratios of nutrients, hence the plethora of different fertilizer types available today.

@@ -6,7 +6,7 @@ weight = 5
 [cover]
 alt = ""
 caption = ""
-image = "https://blog.planter.garden/uploads/raised-beds-empty-image.jpg"
+image = "https://blog.planter.garden/uploads/raised-beds-empty-image.webp"
 
 +++
 Square foot gardening often takes place in raised beds. These can be pre-purchased or constructed by the gardener. While constructing the beds is fairly straightforward, figuring out what exactly to put _in_ the beds can be a little more complicated. One of the advantages of raised bed gardening is that you are not limited by the soil on your property, which can sometimes be less than ideal for certain crops. While you can buy pre-mixed bags of soil that are specifically made for raised bed gardening, this can get very pricey if you have a lot of ground to cover. There are more efficient ways to fill in your raised beds, either by manually mixing several different soil components, or by a method deemed ‘lasagna gardening.’

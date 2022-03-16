@@ -6,7 +6,7 @@ weight = 5
 [cover]
 alt = ""
 caption = ""
-image = "https://blog.planter.garden/uploads/main-photo-winter-garden.jpg"
+image = "https://blog.planter.garden/uploads/main-photo-winter-garden.webp"
 
 +++
 Many people think that after a fall harvest, your garden is to be left alone until planting time next spring. The truth of the matter is that there are a handful of methods to ‘winterize’ your garden in preparation for a successful growing season next year. While mostly optional, these practices can help increase yields and prevent disease in the next growing season.

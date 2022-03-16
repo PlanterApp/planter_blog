@@ -6,7 +6,7 @@ weight = 1
 [cover]
 alt = "Seedlings"
 caption = ""
-image = "https://blog.planter.garden/uploads/thumbnail1.jpg"
+image = "https://blog.planter.garden/uploads/thumbnail1.webp"
 
 +++
 Many plants must be started indoors, especially in regions with short growing seasons. Vegetables like peppers are almost always started by seed indoors because they need warm soil to germinate. Other plants which are often started indoors include broccoli, cabbage, celery, eggplant, and tomatoes. Vegetables such as beans do not take well to transplanting and should be sown directly outdoors at planting time.

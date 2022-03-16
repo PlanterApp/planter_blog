@@ -6,7 +6,7 @@ weight = 5
 [cover]
 alt = ""
 caption = ""
-image = "https://blog.planter.garden/uploads/soil-in-hands-image.jpg"
+image = "https://blog.planter.garden/uploads/soil-in-hands-image.webp"
 
 +++
 When planning a garden, choosing which vegetable varieties you’d like to plant is only half the battle. For your plants to grow successfully, you should always check your soil health before planting. If your soil is too rocky, too acidic, or devoid of nutrients, you are going to have trouble getting much of anything to grow in your garden. It is best to check up on your soil health long before planting time, so that if amendment is necessary, you will have adequate time to do so.
