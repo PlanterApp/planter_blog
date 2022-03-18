@@ -13,7 +13,7 @@ menu:
     - name: Documentation
       url: "https://info.planter.garden"
       weight: 10
-    - name: Web App (coming soon)
+    - name: Get Planter
       url: "https://planter.garden"
       weight: 10
 
