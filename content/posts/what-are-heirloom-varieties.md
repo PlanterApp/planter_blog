@@ -1,7 +1,6 @@
 +++
 author = "Erin Thomson"
 date = 2022-03-29T04:00:00Z
-draft = true
 title = "What Are Heirloom Varieties?"
 weight = 1
 [cover]
