@@ -2,7 +2,7 @@
 author = "Lexi Hovan"
 date = 2022-02-01T05:00:00Z
 title = "How to Start Seeds Indoors"
-weight = 1
+weight = 5
 [cover]
 alt = "Seedlings"
 caption = ""
