@@ -17,7 +17,7 @@ sections:
   create: all
   match: "*"
 upload_dir: content/uploads
-public_path: https://blog.planter.garden/uploads
+public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
