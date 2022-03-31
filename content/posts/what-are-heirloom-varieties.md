@@ -6,7 +6,7 @@ weight = 5
 [cover]
 alt = "Tomatoes in a variety of colors"
 caption = "Colorful heirloom tomatoes"
-image = "https://blog.planter.garden/uploads/heirloom-tomatoes-colorful.jpg"
+image = "/uploads/heirloom-tomatoes-colorful.jpg"
 
 +++
 As a gardener, you might have heard of heirloom plant varieties. But what are they exactly? Interestingly, there isn’t a consistent definition for what qualifies as an heirloom variety. Some groups define heirlooms as varieties that have existed for over 50 years, while some set the bar at 100 years. Others define them as varieties that existed prior to World War II. While there isn’t a consistent standard, what is true of all heirloom varieties is their seeds have been passed down for many generations and they will grow “true to type”. True to type means that the seeds produce plants that have the same characteristics as the parent plant.
@@ -27,7 +27,7 @@ While there are many good reasons to grow heirlooms, hybrids have their merits t
 
 ### Where to Get Heirloom Seeds
 
-![](https://blog.planter.garden/uploads/planting-bean-seeds2.jpg)
+![](/uploads/planting-bean-seeds2.jpg)
 
 There are several non-profit seed exchange organizations committed to preserving heirloom seeds. Members can buy and swap seeds, often at a discount. Review shipping requirements if purchasing seeds from outside your local area.
 

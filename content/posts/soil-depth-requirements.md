@@ -5,7 +5,7 @@ title = "Soil Depth Requirements"
 [cover]
 alt = "Roots"
 caption = "Photo by Marina Zasorina from Pexels"
-image = "https://blog.planter.garden/uploads/pexels-marina-zasorina-7717862.webp"
+image = "/uploads/pexels-marina-zasorina-7717862.webp"
 
 +++
 When designing and planting raised garden beds, it's important to consider how deep the roots grow. If your raised garden bed is on top of regular soil, this shouldn't be an issue. However, if the bed is on top of concrete or inadequate soil, make sure the raised bed is deep enough for the plants you'd like to grow.
