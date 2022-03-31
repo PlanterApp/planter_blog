@@ -21,7 +21,8 @@
                         {{ printf "%s %s" (($cover.Resize (printf "%sx" $size)).RelPermalink) (printf "%sw," $size) -}}
                         {{ end }}
                     {{- end -}}{{$cover.RelPermalink }} {{printf "%dw" ($cover.Width)}}"
-             src="{{ $cover.RelPermalink }}" alt="{{ $alt }}" >
+            sizes="(min-width: 768px) 720px, 100vw" src="{{ $cover.RelPermalink }}" alt="{{ $alt }}"
+            width="{{ $cover.Width }}">
         {{- else }}{{/* Unprocessable image or responsive images disabled */}}
         <img loading="lazy" src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" alt="{{ $alt }}">
         {{- end }}
