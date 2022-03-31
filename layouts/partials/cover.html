@@ -5,7 +5,7 @@
     {{- $responsiveImages := (.Params.cover.responsiveImages | default site.Params.cover.responsiveImages) | default true }}
     {{- $addLink := (and site.Params.cover.linkFullImages (not $.IsHome)) }}
     {{- $prefix := print $.cxt.Site.BaseURL "uploads/" }}
-    {{- $cover := ($.cxt.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix $prefix .Params.cover.image ) }}
+    {{- $cover := ($.cxt.Site.GetPage "section" "NOTuploads").Resources.GetMatch (strings.TrimPrefix $prefix .Params.cover.image ) }}
     {{- if $cover -}}{{/* i.e it is present in page bundle */}}
         {{- if $addLink }}<a href="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" target="_blank"
             rel="noopener noreferrer">{{ end -}}
