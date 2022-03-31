@@ -16,7 +16,7 @@
         {{- end -}}
         {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
         {{- if (and (in $processableFormats $cover.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
-        <img loading="lazy" srcset="{{- range $size := $sizes -}}
+        <img srcset="{{- range $size := $sizes -}}
                         {{- if (ge $cover.Width $size) -}}
                         {{ printf "%s %s" (($cover.Resize (printf "%sx" $size)).RelPermalink) (printf "%sw," $size) -}}
                         {{ end }}
