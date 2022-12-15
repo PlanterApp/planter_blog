@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72" height="72" version="1.1" viewBox="0 0 67.5 67.5" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(0 -31.2)">
+  <g>
+   <g transform="translate(-16.9 -16.9)">
+    <circle cx="50.6" cy="81.9" r="33.8" fill="#43a047"/>
+    <g transform="matrix(.534 0 0 .534 -206 -15.8)" fill="#fff" fill-rule="evenodd">
+     <path d="m517 185s-28-1.93-28.1 20.6c-0.0147 2.81 2.8 5.62 5.61 5.64 24.4 0.151 22.5-26.3 22.5-26.3z"/>
+     <path d="m444 185s28-1.93 28.1 20.6c0.0147 2.81-2.8 5.62-5.61 5.64-24.4 0.151-22.5-26.3-22.5-26.3z"/>
+     <path d="m481 140s-33.8 26.2-3.8 51.5c2.47 2.08 5.14 1.99 7.49 9.9e-4 30-25.3-3.69-51.5-3.69-51.5z"/>
+     <path d="m481 140s-33.8 26.2-3.8 51.5c2.47 2.08 5.14 1.99 7.49 9.9e-4 30-25.3-3.69-51.5-3.69-51.5z"/>
+    </g>
+    <rect x="49.1" y="89.4" width="3" height="15.5" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

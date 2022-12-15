@@ -1,0 +1,21 @@
+---
+label: Author
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: name
+  description: Name of the author.
+- type: field_group
+  name: cover
+  label: cover
+  fields:
+  - type: text
+    name: alt
+    label: alt
+  - type: text
+    name: caption
+    label: caption
+  - type: file
+    name: image
+    label: image

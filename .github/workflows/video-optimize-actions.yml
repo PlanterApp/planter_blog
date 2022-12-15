@@ -1,0 +1,37 @@
+name: Optimize Videos on Push to Main with Commit
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/uploads/videos/**.mp4'
+jobs:
+  build:
+    name: optimize-videos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set directory
+        run: |
+          echo "file_dir=content/uploads/videos" >> $GITHUB_ENV
+      - name: Checkout Repo
+        uses: actions/checkout@main
+      - uses: FedericoCarboni/setup-ffmpeg@v1
+        id: setup-ffmpeg
+      - name: Convert videos
+        run: >
+          for i in ${{ env.file_dir }}/*.mp4; do
+            if [[ ! -f ${i%.*}.webp ]]
+            then
+              echo "Generating optimized webp: ${i%.*}.webp"
+              ffmpeg -i "$i" -vf "fps=15,scale=720:-1" -q:v 30 -compression_level 6 -loop 0 "${i%.*}.webp"
+              rm $i
+            else
+              echo "${{ env.file_dir }}/${i%.*}.webp already exists"
+            fi
+          done;
+          exit 0;
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: Optimizing videos
+          committer_name: Peter
+          committer_email: 16809252+percula@users.noreply.github.com

@@ -1,0 +1,9 @@
+public
+themes/*
+
+# Local Netlify folder
+.netlify
+/themes/PaperMod/
+
+node_modules
+resources

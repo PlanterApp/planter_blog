@@ -1,0 +1,17 @@
+.post-content figure > figcaption {
+    color: var(--secondary);
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.entry-cover figcaption {
+    color: var(--secondary);
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    text-align: center;
+}

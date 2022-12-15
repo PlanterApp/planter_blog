@@ -1,0 +1,40 @@
+name: Compress Images on Push to Main with Commit
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/uploads/**.jpg'
+      - 'content/uploads/**.jpeg'
+      - 'content/uploads/**.png'
+      - 'content/uploads/**.webp'
+      - 'content/test/**.jpg'
+      - 'content/test/**.jpeg'
+      - 'content/test/**.png'
+      - 'content/test/**.webp'
+jobs:
+  build:
+    name: optimize-images
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@main
+      - name: Resize Images
+        id: resize-images
+        uses: gonzalonaveira/gh-image-resizing@master
+        with:
+          IMAGES_MAX_WIDTH: "1080"
+          IMAGES_QUALITY: "80"
+          IMAGES_FORMATS: "jpg, jpeg, png, webp" 
+          IMAGES_DIRECTORIES: "content/uploads"
+      - name: Commit changes direct to main
+        run: |
+          echo "Committing compressed images"
+          git config --global user.email "16809252+percula@users.noreply.github.com"
+          git config --global user.name "Peter"
+          git stash clear
+          git stash
+          git pull
+          git stash pop
+          git diff-index --quiet HEAD || git commit -am "Compressing images"
+          git push

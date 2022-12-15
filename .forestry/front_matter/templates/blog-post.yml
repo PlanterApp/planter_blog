@@ -1,0 +1,131 @@
+---
+label: Blog post
+hide_body: false
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Title of the page or post
+- name: date
+  type: datetime
+  label: Date
+  description: Date that the page or post was created
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+- name: authors
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Authors
+  description: Use this field when multiple authors work on the same post.
+- name: cover
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: alt
+    type: text
+    config:
+      required: false
+    label: Alt Text
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
+  label: Cover
+  description: The cover photo
+- name: override_position
+  type: boolean
+  label: Override Position
+  hidden: false
+  description: Override the position of this post?
+- name: weight
+  type: number
+  label: Weight
+  default: 5
+  required: true
+  config:
+    min: 1
+    max: 5
+    step: 1
+    required: true
+  description: Used to determine the order of the posts. Use a lower value such as
+    1 to pin the post. Defaults to 5.
+  showOnly:
+    field: override_position
+    value: true
+- name: plants
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Related Plants
+  description: Plant names <strong>must match</strong> the exact name in Planter (including
+    whether it's plural or not). Name must be <strong>lowercase.</strong>
+pages:
+- content/posts/16-of-your-garden-s-local-pest-hunters.md
+- content/posts/2022-gardeners-gift-guide.md
+- content/posts/a-beginner-s-guide-to-canning.md
+- content/posts/apartment-friendly-gardening.md
+- content/posts/april-showers-bring...rainbow-veggies.md
+- content/posts/attracting-pollinators-to-the-garden.md
+- content/posts/cold-hardy-crops.md
+- content/posts/coloring-your-clothes-and-food-with-ingredients-straight-from-your-garden.md
+- content/posts/companion-planting-diversity-is-key.md
+- content/posts/compost-add-life-to-your-garden.md
+- content/posts/don-t-forget-your-fall-garden.md
+- content/posts/fall-garden-chores.md
+- content/posts/fertilizer-beyond-the-bag.md
+- content/posts/garden-preparation-for-a-worry-free-vacation.md
+- content/posts/garden-weeds-stem-the-spread.md
+- content/posts/gardening-for-newbies-the-9-easiest-plants-for-your-garden.md
+- content/posts/grow-abundant-herbs.md
+- content/posts/grow-awesome-legumes.md
+- content/posts/grow-bountiful-berries.md
+- content/posts/grow-great-root-vegetables.md
+- content/posts/grow-super-squash.md
+- content/posts/growing-a-salsa-garden.md
+- content/posts/hardening-off-and-transplanting.md
+- content/posts/harvesting-how-to-and-when.md
+- content/posts/how-to-start-seeds-indoors.md
+- content/posts/is-this-my-plant-a-guide-to-identifying-what-s-a-weed-and-what-s-a-seedling.md
+- content/posts/know-where-you-grow-hardiness-zones-and-frost-dates.md
+- content/posts/mid-season-planting.md
+- content/posts/mulching-a-must-for-your-garden.md
+- content/posts/no-till-gardening.md
+- content/posts/plant-bolting-a-seedy-situation.md
+- content/posts/postseason-gardening-inspiration.md
+- content/posts/preparing-your-garden-for-winter.md
+- content/posts/season-extension.md
+- content/posts/soil-depth-requirements.md
+- content/posts/soil-options-for-raised-bed-gardening.md
+- content/posts/square_foot_gardening_intro.md
+- content/posts/succession-planting-for-nonstop-harvests.md
+- content/posts/the-importance-of-soil-health.md
+- content/posts/the-ups-and-downs-of-bottom-watering.md
+- content/posts/tomato-trellising-techniques.md
+- content/posts/understanding-fertilizer-labels.md
+- content/posts/use-up-the-harvest.md
+- content/posts/watering-more-than-a-garden-chore.md
+- content/posts/what-are-heirloom-varieties.md
+- content/posts/what-s-wrong-with-my-plant.md
+- content/posts/which-part-of-the-plant-are-you-eating.md

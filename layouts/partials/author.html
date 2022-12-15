@@ -1,0 +1,12 @@
+{{- if or .Params.author site.Params.author }}
+{{- $author := (.Params.author | default site.Params.author) }}
+{{- $author_type := (printf "%T" $author) }}
+{{- if (or (eq $author_type "[]string") (eq $author_type "[]interface {}")) }}
+{{- (delimit $author ", " ) }}
+{{- else }}
+{{ range $elem_index, $elem_val := (.GetTerms "author") }}
+    {{- if gt $elem_index 0 }}, {{ end -}}
+        <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{- end -}}
+{{- end }}
+{{- end -}}
