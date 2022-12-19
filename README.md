@@ -1,6 +1,5 @@
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/k953.svg)](https://betteruptime.com/?utm_source=status_badge)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6d53731b-3f8e-47d4-901c-d9daddb3aace/deploy-status)](https://app.netlify.com/sites/planter/deploys)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZcfcvaS5-Jbmzug-r8zp6w?style=social)](https://youtube.com/@planterapp)
 ![GitHub repo size](https://img.shields.io/github/repo-size/planterapp/planter_blog)
 
 # Planter's blog, aka the "Growing Guide"
