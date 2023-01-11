@@ -45,8 +45,6 @@ Leafy greens such as lettuce, spinach, and kale can also be grown, but they'll r
 
 For tropical climates, many of the same veggies can be grown, but it is essential to choose varieties that are more tolerant to high heat and humidity. It's also important to pay attention to the soil quality, make sure it's well-draining, and amend it with organic matter if necessary.
 
-When in doubt, it's best to check with a local resource to determine what works best for your specific climate. [Planter](https://planter.garden) is a terrific app, but cannot account for the intricacies of every micro-climate. Your dirt-covered and sunburned garden-obsessed neighbor will know exactly what works in your area 😉.
-
 ### What NOT to grow
 
 Now, let's talk about the veggies you should avoid. Cool-weather crops like broccoli, cauliflower, and cabbage will have a tough time in tropical climates. You can see whether a plant is a warm or cool weather crop in Planter's [quick info section](https://info.planter.garden/plant-information/how-to-grow/#quick-infoo). 
@@ -84,6 +82,16 @@ Some crops are so well-suited to these climates that you can grow them year roun
 ![Two cute little ladybugs on a seedling.](/uploads/ladybug.jpeg "Not all bugs are bad! Ladybugs are natural predators of aphids.")
 
 Another thing to keep in mind is pest and disease control. In sub-tropical and tropical climates, pests and diseases can be an even bigger hassle. To control pests, you can use natural methods such as [companion planting](https://blog.planter.garden/posts/companion-planting-diversity-is-key/) and using [beneficial insects](https://blog.planter.garden/posts/16-of-your-garden-s-local-pest-hunters/). Diseases can be controlled through proper watering, good air circulation, and avoiding overcrowding.
+
+### Resources
+
+When in doubt, it's best to check with a local resource to determine what works best for your specific climate. [Planter](https://planter.garden) is a terrific app, but cannot account for the intricacies of every micro-climate. Your dirt-covered and sunburned garden-obsessed neighbor will know exactly what works in your area 😉.
+
+Here are few great resources to learn more about subtropical and tropical gardening in your region:
+
+* University of Florida - If you live in Florida, look no further than the [UF gardening calendar]()
+* [University of California | The California Garden Web](https://cagardenweb.ucanr.edu/Vegetables/) - The perfect resource for those in California
+* [Self Sufficient Me](https://selfsufficientme.com/) - Mark from Self Sufficient Me lives in subtropical Australia. His down-to-earth style and frequent corny jokes make him one of our favorite gardeners on [Youtube](https://www.youtube.com/@Selfsufficientme).
 
 ### Conclusion
 
