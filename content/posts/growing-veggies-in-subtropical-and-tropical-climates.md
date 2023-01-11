@@ -38,18 +38,18 @@ When it comes to gardening in subtropical and tropical climates, it's all about 
 * Tomatoes - choose heat-tolerant varieties or cherry tomatoes, which are hardier than bigger varieties
 * Watermelon
 
-These veggies thrive in warm weather and can give you a constant supply of fresh produce.   
-  
+These veggies thrive in warm weather and can give you a constant supply of fresh produce. 
+
 Leafy greens such as lettuce, spinach, and kale can also be grown, but they'll require a bit more care as they are more susceptible to bolting and disease in the heat. Instead of these, consider growing mustard greens, Asian greens, or bok choy.
 
 For tropical climates, many of the same veggies can be grown, but it is essential to choose varieties that are more tolerant to high heat and humidity. It's also important to pay attention to the soil quality, make sure it's well-draining, and amend it with organic matter if necessary.
 
-> When in doubt, it's best to check with a local resource to determine what works best for your specific climate.
+When in doubt, it's best to check with a local resource to determine what works best for your specific climate. [Planter](https://planter.garden) is a terrific app, but cannot account for the intricacies of every micro-climate. Your dirt-covered and sunburned garden-obsessed neighbor will know exactly what works in your area 😉.
 
 ### What NOT to Grow
 
-Now, let's talk about the veggies you should avoid. Cool-weather crops like broccoli, cauliflower, and cabbage will have a tough time in tropical climates. You can see whether a plant is a warm or cool weather crop in Planter's [Quick Info section](https://info.planter.garden/plant-information/how-to-grow/#quick-info).   
-  
+Now, let's talk about the veggies you should avoid. Cool-weather crops like broccoli, cauliflower, and cabbage will have a tough time in tropical climates. You can see whether a plant is a warm or cool weather crop in Planter's [Quick Info section](https://info.planter.garden/plant-information/how-to-grow/#quick-info). 
+
 Root veggies like carrots, beets, and radishes might also struggle because the soil can get too warm to successfully germinate the seeds.
 
 ### Pests and Diseases
