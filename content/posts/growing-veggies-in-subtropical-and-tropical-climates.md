@@ -39,7 +39,7 @@ When it comes to gardening in subtropical and tropical climates, it's all about 
 
 ![Cherry tomatoes in a garden](/uploads/pexels-markus-spiske-965740.jpg "Cherry tomatoes are hardier and more heat-tolerant than larger varieties.")
 
-These veggies thrive in warm weather and can give you a constant supply of fresh produce. 
+These veggies thrive in warm weather and can give you a constant supply of fresh produce.
 
 Leafy greens such as lettuce, spinach, and kale can also be grown, but they'll require a bit more care as they are more susceptible to bolting and disease in the heat. Instead of these, consider growing mustard greens, Asian greens, or [bok choy](https://planter.garden/plants/bok-choy).
 
@@ -47,7 +47,7 @@ For tropical climates, many of the same veggies can be grown, but it is essentia
 
 ### What NOT to grow
 
-Now, let's talk about the veggies you should avoid. Cool-weather crops like broccoli, cauliflower, and cabbage will have a tough time in tropical climates. You can see whether a plant is a warm or cool weather crop in Planter's [quick info section](https://info.planter.garden/plant-information/how-to-grow/#quick-infoo). 
+Now, let's talk about the veggies you should avoid. Cool-weather crops like broccoli, cauliflower, and cabbage will have a tough time in tropical climates, but can be grown during the cool season in subtropical regions. You can see whether a plant is a warm or cool weather crop in Planter's [quick info section](https://info.planter.garden/plant-information/how-to-grow/#quick-infoo).
 
 ![Lettuce bolting](/uploads/starr_081031-0394_lactuca_sativa.jpg "Lettuce is prone to bolting in warm weather. Consider growing this during the winter in subtropical climates.")
 
@@ -63,7 +63,7 @@ You can start seeds this way anytime, but many people choose to start seeds in t
 
 #### Cool season crops
 
-Carrots, brassicas, beets, sugar snap peas, and other cool season crops need cool weather to germinate and avoid bolting. As the name suggests, these plants should be started during the cool season, but once the rainfall has stabilized and the humidity receeds. 
+Carrots, brassicas, beets, sugar snap peas, and other cool season crops need cool weather to germinate and avoid bolting. As the name suggests, these plants should be started during the cool season, but once the rainfall has stabilized and the humidity receeds.
 
 #### Warm season crops
 
@@ -73,7 +73,7 @@ Once the weather warms up, it's time to start all those warm season crops. Corn,
 
 In-between the winter and summer is the ideal time to grow a bunch of picky veggies, including cucumber, beans, strawberries, large variety tomatoes, and zucchini. Winter is a bit too cold for them and summer is too humid, rainy and pest-ridden.
 
-####  Year round crops
+#### Year round crops
 
 Some crops are so well-suited to these climates that you can grow them year round! These include sweet potatoes, pumpkins, bunching onions, many herbs, and radishes. You can over-winter some plants including peppers and eggplants. Simply cut them back once the temperature drops and they'll come back next summer with a fresh round of fruit!
 
