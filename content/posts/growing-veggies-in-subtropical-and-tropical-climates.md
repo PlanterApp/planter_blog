@@ -2,7 +2,6 @@
 author = "Peter Keefe"
 authors = []
 date = 2023-01-11T05:00:00Z
-draft = true
 override_position = false
 plants = []
 title = "Growing Veggies in Subtropical and Tropical Climates"
@@ -23,24 +22,26 @@ First, let's define the key differences between subtropical and tropical climate
 
 ### What to Grow
 
-When it comes to gardening in subtropical and tropical climates, it's all about choosing plants that are well-suited to the weather. Some popular choices for subtropical climates include:
+When it comes to gardening in subtropical and tropical climates, it's all about choosing plants that are well-suited to the weather. Some popular choices include:
 
-* Beans
-* Cucumbers
+* [Beans](https://planter.garden/plants/beans)
+* [Cucumbers](https://planter.garden/plants/cucumbers)
 * Cowpea (aka Black Eyed Peas)
-* Eggplants
-* Okra
-* Peppers
-* Pumpkin
-* Squash
-* Sweet corn
-* Sweet potato - grow during the wet season
-* Tomatoes - choose heat-tolerant varieties or cherry tomatoes, which are hardier than bigger varieties
-* Watermelon
+* [Eggplant](https://planter.garden/plants/eggplant)
+* [Okra](https://planter.garden/plants/okra)
+* [Peppers](https://planter.garden/plants/peppers)
+* [Pumpkin](https://planter.garden/plants/pumpkin)
+* [Squash](https://planter.garden/plants/squash)
+* [Sweet corn](https://planter.garden/plants/corn)
+* [Sweet potato](https://planter.garden/plants/sweet-potatoes) - these grow really well during the wet season 🌧
+* [Tomatoes](https://planter.garden/plants/tomatoes) - choose heat-tolerant varieties or cherry tomatoes, which are hardier than bigger varieties
+* [Watermelon](https://planter.garden/plants/watermelon)
+
+![Cherry tomatoes in a garden](/uploads/pexels-markus-spiske-965740.jpg "Cherry tomatoes are hardier and more heat-tolerant than larger varieties.")
 
 These veggies thrive in warm weather and can give you a constant supply of fresh produce. 
 
-Leafy greens such as lettuce, spinach, and kale can also be grown, but they'll require a bit more care as they are more susceptible to bolting and disease in the heat. Instead of these, consider growing mustard greens, Asian greens, or bok choy.
+Leafy greens such as lettuce, spinach, and kale can also be grown, but they'll require a bit more care as they are more susceptible to bolting and disease in the heat. Instead of these, consider growing mustard greens, Asian greens, or [bok choy](https://planter.garden/plants/bok-choy).
 
 For tropical climates, many of the same veggies can be grown, but it is essential to choose varieties that are more tolerant to high heat and humidity. It's also important to pay attention to the soil quality, make sure it's well-draining, and amend it with organic matter if necessary.
 
@@ -48,14 +49,18 @@ When in doubt, it's best to check with a local resource to determine what works 
 
 ### What NOT to Grow
 
-Now, let's talk about the veggies you should avoid. Cool-weather crops like broccoli, cauliflower, and cabbage will have a tough time in tropical climates. You can see whether a plant is a warm or cool weather crop in Planter's [Quick Info section](https://info.planter.garden/plant-information/how-to-grow/#quick-info). 
+Now, let's talk about the veggies you should avoid. Cool-weather crops like broccoli, cauliflower, and cabbage will have a tough time in tropical climates. You can see whether a plant is a warm or cool weather crop in Planter's [quick info section](https://info.planter.garden/plant-information/how-to-grow/#quick-infoo). 
+
+![Lettuce bolting](/uploads/starr_081031-0394_lactuca_sativa.jpg "Lettuce is prone to bolting in warm weather. Consider growing this during the winter in subtropical climates.")
 
 Root veggies like carrots, beets, and radishes might also struggle because the soil can get too warm to successfully germinate the seeds.
 
 ### Pests and Diseases
 
+![Two cute little ladybugs on a seedling.](/uploads/ladybug.jpeg "Not all bugs are bad! Ladybugs are natural predators of aphids.")
+
 Another thing to keep in mind is pest and disease control. In sub-tropical and tropical climates, pests and diseases can be an even bigger hassle. To control pests, you can use natural methods such as [companion planting](https://blog.planter.garden/posts/companion-planting-diversity-is-key/) and using [beneficial insects](https://blog.planter.garden/posts/16-of-your-garden-s-local-pest-hunters/). Diseases can be controlled through proper watering, good air circulation, and avoiding overcrowding.
 
 ### Conclusion
 
-Gardening in sub-tropical and tropical climates presents some unique challenges, but with the right plants and care, you can enjoy a delicious and bountiful harvest! By understanding your climate, choosing vegetables that are well-suited to your specific region, and controlling pests and diseases, you can have a thriving vegetable garden all year round. Happy gardening!
+Gardening in subtropical and tropical climates presents some unique challenges, but with the right plants and care, you can enjoy a delicious and bountiful harvest! By understanding your climate, choosing vegetables that are well-suited to your specific region, and controlling pests and diseases, you can have a thriving vegetable garden all year round. Happy gardening!
