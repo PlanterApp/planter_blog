@@ -3,7 +3,7 @@ author = "Peter Keefe"
 authors = []
 date = 2023-01-11T05:00:00Z
 override_position = false
-plants = []
+plants = ["watermelon", "tomatoes", "sweet potatoes", "corn", "squash", "pumpkin", "peppers", "okra", "eggplant", "cucumbers", "beans"]
 title = "Growing Veggies in Subtropical and Tropical Climates"
 weight = 5
 [cover]
