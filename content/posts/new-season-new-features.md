@@ -28,7 +28,7 @@ One of the biggest changes we are making is the addition of the "why" behind com
 
 We are also completely redesigning the plant details page, with the primary goal of making it better on larger screens such as tablets and desktops. It also includes your most recently used varieties so they are easily accessible. And any notes you've created will appear at the top of the plant details page. Both varieties and notes were previously hidden in separate tabs, so now they're much more visible. This redesign is slowly being rolled out, since it's such a big change. It's currently live on the [website](https://planter.garden/plants/onions) and the [Android beta](https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner), with iOS and the rest of Android coming soon.
 
-![](/uploads/planter-garden_plants_tomatoes-ipad-air-10.png)
+![Screenshot of the varieties section on the new plant details page.](/uploads/planter-garden_plants_tomatoes-ipad-air-10.png "Your most-recent varieties and all favorited varieties will now appear on the plant details page.")
 
 There are many more features that we are working on that I can't share just yet. When deciding what feature to add, we typically start with the most commonly requested features in the [Feature Requests tool](https://planter.garden/requests). And now with my full attention on the app, I can confidently say that these features will roll out at a much faster pace than ever before! As always, we welcome feedback and suggestions from you as we continue to develop and improve the app, so keep suggesting new features and upvoting existing feature requests!
 
