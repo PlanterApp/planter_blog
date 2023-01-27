@@ -32,7 +32,7 @@ We are also completely redesigning the plant details page, with the primary goal
 
 There are many more features that we are working on that I can't share just yet. When deciding what feature to add, we typically start with the most commonly requested features in the [Feature Requests tool](https://planter.garden/requests). And now with my full attention on the app, I can confidently say that these features will roll out at a much faster pace than ever before! As always, we welcome feedback and suggestions from you as we continue to develop and improve the app, so keep suggesting new features and upvoting existing feature requests!
 
-Finally, we'd like to thank each and every gardener who has downloaded and tried out Planter. Your support, whether it be subscribing to the app or leaving a 5⭐ review, has made all the difference, and without it none of this would have been possible (and I'd still be working for a boring real estate company 😉). So, from the bottom of my heart, THANK YOU!
+Finally, we'd like to thank each and every gardener who has downloaded and tried out Planter. Your support, whether it be subscribing to the app or leaving a 5⭐ review, has made all the difference, and without it none of this would have been possible (and I'd still be working for a boring real estate company 😉). So, from the bottom of our hearts, THANK YOU!
 
 Cheers and happy gardening 🌱,
 
