@@ -2,14 +2,13 @@
 author = "Peter Keefe"
 authors = []
 date = 2023-01-27T05:00:00Z
-draft = true
 override_position = false
 plants = []
 title = "New Season, New Features!"
 weight = 5
 [cover]
 alt = "Crocus poking through the snow"
-caption = ""
+caption = "Like this crocus, we're excited for spring!"
 image = "/uploads/spring-awakening-g847d3d888_1920.jpg"
 
 +++
@@ -21,15 +20,9 @@ Starting this month I have transitioned to working on Planter full-time! When I 
 
 So, enough talking, let's get to the reason you're reading this; What do we have planned?
 
-![Screenshot of companion and combative planting info in Planter, with "Okay but why?".](/uploads/but-why.png "Companion and combative planting info is great, but have you ever wondered why?")
-
 One of the biggest changes we are making is the addition of the "why" behind companion planting. Companion planting information varies widely and sometimes sources contradict each other, so we're delving deep into the research to make sure Planter's companion planting info is both correct and explanatory. Gardeners will soon be able to understand exactly why certain plants are companions or combative, giving them even more control over their veggie gardens. You can expect this feature early this spring!
 
-![The new plant details page.](/uploads/planter-garden_plants_tomatoes-ipad-air-15.png "The new plant details page on iPad, featuring multiple images and notes front-and-center.")
-
 We are also completely redesigning the plant details page, with the primary goal of making it better on larger screens such as tablets and desktops. It also includes your most recently used varieties so they are easily accessible. And any notes you've created will appear at the top of the plant details page. Both varieties and notes were previously hidden in separate tabs, so now they're much more visible. This redesign is slowly being rolled out, since it's such a big change. It's currently live on the [website](https://planter.garden/plants/onions) and the [Android beta](https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner), with iOS and the rest of Android coming soon.
-
-![Varieties on the new plant details page.](/uploads/planter-garden_plants_tomatoes-ipad-air-10.png "Your most-recent varieties and all favorited varieties will now appear right on the plant details page!")
 
 There are many more features that we are working on that I can't share just yet. When deciding what feature to add, we typically start with the most commonly requested features in the [Feature Requests tool](https://planter.garden/requests). And now with my full attention on the app, I can confidently say that these features will roll out at a much faster pace than ever before! As always, we welcome feedback and suggestions from you as we continue to develop and improve the app, so keep suggesting new features and upvoting existing feature requests!
 
