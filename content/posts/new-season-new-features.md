@@ -20,9 +20,13 @@ Starting this month I have transitioned to working on Planter full-time! When I 
 
 So, enough talking, let's get to the reason you're reading this; What do we have planned?
 
+### Expanded Companion Planting Info
+
 ![Companion planting screenshot with "Okay...but why?" text.](/uploads/but-why.png "Companion planting information is great, but why are certain plants compatible when others are combative?")
 
 One of the biggest changes we are making is the addition of the "why" behind companion planting. Companion planting information varies widely and sometimes sources contradict each other, so we're delving deep into the research to make sure Planter's companion planting info is both correct and explanatory. Gardeners will soon be able to understand exactly why certain plants are companions or combative, giving them even more control over their veggie gardens. You can expect this feature early this spring!
+
+### Redesigned Plant Details Page
 
 ![Screenshot of the new plant details page.](/uploads/planter-garden_plants_tomatoes-ipad-air-15.png "The new plant details page on an iPad, featuring multiple photos and notes, front-and-center.")
 
@@ -30,9 +34,11 @@ We are also completely redesigning the plant details page, with the primary goal
 
 ![Screenshot of the varieties section on the new plant details page.](/uploads/planter-garden_plants_tomatoes-ipad-air-10.png "Your most-recent varieties and all favorited varieties will now appear on the plant details page.")
 
+### And more!
+
 There are many more features that we are working on that I can't share just yet. When deciding what feature to add, we typically start with the most commonly requested features in the [Feature Requests tool](https://planter.garden/requests). And now with my full attention on the app, I can confidently say that these features will roll out at a much faster pace than ever before! As always, we welcome feedback and suggestions from you as we continue to develop and improve the app, so keep suggesting new features and upvoting existing feature requests!
 
-Finally, we'd like to thank each and every gardener who has downloaded and tried out Planter. Your support, whether it be subscribing to the app or leaving a 5⭐ review, has made all the difference, and without it none of this would have been possible (and I'd still be working for a boring real estate company 😉). So, from the bottom of our hearts, THANK YOU!
+Finally, we'd like to thank each and every gardener who has downloaded and tried out Planter. Your support, whether it be subscribing to the app or leaving a 5⭐ review, has made all the difference, and without it none of this would have been possible (and I'd still be working for a boring real estate company 😉). So, from the bottom of our hearts, **THANK YOU**!
 
 Cheers and happy gardening 🌱,
 
