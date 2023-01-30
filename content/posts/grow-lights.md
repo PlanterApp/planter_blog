@@ -4,7 +4,7 @@ authors = []
 date = 2023-01-30T05:00:00Z
 override_position = false
 plants = []
-title = "Grow Lights"
+title = "All About Grow Lights"
 weight = 5
 [cover]
 alt = ""
@@ -12,6 +12,8 @@ caption = "Seedlings under a grow light"
 image = "/uploads/seedlings_grow_lights-copy.png"
 
 +++
+
+*This is the first article in our **Seed Starting** series. Check back soon for more!*
 
 Starting veggie seedlings indoors is a great way to get a head start on the gardening season and relieve that “gardening itch” that many of us get in the winter. One of the most important things a seedling needs is the right amount of light. However, chances are your average house window isn’t bright enough and you’ll need to supplement the light with a grow light. But if you’ve shopped for grow lights recently, you may have been overwhelmed by all the different options. We’re going to break down the best options for home gardeners that will best suit your seed-starting needs.
 
