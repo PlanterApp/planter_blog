@@ -1,7 +1,7 @@
 +++
 author = "Peter Keefe"
 authors = []
-date = 2023-01-31T05:00:00Z
+date = 2023-01-30T05:00:00Z
 override_position = false
 plants = []
 title = "Grow Lights"
@@ -13,6 +13,8 @@ image = "/uploads/seedlings_grow_lights-copy.png"
 
 +++
 Starting veggie seedlings indoors is a great way to get a head start on the gardening season and relieve that “gardening itch” that many of us get in the winter. One of the most important things a seedling needs is the right amount of light. However, chances are your average house window isn’t bright enough and you’ll need to supplement the light with a grow light. But if you’ve shopped for grow lights recently, you may have been overwhelmed by all the different options. We’re going to break down the best options for home gardeners that will best suit your seed-starting needs.
+
+![Tomato and pepper plants.](/uploads/pxl_20220324_134001524-mp.jpg "My seed starting station in 2022. Also, my workbench 🛠!")
 
 ## Grow Light Types
 
@@ -36,13 +38,13 @@ More important than the type of grow light is the color and intensity of the lig
 
 ![](/uploads/photosynthesis_spectrum.png "Optimal absorption of light occurs at different wavelengths for different pigments. Image modified from [The light-dependent reactions of photosynthesis: Figure 4](http://cnx.org/contents/f829b3bd-472d-4885-a0a4-6fea3252e2b2@11/The-Light-Dependent-Reactions-), by OpenStax College, Biology ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))")
 
-
-
 For fluorescents and some LEDs, spectrum is often labeled as the color temperature or K (Kelvin). A higher color temperature, such as 6500K, is best for starting seeds. Many LED fixtures include a variety of colors, so instead of a Kelvin number you may see a spectrum graph, similar to the one above.
 
 When deciding between the “purple” and “full spectrum” grow lights, one important factor to consider is where your seed-starting station is. If you’re starting your seeds in the basement or some other less-used space, go ahead and get the purple grow lights. On the contrary, if you’re starting them on the kitchen counter or some other common space, consider going for the full spectrum grow lights. The reason is, the purple grow lights aren’t very pleasant to be around for long periods of time. I start my seeds in the basement, so I don’t mind the purple hue and can deal with it in exchange for a bit more energy efficiency.
 
 ## Grow Light Intensity
+
+![](/uploads/pexels-rodolfo-clix-1036936.jpg)
 
 When buying grow lights, in general, more light intensity is better. Every light on the market has a watt measurement, which is the amount of energy that the unit uses.
 
@@ -68,7 +70,6 @@ Available in [full spectrum](https://www.amazon.com/Barrina-Equivalent-Spectrum-
 
 Barrina's grow lights are highly rated, so if these options don't work for you, check out their other options such as their [4 pack](https://www.amazon.com/dp/B07ZFM49HD).
 
-
 ### [iGrowtek Seed Starter Kit](https://www.amazon.com/iGrowtek-Seedling-Growing-Natural-Spectrum/dp/B07ZR6XSQK)
 
 <a href="https://www.amazon.com/iGrowtek-Seedling-Growing-Natural-Spectrum/dp/B07ZR6XSQK?crid=2SUTEB18ENXCI&keywords=grow%2Blight%2Bseed%2Bstarting&qid=1675111313&refinements=p_72%3A2661618011&rnid=2661617011&sprefix=grow%2Blight%2Bseed%2Bstarting%2Caps%2C100&sr=8-5&th=1&linkCode=li3&tag=planter-app-20&linkId=4e39284d7b3f2c1e296c3aad86484ad7&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07ZR6XSQK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=planter-app-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=planter-app-20&language=en_US&l=li3&o=1&a=B07ZR6XSQK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -85,7 +86,7 @@ Perfect if you don't need the seed starting tray but still want a stand.
 
 <a href="https://www.amazon.com/Kullsinss-Upgraded-Spectrum-Dimmable-Greenhouse/dp/B09XZXV625?crid=2SUTEB18ENXCI&keywords=grow%2Blight%2Bseed%2Bstarting&qid=1675112232&refinements=p_72%3A2661618011&rnid=2661617011&sprefix=grow%2Blight%2Bseed%2Bstarting%2Caps%2C100&sr=8-32&th=1&linkCode=li3&tag=planter-app-20&linkId=d550e3121b879c3c9c82ffb61ae0f03d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09XZXV625&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=planter-app-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=planter-app-20&language=en_US&l=li3&o=1&a=B09XZXV625" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-If you're starting your seeds on the kitchen counter, this might be the grow light for you. You can stick these light strips to the underside of a cabinet or shelf, perfect for spaces where hanging a reflector wouldn't work. 
+If you're starting your seeds on the kitchen counter, this might be the grow light for you. You can stick these light strips to the underside of a cabinet or shelf, perfect for spaces where hanging a reflector wouldn't work.
 
 ### [Adjustable Gooseneck Grow Lights](https://www.amazon.com/GroDrow-Starting-Spectrum-Adjustable-Gooseneck/dp/B092R2BR2C)
 
