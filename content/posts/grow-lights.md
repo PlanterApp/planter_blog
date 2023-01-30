@@ -12,6 +12,7 @@ caption = "Seedlings under a grow light"
 image = "/uploads/seedlings_grow_lights-copy.png"
 
 +++
+
 Starting veggie seedlings indoors is a great way to get a head start on the gardening season and relieve that “gardening itch” that many of us get in the winter. One of the most important things a seedling needs is the right amount of light. However, chances are your average house window isn’t bright enough and you’ll need to supplement the light with a grow light. But if you’ve shopped for grow lights recently, you may have been overwhelmed by all the different options. We’re going to break down the best options for home gardeners that will best suit your seed-starting needs.
 
 ![Tomato and pepper plants.](/uploads/pxl_20220324_134001524-mp.jpg "My seed starting station in 2022. Also, my workbench 🛠!")
@@ -56,11 +57,13 @@ Some grow lights will also include more helpful intensity units including:
 
 ## Grow Light Height
 
-A good rule of thumb is to position your lights 6-24” away from your plants. Don’t just set it and forget it though! Pay attention to your seedlings, and if you notice them becoming “leggy”, they’re not receiving enough light. On the contrary, if your lights are too close, plants can get damaged by the heat of the light. Try adjusting your lights to find the sweet spot, and periodically raising them as the plants grow.
+A good rule of thumb is to position your lights 6-24” away from your plants. Don’t just set it and forget it though! Pay attention to your seedlings, and if you notice them becoming “leggy”, they’re not receiving enough light, so you should lower your lights. On the contrary, if your lights are too close, plants can get damaged by the heat of the light. Try adjusting your lights to find the sweet spot, and periodically raising them as the plants grow.
 
 ## Our Recommendations
 
 There are so many [grow light options](https://amzn.to/3WLvk5X) out there, it can get overwhelming. So we've done the research and read the reviews for you. Here are our recommendations:
+
+{{< affiliate >}}
 
 ### [Barrina Grow Lights](https://www.amazon.com/Barrina-Equivalent-Bright-Spectrum-Sunlight/dp/B082ZL1Q63)
 
@@ -93,5 +96,3 @@ If you're starting your seeds on the kitchen counter, this might be the grow lig
 <a href="https://www.amazon.com/GroDrow-Starting-Spectrum-Adjustable-Gooseneck/dp/B092R2BR2C?crid=2SUTEB18ENXCI&keywords=grow%2Blight%2Bseed%2Bstarting&qid=1675112232&refinements=p_72%3A2661618011&rnid=2661617011&sprefix=grow%2Blight%2Bseed%2Bstarting%2Caps%2C100&sr=8-6&th=1&linkCode=li3&tag=planter-app-20&linkId=a16e50b8458711af7b9dee268c1146d9&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B092R2BR2C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=planter-app-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=planter-app-20&language=en_US&l=li3&o=1&a=B092R2BR2C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 For the ultimate in adjustability, these grow lights are mounted on goosenecks. They are available in 4 different color options and are perfectly suited for lighting  large houseplants as well as veggie seedlings!
-
-{{< affiliate >}}
