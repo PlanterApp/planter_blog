@@ -2,7 +2,6 @@
 author = "Peter Keefe"
 authors = []
 date = 2023-01-31T05:00:00Z
-draft = true
 override_position = false
 plants = []
 title = "Grow Lights"
