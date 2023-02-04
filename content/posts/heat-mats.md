@@ -5,7 +5,7 @@ date = 2023-02-04T05:00:00Z
 override_position = false
 plants = []
 series = ["seed-starting"]
-title = "Heat mats for Starting Seeds"
+title = "Heat Mats for Starting Seeds"
 weight = 5
 [cover]
 alt = "My seedling heat mat, a seedling tray, seeds, and an Android figurine with air plants."
