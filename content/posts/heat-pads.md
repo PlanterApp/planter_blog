@@ -10,7 +10,7 @@ weight = 5
 [cover]
 alt = "My seedling heat mat, a seedling tray, seeds, and an Android figurine with air plants."
 caption = "Getting ready to start some seeds!"
-image = "/uploads/pxl_20230204_150306459.jpg"
+image = "/uploads/pxl_20230204_150317675.jpg"
 
 +++
 _This is the second article in our_ [_Seed Starting_](../../series/seed-starting/) _series:_
