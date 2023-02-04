@@ -1,12 +1,12 @@
 +++
 author = "Peter Keefe"
 authors = []
-date = 2023-02-06T05:00:00Z
-draft = true
+date = 2023-02-01T05:00:00Z
+draft = false
 override_position = false
 plants = []
 series = ["seed-starting"]
-title = "Heat Pads for Starting Seeds"
+title = "Heat mats for Starting Seeds"
 weight = 5
 [cover]
 alt = ""
@@ -16,7 +16,7 @@ image = "/uploads/pxl_20230204_150306459.jpg"
 +++
 *This is the second article in our [Seed Starting](../../series/seed-starting/) series:*
 1. [All About Grow Lights](../grow-lights)
-2. [Heat Pads for Starting Seeds](../heat-pads)
+2. [Heat Mats for Starting Seeds](../heat-pads)
 3. When to Start Seeds Indoors (coming next week!)
 
 
@@ -70,7 +70,7 @@ You may have noticed the missing temperatures for celery. Celery requires diffus
 
 ### Keeping the seed tray at the right temperature
 
-Most heating mats don’t have an adjustable thermostat, so it’s hard to get the soil to the right temperature. And even if the heating pad works for one gardener, it might not work for you. This is because soil temperature can vary depending on a variety of factors:
+Most heating mats don’t have an adjustable thermostat, so it’s hard to get the soil to the right temperature. And even if the heating mat works for one gardener, it might not work for you. This is because soil temperature can vary depending on a variety of factors:
 
 - Wattage of the heating matt
 - Amount of soil
