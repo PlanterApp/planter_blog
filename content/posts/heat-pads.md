@@ -1,24 +1,23 @@
 +++
 author = "Peter Keefe"
 authors = []
-date = 2023-02-01T05:00:00Z
-draft = false
+date = 2023-02-04T05:00:00Z
 override_position = false
 plants = []
 series = ["seed-starting"]
 title = "Heat mats for Starting Seeds"
 weight = 5
 [cover]
-alt = ""
+alt = "My seedling heat mat, a seedling tray, seeds, and an Android figurine with air plants."
 caption = "Getting ready to start some seeds!"
-image = "/uploads/pxl_20230204_150306459.jpg"
+image = "/uploads/pxl_20230204_150317675.jpg"
 
 +++
-*This is the second article in our [Seed Starting](../../series/seed-starting/) series:*
+_This is the second article in our_ [_Seed Starting_](../../series/seed-starting/) _series:_
+
 1. [All About Grow Lights](../grow-lights)
 2. [Heat Mats for Starting Seeds](../heat-pads)
 3. When to Start Seeds Indoors (coming next week!)
-
 
 I don’t know about you, but I’m dreaming of warmer spring weather and getting back out in the garden! To satisfy that “gardening itch” that comes every winter, I like to dig out my seed starting supplies and grow tomatoes, peppers, and a few other veggies. Our last post focused on grow lights, which are arguably the most important piece of equipment for starting seeds. However, some seeds may not even germinate to see that light if you don’t keep them at the right temperature. So today, we’re going all-in on heat mats. 🔥
 
@@ -67,19 +66,18 @@ Luckily, master gardeners have determined the optimal temperature for germinatin
 
 You may have noticed the missing temperatures for celery. Celery requires diffused, non-direct light and a cooler night temperature than the day temperature for good germination. Its optimal conditions are 85°F during the day and 70°F at night.
 
-
 ### Keeping the seed tray at the right temperature
 
 Most heating mats don’t have an adjustable thermostat, so it’s hard to get the soil to the right temperature. And even if the heating mat works for one gardener, it might not work for you. This is because soil temperature can vary depending on a variety of factors:
 
-- Wattage of the heating matt
-- Amount of soil
-- Amount of water in the soil
-- Surrounding air temperature
-- Air movement
-- Heat from grow light(s)
+* Wattage of the heating matt
+* Amount of soil
+* Amount of water in the soil
+* Surrounding air temperature
+* Air movement
+* Heat from grow light(s)
 
-That’s why we recommend a thermostat-controlled heating mat such as the [Spider Farmer Heat Mat Kit](https://www.amazon.com/Spider-Farmer-Thermostat-Controller-Germination/dp/B09DPKXRRD). It comes with a temperature probe that you stick in the soil, so you know your seedlings are at the optimum temperature. No more guessing!
+That’s why we recommend a thermostat-controlled heating mat such as the [Spider Farmer Heat Mat Kit](https://www.amazon.com/Spider-Farmer-Thermostat-Controller-Germination/dp/B09DPKXRRD). It comes with a temperature probe that you stick in the soil, so you know your seedlings are at the optimum temperature. No more guessing! However, if you already have a heat mat that is working for you and getting good germination rates, there's no need to fix what isn't broken.
 
 {{< youtube 1u4De4y-DAE >}}
 
