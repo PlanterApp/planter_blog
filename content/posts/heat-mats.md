@@ -16,7 +16,7 @@ image = "/uploads/pxl_20230204_150317675.jpg"
 _This is the second article in our_ [_Seed Starting_](../../series/seed-starting/) _series:_
 
 1. [All About Grow Lights](../grow-lights)
-2. [Heat Mats for Starting Seeds](../heat-pads)
+2. [Heat Mats for Starting Seeds](../heat-mats)
 3. When to Start Seeds Indoors (coming next week!)
 
 I don’t know about you, but I’m dreaming of warmer spring weather and getting back out in the garden! To satisfy that “gardening itch” that comes every winter, I like to dig out my seed starting supplies and grow tomatoes, peppers, and a few other veggies. Our last post focused on grow lights, which are arguably the most important piece of equipment for starting seeds. However, some seeds may not even germinate to see that light if you don’t keep them at the right temperature. So today, we’re going all-in on heat mats. 🔥

@@ -16,7 +16,7 @@ image = "/uploads/seedlings_grow_lights-copy.png"
 
 *This is the first article in our [Seed Starting](../../series/seed-starting/) series:*
 1. [All About Grow Lights](../grow-lights)
-2. [Heat Mats for Starting Seeds](../heat-pads)
+2. [Heat Mats for Starting Seeds](../heat-mats)
 3. When to Start Seeds Indoors (coming next week!)
 
 
