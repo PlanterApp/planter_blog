@@ -10,8 +10,8 @@ title = "Heat Pads for Starting Seeds"
 weight = 5
 [cover]
 alt = ""
-caption = ""
-image = ""
+caption = "Getting ready to start some seeds!"
+image = "/uploads/pxl_20230204_150306459.jpg"
 
 +++
 *This is the second article in our [Seed Starting](../../series/seed-starting/) series:*
@@ -94,6 +94,3 @@ Not all seeds need a heat mat
 After your seeds germinate, unplug the heat mat. Besides wasting electricity, keeping the heat mat on can stress veggie roots and can cause some plants to bolt!
 
 That's about all there is to it!
-
-
-
