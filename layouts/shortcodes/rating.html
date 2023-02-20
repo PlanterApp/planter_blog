@@ -1,0 +1,22 @@
+{{ $rating := .Get 0 }}
+{{ $full_stars := math.Floor $rating }}
+{{ $has_half_star := gt (sub $rating $full_stars) 0.25 }}
+{{ $empty_stars := sub 5 $full_stars }}
+{{ if $has_half_star }}
+    {{ $empty_stars = sub $empty_stars 1 }}
+{{ else }}
+
+{{ end }}
+<div style="display:inline; margin:0px;">
+{{ range $num := (seq $full_stars) }}
+    <img alt="star" src="/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+{{ end }}
+
+{{ if $has_half_star }}
+    <img alt="star" src="/icons/star_half.svg" height="24px" style="display:inline; margin:0px;">
+{{ end }}
+
+{{ range $num := (seq $empty_stars) }}
+    <img alt="star" src="/icons/star_empty.svg" height="24px" style="display:inline; margin:0px;">
+{{ end }}
+</div>
