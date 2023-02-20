@@ -9,10 +9,10 @@ weight = 5
 [cover]
 alt = ""
 caption = ""
-image = "farmer-planting-young-green-oak-lettuce-salad-vegetable-garden.jpg"
+image = "closeup-woman-farmer-white-shirt-with-digital-tablet-greenhouse-monitors-growth.jpg"
 
 +++
-Gardening is one of the oldest hobbies in the world, and it's always been a very hands-on, low-tech pursuit. But with the advent of mobile technology, gardening apps have become a popular tool for green thumbs everywhere. Who would have thought that you could use a smartphone to help you grow plants and veggies? It may seem a bit strange, but these apps can actually make gardening easier and more fun. Whether you're a seasoned gardener or a newbie, these apps can help you identify plants, plan your garden, and keep track of watering schedules. So, let's take a look at the best gardening and indoor plant apps out there!
+Gardening is one of the oldest hobbies in the world, and it's always been a very hands-on, low-tech pursuit. But with the advent of mobile technology, gardening apps have become a popular tool for green thumbs everywhere. Who would have thought that you could use a smartphone to help you grow plants and veggies? It may seem a bit strange, but these apps can actually make gardening easier and more fun. Whether you're a seasoned gardener or a newbie, these apps can help you identify plants, plan your garden, and keep track of watering schedules. So, let's take a look at the best gardening apps and indoor plant apps out there!
 
 ## Planter
 
