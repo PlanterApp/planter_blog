@@ -2,7 +2,7 @@
 author = "Peter Keefe"
 authors = []
 date = 2023-02-19T05:00:00Z
-draft = true
+draft = false
 override_position = false
 plants = []
 title = "Apps that Every Gardener Needs to Know About"
@@ -21,9 +21,9 @@ Gardening is one of the oldest hobbies in the world, and it's always been a very
 
 ![](/uploads/planter_preview.gif "Planning a garden in Planter.")
 
-This garden planner app helps you arrange your garden and learn how to grow veggies. With its intuitive drag-and-drop interface, you can arrange your veggie garden in minutes. One of our favorite features is that it highlights companion and combative plant information right there, with green (companion) or red (combative) circles.Planter uses the square foot gardening technique for easy spacing, but everything about plants, including spacing, is customizable. It has over 80 fruits and vegetables, but you can always add a custom plant if your favorite isn’t included. On top of that, it has thousands of seed varieties so you can differentiate between your jalapeño and bell peppers.
+This garden planner app helps you arrange your garden and learn how to grow veggies. With its intuitive drag-and-drop interface, you can arrange your veggie garden in minutes. One of our favorite features is that it highlights companion and combative plant information right there, with green (companion) or red (combative) circles. Planter uses the square foot gardening technique for easy spacing, but everything about plants, including spacing, is customizable. It has over 80 fruits and vegetables, but you can always add a custom plant if your favorite isn’t included. On top of that, it has thousands of seed varieties so you can differentiate between your jalapeño and bell peppers.
 
-![](/uploads/screen-shot-2023-01-24-at-3-58-08-pm.png 'The details page for peppers, showing the growing calendar and the "Quick Info" section.')
+![](/uploads/planter_calendar.png 'The details page for onions, showing the growing calendar and the "Quick Info" section.')
 
 The app also contains a gardening schedule for planting or transplanting times. With Planter, you'll know exactly when to start seeds indoors, transplant seedlings, or start seeds outdoors in your garden.
 
