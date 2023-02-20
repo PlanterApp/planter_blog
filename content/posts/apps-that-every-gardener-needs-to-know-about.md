@@ -15,7 +15,7 @@ image = ""
 +++
 Gardening is one of the oldest hobbies in the world, and it's always been a very hands-on, low-tech pursuit. But with the advent of mobile technology, gardening apps have become a popular tool for green thumbs everywhere. Who would have thought that you could use a smartphone to help you grow plants and veggies? It may seem a bit strange, but these apps can actually make gardening easier and more fun. Whether you're a seasoned gardener or a newbie, these apps can help you identify plants, plan your garden, and keep track of watering schedules. So, let's take a look at the best gardening apps out there for iOS and Android devices.
 
-## [Planter](https://planter.garden)
+## Planter
 
 {{< rating 4.5 >}}
 
@@ -23,9 +23,9 @@ Gardening is one of the oldest hobbies in the world, and it's always been a very
 
 This garden planner app helps you arrange your garden and learn how to grow veggies. With its intuitive drag-and-drop interface, you can arrange your veggie garden in minutes. One of our favorite features is that it highlights companion and combative plant information right there, with green (companion) or red (combative) circles.Planter uses the square foot gardening technique for easy spacing, but everything about plants, including spacing, is customizable. It has over 80 fruits and vegetables, but you can always add a custom plant if your favorite isn’t included. On top of that, it has thousands of seed varieties so you can differentiate between your jalapeño and bell peppers.
 
+![](/uploads/screen-shot-2023-01-24-at-3-58-08-pm.png 'The details page for peppers, showing the growing calendar and the "Quick Info" section.')
+
 The app also contains a gardening schedule for planting or transplanting times. With Planter, you'll know exactly when to start seeds indoors, transplant seedlings, or start seeds outdoors in your garden.
-
-
 
 {{<subtitle "Planter is available on [iOS](https://apps.apple.com/us/app/planter-garden-planner/id1542642210), [Android](https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner&hl=en_US&gl=US), and [web](https://planter.garden)." >}}
 
