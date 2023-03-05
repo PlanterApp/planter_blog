@@ -21,13 +21,13 @@ Install the latest version of Planter to start using the enhanced companion plan
 
 * Icons that show companion plant benefit and combative plant drawback at a glance
 
-  ![](/uploads/tomato-companions.jpg)
+  ![Screenshot of companion plant relationships icons](/uploads/tomato-companions.jpg)
 * Arrows to indicate which plant is offering a benefit or causing a problem (in some cases, it's both!)
 
-  ![](/uploads/direction-arrows.jpg)
+  ![Screenshot of companion plant directional arrows](/uploads/direction-arrows.jpg)
 * The rationale for why the plants are considered companions or combative, so you can decide which relationships are most important in your garden plan
 
-![](/uploads/marigold-tomatoes.jpg)
+![Screenshot of companion plant rationales](/uploads/marigold-tomatoes.jpg)
 
 We’ve been diligently digging through companion planting resources to ensure the companion and combative plant relationships in Planter are as current and well-backed as possible. We’ll continue to update relationships as new information becomes available!
 
