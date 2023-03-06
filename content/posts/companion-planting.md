@@ -2,7 +2,6 @@
 author = "The Planter Team"
 authors = []
 date = 2023-03-07T05:00:00Z
-draft = true
 override_position = false
 plants = []
 title = "Feature Launch:  Enhanced Companion Planting Relationships"
