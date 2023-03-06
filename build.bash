@@ -1,7 +1,7 @@
 #!/bin/bash
 # Build hugo
 rm -r public
-if hugo ; then
+if hugo "$HUGO_COMMANDS"; then
   # Add affiliate links
   npm run affiliate
 else
