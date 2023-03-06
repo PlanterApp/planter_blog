@@ -1,7 +1,7 @@
 +++
-author = ""
+author = "The Planter Team"
 authors = []
-date = 2023-03-06T05:00:00Z
+date = 2023-03-07T05:00:00Z
 draft = true
 override_position = false
 plants = []
@@ -19,7 +19,7 @@ While snow has been flying outside the Planter team has been hunkered down insid
 
 Install the latest version of Planter to start using the enhanced companion planting features:
 
-* Icons that show companion plant benefit and combative plant drawback at a glance
+* Icons that show companion plant benefits and combative plant drawbacks at a glance
 
   ![Screenshot of companion plant relationships icons](/uploads/tomato-companions.jpg)
 * Arrows to indicate which plant is offering a benefit or causing a problem (in some cases, it's both!)
