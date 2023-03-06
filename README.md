@@ -8,7 +8,7 @@ The growing guide is the place we post informative articles to help gardeners ac
 
 **View at [blog.planter.garden](https://blog.planter.garden)**
 
-**Preview site at [blog-preview.planter.garden](https://blog-preview.planter.garden)**
+**Preview site at [blog-preview.planter.garden](https://blog-preview.planter.garden)** (showing all drafts)
 
 ## Contributing
 
