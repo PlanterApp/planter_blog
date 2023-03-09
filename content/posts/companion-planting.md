@@ -21,6 +21,8 @@ Install the latest version of Planter to start using the enhanced companion plan
 * Icons that show companion plant benefits and combative plant drawbacks at a glance
 
   ![Screenshot of companion plant relationships icons](/uploads/tomato-companions.jpg)
+
+   
 * Arrows to indicate which plant is offering a benefit or causing a problem (in some cases, it's both!)
 
   ![Screenshot of companion plant directional arrows](/uploads/direction-arrows.jpg)
