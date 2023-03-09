@@ -14,23 +14,23 @@ collections:
       - label: "Title"
         name: "title"
         widget: "string"
-        required: "true"
+        required: true
       - label: "Date"
         name: "date"
         widget: "date"
-        required: "false"
+        required: false
       - label: "Author"
         name: "author"
         widget: "list"
-        required: "false"
+        required: false
       - label: "Related Plants"
         name: "plants"
         widget: "list"
-        required: "false"
+        required: false
       - label: "Cover"
         name: "cover"
         widget: "object"
-        required: "false"
+        required: false
         fields:
           - label: "Cover Photo"
             name: "image"
@@ -42,8 +42,8 @@ collections:
           - label: "Alt Text"
             name: "alt"
             widget: "string"
-            required: "false"
+            required: false
           - label: "Caption"
             name: "caption"
             widget: "string"
-            required: "false"
+            required: false
