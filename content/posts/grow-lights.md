@@ -13,7 +13,7 @@ cover:
 weight: 5
 override_position: false
 ---
-*This is the first article in our [Seed Starting](../../series/seed-starting/) series:.*
+*This is the first article in our [Seed Starting](../../series/seed-starting/) series:*
 
 1. [All About Grow Lights](../grow-lights)
 2. [Heat Mats for Starting Seeds](../heat-mats)
