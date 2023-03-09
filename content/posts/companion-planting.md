@@ -45,7 +45,7 @@ If you’re not planning on using companion planting in your garden you can now 
 
 ![Screenshot of the Show companion info checkbox](/uploads/companion-info-off.jpg)
 
-We hope you find these updates handy! As always, if you have Planter feature requests please log them and (upvote existing requests) in the [feature request list](https://planter.garden/requests). We regularly review the list to plan upcoming features.
+We hope you find these updates handy! As always, if you have Planter feature requests you can log them and upvote existing requests in the [feature request list](https://planter.garden/requests). We regularly review the list to plan upcoming features.
 
 Happy garden planning!
 
