@@ -29,7 +29,7 @@ collections:
         required: false
       - label: "Author"
         name: "author"
-        widget: "list"
+        widget: "array"
         required: false
       - label: "Related Plants"
         name: "plants"
