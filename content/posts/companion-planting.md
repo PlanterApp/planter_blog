@@ -39,7 +39,7 @@ With the enhanced companion planting features, you might notice there are some c
 
 Opinions can be mixed on whether plants in the same family (e.g., brassicas, nightshades, cucurbits) are companions or combative. Some say they are companions since they have similar needs. Others say they are combative since they can share pests and diseases and in some cases can compete for nutrients. Where information conflicts, we classified plants in the same family as combative.
 
-And after all this, if you’re not planning on using companion planting in your garden you can switch the companion planting indicators off. Just select the three dots in the upper-right of your garden then uncheck **Show companion info**:
+If you’re not planning on using companion planting in your garden you can now switch the companion planting indicators off. Just select the three dots in the upper-right of your garden then uncheck **Show companion info**:
 
 ![Screenshot of the Show companion info checkbox](/uploads/companion-info-off.jpg)
 
