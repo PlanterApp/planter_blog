@@ -27,6 +27,10 @@ collections:
         name: "plants"
         widget: "list"
         required: false
+      - label: "Series"
+        name: "series"
+        widget: "list"
+        required: false
       - label: "Cover"
         name: "cover"
         widget: "object"
