@@ -14,6 +14,11 @@ collections:
     folder: "content/posts"
     create: true
     fields:
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        default: true
+        required: true
       - label: "Title"
         name: "title"
         widget: "string"
