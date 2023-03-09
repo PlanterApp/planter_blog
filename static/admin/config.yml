@@ -4,6 +4,9 @@ backend:
 
 media_folder: "content/uploads"
 public_folder: "/uploads"
+display_url: https://blog.planter.garden
+logo_url: https://planter.garden/favicon.svg
+format: toml
 
 collections:
   - name: "post"
