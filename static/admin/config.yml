@@ -65,7 +65,11 @@ collections:
             required: false
           - label: "Relative"
             name: "relative"
-            widget: "boolean"
+            widget: "hidden"
+            default: true
+          - label: "Link Full Images"
+            name: "linkFullImages"
+            widget: "hidden"
             default: true
       - label: "Body"
         name: "body"

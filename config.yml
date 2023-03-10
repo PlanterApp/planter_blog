@@ -44,11 +44,11 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
-  ShareButtons: ['twitter']
+  ShareButtons: ['facebook','twitter','linkedin']
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
