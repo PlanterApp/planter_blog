@@ -16,7 +16,6 @@ collections:
     media_folder: ''
     public_folder: ''
     create: true
-    format: toml
     fields:
       - label: "Draft"
         name: "draft"
@@ -74,7 +73,6 @@ collections:
     label: "Blog post (legacy folder)"
     folder: "content/posts"
     create: true
-    format: toml
     fields:
       - label: "Draft"
         name: "draft"
@@ -129,7 +127,6 @@ collections:
     folder: "content/author"
     path: "{{slug}}/_index.md"
     create: true
-    format: toml
     fields:
       - label: "Draft"
         name: "draft"
