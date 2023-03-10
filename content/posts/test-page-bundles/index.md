@@ -11,6 +11,7 @@ alt = "A holiday gift with a red bow surrounded by greenery"
 caption = ""
 image = "bee-on-echinacea.jpeg"
 relative = true
+draft = true
 
 +++
 
