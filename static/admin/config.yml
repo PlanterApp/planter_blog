@@ -65,6 +65,7 @@ collections:
   - name: "author"
     label: "Author"
     folder: "content/author"
+    path: ""{{slug}}/_index.md"
     create: true
     fields:
       - label: "Draft"
