@@ -16,6 +16,7 @@ collections:
     media_folder: ''
     public_folder: ''
     create: true
+    format: toml
     fields:
       - label: "Draft"
         name: "draft"
@@ -62,6 +63,10 @@ collections:
             name: "caption"
             widget: "string"
             required: false
+          - label: "Relative"
+            name: "relative"
+            widget: "boolean"
+            default: true
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -69,6 +74,7 @@ collections:
     label: "Blog post (legacy folder)"
     folder: "content/posts"
     create: true
+    format: toml
     fields:
       - label: "Draft"
         name: "draft"
@@ -123,6 +129,7 @@ collections:
     folder: "content/author"
     path: "{{slug}}/_index.md"
     create: true
+    format: toml
     fields:
       - label: "Draft"
         name: "draft"
