@@ -21,7 +21,7 @@ handleChange: function (e) {
 
 render: function () {
   const separator = this.props.field.get("separator", ", ");
-  var value = this.props.value;
+  var value = this.props.value ?? "";
   return h("input", {
     id: this.props.forID,
     className: this.props.classNameWrapper,
