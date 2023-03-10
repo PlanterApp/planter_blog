@@ -12,6 +12,62 @@ collections:
   - name: "post"
     label: "Blog post"
     folder: "content/posts"
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
+    create: true
+    fields:
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        default: true
+        required: true
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Date"
+        name: "date"
+        widget: "date"
+        required: false
+      - label: "Author"
+        name: "author"
+        widget: "array"
+        required: false
+      - label: "Related Plants"
+        name: "plants"
+        widget: "list"
+        required: false
+      - label: "Series"
+        name: "series"
+        widget: "list"
+        required: false
+      - label: "Cover"
+        name: "cover"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Cover Photo"
+            name: "image"
+            widget: "image"
+            choose_url: false
+            media_library:
+              config:
+                multiple: false
+          - label: "Alt Text"
+            name: "alt"
+            widget: "string"
+            required: false
+          - label: "Caption"
+            name: "caption"
+            widget: "string"
+            required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+  - name: "post-legacy"
+    label: "Blog post (legacy folder)"
+    folder: "content/posts"
     create: true
     fields:
       - label: "Draft"
