@@ -33,7 +33,7 @@ collections:
         required: false
       - label: "Author"
         name: "author"
-        widget: "array"
+        widget: "string"
         required: false
       - label: "Related Plants"
         name: "plants"
@@ -91,7 +91,7 @@ collections:
         required: false
       - label: "Author"
         name: "author"
-        widget: "array"
+        widget: "string"
         required: false
       - label: "Related Plants"
         name: "plants"
