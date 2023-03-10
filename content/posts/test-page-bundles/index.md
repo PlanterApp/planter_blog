@@ -1,19 +1,21 @@
 +++
-author = "Peter Keefe"
-authors = []
-date = 2023-03-10T00:53:37.065Z
-override_position = false
-plants = []
-title = "Test page bundles"
-weight = 5
 draft = true
+authors = []
+title = "Test page bundles"
+date = 2023-03-10T00:53:37.065Z
+author = "Peter Keefe"
+plants = []
+weight = 5
+override_position = false
+
 [cover]
 alt = "A holiday gift with a red bow surrounded by greenery"
 caption = ""
 image = "bee-on-echinacea.jpeg"
 relative = true
-
 +++
+This is just a test\
+\
+W﻿hat about a page bundle image in the post?
 
-
-This is just a test
+![](bee-on-echinacea.jpeg "The image title")
