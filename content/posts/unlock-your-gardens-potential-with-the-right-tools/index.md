@@ -80,4 +80,6 @@ Some hoses are made to be laid out in your garden, too; these are called soaker 
 
 ## S﻿till looking for more?
 
-C﻿an't get enough of garden tools? Well, never fear! Keep an eye out next week for this post's partner, which will feature some less common and more advanced garden tools! In the meantime, it's still a great time to start your plants inside- check out Planter
+C﻿an't get enough of garden tools? Well, never fear! Keep an eye out next week for this post's partner, which will feature some less common and more advanced garden tools! If you're looking for something other than garden tools for your repertoire, we have another post you might like to check out: [2022 Gardener's Gift Guide](https://blog.planter.garden/posts/2022-gardeners-gift-guide/)! 
+
+While you wait for Part 2, it's still a great time to start growing! Check out [Planter, on web or the app](https://planter.garden/#download), to find the growing calendar in your area!
