@@ -76,7 +76,7 @@ A good hose is indispensable, if you have more plants than a couple trips with a
 
 Some hoses are made to be laid out in your garden, too; these are called soaker hoses, and act like sprinklers. Lay them out around your garden amongst your crops, and they’ll slowly and steadily release water through their porous material to keep your soil moist!
 
-![](https://images.pexels.com/photos/2134798/pexels-photo-2134798.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![](pexels-photo-2134798.jpeg)
 
 ## S﻿till looking for more?
 
