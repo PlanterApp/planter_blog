@@ -8,7 +8,7 @@ series = ["GardenTools"]
 [cover]
 relative = true
 linkFullImages = true
-image = "plants-gardening-tools-close-up_23-2148905235.avif"
+image = "screenshot-2023-03-14-at-6.48.58-pm.png"
 +++
 Are you looking to restock your gardening equipment? Maybe you’re starting up new and looking for the tools for the job you've planned on Planter? Or perhaps, you’re looking for gifts for a loved one who gardens? Well look no further! There’s a large variety of tools that could go to good use in your planting space; it all just depends on what you need done! So...
 
