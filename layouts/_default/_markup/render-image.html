@@ -22,7 +22,7 @@
         {{- end -}}
         {{$src.Permalink }} {{printf "%dw" ($src.Width)}}"
         sizes="(min-width: 768px) 720px, 100vw" src="{{ $src.Permalink }}" alt="{{ $alt }}"
-        width="{{ $src.Width }}" style="max-height:600px">
+        width="{{ $src.Width }}" style="max-height:600px; object-fit: contain;">
     {{- else }}{{/* Unprocessable image or responsive images disabled */}}
         <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}">
     {{- end }}
