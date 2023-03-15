@@ -43,6 +43,14 @@ collections:
         name: "series"
         widget: "list"
         required: false
+      - label: "Weight (default 5, use lower number to pin post)"
+        name: "weight"
+        widget: "number"
+        default: 5
+        value_type: "int"
+        min: 1
+        max: 10
+        required: true
       - label: "Cover"
         name: "cover"
         widget: "object"
