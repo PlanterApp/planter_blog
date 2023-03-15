@@ -1,8 +1,39 @@
-{{ if .Title }}
 <figure>
-    <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} style="margin-bottom:0px; max-height:600px"/>
-    <figcaption>{{ .Title | markdownify}}</figcaption>
+<!--    <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} style="margin-bottom:0px; max-height:600px"/>-->
+    {{- $responsiveImages := (.Page.Params.responsiveImages | default .Page.Site.Params.responsiveImages) | default true }}
+    {{- $addLink := .Page.Site.Params.linkFullImages | default false }}
+    {{- $src := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL))  }}
+    {{- $alt := .PlainText | safeHTML }}
+    {{- if $src -}}{{/* i.e it is present in page bundle */}}
+        {{- if $addLink }}
+            <a href="{{ $src | relURL }}" target="_blank" rel="noopener noreferrer">
+        {{ end -}}
+        {{- $sizes := (slice "360" "480" "720" "1080" "1500") }}
+        {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
+        {{- if hugo.IsExtended -}}
+            {{- $processableFormats = $processableFormats | append "webp" -}}
+        {{- end -}}
+        {{- $prod := (hugo.IsProduction | or (eq .Page.Site.Params.env "production")) }}
+        {{- if (and (in $processableFormats $src.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
+            <img loading="lazy" alt="{{ .Text }}" title="{{ .Title }}" srcset="{{- range $size := $sizes -}}
+            {{- if (ge $src.Width $size) -}}
+                {{ printf "%s %s" (($src.Resize (printf "%sx" $size)).Permalink) (printf "%sw ," $size) -}}
+            {{ end }}
+        {{- end -}}
+        {{$src.Permalink }} {{printf "%dw" ($src.Width)}}"
+        sizes="(min-width: 768px) 720px, 100vw" src="{{ $src.Permalink }}" alt="{{ $alt }}"
+        width="{{ $src.Width }}" style="max-height:600px">
+    {{- else }}{{/* Unprocessable image or responsive images disabled */}}
+        <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}">
+    {{- end }}
+    {{- else }}{{/* For absolute urls and external links, no img processing here */}}
+        {{- if $addLink }}
+            <a href="{{ $src | absURL }}" target="_blank" rel="noopener noreferrer">{{ end -}}
+            <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}">
+        {{- end }}
+        {{- if $addLink }}</a>{{ end -}}
+    {{/*  Display Caption  */}}
+    {{ if .Title }}
+        <figcaption>{{ .Title | markdownify}}</figcaption>
+    {{ end }}
 </figure>
-{{ else }}
-<img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
-{{ end }}
