@@ -4,6 +4,7 @@ title = "[Garden Tools Pt 2]"
 date = 2023-03-15T00:06:02.556Z
 author = "Jessalyn Krenicki"
 series = ["GardenTools"]
+weight = 5
 
 [cover]
 relative = true

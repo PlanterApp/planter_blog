@@ -4,6 +4,7 @@ title = "Unlock Your Garden's Potential with the Right Tools!"
 date = 2023-03-13T20:22:20.628Z
 author = "Jessalyn Krenicki"
 series = ["GardenTools"]
+weight = 5
 
 [cover]
 relative = true
