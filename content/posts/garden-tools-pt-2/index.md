@@ -43,30 +43,34 @@ Hori-hori knives are a fairly new edition to the western gardening scene, but it
 
 ### Kneelers
 
-This one’s in the name! Kneelers are sort of a collapsible stool, made lightweight but sturdy for use in the garden for sitting or kneeling on! It could make a good tool table too, if you’re not afraid of staining the knees of your pants.
+This one’s in the name! There are a couple of types of kneelers; the most common type is a thick foam piece that supports your knees when you're getting down into the dirt of your garden. Some are collapsible stools, made lightweight but sturdy for use in the garden for sitting or kneeling on! It could make a good tool table too, if you’re not afraid of staining the knees of your pants.
 
-<a href="https://www.amazon.com/LAIKOU-Kneeler-Protects-Foldable-Storage/dp/B08SKKYP3L?crid=1BRS26PCIDFB5&keywords=kneeler&qid=1677778864&s=lawn-garden&sprefix=kneeler%2Clawngarden%2C119&sr=1-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRUEpPWjZBVkdRTzAmZW5jcnlwdGVkSWQ9QTA2NDI3NThGNVg0WVZFS1czMVomZW5jcnlwdGVkQWRJZD1BMDc5MjA2MzFBQzk3VDhQT1UzN1Ymd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&linkCode=li3&tag=planter-app-20&linkId=65b3806f0dcce8a46e6939a9ee07109d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08SKKYP3L&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=planter-app-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=planter-app-20&language=en_US&l=li3&o=1&a=B08SKKYP3L" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+![](kneeler.jpeg)
 
 ### Watering Wands
 
 Watering wands, used in conjunction with a good long hose, can make watering hanging pots or flower boxes easy! They’re similar to a shower head, which makes them great for reaching higher-up plants.
 
-
+![](screenshot-2023-03-17-at-6.20.05-pm.png)
 
 ### Soil Monitors
 
 This handy soil sensor is great if you’re growing less hardy vegetables! Depending on what kind you get, these can give all sorts of information such as the pH of the soil, how moist the soil is, or how many hours of sunlight that it’s getting!
 
-
+![](soil-meter-with-fertile-loam-cultivation.jpg)
 
 ### Soil Blocker
 
 Used to create seed blocks, these tools are becoming more popular due to their reduction in waste! Soil blockers reduce the waste caused by fragile plastic seed trays, by making any tray a receptacle for seeding blocks.
 
-
+![](screenshot-2023-03-17-at-6.22.54-pm.png)
 
 ### Flamethrower
 
 * Use these with extreme caution, if at all! Make sure your area allows them! These aren’t for playing around with!
 
 Flamethrowers may be a surprise on a list for gardeners, but used correctly they can save a lot of time! Used mostly to burn off weeds, they could be used just before seeds germinate if you’re careful, or to just clean up weeds on dirt or stone. Not for use on any sort of wood mulch, naturally- don’t use a flamethrower on anything too flammable!
+
+![](https://media.istockphoto.com/id/1342079163/photo/man-destroying-weeds-with-the-weed-burner.jpg?b=1&s=612x612&w=0&k=20&c=EgmY2LheVlYFq4aTPd8KG9SWIfuqeFATQjVtEDU4A7I=)
+
+\[﻿conclusion]
