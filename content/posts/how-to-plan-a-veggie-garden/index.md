@@ -24,15 +24,13 @@ To create a garden plan the first step is to understand how much garden space yo
 ![Screenshot of Google maps layers menu with Satellite highlighted](google-layers.png)
 
 3. Use the **+** button in the lower right corner to zoom in as much as possible
-4. Right click on one corner of your garden space then select ‘measure distance’
+4. Right click on one corner of your garden space then select ‘Measure distance’
 5. Click on another corner of the garden and make note of this measurement
 6. Click X in the pop up window at the bottom and repeat these steps to measure the other side (length or width)
 
 After doing this you’ll have two measurements to work with- your garden length and width. Since this is an estimate, you may want to shave a few feet off each side to ensure your garden plan will ultimately fit into the space.
 
 Before investing in materials and building new beds it's still a good idea to get out there with a tape measure to confirm your estimates (after the snow melts!)
-
-
 
 ### Plan your garden bed locations
 
