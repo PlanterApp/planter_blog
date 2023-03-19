@@ -38,7 +38,7 @@ Before investing in materials and building new beds it's still a good idea to ge
 
 Once you know how much space you’re working with, you can start planning where your garden beds will go.
 
-Plug your garden measurements into Planter to start visualizing your garden bed layout. For the best performance, we suggest creating one garden to plan your garden layout then creating separate gardens for each bed to add plants.
+Plug your garden measurements into [Planter](https://planter.garden/) to start visualizing your garden bed layout. For the best performance, we suggest creating one garden to plan your garden layout then creating separate gardens for each bed to add plants.
 
 ![Screenshot of the Create new garden window in Planter](garden-setup.jpg)
 
@@ -53,16 +53,16 @@ A few things to think about when deciding where to place your garden beds:
 * **Vertical structures:** some crops, such as pole beans and peas, indeterminate tomatoes, and cucumbers, perform best when grown vertically. Think about where you’ll place trellises and other structures, and how they could cast shade on your plants (this shade may be desirable or undesirable depending on the plant).
 * **Drainage:** if there are areas of your garden where you know the soil stays soggy most of the time, you might want to avoid placing garden beds there or plan on building raised beds.
 
-### Deciding which plants to grow
+### Decide which plants to grow
 
 Now that you’ve planned your garden bed layout it's time for the fun part– picking the plants you want to grow! To decide which plants to grow ask yourself a few questions:
 
 * **What veggies do you and your family like to eat?** If you grow veggies that you don’t end up eating that often, your gardening efforts might end up going to waste.
-* **What grows well in your area?** Review the **How to Grow** information in Planter to see which plants you’ll need to start indoors (or buy from a garden center) and to get a sense of which plants will grow well in your climate.
+* **What grows well in your area?** Review the **[How to Grow](https://info.planter.garden/plant-information/how-to-grow/)** information in [Planter](https://planter.garden/) to see which plants you’ll need to start indoors (or buy from a garden center) and to get a sense of which plants will grow well in your climate.
 * **What plants are space and cost efficient?** If you have a small garden, growing large pumpkin plants might not be a good use of space. Consider growing premium lettuces, dwarf tomatoes, and herbs that will produce a worthwhile harvest in a small space.
-* **Are the plants perennials?** Perennial plants that come back every year (such as asparagus, berries, rhubarb, etc.) need to be placed thoughtfully to make sure they’ll have the growing conditions they need and enough space to reach their full size.
+* **Are the plants perennials?** Perennial plants that come back every year (such as asparagus, berries, rhubarb) need to be placed thoughtfully to make sure they’ll have the growing conditions they need and enough space to reach their full size.
 
-If you haven’t created your garden plan for this year yet, now is the time! A successful garden starts with a solid garden plan, and Planter makes garden planning as fun as planting!
+If you haven’t created your garden plan for this year yet, now is the time! A successful garden starts with a solid garden plan, and [Planter](https://planter.garden/) makes garden *planning* as fun as *planting*!
 
 ![Screenshot of a garden bed plan in Planter](garden-bed-1.jpg)
 
