@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "How to Plan a Veggie Garden"
 date = 2023-03-19T19:12:46.916Z
 author = "Erin Thomson"
@@ -60,7 +60,7 @@ Now that you’ve planned your garden bed layout it's time for the fun part– p
 * **What veggies do you and your family like to eat?** If you grow veggies that you don’t end up eating that often, your gardening efforts might end up going to waste.
 * **What grows well in your area?** Review the **[How to Grow](https://info.planter.garden/plant-information/how-to-grow/)** information in [Planter](https://planter.garden/) to see which plants you’ll need to start indoors (or buy from a garden center) and to get a sense of which plants will grow well in your climate.
 * **What plants are space and cost efficient?** If you have a small garden, growing large pumpkin plants might not be a good use of space. Consider growing premium lettuces, dwarf tomatoes, and herbs that will produce a worthwhile harvest in a small space.
-* **Are the plants perennials?** Perennial plants that come back every year (such as asparagus, berries, rhubarb) need to be placed thoughtfully to make sure they’ll have the growing conditions they need and enough space to reach their full size.
+* **Are the plants perennials?** Perennial plants that come back every year need to be selected and placed thoughtfully to make sure they’ll have the right growing conditions and enough space to reach their full size.
 
 If you haven’t created your garden plan for this year yet, now is the time! A successful garden starts with a solid garden plan, and [Planter](https://planter.garden/) makes garden *planning* as fun as *planting*!
 
