@@ -14,8 +14,8 @@ caption = ""
 image = "bee-on-echinacea.jpeg"
 relative = true
 +++
-This is just a test\
-\
-W﻿hat about a page bundle image in the post?
+This is just a test
+
+What about a page bundle image in the post?
 
 ![](bee-on-echinacea.jpeg "The image title")

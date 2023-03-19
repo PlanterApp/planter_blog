@@ -13,7 +13,7 @@ collections:
     label: "Blog post"
     folder: "content/posts"
     path: "{{slug}}/index"
-    media_folder: ''
+    media_folder: '/'
     public_folder: ''
     create: true
     format: "toml-frontmatter"
