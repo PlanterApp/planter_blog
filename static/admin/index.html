@@ -13,20 +13,6 @@
 <script>
 CMS.registerPreviewStyle('https://blog.planter.garden/assets/css/stylesheet.css');
 
-<!--var PostPreview = createClass({-->
-<!--    render: function() {-->
-<!--      var entry = this.props.entry;-->
-<!--      var image = entry.getIn(['data', 'image']);-->
-<!--      var bg = this.props.getAsset(image);-->
-<!--      return h('div', {},-->
-<!--        h('article', {"class": "post-single"},-->
-<!--            h('h1', {style: "color: orange"}, entry.getIn(['data', 'title'])),-->
-<!--            h('img', {src: bg.toString()}),-->
-<!--            h('div', {"className": "text"}, this.props.widgetFor('body'))-->
-<!--      ));-->
-<!--    }-->
-<!--});-->
-
 var PostPreview = createClass({
   render: function() {
     var entry = this.props.entry;
@@ -129,36 +115,45 @@ CMS.registerEditorComponent({
     },
 });
 
-CMS.registerEditorComponent({
-    id: "figure",
-    label: "Figure",
-    fields: [{
-            name: "title",
-            label: "Figure Title",
-            widget: "string"
-        },
-        {
-            name: "src",
-            label: "Figure SRC",
-            widget: "string"
-        },
-    ],
-    pattern: /{{< figure src="([a-zA-Z0-9-_ ]+)" title="([a-zA-Z0-9-_ ]+)" >}}/,
-    fromBlock: function(match) {
-        return {
-            title: match[1],
-            src: match[2],
-        };
+const image = {
+  label: 'Image',
+  id: 'image',
+  fromBlock: match =>
+    match && {
+      image: match[2],
+      alt: match[1],
+      title: match[4],
     },
-    toBlock: function(obj) {
-        return `{{< figure src="${obj.src}" title="${obj.title}" >}}`;
+  toBlock: ({ alt, image, title }) =>
+    `![${alt || ''}](${image || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
+  // eslint-disable-next-line react/display-name
+  toPreview: ({ alt, image, title }, getAsset, fields) => {
+    const imageField = fields?.find(f => f.get('widget') === 'image');
+    const src = getAsset(image, imageField);
+    return <img src={src || ''} alt={alt || ''} title={title || 'asdfasdfadf'} />;
+  },
+  pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
+  fields: [
+    {
+      label: 'Image',
+      name: 'image',
+      widget: 'image',
+      media_library: {
+        allow_multiple: false,
+      },
     },
-    toPreview: function(obj) {
-        return `<figure><img src=${obj.src} alt=${obj.title}><figcaption>${obj.title}</figcaption></figure>`;
+    {
+      label: 'Alt Text',
+      name: 'alt',
     },
-});
+    {
+      label: 'Title',
+      name: 'title',
+    },
+  ],
+};
 
-
+CMS.registerEditorComponent(image);
 
 CMS.registerEditorComponent({
     id: "twitter",
