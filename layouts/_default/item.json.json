@@ -1,11 +1,25 @@
 {{- $cover := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
+{{ $coverUrl := printf "%s%s" "https://blog.planter.garden" (print (.Params.cover.image)) }}
+{{- if $cover }}
+  {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
+  {{- if hugo.IsExtended -}}
+    {{- $processableFormats = $processableFormats | append "webp" -}}
+  {{- end -}}
+  {{- $size := "480" }}
+  {{- $prod := (hugo.IsProduction | or (eq .Page.Site.Params.env "production")) }}
+  {{- if (and $cover (in $processableFormats $cover.MediaType.SubType) (eq $prod true)) }}
+    {{- if (ge $cover.Width $size) -}}
+      {{ $coverUrl = (($cover.Resize (printf "%sx webp" $size)).Permalink) -}}
+    {{ end }}
+  {{- end -}}
+{{- end }}
 {{- $content := .Plain | truncate 500 | jsonify }}
 
 {
   "title": "{{ .Title }}",
   "author": "{{ .Params.author }}",
   "image": {
-    "url": {{- if $cover -}} "{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" {{- else }} "https://blog.planter.garden{{.Params.cover.image }}" {{- end }},
+    "url": "{{ $coverUrl }}",
     "caption" : "{{ .Params.cover.caption }}",
     "alt" : "{{ .Params.cover.alt }}"
   },
