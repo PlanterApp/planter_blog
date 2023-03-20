@@ -49,11 +49,6 @@ CMS.registerPreviewTemplate("posts", PostPreview);
 CMS.registerEditorComponent({
     id: "affiliate",
     label: "Affiliate",
-    fields: [{
-        name: "id",
-        label: "Youtube Video ID",
-        widget: "string"
-    }],
     pattern: /{{< affiliate >}}/,
     fromBlock: function(match) {
         return {
