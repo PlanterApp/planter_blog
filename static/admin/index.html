@@ -32,7 +32,11 @@ var PostPreview = createClass({
     var entry = this.props.entry;
     return h('div', {},
       h('article', {className: "post-single"},
-        h('h1', {}, entry.getIn(['data', 'title'])),
+      <header class="post-header">
+
+    <h1 class="post-title">
+        h('header', {"className": "post-header"},
+            h('h1', {"className": "post-title"}, entry.getIn(['data', 'title']))),
         h('figure', {"className": "entry-cover"}, this.props.widgetFor('cover')),
         h('div', {"className": "post-content"}, this.props.widgetFor('body'))
       ),
