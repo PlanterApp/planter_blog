@@ -44,7 +44,7 @@ collections:
         widget: "list"
         required: false
         summary: "{{fields.series}}"
-        field: { label: "Series", name: "series", widget: "string" }}
+        field: { label: "Series", name: "series", widget: "string" }
       - label: "Weight (default 5, use lower number to pin post)"
         name: "weight"
         widget: "number"
