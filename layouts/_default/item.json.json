@@ -5,7 +5,7 @@
   "title": "{{ .Title }}",
   "author": "{{ .Params.author }}",
   "image": {
-    "url": {{- if $cover -}} "{{ $cover | absURL }}" {{- else }} "https://blog.planter.garden{{.Params.cover.image }}" {{- end }},
+    "url": {{- if $cover -}} "{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" {{- else }} "https://blog.planter.garden{{.Params.cover.image }}" {{- end }},
     "caption" : "{{ .Params.cover.caption }}",
     "alt" : "{{ .Params.cover.alt }}"
   },
