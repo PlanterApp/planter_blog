@@ -3,7 +3,7 @@ draft = true
 title = "Upgrade your Gardening Toolset!"
 date = 2023-03-24T00:06:02.556Z
 author = "Jessalyn Krenicki"
-series = ["GardenTools"]
+series = ["Garden Tools"]
 weight = 5
 
 [cover]

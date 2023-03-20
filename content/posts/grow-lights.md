@@ -4,7 +4,7 @@ authors = []
 date = 2023-01-30T05:00:00Z
 override_position = false
 plants = []
-series = ["seed-starting"]
+series = ["Seed Starting"]
 title = "All About Grow Lights"
 weight = 5
 [cover]

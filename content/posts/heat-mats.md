@@ -4,7 +4,7 @@ authors = []
 date = 2023-02-04T05:00:00Z
 override_position = false
 plants = []
-series = ["seed-starting"]
+series = ["Seed Starting"]
 title = "Heat Mats for Starting Seeds"
 weight = 5
 [cover]
