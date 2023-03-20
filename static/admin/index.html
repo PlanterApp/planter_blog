@@ -32,22 +32,24 @@ var PostPreview = createClass({
     var entry = this.props.entry;
     var image = entry.getIn(['data', 'cover', 'image']);
     var bg = this.props.getAsset(image);
-    return h('div', {},
-      h('article', {className: "post-single"},
-        h('header', {"className": "post-header"},
-            h('h1', {"className": "post-title"}, entry.getIn(['data', 'title'])),
-            h('div', {"className": "post-meta"},
-                h('span', {}, this.props.widgetFor('date')),
-                " • ",
-                h('a', {"className": "post-meta"}, entry.getIn(['data', 'author'])),
+    return h('body', {"class id": "top"},
+        h('main', {"className": "main"},
+          h('article', {"className": "post-single"},
+            h('header', {"className": "post-header"},
+                h('h1', {"className": "post-title"}, entry.getIn(['data', 'title'])),
+                h('div', {"className": "post-meta"},
+                    h('span', {}, this.props.widgetFor('date')),
+                    " • ",
+                    h('a', {"className": "post-meta"}, entry.getIn(['data', 'author'])),
+                ),
             ),
-        ),
-        h('figure', {"className": "entry-cover"},
-            h('img', {src: bg.toString(), alt: entry.getIn(['data', 'cover', 'alt'])}),
-            h('p', {}, entry.getIn(['data', 'cover', 'caption'])),
-        ),
-        h('div', {"className": "post-content"}, this.props.widgetFor('body'))
-      ),
+            h('figure', {"className": "entry-cover"},
+                h('img', {src: bg.toString(), alt: entry.getIn(['data', 'cover', 'alt'])}),
+                h('p', {}, entry.getIn(['data', 'cover', 'caption'])),
+            ),
+            h('div', {"className": "post-content"}, this.props.widgetFor('body'))
+          ),
+       ),
     );
   }
 });
