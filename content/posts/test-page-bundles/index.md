@@ -19,3 +19,5 @@ This is just a test
 What about a page bundle image in the post?
 
 ![](bee-on-echinacea.jpeg "The image title")
+
+![](butterfly.png)
