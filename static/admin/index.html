@@ -130,7 +130,15 @@ const image = {
   toPreview: ({ alt, image, title }, getAsset, fields) => {
     const imageField = fields?.find(f => f.get('widget') === 'image');
     const src = getAsset(image, imageField);
-    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption>${title || ''}</figcaption></figure>`;
+
+    if (title === null) {
+      return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /></figure>`;
+    }
+
+    const html = markdownToHtml(title, { getAsset, resolveWidget }, getRemarkPlugins?.());
+    const toRender = field?.get('sanitize_preview', false) ? DOMPurify.sanitize(html) : html;
+
+    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><WidgetPreviewContainer dangerouslySetInnerHTML={{ __html: toRender }} /></figcaption></figure>`;
   },
   pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
   fields: [
