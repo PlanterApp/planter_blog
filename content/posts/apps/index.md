@@ -1,6 +1,5 @@
 +++
-author = "The Planter Team"
-authors = []
+author = ["The Planter Team"]
 date = 2023-02-19T05:00:00Z
 draft = false
 override_position = false
