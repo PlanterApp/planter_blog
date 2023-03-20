@@ -33,12 +33,16 @@ collections:
         required: false
       - label: "Author"
         name: "author"
-        widget: "string"
-        required: false
+        widget: "list"
+        required: true
+        summary: "{{fields.author}}"
+        field: { label: "Author", name: "author", widget: "string" }
       - label: "Related Plants"
         name: "plants"
         widget: "list"
         required: false
+        summary: "{{fields.plant}}"
+        field: { label: "Plant", name: "plant", widget: "string" }
       - label: "Series"
         name: "series"
         widget: "list"
@@ -61,6 +65,7 @@ collections:
           - label: "Cover Photo"
             name: "image"
             widget: "image"
+            required: true
             choose_url: false
             media_library:
               config:
@@ -68,11 +73,11 @@ collections:
           - label: "Alt Text"
             name: "alt"
             widget: "string"
-            required: false
+            required: true
           - label: "Caption"
             name: "caption"
             widget: "string"
-            required: false
+            required: true
           - label: "Relative"
             name: "relative"
             widget: "hidden"
