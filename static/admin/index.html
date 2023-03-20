@@ -37,10 +37,12 @@ var PostPreview = createClass({
         h('header', {"className": "post-header"},
             h('h1', {"className": "post-title"}, entry.getIn(['data', 'title'])),
             h('h1', {"className": "post-meta"}, this.props.widgetFor('date')),
-            h('h1', {"className": "post-meta"}, entry.getIn(['data', 'author']))
+            h('h1', {"className": "post-meta"}, entry.getIn(['data', 'author'])),
         ),
-        h('figure', {"className": "entry-cover"}, this.props.widgetFor('cover')),
-        h('img', {src: bg.toString()}),
+        h('figure', {"className": "entry-cover"},
+            h('img', {src: bg.toString()}),
+            h('p', {}, entry.getIn(['data', 'cover', 'caption'])),
+        ),
         h('div', {"className": "post-content"}, this.props.widgetFor('body'))
       ),
     );
