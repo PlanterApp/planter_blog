@@ -30,7 +30,7 @@ CMS.registerPreviewStyle('https://blog.planter.garden/assets/css/stylesheet.css'
 var PostPreview = createClass({
   render: function() {
     var entry = this.props.entry;
-    var image = entry.getIn(['data', 'cover', 'image']);-->
+    var image = entry.getIn(['data', 'cover', 'image']);
     var bg = this.props.getAsset(image);
     return h('div', {},
       h('article', {className: "post-single"},
