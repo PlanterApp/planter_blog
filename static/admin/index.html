@@ -38,7 +38,7 @@ var PostPreview = createClass({
             h('h1', {"className": "post-title"}, entry.getIn(['data', 'title'])),
             h('div', {"className": "post-meta"},
                 h('span', {}, this.props.widgetFor('date')),
-                "&#xA0;&#xB7;&#xA0;3 min&#xA0;&#xB7;&#xA0;"
+                "&#xA0;&#xB7;&#xA0;3 min&#xA0;&#xB7;&#xA0;",
                 h('a', {"className": "post-meta"}, entry.getIn(['data', 'author'])),
             ),
         ),
