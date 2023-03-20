@@ -38,11 +38,12 @@ var PostPreview = createClass({
             h('h1', {"className": "post-title"}, entry.getIn(['data', 'title'])),
             h('div', {"className": "post-meta"},
                 h('span', {}, this.props.widgetFor('date')),
+                "&#xA0;&#xB7;&#xA0;3 min&#xA0;&#xB7;&#xA0;"
                 h('a', {"className": "post-meta"}, entry.getIn(['data', 'author'])),
             ),
         ),
         h('figure', {"className": "entry-cover"},
-            h('img', {src: bg.toString()}),
+            h('img', {src: bg.toString(), alt: entry.getIn(['data', 'cover', 'alt'])}),
             h('p', {}, entry.getIn(['data', 'cover', 'caption'])),
         ),
         h('div', {"className": "post-content"}, this.props.widgetFor('body'))
