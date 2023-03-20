@@ -9,7 +9,7 @@ logo_url: https://planter.garden/favicon.svg
 format: toml
 
 collections:
-  - name: "post"
+  - name: "posts"
     label: "Blog post"
     folder: "content/posts"
     path: "{{slug}}/index"

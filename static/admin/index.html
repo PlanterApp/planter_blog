@@ -33,14 +33,11 @@ var PostPreview = createClass({
     var image = entry.getIn(['data', 'image']);
     var bg = image && this.props.getAsset(image);
     return h('div', {},
-      h('div', {className: "cover"},
+      h('article', {className: "post-single"},
         h('h1', {}, entry.getIn(['data', 'title'])),
-        bg ? h('img', {src: bg.toString()}) : null
+        h('img', {src: bg.toString()}),
+        h('div', {"className": "post-content"}, this.props.widgetFor('body'))
       ),
-      h('p', {},
-        h('small', {}, "Written " + entry.getIn(['data', 'date']))
-      ),
-      h('div', {"className": "text"}, this.props.widgetFor('body'))
     );
   }
 });
