@@ -35,7 +35,6 @@ var PostPreview = createClass({
     return h('div', {},
       h('article', {className: "post-single"},
         h('h1', {}, entry.getIn(['data', 'title'])),
-        h('img', {src: bg.toString()}),
         h('div', {"className": "post-content"}, this.props.widgetFor('body'))
       ),
     );
