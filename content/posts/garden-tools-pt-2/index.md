@@ -10,10 +10,12 @@ weight = 5
 relative = true
 linkFullImages = true
 image = "man-watering-flower-seedlings.jpg"
+alt = "Gardener uses a hose with a gardening wand to water his potted plants."
+caption = " "
 +++
-\[intro]
+S﻿eems you've got a good hold on the basics of gardening equipment- but you're still looking for more? Maybe you're getting into a new phase in gardening, whether that's larger plants or larger plots! Never fear; we've hand-picked a series of less commonly used tools for your agricultural journey! Whether you're looking for ways to make your garden more earth-friendly, or just something to take care of weeds more efficiently...
 
-## **Let's take a look at some more tools!**
+## **It's time to look at some more specialized tools!**
 
 ### Loppers
 
