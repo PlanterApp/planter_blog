@@ -9,11 +9,13 @@
 </head>
 <body>
 <!-- Include the script that builds the page and powers Decap CMS -->
-<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-<script>
-<!--import reactMarkdown from 'https://cdn.skypack.dev/react-markdown';-->
+<!--<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>-->
+<script type="module">>
+import ReactMarkdown from 'https://cdn.skypack.dev/react-markdown';
+import CMS from "https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js";
 
 CMS.registerPreviewStyle('https://blog.planter.garden/assets/css/stylesheet.css');
+CMS.init();
 
 var PostPreview = createClass({
   render: function() {
@@ -133,11 +135,11 @@ const image = {
     const imageField = fields?.find(f => f.get('widget') === 'image');
     const src = getAsset(image, imageField);
 
-<!--    if (title === null) {-->
+    if (title === null) {
       return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /></figure>`;
-<!--    }-->
+    }
 
-<!--    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><ReactMarkdown source=${title} /></figcaption></figure>`;-->
+    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><ReactMarkdown source=${title} /></figcaption></figure>`;
   },
   pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
   fields: [
