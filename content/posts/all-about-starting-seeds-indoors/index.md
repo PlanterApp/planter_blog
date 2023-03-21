@@ -34,6 +34,6 @@ Now that we know the reasons why to start seeds indoors, how do we know which se
 
 By looking at the Growing Calendar in Planter you’ll be able to get an idea of which plants should be started indoors, which can be started indoors, and which should be sown outside- again bear in mind there are some variations based on the variety you’re growing so be sure to check the seed packet and research as needed.
 
-### How to start seeds indoors (and when)
+### How and when to start seeds indoors
 
 ![Cucumber seedlings in small pots](cucumber-seedlings.jpg)
