@@ -4,16 +4,18 @@ title = "Upgrade your Gardening Toolset!"
 date = 2023-03-24T00:06:02.556Z
 author = "Jessalyn Krenicki"
 series = ["Garden Tools"]
-weight = 5
+weight = 2
 
 [cover]
 relative = true
 linkFullImages = true
 image = "man-watering-flower-seedlings.jpg"
+alt = "Gardener uses a hose with a gardening wand to water his potted plants."
+caption = " "
 +++
-\[intro]
+S﻿eems you've got a good hold on the basics of gardening equipment- but you're still looking for more? Maybe you're getting into a new phase in gardening, whether that's larger plants or larger plots! Never fear; we've hand-picked a series of less commonly used tools for your agricultural journey! Whether you're looking for ways to make your garden more earth-friendly, or just something to take care of weeds more efficiently...
 
-## **Let's take a look at some more tools!**
+## **It's time to look at some more specialized tools!**
 
 ### Loppers
 
@@ -73,4 +75,8 @@ Flamethrowers may be a surprise on a list for gardeners, but used correctly they
 
 ![](https://media.istockphoto.com/id/1342079163/photo/man-destroying-weeds-with-the-weed-burner.jpg?b=1&s=612x612&w=0&k=20&c=EgmY2LheVlYFq4aTPd8KG9SWIfuqeFATQjVtEDU4A7I=)
 
-\[﻿conclusion]
+## S﻿till looking for more?
+
+A﻿re these tools a little out of your league? Well, no worries! The part 1 of this posted pair might be just what you were looking for! Head over to our post, ["Unlock Your Garden's Potential with the Right Tools!"](https://blog.planter.garden/posts/unlock-your-gardens-potential-with-the-right-tools/) to find more commonplace tools that might be just right for what you need! If you're looking for something other than garden tools for your repertoire, we have another post you might like to check out: [2022 Gardener's Gift Guide](https://blog.planter.garden/posts/2022-gardeners-gift-guide/)! 
+
+A﻿rmed with your brand new toolkit, it's a great time to start preparing for the season! Check out [Planter, on web or the app](https://planter.garden/#download), to find the growing calendar in your area and start planning your garden journey!
