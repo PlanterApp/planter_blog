@@ -133,11 +133,11 @@ const image = {
     const imageField = fields?.find(f => f.get('widget') === 'image');
     const src = getAsset(image, imageField);
 
-    if (title === null) {
+<!--    if (title === null) {-->
       return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /></figure>`;
-    }
+<!--    }-->
 
-    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><ReactMarkdown source=${title} /></figcaption></figure>`;
+<!--    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><ReactMarkdown source=${title} /></figcaption></figure>`;-->
   },
   pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
   fields: [
