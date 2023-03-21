@@ -10,12 +10,10 @@
 <body>
 <!-- Include the script that builds the page and powers Decap CMS -->
 <!--<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>-->
-<script type="module">
+<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js" type="module">
 import ReactMarkdown from 'https://cdn.skypack.dev/react-markdown';
-import CMS from "netlify-cms-app";
 
 CMS.registerPreviewStyle('https://blog.planter.garden/assets/css/stylesheet.css');
-CMS.init();
 
 var PostPreview = createClass({
   render: function() {
