@@ -11,7 +11,7 @@ override_position = false
 
 [cover]
 alt = "A holiday gift with a red bow surrounded by greenery"
-caption = ""
+caption = "Caption for the cover photo"
 image = "bee-on-echinacea.jpeg"
 relative = true
 +++
@@ -21,4 +21,4 @@ What about a page bundle image in the post?
 
 ![](bee-on-echinacea.jpeg "The image title")
 
-![](butterfly.png)
+![Alt text](butterfly.png "T﻿his is a test **caption**")
