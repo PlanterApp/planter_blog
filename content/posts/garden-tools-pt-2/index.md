@@ -77,6 +77,6 @@ Flamethrowers may be a surprise on a list for gardeners, but used correctly they
 
 ## S﻿till looking for more?
 
-A﻿re these tools a little out of your league? Well, no worries! The part 1 of this posted pair might be just what you were looking for! Head over to \[post] to find more commonplace tools that might be just right for what you need! If you're looking for something other than garden tools for your repertoire, we have another post you might like to check out: [2022 Gardener's Gift Guide](https://blog.planter.garden/posts/2022-gardeners-gift-guide/)! 
+A﻿re these tools a little out of your league? Well, no worries! The part 1 of this posted pair might be just what you were looking for! Head over to our post, ["Unlock Your Garden's Potential with the Right Tools!"](https://blog.planter.garden/posts/unlock-your-gardens-potential-with-the-right-tools/) to find more commonplace tools that might be just right for what you need! If you're looking for something other than garden tools for your repertoire, we have another post you might like to check out: [2022 Gardener's Gift Guide](https://blog.planter.garden/posts/2022-gardeners-gift-guide/)! 
 
 A﻿rmed with your brand new toolkit, it's a great time to start preparing for the season! Check out [Planter, on web or the app](https://planter.garden/#download), to find the growing calendar in your area and start planning your garden journey!
