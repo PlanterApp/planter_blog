@@ -29,7 +29,7 @@ collections:
         required: true
       - label: "Date"
         name: "date"
-        widget: "date"
+        widget: "datetime"
         required: false
       - label: "Author"
         name: "author"
