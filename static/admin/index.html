@@ -137,7 +137,7 @@ const image = {
       return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /></figure>`;
     }
 
-    const markup = markdown? window.marked(title) : '';
+    const markup = title? window.marked(title) : '';
 <!--    return html`<div dangerouslySetInnerHTML=${{ __html: markup }}></div>`;-->
 
     return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><div dangerouslySetInnerHTML=${{ __html: markup }}></div></figcaption></figure>`;
