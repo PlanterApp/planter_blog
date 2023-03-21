@@ -137,7 +137,7 @@ const image = {
       return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /></figure>`;
     }
 
-    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><ReactMarkdown source=${title} /></figcaption></figure>`;
+    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption>${title}</figcaption></figure>`;
   },
   pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
   fields: [
