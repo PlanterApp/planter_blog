@@ -135,7 +135,7 @@ const image = {
       return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /></figure>`;
     }
 
-    const html = markdownToHtml(title, { getAsset, resolveWidget }, getRemarkPlugins?.());
+    const html = CMS.markdownToHtml(title, { getAsset, resolveWidget }, CMS.getRemarkPlugins?.());
     const toRender = field?.get('sanitize_preview', false) ? DOMPurify.sanitize(html) : html;
 
     return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><WidgetPreviewContainer dangerouslySetInnerHTML={{ __html: toRender }} /></figcaption></figure>`;
