@@ -16,7 +16,7 @@ Have you ever wondered why gardeners start seeds indoors? It seems like a lot of
 
 ### Why Start Seeds Indoors?
 
-Starting seeds indoors is more than just a way to kill time in winter. The main benefit to starting seeds indoors is time. When the growing season is limited you want to get the most productivity you can out of your plants. For some plants it is absolutely necessary to get started indoors before the last frost date, to ensure they will have enough time to reach maturity and start producing before the first frost comes in fall to kill them off.
+The main benefit to starting seeds indoors is time. When the growing season is limited you want to get the most productivity you can out of your plants. For some plants it is absolutely necessary to get started indoors before the last frost date, to ensure they will have enough time to reach maturity and start producing before the first frost comes in fall to kill them off.
 
 Buying seedlings from the garden center is certainly an option if you don’t want to start seeds indoors but just be aware that they will be more expensive and you might not find the extensive variety selection that you have when you start your own seeds.
 
