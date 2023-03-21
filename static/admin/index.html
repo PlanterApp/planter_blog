@@ -10,6 +10,9 @@
 <body>
 <!-- Include the script that builds the page and powers Decap CMS -->
 <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+<script type="module">
+  import reactMarkdown from 'https://cdn.skypack.dev/react-markdown';
+</script>
 <script>
 CMS.registerPreviewStyle('https://blog.planter.garden/assets/css/stylesheet.css');
 
@@ -135,10 +138,7 @@ const image = {
       return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /></figure>`;
     }
 
-    const html = CMS.markdownToHtml(title, { }, CMS.getRemarkPlugins?.());
-    const toRender = field?.get('sanitize_preview', false) ? DOMPurify.sanitize(html) : html;
-
-    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><WidgetPreviewContainer dangerouslySetInnerHTML={{ __html: toRender }} /></figcaption></figure>`;
+    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption><ReactMarkdown source=${title} /></figcaption></figure>`;
   },
   pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
   fields: [
