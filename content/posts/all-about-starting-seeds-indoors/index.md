@@ -12,7 +12,7 @@ image = "indoor-seedlings.jpg"
 alt = "Young seedlings growing in a foil tray"
 caption = "Young seedlings started indoors"
 +++
-Have you ever wondered why gardeners start seeds indoors? It seems like a lot of hassle when you can just plant seeds in the garden. But starting seeds indoors for some plants is not just a nice-to-do, it is a must-do– unless you plan to buy transplants from the garden center. Read on to learn more about the whys and hows of seed starting indoors.
+Have you ever wondered why gardeners start seeds indoors? It seems like a lot of hassle when you can just plant seeds in the garden. But starting seeds indoors for some plants is not just a nice-to-do, it is a must-do– unless you plan to buy transplants from the garden center. Read on to learn the whys and hows of seed starting indoors.
 
 ### Why Start Seeds Indoors?
 
