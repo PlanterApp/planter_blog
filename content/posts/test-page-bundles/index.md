@@ -22,3 +22,7 @@ What about a page bundle image in the post?
 ![](bee-on-echinacea.jpeg "The image title")
 
 ![Alt text](butterfly.png "T﻿his is a test **caption**")
+
+
+
+![](carrots-and-beets.jpeg "Another Caption!")
