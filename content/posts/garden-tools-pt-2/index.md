@@ -73,9 +73,3 @@ Used to create seed blocks, these tools are becoming more popular due to their r
 Flamethrowers may be a surprise on a list for gardeners, but used correctly they can save a lot of time! Used mostly to burn off weeds, they could be used just before seeds germinate if you’re careful, or to just clean up weeds on dirt or stone. Not for use on any sort of wood mulch, naturally- don’t use a flamethrower on anything too flammable!
 
 ![](https://media.istockphoto.com/id/1342079163/photo/man-destroying-weeds-with-the-weed-burner.jpg?b=1&s=612x612&w=0&k=20&c=EgmY2LheVlYFq4aTPd8KG9SWIfuqeFATQjVtEDU4A7I=)
-
-## S﻿till looking for more?
-
-A﻿re these tools a little out of your league? Well, no worries! The part 1 of this posted pair might be just what you were looking for! Head over to our post, ["Unlock Your Garden's Potential with the Right Tools!"](https://blog.planter.garden/posts/unlock-your-gardens-potential-with-the-right-tools/) to find more commonplace tools that might be just right for what you need! If you're looking for something other than garden tools for your repertoire, we have another post you might like to check out: [2022 Gardener's Gift Guide](https://blog.planter.garden/posts/2022-gardeners-gift-guide/)! 
-
-A﻿rmed with your brand new toolkit, it's a great time to start preparing for the season! Check out [Planter, on web or the app](https://planter.garden/#download), to find the growing calendar in your area and start planning your garden journey!
