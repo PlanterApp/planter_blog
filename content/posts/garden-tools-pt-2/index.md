@@ -8,7 +8,6 @@ weight = 5
 
 [cover]
 relative = true
-linkFullImages = true
 image = "man-watering-flower-seedlings.jpg"
 alt = "Gardener uses a hose with a gardening wand to water his potted plants."
 caption = " "

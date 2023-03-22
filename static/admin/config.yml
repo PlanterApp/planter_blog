@@ -75,13 +75,9 @@ collections:
           - label: "Caption"
             name: "caption"
             widget: "string"
-            required: true
+            required: false
           - label: "Relative"
             name: "relative"
-            widget: "hidden"
-            default: true
-          - label: "Link Full Images"
-            name: "linkFullImages"
             widget: "hidden"
             default: true
       - label: "Body"
