@@ -32,7 +32,7 @@ Now that we know the reasons for starting seeds indoors, how do we know which se
 
 * Plants where the number of ‘days to maturity’ are about the same or greater than the number of days in your growing season must be started indoors. 
 * Plants where the days to maturity are less than the number of days in your growing season can be started indoors to get a head start on the season, with a few exceptions (see below).
-* There are some plants that don’t do well if started indoors and then transplanted. Common examples are root crops such as carrots and radishes (although some gardeners do start beets indoors). Corn, beans and peas are also not typically started indoors (although it can be done).
+* There are some plants that don’t do well if started indoors and then transplanted. Common examples are root crops such as carrots and radishes (although some gardeners do start beets indoors). Corn, beans and peas are also not typically started indoors (although it can be done!)
 
 The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/) in [Planter](https://planter.garden/) helps you determine which plants should be started indoors and which should be sown outside, e.g.:
 
@@ -61,8 +61,8 @@ Starting seeds indoors too early can be almost as problematic as starting too la
 Starting seeds indoors involves a few basic steps:
 
 * Pre-moisten your seed starting mix (don’t use regular garden soil!)
-* Fill your containers or seed trays with the moistened mix and pat down gently but firmly.
-* Place the seeds into the containers or cells. Gardeners often plant multiple seeds per cell as ‘insurance’ in case one doesn’t germinate.
+* Fill your containers or seed trays with the moistened mix and pat down gently.
+* Place the seeds into the containers or cells. Gardeners often plant multiple seeds per cell as insurance in case one doesn’t germinate.
 * Poke the seeds down into the soil to the depth recommended on the seed packet or in the [How to Grow](https://info.planter.garden/plant-information/how-to-grow/) info in [Planter](https://planter.garden/). Ensure they are covered over with soil.
 * Label the containers so you know which seeds are where (this is very important!)
 * Place the containers in a flat tray that can collect water.
