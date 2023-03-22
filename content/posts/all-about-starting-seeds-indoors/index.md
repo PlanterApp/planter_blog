@@ -33,7 +33,7 @@ Now that we know the reasons for starting seeds indoors, how do we know which se
 
 * Plants where the number of ‘days to maturity’ are about the same or greater than the number of days in your growing season must be started indoors. 
 * Plants where the days to maturity are less than the number of days in your growing season can be started indoors to get a head start on the season, with a few exceptions (see below).
-* There are some plants that don’t do well if started indoors and then transplanted. Common examples are root crops such as carrots and radishes (although some gardeners do start beets indoors). Beans and peas are also not typically started indoors (although it can be done).
+* There are some plants that don’t do well if started indoors and then transplanted. Common examples are root crops such as carrots and radishes (although some gardeners do start beets indoors). Corn, beans and peas are also not typically started indoors (although it can be done).
 
 The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/) in [Planter](https://planter.garden/) helps you determine which plants should be started indoors and which should be sown outside, e.g.:
 
