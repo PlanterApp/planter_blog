@@ -26,3 +26,5 @@ What about a page bundle image in the post?
 
 
 ![](carrots-and-beets.jpeg "Another Caption!")
+
+![](pexels-lucas-pezeta-5713908.jpg "BUG!")
