@@ -3,6 +3,7 @@ draft = true
 title = "All About Starting Seeds Indoors"
 date = 2023-03-21T20:30:30.381Z
 author = "Erin Thomson"
+series = ["Seed Starting"]
 weight = 5
 
 [cover]
@@ -12,6 +13,8 @@ image = "indoor-seedlings.jpg"
 alt = "Young seedlings growing in a foil tray"
 caption = "Young seedlings started indoors"
 +++
+*This is the third post in our [Seed Starting](https://blog-preview.planter.garden/series/seed-starting/) series.*
+
 It can seem like a hassle to start seeds indoors- why bother if you can plant seeds directly in the garden? For some plants, starting seeds indoors is not just a nice-to-do, it’s a must-do! In this article we’ll cover the whys, whens, and hows of starting seeds indoors.
 
 ### Why Start Seeds Indoors?
@@ -47,7 +50,5 @@ The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/)
 ![Screenshot of the radish growing calendar in Planter](radishes-calendar.jpg)
 
 ### How and when to start seeds indoors
-
-
 
 ![Cucumber seedlings in small pots](cucumber-seedlings.jpg)
