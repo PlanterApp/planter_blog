@@ -26,13 +26,25 @@ Another benefit of starting seeds indoors is being able to control the environme
 
 ### How to know which seeds to start indoors
 
-Now that we know the reasons why to start seeds indoors, how do we know which seeds need to be started indoors? Which can be started indoors? And which should not be started indoors?
+Now that we know the reasons for starting seeds indoors, how do we know which seeds need to be started indoors?
 
-* Plants where the days to maturity are close to or longer than the number of days in your growing season must be started indoors (or otherwise purchased as transplants). To calculate the number of days in your growing season refer to your frost dates in Planter and then Google the number of days between those two dates. Compare this with the days to maturity listed on the seed packets - Planter gives an estimate in the How to Grow information but there can be dramatic differences in days to maturity between different varieties of the same plant. If there are not enough days for the plant to mature, you’ll need to start it indoors. Onions, tomatoes and peppers are common examples of plants that can have a long growing season (depending on the variety) and may need to be started indoors.
-* Plants where the days to maturity are less than the number of days in your growing season can be started indoors, with a few exceptions (noted below). Why would you want to start these plants indoors if you have enough time to grow them? Primarily to get a jump start on the season so you can start harvesting earlier than you otherwise would! Lettuce, herbs, cucumbers, and squash are examples of plants that can be started indoors, but often can also be direct-seeded outside.
-* Some plants typically do not perform well if started indoors and then transplanted outside. Common examples are root crops such as carrots where the transplanting process disturbs the root that we like to eat (opinions are mixed on beets)- not to mention you’d have to transplant one plant per carrot. Beans and peas are also often-cited examples of seeds that are typically best direct-sown, although rules are meant to be broken and it can be done!
+* Plants where the number of days to maturity are about the same as or more than the number of days in your growing season must be started indoors. To calculate the number of days in your growing season, check your [spring and fall frost dates](https://info.planter.garden/getting-started/frost-dates/) in [Planter](https://planter.garden/) then run a Google search to get the number of days between the two. Compare this with the ‘days to maturity’ on the seed packet. If there are not enough days in the growing season for the plant to mature (or if it's going to be tight) you’ll need to start them indoors.
+* Plants where the days to maturity are less than the number of days in your growing season can be started indoors to get a head start on the season, with a few exceptions (noted below).
+* There are some plants that don’t do well if started indoors and then transplanted. Common examples are root crops such as carrots and radishes (although some gardeners do start beets indoors). Beans and peas are also not typically started indoors (although it can be done).
 
-By looking at the Growing Calendar in Planter you’ll be able to get an idea of which plants should be started indoors, which can be started indoors, and which should be sown outside- again bear in mind there are some variations based on the variety you’re growing so be sure to check the seed packet and research as needed.
+The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/) in [Planter](https://planter.garden/) helps you determine which plants should be started indoors and which should be sown outside, e.g.:
+
+**Broccoli** should be started inside then transplanted (direct sowing outside not recommended)
+
+![Screenshot of the broccoli growing calendar in Planter](broccoli-calendar.jpg)
+
+**Lettuce** can be started indoors then transplanted, or direct-sown outside
+
+![Screenshot of the lettuce growing calendar in Planter](lettuce-calendar.jpg)
+
+**Radishes** should be direct sown outside (starting indoors is not recommended)
+
+![Screenshot of the radish growing calendar in Planter](radishes-calendar.jpg)
 
 ### How and when to start seeds indoors
 
