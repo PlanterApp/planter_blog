@@ -26,7 +26,7 @@ jobs:
           IMAGES_MAX_WIDTH: "1080"
           IMAGES_QUALITY: "80"
           IMAGES_FORMATS: "jpg, jpeg, png, webp" 
-          IMAGES_DIRECTORIES: "content/uploads",${{ env.file_dir }}
+          IMAGES_DIRECTORIES: "content/uploads,content/posts"
       - name: Commit changes direct to main
         run: |
           echo "Committing compressed images"
