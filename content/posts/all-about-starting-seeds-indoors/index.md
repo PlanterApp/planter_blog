@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "All About Starting Seeds Indoors"
-date = 2023-03-21T20:30:30.381Z
+date = 2023-03-22T00:40:06.031Z
 author = "Erin Thomson"
 series = ["Seed Starting"]
 weight = 5
