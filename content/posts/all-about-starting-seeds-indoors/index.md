@@ -8,7 +8,6 @@ weight = 5
 
 [cover]
 relative = true
-linkFullImages = true
 image = "indoor-seedlings.jpg"
 alt = "Young seedlings growing in a foil tray"
 caption = "Young seedlings started indoors"
