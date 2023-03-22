@@ -34,7 +34,7 @@ Now that we know the reasons for starting seeds indoors, how do we know which se
 
 The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/) in [Planter](https://planter.garden/) helps you determine which plants should be started indoors and which should be sown outside, e.g.:
 
-**Broccoli** should be started inside then transplanted (direct sowing outside not recommended)
+**Broccoli** should be started inside then transplanted (direct sowing outside is not recommended)
 
 ![Screenshot of the broccoli growing calendar in Planter](broccoli-calendar.jpg)
 
