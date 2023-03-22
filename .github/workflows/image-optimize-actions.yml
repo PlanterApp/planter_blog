@@ -8,10 +8,10 @@ on:
       - 'content/uploads/**.jpeg'
       - 'content/uploads/**.png'
       - 'content/uploads/**.webp'
-      - 'content/test/**.jpg'
-      - 'content/test/**.jpeg'
-      - 'content/test/**.png'
-      - 'content/test/**.webp'
+      - 'content/posts/**/**.jpg'
+      - 'content/posts/**/**.jpeg'
+      - 'content/posts/**/**.png'
+      - 'content/posts/**/**.webp'
 jobs:
   build:
     name: optimize-images
