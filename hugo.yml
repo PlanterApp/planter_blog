@@ -4,7 +4,7 @@ title: "Planter | Growing Guide"
 description: "The essential guide to growing your own food. Alongside Planter, the garden planning app, this guide will teach you how to grow vegetables, including useful tips and tricks."
 theme: "PaperMod"
 googleAnalytics: G-3KCJ1RRWM3
-timeout: “240s”
+timeout: 600000
 
 languages:
   en:
