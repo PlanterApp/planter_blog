@@ -49,6 +49,30 @@ The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/)
 
 ![Screenshot of the radish growing calendar in Planter](radishes-calendar.jpg)
 
-### How and when to start seeds indoors
+### When to start seeds indoors
+
+To find out when to start seeds indoors, first check the [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/) in [Planter](https://planter.garden/). The Growing Calendar gives a good indication of when that plant should be started indoors, based on your [local frost dates](https://info.planter.garden/getting-started/frost-dates/).
+
+If the seed packet gives specific instructions on when to start seeds indoors you should follow them, as dates can vary for different varieties of the same plant. If the packet says “Start indoors 6-8 weeks before last frost”, count backwards 6-8 weeks from your [Spring frost date](https://info.planter.garden/getting-started/frost-dates/) in [Planter](https://planter.garden/) to determine when to start those seeds indoors.
+
+Starting seeds indoors too early can be almost as problematic as starting too late. Space and light start to become scarce as the seedlings get bigger, and they can be more prone to issues such as legginess and becoming root-bound. Resist the urge to plant earlier than recommended!
+
+### How to start seeds indoors
+
+Starting seeds indoors involves a few basic steps:
+
+* Pre-moisten your seed starting mix (don’t use regular garden soil!)
+* Fill your containers or seed trays with the moistened mix and pat down gently but firmly.
+* Place the seeds into the containers or cells. Gardeners often plant multiple seeds per cell as ‘insurance’ in case one doesn’t germinate.
+* Poke the seeds down into the soil to the depth recommended on the seed packet or in the [How to Grow](https://info.planter.garden/plant-information/how-to-grow/) info in [Planter](https://planter.garden/). Ensure they are covered over with soil.
+* Label the containers so you know which seeds are where (this is very important!)
+* Place the containers in a flat tray that can collect water.
+* Place trays on heat mats and under grow lights if you’re using them (check out [All About Grow Lights](https://blog.planter.garden/posts/grow-lights/) and [ All About Heat Mats](https://blog.planter.garden/posts/heat-mats/) for more info!)
+* Keep the seed starting mix consistently moist but not soggy until you see germination (many gardeners prefer to [bottom water](https://blog.planter.garden/posts/the-ups-and-downs-of-bottom-watering/) seed starts).
+* Point a fan at the seed starts and turn it on a gentle setting for at least a few hours each day to help strengthen the seedlings and prevent disease.
+
+As the seedlings grow you’ll need to continue watering and start fertilizing them. You might also need to ‘thin them out’ and ‘pot them up’. We’ll cover seedling care and troubleshooting in an upcoming post!
 
 ![Cucumber seedlings in small pots](cucumber-seedlings.jpg)
+
+Having the ability to start seeds indoors will take your garden to the next level! It might seem intimidating, but over time you’ll hone in on a seed-starting approach that works for you. The time and investment is more than worth it to kick-start your gardening season!
