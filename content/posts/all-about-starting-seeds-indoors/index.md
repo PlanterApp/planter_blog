@@ -66,7 +66,7 @@ Starting seeds indoors involves a few basic steps:
 * Poke the seeds down into the soil to the depth recommended on the seed packet or in the [How to Grow](https://info.planter.garden/plant-information/how-to-grow/) info in [Planter](https://planter.garden/). Ensure they are covered over with soil.
 * Label the containers so you know which seeds are where (this is very important!)
 * Place the containers in a flat tray that can collect water.
-* Place trays on heat mats and under grow lights if you’re using them (check out [All About Grow Lights](https://blog.planter.garden/posts/grow-lights/) and [All About Heat Mats](https://blog.planter.garden/posts/heat-mats/) for more info!)
+* Place trays on heat mats and under grow lights if you’re using them (check out [All About Grow Lights](https://blog.planter.garden/posts/grow-lights/) and [Heat Mats for Starting Seeds](https://blog.planter.garden/posts/heat-mats/) for more info!)
 * Keep the seed starting mix consistently moist but not soggy until you see germination (many gardeners prefer to [bottom water](https://blog.planter.garden/posts/the-ups-and-downs-of-bottom-watering/) seed starts).
 * Point a fan at the seed starts and turn it on a gentle setting for at least a few hours each day to help strengthen the seedlings and prevent disease.
 
