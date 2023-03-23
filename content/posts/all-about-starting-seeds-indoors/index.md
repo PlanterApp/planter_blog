@@ -63,7 +63,7 @@ Starting seeds indoors involves a few basic steps:
 * Pre-moisten your seed starting mix (don’t use regular garden soil!)
 * Fill your containers or seed trays with the moistened mix and pat down gently.
 * Place the seeds into the containers or cells. Gardeners often plant multiple seeds per cell as insurance in case one doesn’t germinate.
-* Poke the seeds down into the soil to the depth recommended on the seed packet or in the [How to Grow](https://info.planter.garden/plant-information/how-to-grow/) info in [Planter](https://planter.garden/). Ensure they are covered over with soil.
+* Poke the seeds down into the soil to the depth recommended on the seed packet or in the [How to Grow](https://info.planter.garden/plant-information/how-to-grow/) info in [Planter](https://planter.garden/) (you might need to use a pencil or another tool for smaller seeds). Ensure they are covered over with soil.
 * Label the containers so you know which seeds are where (this is very important!)
 * Place the containers in a flat tray that can collect water.
 * Place trays on heat mats and under grow lights if you’re using them (check out [All About Grow Lights](https://blog.planter.garden/posts/grow-lights/) and [Heat Mats for Starting Seeds](https://blog.planter.garden/posts/heat-mats/) for more info!)
