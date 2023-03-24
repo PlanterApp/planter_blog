@@ -1,14 +1,15 @@
 +++
 draft = true
-title = "Peat Moss"
+title = "Peat Moss - Good or bad?"
 date = 2023-03-24T12:23:06.690Z
 author = "Peter Keefe"
 weight = 5
 
 [cover]
 relative = true
-image = "green-measuring-scoop-dark-soil.jpg"
+image = "sphagnum_divinum_158671021.jpg"
 alt = "Green shovel in garden soil"
+caption = "Live sphagnum moss. Marcel Hospers, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 +++
 Peat moss has been getting a bad reputation lately, due to its environmental impact. But is it really that bad? Let's explore this question, and you may learn that it's not as simple as you thought.\
 \
