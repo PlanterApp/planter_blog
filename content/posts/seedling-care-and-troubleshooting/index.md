@@ -14,7 +14,7 @@ caption = "Healthy tomato seedlings growing in pots"
 +++
 *This is the fourth article in our [Seed Starting](../../series/seed-starting/) series.*
 
-If you’ve been busy starting seeds indoors, you might already be at the point where your seeds have germinated and are growing into tiny seedlings (if not, be sure to check out our *[Seed Starting](../../series/seed-starting/)* series to get started!) But the conditions that seedlings need to grow and thrive are different than what they needed at first to germinate. Knowing how to properly care for your seedlings is important to get them off to the best start possible!
+If you’ve been busy starting seeds indoors, you might already be at the point where your seeds have germinated and are growing into tiny seedlings (if not, be sure to check out our *[Seed Starting](../../series/seed-starting/)* series to get started!) But the conditions that seedlings need to grow and thrive are different from what they needed to germinate. Knowing how to properly care for your seedlings is important to get them off to the best start possible!
 
 ### Lighting and heat for seedlings
 
