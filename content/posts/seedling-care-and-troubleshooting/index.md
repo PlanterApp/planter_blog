@@ -12,6 +12,8 @@ image = "tomato-seedlings.jpg"
 alt = "Four tomato seedlings in pots by a windowsill"
 caption = "Healthy tomato seedlings growing in pots"
 +++
+*This is the fourth post in our [Seed Starting](../../series/seed-starting/) series.*
+
 If you’ve been busy starting seeds indoors, you might already be at the point where your seeds have germinated and are growing into tiny seedlings (if not, be sure to check out our seed starting series to get going!) It's important to be aware that the conditions required for seeds to germinate are different from the conditions that seedlings need to thrive. This article will cover the basics of seedling care as well as how to troubleshoot common problems with your seedlings. Keep reading to get your seedlings off to the best start possible!
 
 ### Lighting and heat for seedlings
@@ -20,7 +22,7 @@ Seeds typically need warm, moist conditions for germination and most edible seed
 
 ### How to water seedlings
 
-While seedlings do still need ample water to grow, you may not have to be quite as meticulous with watering and misting as when germinating your seeds - it's OK for the soil to dry out a bit. So how much water should you give your seedlings and how often? The frustrating answer is ‘it depends’ on many factors such as how fast your potting mix drains, the type of containers you are using, how hot and dry your house is, and many more. The best guidance is to check your seedlings often- ideally multiple times a day- and if the soil is starting to look dry give them some water. Many gardeners prefer to bottom water their seedlings, but no matter how you water it is important not to let the seedlings sit in water. Once the soil has absorbed enough moisture be sure to get rid of any excess to avoid drawing your seedlings and causing disease. As the seedlings grow they can start handling longer periods without watering - but again you never want to let the growing medium bone dry. You will start to get a ‘feel’ for how much water to give your seedlings over time.
+While seedlings do still need ample water to grow, you may not have to be quite as meticulous with watering and misting as when germinating your seeds - it's OK for the soil to dry out a bit. So how much water should you give your seedlings and how often? The frustrating answer is ‘it depends’ on many factors such as how fast your potting mix drains, the type of containers you are using, how hot and dry your house is, and many more. The best guidance is to check your seedlings often- ideally multiple times a day- and if the soil is starting to look dry give them some water. Many gardeners prefer to [bottom water](https://blog.planter.garden/posts/the-ups-and-downs-of-bottom-watering/) their seedlings, but no matter how you water it is important not to let the seedlings sit in water. Once the soil has absorbed enough moisture be sure to get rid of any excess to avoid drawing your seedlings and causing disease. As the seedlings grow they can start handling longer periods without watering - but again you never want to let the growing medium bone dry. You will start to get a ‘feel’ for how much water to give your seedlings over time.
 
 ### How to fertilize seedlings
 
