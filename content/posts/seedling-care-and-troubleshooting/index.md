@@ -38,7 +38,7 @@ Seeds and newly emerged seedlings do not need any fertilizer- they have all the 
 
 ### Common seedling problems and remedies
 
-**Mold and damping off:** Mold on seedlings is often just an eyesore, but it can be a sign of a deeper problem. ‘Damping off’ is a type of mold that can actually kill your seedlings. To prevent mold, make sure you are not overwatering your seedlings. Using a fan on a gentle setting to circulate air can also help keep mold at bay. Covering your seed starts with vermiculite can also help prevent mold.
+**Mold and damping off:** Mold on seedlings is often just an eyesore, but it can be a sign of a deeper problem. ‘Damping off’ is a type of mold that can actually kill your seedlings. To prevent mold, make sure you are not overwatering your seedlings. Using a fan on a gentle setting to circulate air can also help keep mold at bay. 
 
 **Fungus gnats:** Fungus gnats are small, black flying insects. On mature plants they are no more than a nuisance, but the larvae can inflict catastrophic damage on your seed starts. There are many potential remedies online for fungus gnats. Sterilizing your seed starting mix with boiling water or by baking is an excellent preventative measure, but if its too late to do this water the seedlings with a hydrogen peroxide solution of 3 parts water mixed with 1 part hydrogen peroxide.
 
