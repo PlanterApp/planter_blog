@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Seedling Care and Troubleshooting"
-date = 2023-03-28T16:00:13.388Z
+date = 2023-03-28T13:00:13.388Z
 author = "Erin Thomson"
 series = ["Seed starting"]
 weight = 5
