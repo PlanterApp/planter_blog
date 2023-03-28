@@ -24,6 +24,8 @@ Seeds typically need warm, moist conditions for germination and most edible plan
 
 How much to water your seedlings and when depends on many factors such as: how well your seed starting mix holds water, the type of containers you use, and how dry your house is. Check your seedlings often- multiple times a day- and as soon as the soil starts to appear a bit dry water them right away. While you never want the growing medium to go bone dry, you may not have to be as meticulous with misting and watering as when germinating seeds. Also, if you were using a humidity dome for germinating your seeds, be sure to remove it once they germinate. Many gardeners prefer to [bottom water](https://blog.planter.garden/posts/the-ups-and-downs-of-bottom-watering/) their seedlings, but no matter how you water them, be sure your containers have drainage and don't let your seedlings sit in water. Over time you will develop a 'feel' for the right amount of water to give your seedlings.
 
+![Young seedlings in a tray with water on the leaves](seedlings-with-water.jpg)
+
 ### How to fertilize seedlings
 
 Seeds and newly emerged seedlings do not need any fertilizer- they have all the nutrients they need inside their 'seed leaves' (‘cotyledons’). Because of this, seed starting mix often does not have any nutrients added (although some do).  It’s usually recommended to start fertilizing seedlings once their second set of ‘true leaves’ emerge. When fertilizing young seedlings, use diluted quantities of fertilizer to avoid burning them. I like to use a liquid fish emulsion fertilizer diluted to a half or quarter of the usual strength. Fertilize about once a week as the seedlings grow, and increase the frequency if the leaves start to turn yellow.
