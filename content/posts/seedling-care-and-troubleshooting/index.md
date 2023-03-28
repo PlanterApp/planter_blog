@@ -48,4 +48,4 @@ Seeds and newly emerged seedlings do not need any fertilizer- they have all the 
 
 ![Leggy tomato seedlings in peat pots](leggy-tomatoes.jpg)
 
-Taking care of seedlings is not complicated, but it does require a bit of attentiveness. Keep a close eye on your seedlings to make sure they are not underwatered, overwatered, and they have sufficient light and nutrients. Taking action as soon as you spot a problem can save your precious seedlings. You’ll be rewarded for your efforts  when they turn into healthy plants you can transplant into your garden!
+Taking care of seedlings is not complicated, but it does require a bit of attentiveness. Keep a close eye on your seedlings to make sure they are not underwatered or overwatered, and that they have sufficient light and nutrients. Taking action as soon as you spot a problem can save your precious seedlings. You’ll be rewarded for your efforts  when they turn into healthy plants you can transplant into your garden!
