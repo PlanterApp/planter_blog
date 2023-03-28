@@ -44,7 +44,7 @@ Seeds and newly emerged seedlings do not need any fertilizer- they have all the 
 
 **Fungus gnats:** Fungus gnats are small, black flying insects. On mature plants they are a nuisance, but the larvae can inflict catastrophic damage on your seed starts. Sterilizing your seed starting mix with boiling water before sowing seeds will kill fungus gnat eggs. To treat fungus gnats in your seed starts, water them with a hydrogen peroxide solution of 4 parts water mixed with 1 part hydrogen peroxide. Multiple treatments may be needed to quell an infestation.
 
-**Leggy seedlings:** Leggy seedlings are weak seedlings that are stretched too thin. To prevent leggy seedlings, make sure they are placed close enough to a light source to receive ample light, and use a fan on a gentle setting to help strengthen the seedlings.
+**Leggy seedlings:** Leggy seedlings are weak seedlings that are stretched too thin. To prevent leggy seedlings, make sure they are placed close enough to a light source to receive ample light, and use a fan on a gentle setting to help strengthen the stems.
 
 ![Leggy tomato seedlings in peat pots](leggy-tomatoes.jpg)
 
