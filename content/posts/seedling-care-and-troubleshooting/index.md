@@ -18,7 +18,7 @@ If you’ve been busy starting seeds indoors, you might already be at the point 
 
 ### Lighting and heat for seedlings
 
-Seeds typically need warm, moist conditions for germination and most edible plant seeds do not need any light for germination. Once the seeds germinate though, it's a whole different ball game! Seedlings need ample light as soon as they germinate.  If you’re using heat mats you can turn them off once the majority of your seeds on the mats have germinated. Refer to [All About Grow Lights](https://blog.planter.garden/posts/grow-lights/) and [Heat Mats for Starting Seeds](https://blog.planter.garden/posts/heat-mats/) for more information on how to use grow lights and heat mats.
+Seeds typically need warm, moist conditions for germination and most veggie plant seeds do not need any light for germination. Once the seeds germinate though, it's a whole different ball game! Seedlings need ample light as soon as they germinate.  If you’re using heat mats you can turn them off once the majority of your seeds on the mats have germinated. Refer to [All About Grow Lights](https://blog.planter.garden/posts/grow-lights/) and [Heat Mats for Starting Seeds](https://blog.planter.garden/posts/heat-mats/) for more information on how to use grow lights and heat mats.
 
 ### How to water seedlings
 
