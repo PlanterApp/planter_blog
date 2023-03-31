@@ -28,7 +28,7 @@ How much to water your seedlings and when depends on many factors such as: how w
 
 ### How to fertilize seedlings
 
-Seeds and newly emerged seedlings do not need any fertilizer- they have all the nutrients they need inside their 'seed leaves' (‘cotyledons’). Because of this, seed starting mix often does not have any nutrients added (although some do).  It’s usually recommended to start fertilizing seedlings once their first set of ‘true leaves’ emerge. When fertilizing young seedlings, use diluted quantities of fertilizer to avoid burning them. I like to use a liquid fish emulsion fertilizer diluted to a half or quarter of the usual strength. Fertilize about once a week as the seedlings grow (you can increase the frequency if the leaves start to turn yellow).
+Seeds and newly emerged seedlings do not need any fertilizer- they have all the nutrients they need inside their 'seed leaves' (‘cotyledons’) or inside the seed. Because of this, seed starting mix often does not have any nutrients added (although some do).  It’s usually recommended to start fertilizing seedlings once their first set of ‘true leaves’ emerge. When fertilizing young seedlings, use diluted quantities of fertilizer to avoid burning them. I like to use a liquid fish emulsion fertilizer diluted to a half or quarter of the usual strength. Fertilize about once a week as the seedlings grow (you can increase the frequency if the leaves start to turn yellow).
 
 ### Thinning and potting up seedlings
 
