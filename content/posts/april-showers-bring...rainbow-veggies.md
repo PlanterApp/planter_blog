@@ -1,15 +1,16 @@
 +++
-author = "Peter Keefe"
-date = 2023-04-01T10:00:00Z
-override_position = false
-plants = []
+draft = false
 title = "April Showers Bring ... Rainbow Veggies!!? 🌈"
+date = 2023-04-01T10:00:00.000Z
+author = "Peter Keefe"
+plants = []
 weight = 5
+override_position = false
+
 [cover]
 alt = "Rainbow Tomatoes"
 caption = "Rainbow tomatoes on a vine"
 image = "/uploads/percula_rainbow_tomatoes_on_vine_e275bee8-57c7-4562-a1dd-b401252c267f.png"
-
 +++
 Veggies come in all colors these days; purple carrots, orange tomatoes, and even yellow watermelon. But among the most prized (and hard to find) veggies are the rainbow varieties. Many of these are fairly new but they're starting to show up at farmers markets and even some grocery stores. Here's a collection of the rainbow varieties that we've found:
 
@@ -55,7 +56,7 @@ Why settle for green beans when you can have rainbow beans! As you can see, some
 
 ![](/uploads/percula_rainbow_eggplant_on_plant_in_garden_f1fda626-f177-41b4-9e71-f47ae661c983.png)
 
-Eggplant is purple right? Not anymore! This variety is still _mostly_ purple but has every other color on it too! Unfortunately it is still the same on the inside.
+Eggplant is purple right? Not anymore! This variety is still *mostly* purple but has every other color on it too! Unfortunately it is still the same on the inside.
 
 ### Rainbow Watermelon
 
@@ -65,4 +66,4 @@ These are still green on the outside, similar to yellow watermelon varieties. Ho
 
 ### How to grow these varieties?
 
-These varieties are certainly tough to find, so good luck! You can learn how to grow the regular versions of these plants in [Planter](https://planter.garden)! If you manage to find these varieties, Planter will help you arrange them in your veggie garden next to your regular, boring, real veggies.
+These varieties are certainly tough to find (some may even say impossible 😉), so good luck! You can learn how to grow the regular versions of these plants in [Planter](https://planter.garden)! If you manage to find these varieties, Planter will help you arrange them in your veggie garden next to your regular, boring, real veggies.
