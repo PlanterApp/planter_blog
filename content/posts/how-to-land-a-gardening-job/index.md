@@ -11,7 +11,7 @@ image = "worker-with-vegetables.jpg"
 alt = "A worker's gloved hands holding a box of vegetables"
 caption = "A worker with their vegetable harvest"
 +++
-Have you ever thought about turning your gardening hobby into more-than-a-hobby? Regardless of your experience, you can grow your way into a gardening job! Read on for advice on how to cultivate a career in gardening.
+Have you ever thought about turning your gardening hobby into more-than-a-hobby? Regardless of your experience, you can grow your way into a gardening job! Read on for tips and tricks to cultivate a career in gardening.
 
 **Be sure a gardening job is right for you:**
 
