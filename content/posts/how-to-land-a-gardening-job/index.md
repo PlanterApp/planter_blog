@@ -32,13 +32,13 @@ Once you are confident that a gardening career is right for you and you have a g
 * Greenhouse production
 * Floriculture
 
-...Just to name a few! As a starting point, think about what type of gardening you enjoy most as a hobby. Do you spend most of your time in the veggie garden? Tending your flowers? Or re-arranging your houseplants? If there’s more than one specialization that appeals, try to connect with people in the industry who can give you a better sense of the work involved (more on this in the next section!)
+...Just to name a few! As a starting point, think about what type of gardening you enjoy most as a hobby, and look for a related speciality. If there’s more than one specialization that appeals, try to connect with people in the industry who can give you a better sense of the work involved (more on this in the next section!)
 
 ![A greenhouse worker surrounded by plants holding a computer](greenhouse-computer.jpg)
 
 **Research and reach out:**
 
-Get a sense of what gardening-related opportunities are out there by researching companies and organizations in your gardening area(s) of interest. You might be surprised to find an organization that fits your interests right in your city or town. Try to find contact information for someone who works in the department you are interested in and reach out! Even if they don't have jobs posted, you never know when they might be looking for help!
+Get a sense of what gardening-related job opportunities are out there by first looking for companies and organizations in your gardening area(s) of interest. Try to get contact information for someone who works in a relevant department and reach out. Even if they don't have jobs posted, you never know when they might be looking for help!
 
 Consider joining relevant clubs, horticultural societies, and professional organizations related to your area of interest. You will unearth opportunities through these networks that you might not have found otherwise.
 
@@ -46,10 +46,10 @@ Breaking into an industry can be hard, but keep putting yourself out there and e
 
 **Level up your gardening skills and apply:**
 
-Once you’ve found a dream gardening job, you might wonder how to ‘break in’ if you don’t have any previous professional gardening experience. First, be sure you have the minimum qualifications for the job (including education and certifications if applicable). If you don’t have these, your first step should be enrolling in a relevant education program to become qualified. In the meantime, consider looking for a related position to gain experience while you are working on your credentials.
+Once you’ve found a dream gardening job, you might be wondering how to ‘break in’ if you don’t have previous professional gardening experience. First, be sure you have the minimum qualifications for the job (including education and certifications, if applicable). If you don’t have these, your first step should be enrolling in a relevant education program to become qualified. In the meantime, consider looking for a related position to gain experience while you are working on your credentials.
 
-When pulling together your resume and cover letter, think of all the gardening skills you bring to the table. Include your own personal gardening experience, note any gardening volunteer work you might have done, and note your favorite books and other sources of information in the field. Be sure to highlight any transferable skills you might have from other areas of your life. For example, if the job requires you to do physical work outside, note that you are an experienced outdoorsperson and hiker. Or if speed is key, highlight a previous work experience where you had to complete manual tasks quickly and accurately. Convey how passionate you are about the field and how much you already have already learned about it; even if it's via informal education and experience.
+When pulling together your resume and cover letter, think of all the gardening skills you bring to the table. Include your own personal gardening experience, note any gardening volunteer work you might have done, and note your favorite books and other sources of information related to the field. Be sure to highlight any transferable skills you might have from other areas of your life. For example, if the job requires you to do physical work outside, note that you are a camping and hiking enthusiast who loves being outdoors. Or if speed is key, highlight a previous work experience where you had to complete manual tasks quickly and accurately. Convey how interested you are in the field and how much you have already learned about it; even if it's from informal education and experience.
 
-If you’re passionate about gardening, incorporating gardening into your work can be rewarding and fulfilling. Make sure you have realistic expectations of what the work entails and the qualifications required. Build your network of contacts in your field who can help guide you and connect you with potential opportunities. Above all, don’t be afraid to go for it! You might just find your dream job.
+If you’re passionate about gardening, incorporating gardening into your work can be rewarding and fulfilling. Make sure you have realistic expectations of what the work entails and the qualifications required. Build a network of contacts in your field who can help guide you and connect you with potential opportunities. Above all, don’t be afraid to go for it!  You might just find a job you love.  🌱❤️
 
 ![A smiling greenhouse worker holding a head of lettuce, with other workers working in the background](worker-with-lettuce.jpg)
