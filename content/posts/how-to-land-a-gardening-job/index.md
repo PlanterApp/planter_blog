@@ -27,7 +27,7 @@ Once you are confident that a gardening career is right for you and you have a g
 
 * Landscaping & garden maintenance
 * Arboriculture
-* Garden Center/nursery work
+* Garden center/nursery work
 * Agriculture
 * Greenhouse production
 * Floriculture
