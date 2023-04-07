@@ -15,7 +15,7 @@ Have you ever thought about turning your gardening hobby into more-than-a-hobby?
 
 **Be sure a gardening job is right for you:**
 
-Before you embark on your gardening job hunt, it’s important to understand that gardening as a job can be very different from gardening in your own backyard. In your own garden you’re free to spend time on the chores you enjoy, whenever you feel like doing them. When gardening is your work, you'll be responsible for many gardening-related tasks, some of which might not be your favorites…*You might have to weed gardens every day!*
+Before you embark on your gardening job hunt, it’s important to understand that gardening as a job can be very different from gardening in your own backyard. In your own garden you’re free to spend time on the chores you enjoy, whenever you feel like doing them. When its your job to garden, you'll be responsible for many gardening-related tasks, some of which might not be your favorites (…*You might have to weed gardens every day!)*
 
 Gardening as a job can also involve working in the elements- rain, heat, and cold- whereas with your own garden you can just hide inside until the weather improves. Depending on the job, there may be physical requirements - carrying heavy things, standing for extended periods, kneeling, and bending. You might be assigned repetitive tasks to be done quickly- planting 300 lettuce plants feels quite different than planting only 3! Efficiency tends to be the name of the game with gardening jobs, compared to your own garden where you can spend as much time as you want fussing over your plants.
 
