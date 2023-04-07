@@ -23,9 +23,9 @@ If you’re truly passionate about gardening, don’t let this deter you. Just b
 
 **Decide what type of gardening gig you dig:**
 
-Once you're confident that a gardening career is right for you and you have a general idea of what type of job appeals to you, you’ll need to figure out which area(s) of gardening you want to work in. There are many different gardening-related specialities, such as:
+Once you have a general idea of how you'd like to incorporate gardening into your work, you’ll need to figure out which gardening-related industry you want to work in. There are many different specialized gardening fields, such as:
 
-* Landscaping & garden maintenance
+* Landscaping and garden maintenance
 * Arboriculture
 * Garden center/nursery work
 * Agriculture
