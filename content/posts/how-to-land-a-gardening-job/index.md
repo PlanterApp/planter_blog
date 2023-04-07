@@ -1,7 +1,7 @@
 +++
-draft = true
+draft = false
 title = "How to Land a Gardening Job"
-date = 2023-04-06T02:00:43.558Z
+date = 2023-04-07T02:00:43.558Z
 author = "Erin Thomson"
 weight = 5
 
@@ -9,9 +9,9 @@ weight = 5
 relative = true
 image = "worker-with-vegetables.jpg"
 alt = "A worker's gloved hands holding a box of vegetables"
-caption = "A worker with a veggie harvest"
+caption = "A worker with a colorful veggie harvest"
 +++
-Have you ever thought about turning your gardening hobby into more-than-a-hobby? Regardless of your experience, you can grow your way into a gardening job! Read on for tips and tricks to cultivate a career in gardening.
+Have you ever thought about turning your gardening hobby into more-than-a-hobby? Getting paid to garden might seem too-good-to-be-true, but there are plenty of gardening-related jobs out there! Whether you’re searching for a summer gig, finding your vocation, or looking to ditch a desk job, read on to learn how to cultivate a career in gardening!
 
 **Be sure a gardening job is right for you:**
 
@@ -19,11 +19,11 @@ Before you embark on your gardening job hunt, it’s important to understand tha
 
 Gardening as a job can also involve working in the elements- rain, heat, and cold- whereas with your own garden you can just hide inside until the weather improves. Depending on the job, there may be physical requirements - carrying heavy things, standing for extended periods, kneeling, and bending. You might be assigned repetitive tasks to be done quickly- planting 300 lettuce plants feels quite different than planting only 3! Efficiency tends to be the name of the game with gardening jobs, compared to your own garden where you can spend as much time as you want fussing over your plants.
 
-If you’re truly passionate about gardening, don’t let this deter you. Just go into it knowing that gardening for work might not feel as ‘carefree’ as gardening for a hobby. Otherwise, find another avenue to channel your gardening-related passion into a career without specifically doing gardening itself. Consider options such as working at a retail garden center, garden design, or horticultural research. The possibilities to incorporate gardening into your career are limitless!
+If you’re truly passionate about gardening, don’t let this deter you. Just be aware that gardening for work might not feel as carefree as hobby gardening. You could also find other avenues to channel your gardening passion into a career without necessarily working as a gardener. Consider options such as working at a retail garden center, garden design, or horticultural research. The possibilities to incorporate gardening into your career are limitless!
 
 **Decide what type of gardening gig you dig:**
 
-Once you are confident that a gardening career is right for you and you have a general idea of what type of job appeals to you, you’ll need to figure out which area(s) of gardening you want to work in. There are many different gardening-related specialities, such as:
+Once you're confident that a gardening career is right for you and you have a general idea of what type of job appeals to you, you’ll need to figure out which area(s) of gardening you want to work in. There are many different gardening-related specialities, such as:
 
 * Landscaping & garden maintenance
 * Arboriculture
