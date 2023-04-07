@@ -40,7 +40,7 @@ Once you have a general idea of how you'd like to incorporate gardening into you
 
 Get a sense of what gardening-related job opportunities are out there by first looking for companies and organizations in your gardening area(s) of interest. Try to get contact information for someone who works in a relevant department and reach out. Even if they don't have jobs posted, you never know when they might be looking for help!
 
-Consider joining relevant clubs, horticultural societies, and professional organizations related to your area of interest. You will unearth opportunities through these networks that you might not have found otherwise.
+Consider joining garden clubs, horticultural societies, and professional organizations related to your area of interest. You will unearth opportunities through these networks that you might not have found otherwise.
 
 Breaking into an industry can be hard, but keep putting yourself out there and eventually you will find people with similar interests who can point you to some great opportunities!
 
