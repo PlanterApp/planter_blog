@@ -15,6 +15,8 @@ Have you been curious about the technique of soil blocking? Wondering why you mi
 
 Soil blocking is a seed-starting technique that can be a bit baffling for many gardeners who aren’t familiar with it. The beauty of this technique is that it’s a versatile option for gardeners who have troubles with seedling roots or simply want to cut down on their hobby’s waste. It’s not a difficult task, but it does require some preparation and a bit of a learning curve, so if you only plan to work with small numbers of seedlings, this method may not be the best for you. If you’re interested, but don’t want to invest in a soil blocker tool, there are also many DIY methods that you can use to make soil blocks right at home. If soil blocking sounds like something that might fit in with your gardening plan, read on!
 
+\---PHOTO---
+
 ### What are the benefits of soil blocking?
 
 #### 1. Fewer Rootbound Seedlings
@@ -45,45 +47,41 @@ If you're unsure, ½  inch blocks are a safe bet as long as you aren’t using 
 
 If you're feeling crafty, you can even make your own soil block maker at home using items like tin cans, PVC piping, or even pill bottles. [You can click here for an example of such a project!](https://www.theprairiehomestead.com/2014/04/diy-soil-block-maker.html)
 
-If you're ready to arm yourself with a quality soil blocker, there are many good options available for purchase online, such as this highly rated one from Amazon:
+If you're ready to arm yourself with a quality soil blocker, there are many good options available for purchase online, such as [this highly rated one from Amazon!](<https://amzn.to/43euC5L>)
 
-<https://amzn.to/43euC5L>
-
-\---PHOTO---
+![](soil-blocker.jpg)
 
 ### How do I get started?
 
 1. If you're doing soil blocking indoors, make sure to have a good area to work in where you don’t need to worry about dirt on the floor. You’re also going to need a large container to hold your mix in; two would be better if you can manage it, in case you end up needing to sift a chunky mix.
 2. You’ll need a soil blocker of course, but also a tray to hold the blocks that you make. Seed starting bottom trays will work nicely, but even cookie sheets or other containers could work well. 
+
 3. Next, the soil itself. A block made of just garden soil will fall apart- so, we’ll have to get mixing! Soil blocking works best with a certain mixture - there are many ratios that gardeners swear by, but the common ground between them is that there is a large amount of peat moss (or a peat moss substitute), some nutritional addition (such as compost), and a material to help with drainage (such as sand or perlite). Some mixes will also include a mineral fertilizer, so you don’t have to worry about fertilizing later on and burning the seedling roots.
 
 Here’s an example of a blocking mix, but you can find many different options if you do some research!
 
-\---PHOTO---
-
-* 3 parts peat moss or coconut coir (*If you use coconut coir, it’ll likely need a good hearty soak ahead of time. If you’d like to learn more about coconut coir, you might want to check out [this article by CocoAndCoir!](<* * * <https://cocoandcoir.com/blogs/coir-compost/how-to-use-coconut-coir-in-gardening/>>))*
+* 3 parts peat moss or coconut coir (*If you use coconut coir, it’ll likely need a good hearty soak ahead of time. If you’d like to learn more about coconut coir, you might want to check out \[this article by CocoAndCoir!](<* * * <https://cocoandcoir.com/blogs/coir-compost/how-to-use-coconut-coir-in-gardening/>>))*
 * 2 parts garden soil
 * 2 parts perlite or sand
 * 1 part compost
 
+![Soil blocker setup, feat. curious kitty](curious-cat.jpg)
+
 4. Mix your ingredients in a large tub. You might have to sift the whole mix at this point if there’s too many large chunks; seeds might have trouble germinating well in a particularly chunky mix. You can also sterilize your mix with boiling water if you’ve had problems with pests such as fungus gnats in the compost or dirt you've added.\
 5. Once your components are all mixed and sifted, you can add about 1 part water to 3 parts mix. Once you’ve got that all combined, water shouldn’t drip from the mix when you squeeze it, but it should be close.
-
-\---PHOTO---
-
 6. When your mix is made, the procedure is pretty simple! Press your soil blocker into the potting mix by pushing your blocker down into your soil mix a few times, rocking it back and forth in the mix to really get the soil packed in well before scraping off the excess with your hand or the edge of the soil container. You can hand-pack your blockers if you find your blocks aren’t quite dense enough and keep falling apart.
+
+![Soil blocker tool in a tub filled with blocker soil mix](20230312_104738.jpg)
 
 7. Once it's packed full, move your blocker over to the tray and dispense the blocks. Most soil blockers have a spring-loaded handle that you push, and when you lift the blocker after depressing the handle the blocks should be sitting pretty all in a row! Clean your soil blocker off between each set, to make sure subsequent blocks can be ejected smoothly.
 
 8. Finally, it’s time to put seeds in their little beds. Depending on how deep of a divot your blocker leaves, you may need to fill it up a little with vermiculite so that smaller seeds don’t get lost in the block. We found that covering the seeds lightly with vermiculite rather than more soil mix worked better; the soil block mix is made to hold its shape, so seedlings struggle to push their first leaves through it if they’re covered with the soil.
 
-\---PHOTO---
-
 ### What do I need to do with my seeded blocks?
 
 Freshly-made soil blocks will probably not need watering for a few days, but after that, bottom watering or misting are the best ways to go about rehydrating them! We want to make sure not to tear apart our little blocks, so watering from above has to be with water that isn’t under a lot of pressure, and watering from below should be with only a little flow to not erode away the soil. Wait for your blocks to be dry on top before watering again to avoid algae growth on top!
 
-\---PHOTO---
+![](20230312_110709.jpg)
 
 ### Our takeaways:
 
