@@ -15,7 +15,7 @@ Have you been curious about the technique of soil blocking? Wondering why you mi
 
 Soil blocking is a seed-starting technique that can be a bit baffling for many gardeners who aren’t familiar with it. The beauty of this technique is that it’s a versatile option for gardeners who have troubles with seedling roots or simply want to cut down on their hobby’s waste. It’s not a difficult task, but it does require some preparation and a bit of a learning curve, so if you only plan to work with small numbers of seedlings, this method may not be the best for you. If you’re interested, but don’t want to invest in a soil blocker tool, there are also many DIY methods that you can use to make soil blocks right at home. If soil blocking sounds like something that might fit in with your gardening plan, read on!
 
-\---PHOTO---
+![Sprouted soil blocks](20230410_101348.jpg)
 
 ### What are the benefits of soil blocking?
 
@@ -47,7 +47,7 @@ If you're unsure, ½  inch blocks are a safe bet as long as you aren’t using 
 
 If you're feeling crafty, you can even make your own soil block maker at home using items like tin cans, PVC piping, or even pill bottles. [You can click here for an example of such a project!](https://www.theprairiehomestead.com/2014/04/diy-soil-block-maker.html)
 
-If you're ready to arm yourself with a quality soil blocker, there are many good options available for purchase online, such as [this highly rated one from Amazon!](<https://amzn.to/43euC5L>)
+If you're ready to arm yourself with a quality soil blocker, there are many good options available for purchase online, such as [this highly rated one from Amazon!](https://amzn.to/43euC5L)
 
 ![](soil-blocker.jpg)
 
@@ -55,7 +55,6 @@ If you're ready to arm yourself with a quality soil blocker, there are many good
 
 1. If you're doing soil blocking indoors, make sure to have a good area to work in where you don’t need to worry about dirt on the floor. You’re also going to need a large container to hold your mix in; two would be better if you can manage it, in case you end up needing to sift a chunky mix.
 2. You’ll need a soil blocker of course, but also a tray to hold the blocks that you make. Seed starting bottom trays will work nicely, but even cookie sheets or other containers could work well. 
-
 3. Next, the soil itself. A block made of just garden soil will fall apart- so, we’ll have to get mixing! Soil blocking works best with a certain mixture - there are many ratios that gardeners swear by, but the common ground between them is that there is a large amount of peat moss (or a peat moss substitute), some nutritional addition (such as compost), and a material to help with drainage (such as sand or perlite). Some mixes will also include a mineral fertilizer, so you don’t have to worry about fertilizing later on and burning the seedling roots.
 
 Here’s an example of a blocking mix, but you can find many different options if you do some research!
@@ -74,7 +73,6 @@ Here’s an example of a blocking mix, but you can find many different options i
 ![Soil blocker tool in a tub filled with blocker soil mix](20230312_104738.jpg)
 
 7. Once it's packed full, move your blocker over to the tray and dispense the blocks. Most soil blockers have a spring-loaded handle that you push, and when you lift the blocker after depressing the handle the blocks should be sitting pretty all in a row! Clean your soil blocker off between each set, to make sure subsequent blocks can be ejected smoothly.
-
 8. Finally, it’s time to put seeds in their little beds. Depending on how deep of a divot your blocker leaves, you may need to fill it up a little with vermiculite so that smaller seeds don’t get lost in the block. We found that covering the seeds lightly with vermiculite rather than more soil mix worked better; the soil block mix is made to hold its shape, so seedlings struggle to push their first leaves through it if they’re covered with the soil.
 
 ### What do I need to do with my seeded blocks?
@@ -95,6 +93,6 @@ Transplanting does go a bit faster since you don't have to pop the plants out of
 
 Gardeners should weigh the pros and cons to decide if soil blocking is right for them!
 
-\---PHOTO---
+![Sprouted soil blocks!](20230410_101324.jpg)
 
 If your first attempt at soil blocking fails, try and try again! It’s going to take some practice to get the right soil moisture, the right amount of soil packed in the tool, etc. But once you’ve got the hang of it, soil blocking will elevate your seed starting game and help to reduce waste all at once! It’s a really rewarding experience once you start to get the hang of it, so if soil blocking is something that you’re interested in, give it a try!
