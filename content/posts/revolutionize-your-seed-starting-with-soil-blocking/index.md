@@ -47,9 +47,9 @@ If you're unsure, ½  inch blocks are a safe bet as long as you aren’t using 
 
 If you're feeling crafty, you can even make your own soil block maker at home using items like tin cans, PVC piping, or even pill bottles. [You can click here for an example of such a project!](https://www.theprairiehomestead.com/2014/04/diy-soil-block-maker.html)
 
-If you're ready to arm yourself with a quality soil blocker, there are many good options available for purchase online, such as [this highly rated one from Amazon!](https://amzn.to/43euC5L)
+If you're ready to arm yourself with a quality soil blocker, there are many good options available for purchase online, such as the highly-rated soil blockers from Ladbrooke: 2" blocker ([Amazon](https://amzn.to/43euC5L), [BootStrap Farmer](https://collabs.shop/o5gco5)) and mini blocker ([Amazon](https://www.amazon.com/Ladbrooke-Genuine-Mini-Soil-Blocker/dp/B0793MDSKT), [BootStrap Farmer](https://collabs.shop/ggjycm)). 
 
-![](soil-blocker.jpg)
+![The Ladbrook 2" soil blocker.](soil-blocker.jpg "The Ladbrook 2\" soil blocker.")
 
 ### How do I get started?
 
@@ -59,7 +59,7 @@ If you're ready to arm yourself with a quality soil blocker, there are many good
 
 Here’s an example of a blocking mix, but you can find many different options if you do some research!
 
-* 3 parts peat moss or coconut coir (*If you use coconut coir, it’ll likely need a good hearty soak ahead of time. If you’d like to learn more about coconut coir, you might want to check out \[this article by CocoAndCoir!](<* * * <https://cocoandcoir.com/blogs/coir-compost/how-to-use-coconut-coir-in-gardening/>>))*
+* 3 parts peat moss or coconut coir (*If you use coconut coir, it’ll likely need a good hearty soak ahead of time. If you’d like to learn more about coconut coir, you might want to check out [this article by CocoAndCoir!](https://cocoandcoir.com/blogs/coir-compost/how-to-use-coconut-coir-in-gardening))*
 * 2 parts garden soil
 * 2 parts perlite or sand
 * 1 part compost
