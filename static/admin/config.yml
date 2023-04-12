@@ -28,7 +28,7 @@ collections:
         name: "title"
         widget: "string"
         required: true
-      - label: "URL Path (optional)"
+      - label: "URL Path (defaults to title)"
         name: "slug"
         widget: "string"
         required: false
