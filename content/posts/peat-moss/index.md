@@ -47,4 +47,6 @@ Here are some tips for using peat moss and coconut coir in your garden:
 
 ## Which to choose?
 
+<iframe src="https://giphy.com/embed/Uni2jYCihB3fG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/choices-Uni2jYCihB3fG">via GIPHY</a></p>
+
 So, is coconut coir really a better alternative to peat moss? The answer is complicated. Both coconut coir and peat moss have some environmental drawbacks, but both are great for starting seeds or as a soil amendment. Ultimately, the answer depends on your situation, including where your peat comes from and the availability of peat and coir in your local area.
