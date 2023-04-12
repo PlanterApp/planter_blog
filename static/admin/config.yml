@@ -32,7 +32,7 @@ collections:
         name: "slug"
         widget: "string"
         required: true
-        pattern: [ '^\/[/.a-zA-Z0-9-]+$', "Must only contain letters, numbers, and dashes." ]
+        pattern: [ '^[.a-zA-Z0-9-]+$', "Must only contain letters, numbers, and dashes." ]
       - label: "Date"
         name: "date"
         widget: "datetime"
