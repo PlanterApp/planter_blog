@@ -41,10 +41,10 @@ Coconut coir has been touted as a sustainable alternative to peat moss. It is a 
 Here are some tips for using peat moss and coconut coir in your garden:
 
 * Use peat moss and coconut coir in seed starting mix to help provide retain moisture, to help seeds germinate.
-* Ammend raised garden bed soil with peat moss or coir to help improve soil quality.
+* Amend raised garden bed soil with peat moss or coir to help improve soil quality. Both help retain moisture and improve drainage, helping your plants grow better. However, neither peat nor coir provides nutrients; for that, you'll need to add [compost](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)!
 * Peat moss is slightly acidic, which means it is great for plants that require a low pH. There are many plants you may wish to grow that prefer slightly acidic soil, including blueberries, carrots, cauliflower, celery, cucumbers, garlic, sweet peppers, pumpkins, winter squash, and tomatoes. If your garden soil is not acidic, add a bit of peat moss to help these plants thrive.
-* Use peat moss or coconut coir in potting soil to help provide a moist, well-draining environment for plants.
+* Use peat moss or coconut coir in potting soil to help provide a moist, well-draining environment for plants. Both are also lightweight, making it nice and easy to lift hanging baskets. Check out our [soil blocking post](https://blog.planter.garden/posts/revolutionize-your-seed-starting-with-soil-blocking/) for a good potting soil recipe.
 
 ## Which to choose?
 
-So, is coconut coir really a better alternative to peat moss? The answer is complicated. Both coconut coir and peat moss have some environmental drawbacks. Ultimately, the answer depends on your situation, especially where your peat comes from.
+So, is coconut coir really a better alternative to peat moss? The answer is complicated. Both coconut coir and peat moss have some environmental drawbacks, but both are great for starting seeds or as a soil amendment. Ultimately, the answer depends on your situation, including where your peat comes from and the availability of peat and coir in your local area.
