@@ -12,6 +12,7 @@ collections:
   - name: "posts"
     label: "Blog post"
     folder: "content/posts"
+    slug: "{{fields.slug}}"
     path: "{{slug}}/index"
     media_folder: ''
     public_folder: ''
@@ -27,6 +28,11 @@ collections:
         name: "title"
         widget: "string"
         required: true
+      - label: "Slug (URL path)"
+        name: "slug"
+        widget: "string"
+        required: true
+        pattern: [ '^\/[/.a-zA-Z0-9-]+$', "Must only contain letters, numbers, and dashes." ]
       - label: "Date"
         name: "date"
         widget: "datetime"
