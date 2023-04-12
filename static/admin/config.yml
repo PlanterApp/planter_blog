@@ -28,10 +28,10 @@ collections:
         name: "title"
         widget: "string"
         required: true
-      - label: "Slug (URL path)"
+      - label: "URL Path (optional)"
         name: "slug"
         widget: "string"
-        required: true
+        required: false
         pattern: [ '^[.a-zA-Z0-9-]+$', "Must only contain letters, numbers, and dashes." ]
       - label: "Date"
         name: "date"
