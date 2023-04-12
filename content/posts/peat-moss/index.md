@@ -16,7 +16,7 @@ Peat moss has been getting a bad reputation lately, due to its environmental imp
 \
 But first, what is peat and where does it come from?
 
-## Peat Moss
+## Peat Moss 
 
 **Peat** is partially decomposed organic matter that forms in wetlands. It is made up of mosses, sedges (think tall grasses), and other plants that have died and accumulated over time. Peat is a dark, brown or black material that is often used as a soil amendment.
 
@@ -30,7 +30,7 @@ To make things confusing, there is also **sphagnum moss**. Adding to the confusi
 
 Not quite! It depends ***where*** your peat comes from. Most of the bad rap for peat comes from the peat bogs in Scotland and Ireland, where nearly 95% of peat bogs have been depleted, primarily being used as a fuel source. However, peat moss that is harvested from Canada, which is what you'll find at stores in the United States, is naturally replenished at a rate higher than it is harvested, so it is actually a renewable resource. Canada, which is the biggest peat moss producer, contains more than 280 million acres of peatlands. Of that amount, only 73,000 acres have so far been harvested, a fraction of the quantity naturally generated in undisturbed bogs. According to the Canadian Sphagnum Peat Moss Association (CSPMA), they work to restore peatlands that have been damaged by harvesting. After harvesting, each bog is reflooded and reseeded with shredded moss grafts, which cover the harvested site within 5 years. The peat bog is naturally restored in 10-15 years. As with any industry group, you'd be right to be skeptical of these claims, but the situation in Canada does seem to be very different than in other countries.
 
-## Coconut Coir
+## Coconut Coir 🥥
 
 ![Coconut coir next to a compressed block of coconut coir.](pxl_20230324_125551519.jpg "Coconut coir next to a compressed block of coconut coir")
 
