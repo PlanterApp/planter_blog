@@ -182,3 +182,83 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
+  - name: "docs"
+    label: "Blog documentation"
+    folder: "content/docs"
+    slug: "{{fields.slug}}"
+    path: "{{slug}}/index"
+    media_folder: ''
+    public_folder: ''
+    create: true
+    format: "toml-frontmatter"
+    fields:
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        default: true
+        required: true
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "URL Path (defaults to title)"
+        name: "slug"
+        widget: "string"
+        required: false
+        pattern: [ '^[.a-zA-Z0-9-]+$', "Must only contain letters, numbers, and dashes." ]
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        required: false
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: true
+      - label: "Related Plants"
+        name: "plants"
+        widget: "list"
+        required: false
+        summary: "{{fields.plant}}"
+        field: { label: "Plant", name: "plant", widget: "string" }
+      - label: "Series"
+        name: "series"
+        widget: "list"
+        required: false
+        summary: "{{fields.series}}"
+        field: { label: "Series", name: "series", widget: "string" }
+      - label: "Weight (default 5, use lower number to pin post)"
+        name: "weight"
+        widget: "number"
+        default: 5
+        value_type: "int"
+        min: 1
+        max: 10
+        required: true
+      - label: "Cover"
+        name: "cover"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Cover Photo"
+            name: "image"
+            widget: "image"
+            required: true
+            choose_url: false
+            media_library:
+              config:
+                multiple: false
+          - label: "Alt Text"
+            name: "alt"
+            widget: "string"
+            required: true
+          - label: "Caption"
+            name: "caption"
+            widget: "string"
+            required: false
+          - label: "Relative"
+            name: "relative"
+            widget: "hidden"
+            default: true
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
