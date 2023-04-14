@@ -133,7 +133,7 @@ Please name your markdown file index.md. Put your markdown file and all images i
 
 ### Frontal Matter
 
-At the beginning of your index.md file, please include the following:
+At the very top of your index.md file, please include the following:
 
 ```yaml
 +++
@@ -149,6 +149,8 @@ image = "cover_image_file_name.jpg"
 alt = "Cover image alternate text for accessibility reasons"
 caption = "Optional caption to display under the cover image"
 +++
+
+Your article content goes here...
 ```
 
 # Submission
