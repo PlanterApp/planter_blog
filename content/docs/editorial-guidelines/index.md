@@ -163,5 +163,4 @@ Growing Guide articles can be submitted in two ways:
 4. Commit your changes and submit a PR to the repository!
 
 ## If you aren't familiar with GitHub:
-1. Email your article to us at
- <a target="_blank" href="https://mailhide.io/e/FL2vb1ox">su...@planter.garden</a> 
+1. <a target="_blank" href="https://mailhide.io/e/FL2vb1ox">Email your article to us.</a> 
