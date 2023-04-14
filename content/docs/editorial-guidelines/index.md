@@ -35,6 +35,8 @@ alt = "Person sitting happily writing a new article"
 
 Our customers are gardening enthusiasts and so are we. We try to be positive, informative, and help gardeners learn and advance in the hobby.
 
+![](seeding-bro.svg)
+
 # Best Practices
 
 When writing for Planter, please follow the best practices that are outlined below.
@@ -101,7 +103,7 @@ With that caveat, Planter is still happy to support specific initiatives and cau
 
 Emojis are very on-brand. 
 
-![Screenshot of the payment screen.](screenshot_20230414-115155.png "Example: Instead of bullets, a list of emojis on Planter's payment screen, and a \\"Lettuce Celebrate\\" gif after someone has purchased the app.")
+![Screenshot of the payment screen.](screenshot_20230414-115155.png "Example: Instead of bullets, a list of emojis on Planter's payment screen, and a 'Lettuce Celebrate' gif after someone has purchased the app.")
 
 ### Example from purchase dialog.
 
@@ -132,8 +134,6 @@ Please name your markdown file index.md. Put your markdown file and all images i
 ### Frontal Matter
 
 At the beginning of your index.md file, please include the following:
-
-
 
 ```yaml
 +++
