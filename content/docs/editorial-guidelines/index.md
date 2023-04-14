@@ -164,4 +164,4 @@ Growing Guide articles can be submitted in two ways:
 
 ## If you aren't familiar with GitHub:
 1. Email your article to us at
- <a href="https://mailhide.io/e/FL2vb1ox" onclick="popup=window.open('https://mailhide.io/e/FL2vb1ox','mailhidepopup','width=580,height=635'); return false;">s......@planter.garden</a>
+ <a target="_blank" href="https://mailhide.io/e/FL2vb1ox">su...@planter.garden</a> 
