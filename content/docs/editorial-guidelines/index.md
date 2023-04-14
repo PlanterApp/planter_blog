@@ -105,8 +105,6 @@ Emojis are very on-brand. 
 
 ![Screenshot of the payment screen.](screenshot_20230414-115155.png "Example: Instead of bullets, a list of emojis on Planter's payment screen, and a 'Lettuce Celebrate' gif after someone has purchased the app.")
 
-### Example from purchase dialog.
-
 ### Emoji Frequency:
 
 * We use emojis one at a time in headlines and body copy - we don’t stack them or cluster them like ❤️❤️❤️
@@ -116,6 +114,8 @@ Emojis are very on-brand. 
 Using repeated emojis in a well-structured way like a list can be OK if it’s not forced, like in the screenshot above.
 
 # GIFs
+
+![Guy looking approvingly at brocolli](broccoli.gif)
 
 GIFs are acceptable as long as they’re G-rated, positive, and non-political. Use them sparingly; no more than one GIF should be visible at a time.
 
@@ -150,3 +150,18 @@ alt = "Cover image alternate text for accessibility reasons"
 caption = "Optional caption to display under the cover image"
 +++
 ```
+
+# Submission
+
+Growing Guide articles can be submitted in two ways:
+
+## If you are familiar with GitHub:
+
+1. [Fork the repo](https://github.com/PlanterApp/planter_blog/fork).
+2. Create a folder for your article in [/content/posts](https://github.com/PlanterApp/planter_blog/tree/main/content/posts). Name it according to the subject of your article.
+3. Place your _index.md_ file and any images inside the folder.
+4. Commit your changes and submit a PR to the repository!
+
+## If you aren't familiar with GitHub:
+1. Email your article to us at
+ <a href="https://mailhide.io/e/FL2vb1ox" onclick="popup=window.open('https://mailhide.io/e/FL2vb1ox','mailhidepopup','width=580,height=635'); return false;">s......@planter.garden</a>
