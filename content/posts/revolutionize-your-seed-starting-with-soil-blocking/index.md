@@ -59,7 +59,7 @@ If you're ready to arm yourself with a quality soil blocker, there are many good
 
 Here’s an example of a blocking mix, but you can find many different options if you do some research!
 
-* 3 parts peat moss or coconut coir (*If you use coconut coir, it’ll likely need a good hearty soak ahead of time. If you’d like to learn more about coconut coir, you might want to check out [this article by CocoAndCoir!](https://cocoandcoir.com/blogs/coir-compost/how-to-use-coconut-coir-in-gardening))*
+* 3 parts peat moss or coconut coir (*If you use coconut coir, it’ll likely need a good hearty soak ahead of time. If you’d like to learn more about peat moss or coconut coir, check out [our article comparing Peat and Coir](../peat-moss-vs-coconut-coir))*
 * 2 parts garden soil
 * 2 parts perlite or sand
 * 1 part compost
