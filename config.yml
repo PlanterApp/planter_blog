@@ -107,3 +107,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+
+imaging:
+  exif:
+    disableLatLong: true
