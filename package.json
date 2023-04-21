@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/PlanterApp/planter_blog#readme",
   "dependencies": {
+    "@netlify/functions": "^1.4.0",
     "gulp": "^4.0.2",
-    "gulp-cheerio": "^1.0.0"
+    "gulp-cheerio": "^1.0.0",
+    "node-fetch": "^3.3.1"
   }
 }
