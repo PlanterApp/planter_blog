@@ -5,7 +5,7 @@ import { schedule } from '@netlify/functions'
 const BUILD_HOOK = 'https://api.netlify.com/build_hooks/6442a4587851e905b1620fe6'
 
 // Schedules the handler function to run every hour of every day
-const handler = schedule('0 * * * *', async () => {
+const handler = schedule('10 * * * *', async () => {
   await fetch(BUILD_HOOK, {
     method: 'POST'
   }).then(response => {
