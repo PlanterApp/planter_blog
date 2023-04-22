@@ -17,7 +17,7 @@ Alliums, that is plants belonging to the onion family, are a must-have in your g
 
 ### Onions (and Shallots)
 
-Onions are what most people think of when they think of alliums. Onions can be sub-categorized as ‘bulbing onions’ including varieties of yellow onion, white onion, and red (purple) onion, ‘bunching onions’ such as green onions, and shallots which are small and mild. While green onions are relatively easy-peasy to grow, when it comes to growing bulbing onions successfully, you will need to determine whether to grow ‘long-day’ onions, ‘short-day’ onions, or ‘day neutral’ onions. This depends on where you live and how long the days are- if you grow the wrong type of onion for your area, the onion will not bulb up.
+Onions are what most people think of when they think of alliums. Onions can be sub-categorized as ‘bulbing onions’ including varieties of yellow onion, white onion, red onion, and shallots, and ‘bunching onions’ such as green onions* and Welsh onions. While green onions are relatively easy-peasy to grow, when it comes to growing bulbing onions successfully, you will need to determine whether to grow ‘long-day’ onions, ‘short-day’ onions, or ‘day neutral’ onions. This depends on where you live and how long the days are- if you grow the wrong type of onion for your area, the onion will not bulb up.
 
 Onions can be grown from ‘sets’ which are essentially young pre-started onions that you can purchase, or from seeds. Many gardeners find sets easy and you do get a bit of a head start, however if you’re comfortable starting seeds indoors give onion seeds a try- they are fairly easy too!
 
