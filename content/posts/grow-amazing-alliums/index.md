@@ -13,7 +13,7 @@ image = "white-onion.jpg"
 alt = "White bulbing onions growing in the garden"
 caption = "White bulbing onions growing in the garden"
 +++
-Alliums, that is plants belonging to the onion family, are a must-have in your garden! They are low-maintenance, resistant to many pests and diseases, and super-versatile in the kitchen. Alliums are not limited only to onions- shallots, chives, leeks, and garlic are also alliums! Even though they are part of the same plant family, each of them have unique growing requirements and culinary characteristics. Whether you're a newbie gardener or a gardening guru, there's an allium for everyone!
+Alliums, that is plants belonging to the onion family, are a must-have in your garden! They are low-maintenance, resistant to many pests and diseases, and super-versatile in the kitchen. Alliums are not limited only to onions- shallots, chives, leeks, and garlic are also alliums! Even though they belong to the same plant family, each of them have unique requirements and culinary characteristics. Whether you're a gardening newbie or growing a gourmet garden, there's an allium for everyone!
 
 ### Onions (and Shallots)
 
