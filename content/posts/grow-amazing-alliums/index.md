@@ -42,3 +42,15 @@ One thing to note about leeks is they take a long time to grow- plan your garden
 ![Freshly harvested leeks in a box](leeks.jpg)
 
 ### Garlic
+
+If you enjoy cooking with garlic it is hugely worthwhile to add garlic to your garden. The flavor of home-grown garlic is incomparable, and you can produce quite a few bulbs in a relatively small space. For best results garlic should be planted in the fall at least two weeks before your first frost date. In a pinch garlic can also be planted once the soil is workable in spring - just be aware that the bulbs will not grow as large. When it comes to choosing garlic varieties again this tends to depend on where to grow- ‘softneck’ garlic varieties tend to be grown in warmer climates whereas ‘hardneck’ garlic tends to be grown in colder climates where it can get the required number of ‘chill hours’ over the winter (there are ways to get around this, though). 
+
+When planting garlic be sure to separate the bulbs into individual cloves, but leave the papery skins on each clove. Plant with the pointed end up/flat end down. How deep to plant your garlic depends on where you live - in colder climates it can be beneficial to plant your garlic up to 4” deep to protect it from winter chill, whereas in warmer climates 1-2” is sufficient. Garlic can also be mulched to help protect it over the winter.
+
+![A hand holding a garlic bulb ready for planting](planting-garlic.jpg)
+
+Garlic will emerge and start to grow in springtime. Hardneck garlic will shoot up a curly stem with a flower bud on top called a “scape”. Garlic scapes should be removed to allow the plant to focus energy on bulbing, however scapes are delicious and can be used in any recipe that calls for garlic!
+
+Garlic is ready to harvest once several of its leaves start to wither and die. In some cases garlic can be pulled directly from the soil and in other cases a pitchfork might be in order! Allow garlic bulbs to completely dry before removing the tops and roots, brushing off any surface dirt, and storing them.
+
+Alliums are some of the easiest and most useful crops you can grow! While tomatoes, peppers, and other summer favorites tend to take center stage in the garden, be sure to carve out space for some alliums. From hardy perennial chives to gourmet leeks, there is an allium suited for every gardener!
