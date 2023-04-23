@@ -31,7 +31,9 @@ Onions can be grown from ‘sets’ which are small bulbs sold in bags, ‘start
 
 Onions can be planted outdoors before your last frost date, once the soil is workable. They should be planted about 1-1.5” deep into loose soil that will allow the bulbs to expand. Some gardeners advocate “spooning” onions - scooping some soil out from around the bulb to encourage it to grow outwards. This is not necessary, but if you have the time go for it!
 
-Onions are ready to harvest once the leaves start to flop over. Pull the onions out of the ground, snip off the leaves and roots, gently wipe off any surface dirt, and leave them to dry for two weeks before storing.
+Onions are ready to harvest once the leaves start to flop over. Pull the onions out of the ground, snip off the leaves and roots, gently wipe off any surface dirt, and allow them to dry for two weeks before storing.
+
+![Onion plant in the ground with the leaves flopped over](onion-leaves-flopped.jpg)
 
 ### Chives
 
@@ -59,7 +61,7 @@ When planting garlic be sure to separate the bulbs into individual cloves, but l
 
 Garlic will emerge and start to grow in springtime. Hardneck garlic will shoot up a curly stem with a flower bud on top called a ‘scape’. Garlic scapes should be removed when they start to curl, to allow the plant to focus energy on bulb development. Garlic scapes are delicious and can be used in any recipe that calls for garlic!
 
-Garlic is ready to harvest once several of its leaves start to wither and die. In some cases garlic can be pulled directly from the soil and in other cases a pitchfork might be in order! Cut off the leaves and roots, gently wipe off any surface dirt, and leave them to dry for two weeks before storing.
+Garlic is ready to harvest once several of its leaves start to wither and die. In some cases garlic can be pulled directly from the soil and in other cases a pitchfork might be in order! Cut off the leaves and roots, gently wipe off any surface dirt, and allow them to dry for two weeks before storing.
 
 ![A pair of hands using shears to snip off garlic stems](garlic-harvest.jpg)
 
