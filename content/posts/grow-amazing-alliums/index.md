@@ -1,10 +1,10 @@
 +++
-draft = true
+draft = false
 title = "Grow Amazing Alliums"
 slug = "Grow-Amazing-Alliums"
-date = 2023-04-22T00:23:33.055Z
+date = 2023-04-24T02:30:33.055Z
 author = "Erin Thomson"
-plants = []
+plants = ["Garlic", "Leeks", "Shallots", "Chives", "Onions"]
 weight = 5
 
 [cover]
@@ -23,9 +23,9 @@ To grow bulbing onions, it's critical to determine whether to grow ‘long-day�
 
 * **Short-day onions** form the best bulbs in southern regions with 11-12 hours of sunlight each day
 * **Intermediate-day onions** work well in regions that receive 12-14 hours sunlight
-* **Long-day onions** will form bulbs in northern regions with 14 or more hours of sunlight
+* **Long-day onions** will form bulbs in northern regions with 14 or more hours of sunlight (note shallots are typically grown as long-day onions)
 
-Research to find bulbing onion varieties that are well-suited for your area.
+Be sure to research bulbing onion varieties that are best suited for your area.
 
 Onions can be grown from ‘sets’ which are small bulbs sold in bags, ‘starts’ which are small pre-started onion plants, or from seed. Sets are easy to work with but they may not produce bulbs as large as onions grown from starts and seeds. Starts are also easy to grow, however if you’re comfortable [starting seeds indoors](https://blog.planter.garden/posts/all-about-starting-seeds-indoors/) give onion seeds a try!
 
