@@ -61,6 +61,8 @@ Garlic will emerge and start to grow in springtime. Hardneck garlic will shoot u
 
 Garlic is ready to harvest once several of its leaves start to wither and die. In some cases garlic can be pulled directly from the soil and in other cases a pitchfork might be in order! Cut off the leaves and roots, gently wipe off any surface dirt, and leave them to dry for two weeks before storing.
 
+![A pair of hands using shears to snip off garlic stems](garlic-harvest.jpg)
+
 While tomatoes, peppers, and other summer favorites often take center stage in the garden, be sure to save space for alliums- they're the ultimate low effort, high reward crop!
 
 {{< affiliate >}}
