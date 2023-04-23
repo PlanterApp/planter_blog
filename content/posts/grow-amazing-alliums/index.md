@@ -63,4 +63,4 @@ Garlic is ready to harvest once several of its leaves start to wither and die. I
 
 While tomatoes, peppers, and other summer favorites often take center stage in the garden, be sure to carve out  some space for alliums! With their minimal maintenance and countless culinary uses, they're the ultimate low effort, high reward crop!
 
-{< affiliate >}
+{<< affiliate >>}
