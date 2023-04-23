@@ -17,7 +17,7 @@ Alliums, that is plants belonging to the onion family, are a must-have in your g
 
 ### Onions (and Shallots)
 
-Onions are what most people think of when they think of alliums. Onions can be harvested as ‘bulbing onions’ including varieties of yellow onion, white onion, red onion, and shallots, and ‘bunching onions’ such as green onions* and Welsh onions.
+Onions can be harvested as ‘bulbing onions’- including what we think of as yellow onions, white onions, and red onions- and ‘bunching onions’ which are onions that are harvested for their green tops.
 
 To grow bulbing onions, it's critical to determine whether to grow ‘long-day’ onions, ‘short-day’ onions, or ‘intermediate-day’ ‘day neutral’ onions. This depends on where you live and how many hours of daylight your garden receives in the summer:
 
