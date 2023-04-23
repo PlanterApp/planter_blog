@@ -13,13 +13,13 @@ image = "white-onion.jpg"
 alt = "White bulbing onions growing in the garden"
 caption = "White bulbing onions growing in the garden"
 +++
-Alliums, that is plants belonging to the onion family, are a must-have in your garden! They are low-maintenance, resistant to many pests and diseases, and super-versatile in the kitchen. Alliums are not limited only to onions- shallots, chives, leeks, and garlic are also alliums! Even though they belong to the same plant family, each of them have unique requirements and culinary characteristics. Whether you're a gardening newbie or growing a gourmet garden, there's an allium for everyone!
+Alliums, that is plants belonging to the onion family, are a must-have in your garden! They are low-maintenance, resistant to many pests and diseases, and super-versatile in the kitchen. Alliums are not limited only to onions- shallots, chives, leeks, and garlic are also alliums! Even though they belong to the same plant family, each of these plants has unique growing requirements and culinary characteristics. Whether you're a gardening newbie or expanding your gourmet garden, there's an allium for everyone!
 
 ### Onions (and Shallots)
 
-Onions can be harvested as ‘bulbing onions’- including what we think of as yellow onions, white onions, and red onions- and ‘bunching onions’ which are onions that are harvested for their green tops.
+Onions- the allium family namesake- can be harvested as ‘bulbing onions’ (including what we think of as yellow onions, white onions, and red onions) or as ‘bunching onions’ which are onions grown for their green tops.
 
-To grow bulbing onions, it's critical to determine whether to grow ‘long-day’ onions, ‘short-day’ onions, or ‘intermediate-day’ ‘day neutral’ onions. This depends on where you live and how many hours of daylight your garden receives in the summer:
+To grow bulbing onions, it's critical to determine whether to grow ‘long-day’ onions, ‘short-day’ onions, or ‘intermediate-day’ (‘day neutral’) onions. This depends on where you live and how many hours of daylight your garden receives in the summer:
 
 * **Short-day onions** form the best bulbs in southern regions with 11-12 hours of sunlight each day
 * **Intermediate-day onions** work well in regions that receive 12-14 hours sunlight
@@ -51,16 +51,16 @@ One thing to keep in mind is leeks can take a very long time to grow- be sure to
 
 ### Garlic
 
-If you enjoy cooking with garlic it is absolutely worthwhile to add garlic to your garden- the flavor of home-grown garlic is incomparable! For best results garlic should be planted in the fall at least two weeks before your first frost date. In a pinch garlic can also be planted once the soil is workable in spring, just be aware that the bulbs will not grow as large. When it comes to choosing garlic varieties again this tends to depend on your region: ‘softneck’ garlic varieties tend to be grown in warmer climates whereas ‘hardneck’ garlic tends to be grown in colder climates where it can get the required number of ‘chill hours’ over the winter (there are ways to get around this, though). 
+If you enjoy cooking with garlic it is absolutely worthwhile to add garlic to your garden- the flavor of home-grown garlic is incomparable! For best results garlic should be planted in the fall at least two weeks before your first frost date. In a pinch garlic can also be planted once the soil is workable in spring, just be aware that the bulbs will not grow as large. When it comes to choosing garlic varieties it's important to look for varieties that are adapted to your region. ‘Softneck’ garlic varieties tend to be grown in warmer climates where ‘hardneck’ varieties tend to be grown in colder climates, as they require a prolonged period of cold temperatures. There is also ‘elephant garlic’ which is technically a leek even though it forms bulbs like garlic.
 
 When planting garlic be sure to separate the bulbs into individual cloves, but leave the papery skins on each clove. Plant with the pointed end up/flat end down. How deep to plant your garlic depends on where you live - in colder climates it can be beneficial to plant your garlic up to 4” deep to protect it from winter chill, but in less extreme climates 2-3” is sufficient. Garlic can also be mulched to help protect it over the winter- if using mulch you may not need to plant quite as deep.
 
 ![A hand holding a garlic bulb ready for planting](planting-garlic.jpg)
 
-Garlic will emerge and start to grow in springtime. Hardneck garlic will shoot up a curly stem with a flower bud on top called a ‘scape’. Garlic scapes should be removed once they start to curl, to allow the plant to focus energy on bulb development. Garlic scapes are delicious and can be used in any recipe that calls for garlic!
+Garlic will emerge and start to grow in springtime. Hardneck garlic will shoot up a curly stem with a flower bud on top called a ‘scape’. Garlic scapes should be removed when they start to curl, to allow the plant to focus energy on bulb development. Garlic scapes are delicious and can be used in any recipe that calls for garlic!
 
 Garlic is ready to harvest once several of its leaves start to wither and die. In some cases garlic can be pulled directly from the soil and in other cases a pitchfork might be in order! Cut off the leaves and roots, gently wipe off any surface dirt, and leave them to dry for two weeks before storing.
 
-While tomatoes, peppers, and other summer favorites often take center stage in the garden, be sure to carve out some space for alliums!
+While tomatoes, peppers, and other summer favorites often take center stage in the garden, be sure to carve out  some space for alliums! With their minimal maintenance and countless culinary uses, they're the ultimate low effort, high reward crop!
 
 {< affiliate >}
