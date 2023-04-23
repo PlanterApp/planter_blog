@@ -17,19 +17,27 @@ Alliums, that is plants belonging to the onion family, are a must-have in your g
 
 ### Onions (and Shallots)
 
-Onions are what most people think of when they think of alliums. Onions can be sub-categorized as ‘bulbing onions’ including varieties of yellow onion, white onion, red onion, and shallots, and ‘bunching onions’ such as green onions* and Welsh onions. While green onions are relatively easy-peasy to grow, when it comes to growing bulbing onions successfully, you will need to determine whether to grow ‘long-day’ onions, ‘short-day’ onions, or ‘day neutral’ onions. This depends on where you live and how long the days are- if you grow the wrong type of onion for your area, the onion will not bulb up.
+Onions are what most people think of when they think of alliums. Onions can be harvested as ‘bulbing onions’ including varieties of yellow onion, white onion, red onion, and shallots, and ‘bunching onions’ such as green onions* and Welsh onions.
 
-Onions can be grown from ‘sets’ which are essentially young pre-started onions that you can purchase, or from seeds. Many gardeners find sets easy and you do get a bit of a head start, however if you’re comfortable starting seeds indoors give onion seeds a try- they are fairly easy too!
+To grow bulbing onions, it's critical to determine whether to grow ‘long-day’ onions, ‘short-day’ onions, or ‘intermediate-day’ ‘day neutral’ onions. This depends on where you live and how many hours of daylight your garden receives in the summer:
 
-Onions can be planted before your last frost date. They should be planted about x inches deep into loose soil that will allow the bulbs to expand. Use an all-purpose fertilizer, and be sure your soil has enough sulfur- onions need sulfur to develop flavor.
+* **Short-day onions** form the best bulbs in southern regions with 11-12 hours of sunlight each day
+* **Intermediate-day onions** work well in regions that receive 12-14 hours sunlight
+* **Long-day onions** will form bulbs in northern regions with 14 or more hours of sunlight
 
-Some gardeners advocate “spooning” onions - scooping some soil out from around the bulb to encourage it to grow outwards. This is not necessary, but if you have the time go for it!  Onions are ready to harvest once the leaves start to fall over and dry out. Pull the onions out of the ground and allow them to dry completely before snipping the tops and bottoms off and wiping off any surface dirt. Onions that are cured can store for several months.
+Research to find bulbing onion varieties that are well-suited for your area.
+
+Onions can be grown from ‘sets’ which are small bulbs sold in bags, ‘starts’ which are small pre-started onion plants, or from seed. Sets are easy to work with but they may not produce bulbs as large as onions grown from starts and seeds. Starts are also easy to grow, however if you’re comfortable [starting seeds indoors](https://blog.planter.garden/posts/all-about-starting-seeds-indoors/) give onion seeds a try!
+
+Onions can be planted outdoors before your last frost date, once the soil is workable. They should be planted about 1-1.5” deep into loose soil that will allow the bulbs to expand. Some gardeners advocate “spooning” onions - scooping some soil out from around the bulb to encourage it to grow outwards. This is not necessary, but if you have the time go for it!
+
+Onions are ready to harvest once the leaves start to flop over. Pull the onions out of the ground, snip off the leaves and roots, gently wipe off any surface dirt, and leave them to dry for two weeks before storing.
 
 ### Chives
 
-If you’re looking for the easiest possible allium to grow, be sure to plant some chives! Chives are cold-tolerant perennial herbs that keep coming back year after year. Chives can be grown from seeds or purchased as transplants (or if you have a neighbor growing chives, ask if you could divide them up and take a small bunch home!)
+If you’re looking for the easiest allium to grow, be sure to plant some chives! Chives are hardy perennial herbs that will keep coming back year after year. Chives can be grown from seeds or purchased as transplants. Or, if you have a neighbor growing chives, ask if you could divide them and take a small clump to plant!
 
-Chives are best planted in the spring. They tend to grow best in cooler temperatures with some extra moisture- you may find their growth stalls in the summer heat only to come back again in fall. To harvest chives, simply use garden snips or scissors to trim off some leaves to use in salads or as a garnish. Chives have a very mild onion flavor- similar to green onion but more subtle. Later in spring chives will produce beautiful flowers- these are edible too and have the same mild oniony-flavor– or you can leave them for the bees!
+Chives are best planted in spring, as they flourish in cooler temperatures- you may find their growth stalls in the summer only to come back again in fall. They like loose, well draining soil and while they are drought-tolerant, they do best with consistent moisture. To harvest chives, simply use [garden snips](https://www.amazon.com/s?k=garden+snips) to trim off some leaves near the base of the plant. Chives have a mild onion flavor- similar to green onion but more delicate. Later in spring chives will produce beautiful flower blooms- these are edible too and have the same subtle onion-y flavor!
 
 ![Chive plants with small flower buds](flowering-chives.jpg)
 
