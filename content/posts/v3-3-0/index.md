@@ -13,13 +13,15 @@ alt = "Rotating watermelon icon"
 +++
 We've been hard at work improving Planter with some of your [most requested features](https://planter.garden/requests). Near the top of the feature request list was the [ability to rotate 1x2 square plants](https://planter.garden/requests/id5kRLEZHtJoWiIYMeYM), such as squash, watermelon, and pumpkin. We're happy to announce that this is now possible!
 
+> **Note:** These changes are being rolled out over the next week, so you might not have access to them yet. We like to do slow roll-outs for big features like this, in case there are any bugs. If you'd like to get access to them immediately, checkout the [web app](https://planter.garden/gardens) or join the [Android](https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner) or [iOS](https://testflight.apple.com/join/zMlYVV7J) beta programs!
+
 ## New Plant Actions Pop-Up
 
 ![Screenshot showing the new user interface.](rotate_watermelon_screenshot.gif "Rotating a 1x2 watermelon using the new actions that appear upon tapping on a plant.")
 
 When we were thinking about where to put the rotate button, we wanted it to be somewhere easily accessible. We also wanted to improve the deletion mechanism, since it's tricky to drag large plants like tomatoes and squash onto the trash icon. You might say we wanted to sow two seeds in one square (another highly-requested feature that we're working on 😉). In version 3.3.0, simply tap on any plant and a variety of actions will appear:
 
-### ↺ Rotate 
+### ↺ Rotate
 
 If the plant isn't square, you'll be able to rotate it! This option won't appear for square plants, obviously. 
 
