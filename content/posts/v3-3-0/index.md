@@ -35,7 +35,7 @@ Copy and paste the plant, as many times as you want. This is a [less-requested f
 
 **and finally**
 
-### **Compost!**
+### Compost!
 
 ![Compost puppet.](compost.gif)
 
