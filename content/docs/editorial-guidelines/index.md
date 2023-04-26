@@ -97,7 +97,7 @@ But, again, it is very rare that we would mention a competitor by name.
 
 ### Politics:
 
-We have some pretty strong personal feelings here (🏳️‍🌈), but Planter as a brand doesn't.
+We have some pretty strong personal feelings here, but Planter as a brand doesn't.
 
 We generally avoid using political references in our day-to-day content efforts. 
 
@@ -178,4 +178,6 @@ Growing Guide articles can be submitted in two ways:
 
 1. Email your article to us. Click <a target="_blank" href="https://mailhide.io/e/FL2vb1ox">here</a> for our email or use the support email found within the app.
 
-Once your article is submitted, we'll read it and let you know of any changes that need to be made. And that's it! Once it's approved and published, it should appear on the website!
+Once your article is submitted, we'll read it and let you know of any changes that need to be made. And that's it! Once it's approved and published, it should appear on the website!\
+\
+*Note: We reserve the right to deny any submission for any reason.*
