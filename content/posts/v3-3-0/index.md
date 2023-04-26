@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Feature Launch: Version 3.3.0"
+title = "Feature Launch: Rotate 1×2 Plants and More!"
 slug = "v3-3-0"
 date = 2023-04-26T21:06:24.914Z
 author = "Peter Keefe"
