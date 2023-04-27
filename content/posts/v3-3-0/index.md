@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Feature Launch: Rotate 1×2 Plants and More!"
 slug = "v3-3-0"
 date = 2023-04-26T21:06:24.914Z
@@ -13,7 +13,7 @@ alt = "Rotating watermelon icon"
 +++
 We've been hard at work improving Planter with some of your [most requested features](https://planter.garden/requests). Near the top of the feature request list was the [ability to rotate 1x2 square plants](https://planter.garden/requests/id5kRLEZHtJoWiIYMeYM), such as squash, watermelon, and pumpkin. We're happy to announce that this is now possible!
 
-> **Note:** These changes are being rolled out over the next week, so you might not have access to them yet. We like to do slow roll-outs for big features like this, in case there are any bugs. If you'd like to get access to them immediately, checkout the [web app](https://planter.garden/gardens) or join the [Android](https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner) or [iOS](https://testflight.apple.com/join/zMlYVV7J) beta programs!
+> **Note:** These changes are being rolled out over the next week, so you might not have access to them yet. We like to do slow roll-outs for big features like this, in case there are any bugs. If you'd like to get access to them immediately, checkout the [web app](https://planter.garden/gardens) or [join the Android or iOS beta programs](https://info.planter.garden/connect/beta/)!
 
 ## New Plant Actions Pop-Up
 
