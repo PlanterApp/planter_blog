@@ -5,6 +5,7 @@ description: "The essential guide to growing your own food. Alongside Planter, t
 theme: "PaperMod"
 googleAnalytics: G-3KCJ1RRWM3
 timeout: 600000
+Copyright: "Planter"
 
 languages:
   en:
@@ -18,24 +19,33 @@ languages:
       author: author
     menu:
       main:
-        - name: Blog Home
+        - name: Growing Guide
           url: "/"
-          weight: 6
+          weight: 5
+          icon: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 19.9 19.7\"><g class=\"search-path\" fill=\"none\" stroke=\"#848F91\"><path stroke-linecap=\"square\" d=\"M18.5 18.3l-5.4-5.4\"/><circle cx=\"8\" cy=\"8\" r=\"7\"/></g></svg>"
+
         - name: Search
           url: search/
-          weight: 5
-        - name: Articles by Plant
-          url: plants/
-          weight: 7
-        - name: Archive
-          url: archives/
-          weight: 8
+          icon: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 19.9 19.7\"><g class=\"search-path\" fill=\"none\" stroke=\"#848F91\"><path stroke-linecap=\"square\" d=\"M18.5 18.3l-5.4-5.4\"/><circle cx=\"8\" cy=\"8\" r=\"7\"/></g></svg>"
+          weight: 6
         - name: Documentation
           url: "https://info.planter.garden"
           weight: 9
+          icon: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 19.9 19.7\"><g class=\"search-path\" fill=\"none\" stroke=\"#848F91\"><path stroke-linecap=\"square\" d=\"M18.5 18.3l-5.4-5.4\"/><circle cx=\"8\" cy=\"8\" r=\"7\"/></g></svg>"
+
         - name: Get Planter
           url: "https://planter.garden/#download"
           weight: 10
+          icon: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 19.9 19.7\"><g class=\"search-path\" fill=\"none\" stroke=\"#848F91\"><path stroke-linecap=\"square\" d=\"M18.5 18.3l-5.4-5.4\"/><circle cx=\"8\" cy=\"8\" r=\"7\"/></g></svg>"
+
+
+      footer:
+        - name: Articles by Plant
+          url: plants/
+          weight: 1
+        - name: Archive
+          url: archives/
+          weight: 2
 
 params:
   env: production
