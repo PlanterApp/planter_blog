@@ -11,6 +11,10 @@ relative = true
 image = "new-entries-rafiki.svg"
 alt = "Person sitting happily writing a new article"
 +++
+# Write for us!
+
+Are you a gardening enthusiast with an idea for a Growing Guide article? Great! We'd love to have you share your ideas with our audience. But before you sit down to write the article, you should take a moment to understand our audience and read our guidelines for writing a successful article.
+
 # Target Audience Personas
 
 ### Anna Carlson
@@ -87,13 +91,13 @@ Nerdy/pop culture references are fair game. We think our audience is into that.
 
 We typically don’t mention competitors at all, or if we do, we will usually refer to them as a category (eg “gardening apps”).
 
-For tone & voice purposes, competitors are any mobile or web apps that helps gardeners plan their gardens. We don’t consider YouTube channels, influencers, blogs, or other informational sites to be competitors.
+For tone & voice purposes, competitors are any mobile or web apps that help gardeners plan their gardens. We don’t consider YouTube channels, influencers, blogs, or other informational sites to be competitors.
 
-But, it is very rare that we would mention a competitor by name.
+But, again, it is very rare that we would mention a competitor by name.
 
 ### Politics:
 
-We have some pretty strong personal feelings here (🏳️‍🌈), but Planter as a brand doesn't.
+We have some pretty strong personal feelings here, but Planter as a brand doesn't.
 
 We generally avoid using political references in our day-to-day content efforts. 
 
@@ -119,21 +123,27 @@ Using repeated emojis in a well-structured way like a list can be OK if it’s n
 
 GIFs are acceptable as long as they’re G-rated, positive, and non-political. Use them sparingly; no more than one GIF should be visible at a time.
 
+# Advertisements and Affiliate Links
+
+The Planter blog isn't the way we make most of our revenue, so we try to keep it focused on being informative and fun, rather than trying to sell products. However, if it makes sense in the context of the article, linking to products for sale on Amazon or other websites is okay. The site will automatically add the Planter referral code to any Amazon link. We are also enrolled in several other affiliate programs (as of writing, Bootstrap Farmer is the only program other than Amazon), so check with Peter if you're interested in adding a product from another site besides Amazon.
+
+If you're interested in writing a guest post on behalf of a company, it cannot be a blatant advertisement for the company. Sponsored posts may be possible, so be sure to reach out to Peter if this sounds like something you're interested in. 
+
 # Formatting and File Structure
 
 ### Format
 
 The Growing Guide uses [Markdown](https://www.markdownguide.org/) files as the source, so any formatting that is supported by Markdown is supported. Please format headings, bolded or italicized text, and images with Markdown syntax. You can use an online [markdown editor](https://stackedit.io/app#) to make this easier.\
 \
-This page is written in Markdown, you can see the source code here.
+This page is written in Markdown, you can see the source code [here](https://github.com/PlanterApp/planter_blog/blob/main/content/docs/editorial-guidelines/index.md).
 
 ### File Structure
 
-Please name your markdown file index.md. Put your markdown file and all images in one folder.
+Please name your markdown file `index.md`. Put your markdown file and all images in one folder.
 
 ### Frontal Matter
 
-At the very top of your index.md file, please include the following:
+At the very top of your `index.md` file, please include the following:
 
 ```yaml
 +++
@@ -161,8 +171,13 @@ Growing Guide articles can be submitted in two ways:
 
 1. [Fork the repo](https://github.com/PlanterApp/planter_blog/fork).
 2. Create a folder for your article in [/content/posts](https://github.com/PlanterApp/planter_blog/tree/main/content/posts). Name it according to the subject of your article.
-3. Place your _index.md_ file and any images inside the folder.
+3. Place your `index.md` file and any images inside the folder.
 4. Commit your changes and submit a PR to the repository!
 
 ## If you aren't familiar with GitHub:
+
 1. Email your article to us. Click <a target="_blank" href="https://mailhide.io/e/FL2vb1ox">here</a> for our email or use the support email found within the app.
+
+Once your article is submitted, we'll read it and let you know of any changes that need to be made. And that's it! Once it's approved and published, it should appear on the website!\
+\
+*Note: We reserve the right to deny any submission for any reason.*
