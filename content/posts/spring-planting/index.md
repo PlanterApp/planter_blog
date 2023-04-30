@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "How to Plant a Spring Garden"
-slug = "spring-planting"
+slug = "spring-garden"
 date = 2023-04-26T02:16:03.243Z
 author = "Erin Thomson"
 weight = 5
