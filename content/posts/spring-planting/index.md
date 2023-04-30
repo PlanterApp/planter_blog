@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "How to Plant a Spring Garden"
 slug = "spring-garden"
-date = 2023-04-26T02:16:03.243Z
+date = 2023-04-30T17:33:30.799Z
 author = "Erin Thomson"
 weight = 5
 
@@ -11,11 +11,11 @@ relative = true
 image = "lettuce-and-beet-plants.jpg"
 alt = "Young lettuce and beet plants in a garden ready to be transplanted"
 +++
-As the weather starts to warm up in spring (ever. so. slowly.) the gardener’s drive to get plants growing outdoors starts to kick into high gear. Planting a spring garden is a great way to jumpstart the growing season, but not all plants can survive the unpredictable- and often downright frigid- springtime weather patterns. Sometimes the spring weather is nasty enough to keep even the most determined gardener hiding indoors! But don’t let the flip-flopping between winter’s cold and summer’s heat deter you from getting started!
+As the weather starts to warm up in spring, the gardener’s drive to get plants growing outdoors starts to kick into high gear. Planting a spring garden is a great way to jumpstart the growing season, but not all plants can survive the unpredictable- and often downright frigid- springtime weather patterns. Sometimes the spring weather is nasty enough to keep even the most determined gardener hiding indoors! But don’t let the flip-flopping between winter’s cold and summer’s heat deter you from getting started!
 
-To plant outdoors in spring, the soil needs to be ‘workable’- but what does this mean exactly? Workable soil mainly refers to soil that is no longer frozen- if you dig down a few inches and hit soil that is still solid, it's not ready for planting. Even if the ground is no longer frozen, it's also important to gauge how wet the soil is before planting. In the spring soil is often supersaturated from snowmelt and springtime precipitation. Do not work in or plant into muddy or mucky soil, as this can degrade the soil structure and increase the chance of your plants and seeds rotting. Soil in raised garden beds often warms up and dries out faster than in-ground beds, so you can start planting in them earlier. To be able to plant into in-ground beds as early as possible in spring, it can help to protect them with tarps when you close them off for the season in late fall.
+To plant outdoors in spring, the soil needs to be ‘workable’- but what does this mean exactly? Workable soil mainly refers to soil that is no longer frozen- if you dig down a few inches and hit soil that is still solid, it's not ready for planting. Even if the ground is no longer frozen, it's also important to gauge how wet the soil is before planting. In the spring, soil is often supersaturated from snowmelt and springtime precipitation. Do not work in or plant into muddy or mucky soil, as this can degrade the soil structure and increase the chance of your plants and seeds rotting. Soil in raised garden beds often warms up and dries out faster than in-ground beds, so you can start planting in them earlier. To be able to plant into in-ground beds as early as possible in spring, it can help to protect them with tarps when you close them off for the season in late fall.
 
-Once you’ve determined that the soil is ready for planting, the next step is to find plants that can survive springtime cold snaps. To do this, use the [new plant filter options](https://blog.planter.garden/posts/v3-3-0/#filters) in [Planter](https://planter.garden/) to find cool-season plants that are tolerant and semi-tolerant of frost:
+Once you’ve determined that the soil is ready for planting, the next step is to find plants that can survive springtime cold snaps. To do this, use the [new plant filter options](https://blog.planter.garden/posts/v3-3-0/#filters) in [Planter](https://planter.garden/) to find Cool season plants that are Tolerant and Semi-tolerant of frost:
 
 ![Screenshot of the new plant filter options](filters-screenshot.png)
 
