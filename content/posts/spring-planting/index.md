@@ -15,7 +15,9 @@ As the weather starts to warm up in spring (ever. so. slowly.) the gardener’s 
 
 To plant outdoors in spring, the soil needs to be ‘workable’- but what does this mean exactly? Workable soil mainly refers to soil that is no longer frozen- if you dig down a few inches and hit soil that is still solid, it's not ready for planting. Even if the ground is no longer frozen, it's also important to gauge how wet the soil is before planting. In the spring soil is often supersaturated from snowmelt and springtime precipitation. Do not work in or plant into muddy or mucky soil, as this can degrade the soil structure and increase the chance of your plants and seeds rotting. Soil in raised garden beds often warms up and dries out faster than in-ground beds, so you can start planting in them earlier. To be able to plant into in-ground beds as early as possible in spring, it can help to protect them with tarps when you close them off for the season in late fall.
 
-Once you’ve determined that the soil is ready for planting, the next step is to find plants that can survive springtime cold snaps. To do this, use the new [plant filters](https://blog.planter.garden/posts/v3-3-0/#filters) feature in [Planter](https://planter.garden/) to find cool-season plants that are tolerant and semi-tolerant of frost
+Once you’ve determined that the soil is ready for planting, the next step is to find plants that can survive springtime cold snaps. To do this, use the [new plant filter options](https://blog.planter.garden/posts/v3-3-0/#filters) in [Planter](https://planter.garden/) to find cool-season plants that are tolerant and semi-tolerant of frost:
+
+![Screenshot of the new plant filter options](filters-screenshot.png)
 
 Plants that are semi-tolerant of frost can survive a light frost with air temperatures between 28°F and 32°F (-2°C and 0°C), and plants that are tolerant of frost can withstand a heavy frost with air temperatures below 28°F (-2°C). To learn more about growing cool-season plants, [check out our article on cold-hardy crops](https://blog.planter.garden/posts/cold-hardy-crops/).
 
