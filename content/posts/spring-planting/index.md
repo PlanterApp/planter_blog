@@ -30,3 +30,5 @@ Keep in mind that young seedlings still need to be hardened off before transplan
 ![Plants in the garden covered by a plastic tunnel](plants-under-cover.jpg)
 
 Planting a spring garden can feel a bit like playing roulette with mother nature, but with the right plant selections and a bit of extra care, you can be harvesting all kinds of veggies before your summer garden is due to be planted! Be sure to plan space for your spring garden in [Planter](https://planter.garden/), put on your rubber boots and a toque (hat), and get growing!
+
+{{< affiliate >}}
