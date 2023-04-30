@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "How to Plant Outdoors in Spring"
+title = "How to Plant a Spring Garden"
 slug = "spring-planting"
 date = 2023-04-26T02:16:03.243Z
 author = "Erin Thomson"
