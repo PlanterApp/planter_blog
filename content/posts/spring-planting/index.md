@@ -17,7 +17,7 @@ To plant outdoors in spring, the soil needs to be ‘workable’- but what does 
 
 Once you’ve determined that the soil is ready for planting, the next step is to find plants that can survive springtime cold snaps. To do this, use the new [plant filters](https://blog.planter.garden/posts/v3-3-0/#filters) feature in [Planter](https://planter.garden/) to find cool-season plants that are tolerant and semi-tolerant of frost
 
-Plants that are semi-tolerant of frost can survive a light frost with air temperatures between 28°F and 32°F (-2°C and 0°C), and plants that are tolerant of frost can withstand a heavy frost with air temperatures below 28°F (-2°C). To learn more about growing cool-season plants, [check out this article on cold-hardy crops](https://blog.planter.garden/posts/cold-hardy-crops/).
+Plants that are semi-tolerant of frost can survive a light frost with air temperatures between 28°F and 32°F (-2°C and 0°C), and plants that are tolerant of frost can withstand a heavy frost with air temperatures below 28°F (-2°C). To learn more about growing cool-season plants, [check out our article on cold-hardy crops](https://blog.planter.garden/posts/cold-hardy-crops/).
 
 ![Young spinach plants in the garden](young-spinach.jpg)
 
