@@ -23,7 +23,7 @@ Plants that are semi-tolerant of frost can survive a light frost with air temper
 
 ![Young spinach plants in the garden](young-spinach.jpg)
 
-Once you’ve identified plants that can handle the cold, you’ll need to sort out whether to seed them directly outside or to transplant them. Some plants do best being seeded directly outdoors, where others can be started indoors (or purchased from a garden center) and transplanted - you can find this information in the [growing calendar](https://info.planter.garden/plant-information/how-to-grow/#growing-calendar) in [Planter](https://planter.garden/). For direct-seeded crops, it’s a good idea to research the minimum soil temperatures for the seeds to germinate, then use a [soil thermometer](https://www.amazon.com/s?k=soil+thermometer) to check that the ground is warm enough.
+Once you’ve identified plants that can handle the cold, you’ll need to sort out whether to seed them directly outside or to transplant them. Some plants do best being seeded directly outdoors, where others can be started indoors (or purchased from a garden center) and transplanted- you can find this information in the [growing calendar](https://info.planter.garden/plant-information/how-to-grow/#growing-calendar) in [Planter](https://planter.garden/). For direct-seeded crops, it’s a good idea to research the minimum soil temperatures for the seeds to germinate, then use a [soil thermometer](https://www.amazon.com/s?k=soil+thermometer) to check that the ground is warm enough.
 
 ![A hand sowing seeds in a row in the soil](sowing-seeds.jpg)
 
