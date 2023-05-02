@@ -1,13 +1,13 @@
 +++
 draft = false
-title = "Feature Launch: Rotate 1×2 Plants and More!"
+title = "Feature Launch: Rotate 1x2 Plants and More!"
 slug = "v3-3-0"
 date = 2023-04-26T21:06:24.914Z
 author = "Peter Keefe"
 weight = 5
 
 [cover]
-relative = true
+relative = false
 image = "rotating_watermelon_opt.gif"
 alt = "Rotating watermelon icon"
 +++
