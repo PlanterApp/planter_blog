@@ -8,7 +8,7 @@ weight = 5
 
 [cover]
 relative = false
-image = "rotating_watermelon_opt.gif"
+image = "/uploads/rotating_watermelon_opt.gif"
 alt = "Rotating watermelon icon"
 +++
 We've been hard at work improving Planter with some of your [most requested features](https://planter.garden/requests). Near the top of the feature request list was the [ability to rotate 1x2 square plants](https://planter.garden/requests/id5kRLEZHtJoWiIYMeYM), such as squash, watermelon, and pumpkin. We're happy to announce that this is now possible!
