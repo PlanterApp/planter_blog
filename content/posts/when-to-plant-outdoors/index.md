@@ -19,17 +19,13 @@ The first key piece of information that you’ll need to decide when to plant ou
 
 Once you’ve done a bit of research into your last frost date, the next step is to observe the weather patterns in your area. While frost dates can guide you, each year can be different weather-wise, and you may want to change the timing of your plantings accordingly. For example, today I was looking at the two-week forecast leading up to my last frost date and I noticed that both the daytime and nighttime temperatures are expected to stay well above freezing. So this year rather than waiting until sometime after my last frost date I may take advantage of this warm spell to start planting.
 
-![A gardener's gloved hands planting a bean plant](planting-beans.jpg)
+![A gardener's gloved hands planting pepper plants](planting-peppers.jpg)
 
 On the flip side, if I was near my last frost date and looking at the weather forecast and noticing some ominously cold weather, I may hold off even past the last frost date just to be safe. Precipitation and wind are other considerations too- there is no sense putting your precious plants in the ground only to have them drown in a deluge of rain or get taken out in a windstorm. Start making notes in Planter about the weather patterns so you can refer to them in upcoming years too- you may start to spot trends over time for your area.
 
 While weather is important, how it affects your plants can vary significantly depending on your garden’s microclimates. Microclimates are small localized areas that will have temperatures and weather that differ from the broader region. For example, highly urbanized areas tend to be a few degrees warmer than outlying areas. Or, you may have sheltered areas in your garden where heat radiates off a wall- keeping your plants protected and several degrees warmer. Whereas other areas that are highly exposed may not be safe for planting for some time. Become familiar with the microclimates in your garden and use that knowledge to your advantage- in some areas you may be able to plant earlier, in others you may need to hold off a little longer than usual.
 
-
-
 Even if the weather is cooperating and you have a nice sheltered spot in your garden to start planting, it still might not be a good time to start planting. If your soil temperature is too low for the plants you want to grow, there is no point rushing to plant them outside. Even though they may not die because the weather above ground is cooperating, if the soil has not had a chance to get to a decent temperature for that plant, you could stunt its growth by planting too soon. To check this use a [soil thermometer](https://www.amazon.com/s?k=soil+thermometer) to test the soil temperature, and research the preferred soil temperatures for the crops you’ll be planting.
-
-
 
 And finally, deciding when to plant can also come down to how much work you’re willing to put in. If all systems are a go, and you’re ready to get plants in the ground earlier, are you willing and able to take steps to protect them if the weather happens to take a turn for the worse? If the answer is yes, you might be able to get away with earlier plantings. If not, it would be better to err on the side of caution when timing your planting and be almost certain that there is no chance of cold weather rolling in.
 
