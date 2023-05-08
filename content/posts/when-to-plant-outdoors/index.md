@@ -21,7 +21,11 @@ The first key piece of information that you’ll need to decide when to plant ou
 
 While the term ‘last’ frost date sounds final, it’s only an estimate of when you’ll no longer receive frosts in spring based on previous weather history in your area. There is a 50% chance that there will be no frost after your average last frost date…but there is also a 50% chance that there could still be frost! So if there’s still some risk of frost after your last frost date, why not just wait and plant in say, July? While you’d certainly avoid the risk of frost, the problem is your plants may not have enough time left in the growing season if you put them in the ground too late. Also they may start to become root-bound in their containers and struggle to get sufficient nutrients the longer they go unplanted. Deciding when to plant is a trade-off between being relatively confident that there is little to no risk of frost, but still planting early enough that your plants can get growing in a timely manner.
 
-Once you’ve confirmed your average last frost date, the next step is to observe the weather patterns in your area. While frost dates can guide you, each year can be dramatically different weather-wise and you’ll want to time your plantings accordingly. As an example, if you're looking at the two-week forecast leading up to your last frost date and it's expected to be hot and sunny with nighttime temperatures well above freezing you may want to take advantage of the warm spell to start planting.
+For each plant in [Planter](https://planter.garden/) you can refer to the [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/) to see recommended date ranges for transplanting and sowing seeds outdoors based on your average frost dates:
+
+![Screenshot of the Growing Calendar for tomatoes in Planter](tomatoes-calendar.jpg)
+
+But how do you determine when to plant within these ranges? The next step is to observe the weather patterns in your area. While frost dates can guide you, each year can be dramatically different weather-wise and you’ll want to time your plantings accordingly. As an example, if you're looking at the two-week forecast leading up to your last frost date and it's expected to be hot and sunny with nighttime temperatures well above freezing you may want to take advantage of the warm spell to start planting.
 
 ![A gardener's gloved hands planting pepper plants](planting-peppers.jpg)
 
