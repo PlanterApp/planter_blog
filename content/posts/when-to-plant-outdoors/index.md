@@ -25,7 +25,7 @@ For each plant in [Planter](https://planter.garden/) you can refer to the [Growi
 
 ![Screenshot of the Growing Calendar for tomatoes in Planter](tomatoes-calendar.jpg)
 
-But how do you determine when to plant within these ranges? The next step is to observe the weather patterns in your area. While frost dates can guide you, each year can be dramatically different weather-wise and you’ll want to time your plantings accordingly. As an example, if you're looking at the two-week forecast leading up to your last frost date and it's expected to be hot and sunny with nighttime temperatures well above freezing you may want to take advantage of the warm spell to start planting.
+]While frost dates are key in determining when you can start planting outdoors, each year can be dramatically different weather-wise and you’ll want to adjust your planting timing accordingly. As an example, if you're looking at the two-week forecast leading up to your last frost date and it's expected to be hot and sunny with nighttime temperatures well above freezing you may want to take advantage of the warm spell to start planting.
 
 ![A gardener's gloved hands planting pepper plants](planting-peppers.jpg)
 
