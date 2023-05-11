@@ -13,13 +13,13 @@ alt = "Giveaway promo image"
 +++
 ### Spring is here!
 
-*(or fall for anyone "down under")*
+*(or fall for anyone "down under" 🦘)*
 
 We want to see your gardens! 👨🏻‍🌾 Or if it's too chilly in your area, show us your indoor seedlings!\
 \
 Still haven't planted anything? Check out our recent Growing Guides about [when to plant outdoors](../when-to-plant-outdoors) and [how to plant a spring garden](../spring-garden).
 
-Share a photo for a chance to win a **lifetime subscription** to Planter **and a Planter t-shirt** 🤩🪴.
+Share a photo for a chance to win a **lifetime subscription** to Planter **AND** a **Planter t-shirt** 🤩🪴.
 
 ![](image.png "The snazzy Planter t-shirt up for grabs. Also available in green (but without the plant icons since they blend into the green).")
 
