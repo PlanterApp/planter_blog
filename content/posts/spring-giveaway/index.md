@@ -15,7 +15,9 @@ alt = "Giveaway promo image"
 
 *(or fall for anyone "down under")*
 
-We want to see your gardens! 👨🏻‍🌾 Or if it's too chilly in your area, show us your indoor seedlings!
+We want to see your gardens! 👨🏻‍🌾 Or if it's too chilly in your area, show us your indoor seedlings!\
+\
+Still haven't planted anything? Check out our recent Growing Guides about [when to plant outdoors](../when-to-plant-outdoors) and [how to plant a spring garden](../spring-garden).
 
 Share a photo for a chance to win a **lifetime subscription** to Planter **and a Planter t-shirt** 🤩🪴.
 
