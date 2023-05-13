@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Top Low-Maintenance Plants for your Veggie Garden"
+title = "Low-Maintenance Plants for your Veggie Garden"
 slug = "low-maintenance-plants"
 date = 2023-05-12T02:45:49.406Z
 author = "Erin Thomson"
