@@ -9,8 +9,8 @@ weight = 5
 
 [cover]
 relative = true
-image = "dwarf-cherry-tomato.jpg"
-alt = "Temporary"
+image = "low-maintenance-plants.png"
+alt = "Collage of plant images with the words \"low-maintenance plants for your garden\""
 +++
 Growing a veggie garden is fun and rewarding, but there are some times when it can feel like work. From prepping beds to planting, watering, weeding and fertilizing- there’s always a chore to tackle. If you’re looking to minimize your gardening effort out but still get some awesome harvests- we’ve got you covered! Read on for our top picks for low-maintenance plants:
 
