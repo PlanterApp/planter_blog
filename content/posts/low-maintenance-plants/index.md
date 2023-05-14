@@ -4,7 +4,7 @@ title = "Low-Maintenance Plants for your Veggie Garden"
 slug = "low-maintenance-plants"
 date = 2023-05-12T02:45:49.406Z
 author = "Erin Thomson"
-plants = ["Chard", "Kale", "Onions", "Squash", "Beans", "Tomatoes"]
+plants = ["Chard", "Kale", "Onions", "Squash", "Beans", "Tomatoes", "Oregano", "Thyme", "Rosemary", "Mint", "Dill", "Catnip"]
 weight = 5
 
 [cover]
@@ -18,7 +18,7 @@ Growing a veggie garden is fun and rewarding, but there are some times when it c
 
 ![Kale plant with a sunny background](kale.jpg)
 
-Kale is truly an incredible plant. Not only is it astoundingly cold-hardy, once established it can grow through almost anything you can throw at it. Kale is a top low-maintenance plant pick because you plant it once and enjoy continuous harvests all season long (assuming you are harvesting it for larger, individual leaves). To harvest kale just snap off the lowest, largest leaves as close as possible to the stem, making sure to take no more than 30% of the plant off at a time. When harvested this way, kale can keep on producing well into fall and even winter…You might even find it grows back again the following year!
+Kale is truly an incredible plant. Not only is it astoundingly cold-hardy, once established it can grow through almost anything you can throw at it. Kale is a top low-maintenance plant pick because you plant it once and enjoy continuous harvests all season long (assuming you are harvesting it for larger, individual leaves). To harvest kale just snap off the lowest, largest leaves as close as possible to the stem, making sure to leave the top of the plant and several upper leaves intact. When harvested this way, kale can keep on producing well into fall and even winter…You might even find it grows back again the following year!
 
 ### Chard
 
@@ -30,7 +30,7 @@ Like kale, chard is another season-long powerhouse producer. Chard is also cold 
 
 ![Green onions in a garden](green-onions.jpg)
 
-Green onions* are one of the least-fussy plants you can grow. They germinate readily, require minimal fertilizer, and can even tolerate a slight drought (emphasis on slight). Green onions are significantly less tricky to grow than bulbing onions, and there’s no curing process involved - you simply pull them out, wash them up and store them in the fridge. Green onions also ‘hold’ well in the garden - that is, you don’t have to harvest them all at a super-precise time. They’re happy to keep on growing until you need them (although eventually you might end up with some humongous green onions!)
+Green onions* are one of the least-fussy plants you can grow. They germinate readily, require minimal fertilizer, and can even tolerate a slight drought (emphasis on *slight*). Green onions are significantly less tricky to grow than bulbing onions, and there’s no curing process involved - you simply pull them out, wash them up and store them in the fridge. Green onions also ‘hold’ well in the garden - that is, you don’t have to harvest them all at a super-precise time. They’re happy to keep on growing until you need them (although eventually you might end up with some humongous green onions!)
 
 *\*Note: [green onions are a variety of onions in Planter](https://info.planter.garden/plant-information/cant-find/)!*
 
@@ -52,12 +52,12 @@ While beans are a popular garden plant, for a low-maintenance bean harvest bush 
 
 ![Herb plants growing in containers held in a wooden crate](herbs.jpg)
 
-‘Herbs’ is a bit of a catch-all, but truly they can be some of the easiest plants to grow. Mediterranean herbs such as rosemary, thyme, and oregano are tolerant of poor soils and actually prefer to dry out between waterings! These as well as some other herbs are also perennials- depending on the variety and your [hardiness zone](https://blog.planter.garden/posts/know-where-you-grow-hardiness-zones-and-frost-dates/) they can come back year after year without the need to re-plant. Then there are herbs such as mint and dill which are infamously easy to grow because they self-seed prolifically (and mint also spreads by rhizomes). Grow mint and dill in containers otherwise they grow so readily that they can turn into garden weeds!
+‘Herbs’ is a bit of a catch-all, but truly they can be some of the easiest plants to grow. Mediterranean herbs such as rosemary, thyme, and oregano thrive in poor soil (soil low in nutrients) and actually prefer to dry out between waterings! Some herbs are also perennials- depending on the variety and your [hardiness zone](https://blog.planter.garden/posts/know-where-you-grow-hardiness-zones-and-frost-dates/) they can come back year after year without the need to re-plant. Then there are herbs such as mint and dill which are infamously easy to grow because they self-seed prolifically (and mint also spreads by rhizomes). Grow mint and dill in containers otherwise they grow so readily that they can turn into garden weeds!
 
 ### Dwarf cherry tomatoes
 
 ![Small cherry tomato plant in a orange pot](dwarf-cherry-tomato.jpg)
 
-Tomatoes can arguably be one of the most maintenance-intensive crops, depending on the variety, but dwarf cherry tomato varieties are easy-peasy. They are small, well-behaved little plants that produce prolifically without a need for trellising. Because the plants are so small their fertilizer and water demands are significantly lower than that of larger plants. Plus they grow well in containers- so weeding is minimized and you can keep them within reach for easy mealtime harvesting (or a quick garden snack!)
+Tomatoes can arguably be one of the most maintenance-intensive crops, depending on the variety, but dwarf cherry tomato varieties are easy-peasy. They are small, well-behaved little plants that produce prolifically without a need for trellising. They do not require much pruning - only to remove damaged or yellowing leaves and leaves touching the soil. Plus they grow well in containers- so weeding is minimized and you can keep them within reach for easy mealtime harvesting (or a quick garden snack!)
 
 Incorporate these low-maintenance plants into your veggie garden this season to enjoy maximum harvests with minimal effort!
