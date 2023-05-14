@@ -4,7 +4,7 @@ title = "Low-Maintenance Plants for your Veggie Garden"
 slug = "low-maintenance-plants"
 date = 2023-05-12T02:45:49.406Z
 author = "Erin Thomson"
-plants = ["Chard", "Kale", "Onions", "Squash", "Beans", "Tomatoes", "Oregano", "Thyme", "Rosemary", "Mint", "Dill", "Catnip"]
+plants = ["Chard", "Kale", "Onions", "Squash", "Beans", "Tomatoes", "Oregano", "Thyme", "Rosemary", "Mint", "Dill", "Catnip", "Sage", "Lavender"]
 weight = 5
 
 [cover]
