@@ -18,7 +18,7 @@ Growing a veggie garden is fun and rewarding, but there are some times when it c
 
 ![Kale plant with a sunny background](kale.jpg)
 
-Kale is truly an incredible plant. Not only is it astoundingly cold-hardy, once established it can grow through almost anything you can throw at it. Kale is a top  low-maintenance plant pick because you plant it once and enjoy continuous harvests all season long (assuming you are harvesting it for larger, individual leaves). To harvest kale just snap off the lowest, largest leaves as close as possible to the stem, making sure to take no more than 30% of the plant off at a time. When harvested this way, kale can keep on producing well into fall and even winter…You might even find it grows back again the following year!
+Kale is truly an incredible plant. Not only is it astoundingly cold-hardy, once established it can grow through almost anything you can throw at it. Kale is a top low-maintenance plant pick because you plant it once and enjoy continuous harvests all season long (assuming you are harvesting it for larger, individual leaves). To harvest kale just snap off the lowest, largest leaves as close as possible to the stem, making sure to take no more than 30% of the plant off at a time. When harvested this way, kale can keep on producing well into fall and even winter…You might even find it grows back again the following year!
 
 ### Chard
 
@@ -55,6 +55,9 @@ While beans are a popular garden plant, for a low-maintenance bean harvest bush 
 ‘Herbs’ is a bit of a catch-all, but truly they can be some of the easiest plants to grow. Mediterranean herbs such as rosemary, thyme, and oregano are tolerant of poor soils and actually prefer to dry out between waterings! These as well as some other herbs are also perennials- depending on the variety and your [hardiness zone](https://blog.planter.garden/posts/know-where-you-grow-hardiness-zones-and-frost-dates/) they can come back year after year without the need to re-plant. Then there are herbs such as mint and dill which are infamously easy to grow because they self-seed prolifically (and mint also spreads by rhizomes). Grow mint and dill in containers otherwise they grow so readily that they can turn into garden weeds!
 
 ### Dwarf cherry tomatoes
+
 ![Small cherry tomato plant in a orange pot](dwarf-cherry-tomato.jpg)
 
 Tomatoes can arguably be one of the most maintenance-intensive crops, depending on the variety, but dwarf cherry tomato varieties are easy-peasy. They are small, well-behaved little plants that produce prolifically without a need for trellising. Because the plants are so small their fertilizer and water demands are significantly lower than that of larger plants. Plus they grow well in containers- so weeding is minimized and you can keep them within reach for easy mealtime harvesting (or a quick garden snack!)
+
+Incorporate these low-maintenance plants into your veggie garden this season to enjoy maximum harvests with minimal effort!
