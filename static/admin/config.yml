@@ -28,7 +28,8 @@ collections:
         name: "title"
         widget: "string"
         required: true
-      - label: "URL Path (www.blog.planter.garden/posts/URL_PATH_HERE)"
+      - label: "URL Path (defaults to title)"
+        hint: "The URL Path goes at the end of the URL, for example https://blog.planter.garden/posts/{URL_PATH_HERE}. By default, the post title is used. If the title is really long, consider adding a shorter URL."
         name: "slug"
         widget: "string"
         required: false
