@@ -28,10 +28,10 @@ collections:
         name: "title"
         widget: "string"
         required: true
-      - label: "URL Path (defaults to title)"
+      - label: "URL Path (www.blog.planter.garden/posts/URL_PATH_HERE)"
         name: "slug"
         widget: "string"
-        required: false
+        required: true
         pattern: [ '^[.a-zA-Z0-9-]+$', "Must only contain letters, numbers, and dashes." ]
       - label: "Date"
         name: "date"
