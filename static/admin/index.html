@@ -211,6 +211,14 @@ CMS.registerEditorComponent({
         return `{{< vimeo ${obj.shortcode} >}}`;
     },
 });
+
+CMS.registerEventListener({
+  name: 'preSave',
+  handler: ({ entry }) => {
+    var title = entry.getIn(['data', 'title']);
+    return entry.get('data').set('slug', title);
+  },
+});
 </script>
 </body>
 </html>
