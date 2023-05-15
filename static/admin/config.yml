@@ -31,7 +31,7 @@ collections:
       - label: "URL Path (www.blog.planter.garden/posts/URL_PATH_HERE)"
         name: "slug"
         widget: "string"
-        required: true
+        required: false
         pattern: [ '^[.a-zA-Z0-9-]+$', "Must only contain letters, numbers, and dashes." ]
       - label: "Date"
         name: "date"
