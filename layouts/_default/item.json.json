@@ -16,14 +16,14 @@
 {{- $content := .Plain | truncate 500 | jsonify }}
 
 {
-  "title": "{{ .Title }}",
-  "author": "{{ .Params.author }}",
+  "title": "{{ .Title | jsonify }}",
+  "author": "{{ .Params.author | jsonify }}",
   "image": {
     "url": "{{ $coverUrl }}",
-    "caption" : "{{ .Params.cover.caption }}",
-    "alt" : "{{ .Params.cover.alt }}"
+    "caption" : "{{ .Params.cover.caption | jsonify }}",
+    "alt" : "{{ .Params.cover.alt | jsonify }}"
   },
   "date" : "{{ .Params.date }}",
-  "permalink" : "{{ .Permalink }}",
+  "permalink" : "{{ .Permalink | jsonify }}",
   "content" : {{ $content }}
 }
