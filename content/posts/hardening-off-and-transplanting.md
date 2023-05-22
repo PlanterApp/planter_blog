@@ -1,15 +1,18 @@
 +++
-author = "Erin Thomson"
-date = 2022-05-04T04:00:00Z
+draft = true
 title = "Hardening Off and Transplanting"
+slug = "Hardening Off and Transplanting"
+date = 2022-05-04T04:00:00.000Z
+author = "Erin Thomson"
+series = ["Seed Starting"]
 weight = 5
-[cover]
-alt = ""
-caption = "A young seedling"
-image = "/uploads/seedling.jpg"
 
+[cover]
+alt = "Young seedlings in pots and containers outside in the shade"
+caption = ""
+image = "seedlings-outdoors.jpg"
 +++
-If you [started seeds indoors](https://blog.planter.garden/posts/how-to-start-seeds-indoors/), at some point the itch to get them planted in the garden really starts to kick in. But without special care, the transition from growing indoors to the garden can stunt your plants’ growth and even kill them. It's important to ‘harden off’ seedlings and transplant them properly, to give them the best possible start in the garden.
+If you [started seeds indoors](https://blog.planter.garden/posts/all-about-starting-seeds-indoors/), at some point the itch to get them planted in the garden really starts to kick in. But without special care, the transition from growing indoors to the garden can stunt your plants’ growth and even kill them. It's important to ‘harden off’ seedlings and transplant them properly, to give them the best possible start in the garden.
 
 ### What Is Hardening Off?
 
@@ -19,9 +22,9 @@ Hardening off might seem like an extra step, but it provides some insurance that
 
 ### When and How to Harden Off Seedlings
 
-To determine when to harden off seedlings, start by checking the ‘Transplant’ window in [Planter](https://planter.garden/) for each of the plants you plan on transplanting:
+To determine when to harden off seedlings, start by checking the ‘Transplant’ window in the Growing Calendar in [Planter](https://planter.garden/) for each of the plants you plan on transplanting:
 
-![](/uploads/peppers-screenshot.jpg)
+![A screenshot of the Growing Calendar for tomatoes in Planter](tomatoes-growing-calendar.jpg)
 
 The transplant window in [Planter](https://planter.garden/) is tailored to your growing location. Within the transplant window for each of your plants, think about when specifically you want to transplant. Consider recent and forecast weather conditions and when you have time in your schedule for planting. If you are [succession planting](https://blog.planter.garden/posts/succession-planting-for-nonstop-harvests/), you may have multiple transplant dates to keep track of for each plant. Make sure your seedlings will be mature enough to be transplanted- they should have at least a couple sets of ‘true leaves’- but don’t leave it so late that they are outgrowing their containers.
 
@@ -33,7 +36,7 @@ If the forecast calls for extreme weather (cold, heat, wind, storms), keep the s
 
 ### How to Transplant Seedlings
 
-![](/uploads/planting-seedlings.jpg)
+![A gardener's gloved hands transplanting broccoli seedlings into the soil](/uploads/planting-seedlings.jpg)
 
 When transplanting seedlings the goal is to prevent ‘transplant shock’, which can stunt or kill them. To make the process as smooth as possible, plan your planting ahead of time using [Planter](https://planter.garden/), be sure your beds (or containers) are prepped, and have your tools handy.
 
