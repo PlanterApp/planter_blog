@@ -22,7 +22,7 @@ Hardening off might seem like an extra step, but it provides some insurance that
 
 ### When and How to Harden Off Seedlings
 
-To determine when to harden off seedlings, start by checking the ‘Transplant’ window in the Growing Calendar in [Planter](https://planter.garden/) for each of the plants you plan on transplanting:
+To determine when to harden off seedlings, start by checking the ‘Transplant’ window in the [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/) in [Planter](https://planter.garden/) for each of the plants you plan on transplanting:
 
 ![A screenshot of the Growing Calendar for tomatoes in Planter](tomatoes-growing-calendar.jpg)
 
