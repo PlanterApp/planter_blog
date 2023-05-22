@@ -36,7 +36,7 @@ If the forecast calls for extreme weather (cold, heat, wind, storms), keep the s
 
 ### How to Transplant Seedlings
 
-![A gardener's gloved hands transplanting broccoli seedlings into the soil](/uploads/planting-seedlings.jpg)
+![A gardener's gloved hands transplanting broccoli seedlings into the soil](planting-seedlings.jpg)
 
 When transplanting seedlings the goal is to prevent ‘transplant shock’, which can stunt or kill them. To make the process as smooth as possible, plan your planting ahead of time using [Planter](https://planter.garden/), be sure your beds (or containers) are prepped, and have your tools handy.
 
