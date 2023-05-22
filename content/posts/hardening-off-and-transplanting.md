@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Hardening Off and Transplanting"
 slug = "Hardening Off and Transplanting"
 date = 2022-05-04T04:00:00.000Z
