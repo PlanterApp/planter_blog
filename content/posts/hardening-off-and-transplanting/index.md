@@ -8,6 +8,7 @@ series = ["Seed Starting"]
 weight = 5
 
 [cover]
+relative = true
 alt = "Young seedlings in pots and containers outside in the shade"
 caption = ""
 image = "seedlings-outdoors.jpg"
