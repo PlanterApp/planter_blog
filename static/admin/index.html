@@ -216,7 +216,12 @@ CMS.registerEventListener({
   name: 'preSave',
   handler: ({ entry }) => {
     var title = entry.getIn(['data', 'title']);
-    return entry.get('data').set('slug', title);
+    var slug = entry.getIn(['data', 'slug']);
+    if (!slug) {
+        return entry.get('data').set('slug', title);
+    } else {
+        return;
+    }
   },
 });
 </script>
