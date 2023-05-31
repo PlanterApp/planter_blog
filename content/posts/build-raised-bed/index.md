@@ -20,10 +20,8 @@ I've got 6 raised beds in my garden, and 4 of them use this exact method. It wor
 * 3 2"×8"×8' regular pine boards (or 2×6, 2×10, 2×12. See our article on [soil depth requirements](../soil-depth-requirements/))
 
   ![Three pine boards laying on the ground.](vlcsnap-2023-05-31-09h56m10s271.png "Regular, kiln-dried boards are great for building raised beds. Even old boards like the one in the photo.")
-
-
-* Deck screws
-* Drill
+* Exterior-grade wood screws. I used these [deck screws](https://www.amazon.com/Deck-Plus-Screws-Exterior-48416/dp/B0100ICU22).
+* Drill, drill bit, and driver bit for screws.
 * Saw
 * Level
 * Tape measure
@@ -41,9 +39,10 @@ How long your raised bed lasts depends primarily on moisture. I live in New Engl
 1. Choose a level, sunny spot for your raised bed. If the spot has grass or weeds, lay down some cardboard to prevent the weeds from growing up through the raised bed. The cardboard will decompose after a season or two.
 2. Use a saw to cut one of the boards in half. Afterward, you should have two 8-foot boards and two 4-foot boards. 
 3. Arrange the boards so that the 4-foot boards are on the ends. 
-4. Put 2 screws in each corner. It's best to pre-drill the screw holes so that the wood doesn't split. 
+4. Put 2 screws in each corner. It's best to pre-drill the screw holes so that the wood doesn't split.
 
-> **Tip:** Make sure to screw through the short boards into the end of the long boards. The reason behind this is there is more pressure from the soil pushing on the long boards than the short boards. Along with that, screws are more likely to pull out of decaying wood than they are to break from shear force.
+   > **Tip:** Make sure to screw through the short boards into the end of the long boards. The reason behind this is there is more pressure from the soil pushing on the long boards than the short boards. Along with that, screws are more likely to pull out of decaying wood than they are to break from shear force.
 
+   ![Video of predrilling the wood.](drill-wood-shorter-no-dither.gif "Predrilling the holes for the screws.")
 5. Check that your raised bed is approximately level. It doesn't need to be precise. You can dig out some soil or raise corners with some rocks until it's level.
 6. [Fill your raised bed with soil](../soil-options-for-raised-bed-gardening/) and start planting!
