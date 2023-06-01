@@ -33,6 +33,8 @@ Some people suggest using cedar boards or pressure-treated boards. Both of these
 
 I prefer to use the safer and cheaper option: untreated kiln-dried pine, which is what you'll find at your local hardware store. My oldest raised bed is 5 years old and is holding up well, with no obvious signs of rot or decay. I'm guessing I could get another 5 years out of it, and that's good enough for me. 
 
+![My five year old raised garden bed](PXL_20230531_191549574.jpg "My oldest raised garden bed which is still in pretty good shape. The wood has split a bit, but it's still very sturdy. It's a two-layer version of this design, with a middle cross-brace to keep the taller sides from bowing outwards.")
+
 How long your raised bed lasts depends primarily on moisture. I live in New England where we get a decent amount of rain and some humidity. In drier climates, your raised bed may last even longer!
 
 ## Instructions:
