@@ -15,6 +15,10 @@ A raised garden bed is a great way to grow your own veggies! It's also a great w
 
 I've got 6 raised beds in my garden, and 4 of them use this exact method. It works! And it's easy and cheap.
 
+Prefer to learn via video? Friend-of-the-app Gardener Scott has a great video using this exact same method:
+{{< youtube KRAieQI4SWo >}}
+
+
 ## Materials Needed:
 
 * 3 2"×8"×8' regular pine boards (or 2×6, 2×10, 2×12. See our article on [soil depth requirements](../soil-depth-requirements/))
@@ -54,6 +58,23 @@ How long your raised bed lasts depends primarily on moisture. I live in New Engl
 6. [Fill your raised bed with soil](../soil-options-for-raised-bed-gardening/) and start planting!
 
 ![Filling the bed with soil.](filling-soil.gif "Fill the new bed with soil!")
+
+## Taller Beds
+
+Perhaps you are putting this raised bed on top of concrete or nutrient-deficient soil. Or you simply don't want to bend down as much. You might want to create an extra tall raised bed. My oldest raised bed is built using this same method, but doubled. Simply create two regular raised beds using the steps above. Then, secure both layers of the garden bed together. 
+
+Many people use a 4x4 post in each corner and screw through the sides. This is what Gardener Scott did in his [video](https://youtu.be/KRAieQI4SWo?t=453):
+
+![Joining the layers using a 4x4 post in each corner](4x4post.png "Joining the layers using a 4x4 post in each corner.")
+
+I took a different approach, which requires a special "[pocket hole](https://www.amazon.com/Kreg-KPHJ320-22-Pocket-Hole-KHC-MICRO-Clamp/dp/B0B15KFCDW)" jig that is typically used for furniture making. Using this jig, I was able to screw directly from the top layer into the bottom layer:
+
+![Joining the layers using pocket-hole screws](IMG_20190424_200830.jpg "Joining the layers using pocket-hole screws.")
+
+Yet another approach that I *don't* recommend is what I did on my very first raised beds. I notched the boards and assembled them like Lincoln Logs. This was a lot of effort and the wood was very weak around the notches. But it did look pretty cool 😎:
+
+![Joining the layers using notches](IMG_20150411_112522.jpg "Joining the layers using notches.")
+
 
 ## Other Materials
 
