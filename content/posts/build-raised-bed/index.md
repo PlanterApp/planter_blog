@@ -1,15 +1,15 @@
 +++
-draft = true
+draft = false
 title = "How to Build a Raised Bed"
 slug = "build-raised-bed"
-date = 2023-06-01T05:13:00.000Z
+date = 2023-06-01T00:00:00.000Z
 author = "Peter Keefe"
 weight = 5
 
 [cover]
 relative = true
 image = "pxl_20230530_194134162.jpg"
-alt = "Raised bed filled with dirt and tomoatoes"
+alt = "Raised bed filled with dirt and tomatoes"
 +++
 A raised garden bed is a great way to grow your own veggies! It's also a great way to improve the drainage and fertility of your soil. And with this method, it's super easy to build.
 
