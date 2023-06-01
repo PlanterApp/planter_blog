@@ -8,7 +8,7 @@ weight = 5
 
 [cover]
 relative = true
-image = "pxl_20230530_194134162.jpg"
+image = "pxl_20230530_194134162.webp"
 alt = "Raised bed filled with dirt and tomatoes"
 +++
 A raised garden bed is a great way to grow your own veggies! It's also a great way to improve the drainage and fertility of your soil. And with this method, it's super easy to build.
@@ -23,7 +23,7 @@ Prefer to learn via video? Friend-of-the-app Gardener Scott has a great video us
 
 * 3 2"×8"×8' regular pine boards (or 2×6, 2×10, 2×12. See our article on [soil depth requirements](../soil-depth-requirements/))
 
-![Three pine boards laying on the ground.](vlcsnap-2023-05-31-09h56m10s271.png "Regular, kiln-dried boards are great for building raised beds. Even old boards like the one in the photo.")
+![Three pine boards laying on the ground.](vlcsnap-2023-05-31-09h56m10s271.webp "Regular, kiln-dried boards are great for building raised beds. Even old boards like the one in the photo.")
 
 * Exterior-grade wood screws. I used these [deck screws](https://www.amazon.com/Deck-Plus-Screws-Exterior-48416/dp/B0100ICU22).
 * Drill, drill bit, and driver bit for screws.
@@ -37,7 +37,7 @@ Some people suggest using cedar boards or pressure-treated boards. Both of these
 
 I prefer to use the safer and cheaper option: untreated kiln-dried pine, which is what you'll find at your local hardware store. My oldest raised bed is 5 years old and is holding up well, with no obvious signs of rot or decay. I'm guessing I could get another 5 years out of it, and that's good enough for me. 
 
-![My five year old raised garden bed](PXL_20230531_191549574.jpg "My oldest raised garden bed which is still in pretty good shape. The wood has split a bit, but it's still very sturdy. It's a two-layer version of this design, with a middle cross-brace to keep the taller sides from bowing outwards.")
+![My five year old raised garden bed](PXL_20230531_191549574.webp "My oldest raised garden bed which is still in pretty good shape. The wood has split a bit, but it's still very sturdy. It's a two-layer version of this design, with a middle cross-brace to keep the taller sides from bowing outwards.")
 
 How long your raised bed lasts depends primarily on moisture. I live in New England where we get a decent amount of rain and some humidity. In drier climates, your raised bed may last even longer!
 
@@ -65,15 +65,15 @@ Perhaps you are putting this raised bed on top of concrete or nutrient-deficient
 
 Many people use a 4x4 post in each corner and screw through the sides. This is what Gardener Scott did in his [video](https://youtu.be/KRAieQI4SWo?t=453):
 
-![Joining the layers using a 4x4 post in each corner](4x4post.png "Joining the layers using a 4x4 post in each corner.")
+![Joining the layers using a 4x4 post in each corner](4x4post.webp "Joining the layers using a 4x4 post in each corner.")
 
 I took a different approach, which requires a special "[pocket hole](https://www.amazon.com/Kreg-KPHJ320-22-Pocket-Hole-KHC-MICRO-Clamp/dp/B0B15KFCDW)" jig that is typically used for furniture making. Using this jig, I was able to screw directly from the top layer into the bottom layer:
 
-![Joining the layers using pocket-hole screws](IMG_20190424_200830.jpg "Joining the layers using pocket-hole screws.")
+![Joining the layers using pocket-hole screws](IMG_20190424_200830.webp "Joining the layers using pocket-hole screws.")
 
 Yet another approach that I *don't* recommend is what I did on my very first raised beds. I notched the boards and assembled them like Lincoln Logs. This was a lot of effort and the wood was very weak around the notches. But it did look pretty cool 😎:
 
-![Joining the layers using notches](IMG_20150411_112522.jpg "Joining the layers using notches.")
+![Joining the layers using notches](IMG_20150411_112522.webp "Joining the layers using notches.")
 
 
 ## Other Materials
@@ -84,7 +84,7 @@ This is just one way to make a raised bed. Raised beds can also be constructed o
 
 I live in the forest, and in that forest there are a lot of dead, fallen pine trees. So I decided to build two raised beds from these pine trees!
 
-![Pine logs after they've been cut.](pxl_20230506_181318764.jpg "I spent the weekend being a lumberjack. Chainsaws are pretty fun, it turns out 😉.")
+![Pine logs after they've been cut.](pxl_20230506_181318764.webp "I spent the weekend being a lumberjack. Chainsaws are pretty fun, it turns out 😉.")
 
 To put them together, I used [8" long timber screws](https://www.amazon.com/FastenMaster-TimberLok-Coat-Structural-Screws/dp/B07TNQ3MCY). At nearly $3 each, these screws were kinda pricey, which nearly negated the cost savings from using free lumber. But the end result is so cool, I think the effort was worth it.\
 \
@@ -94,8 +94,8 @@ For the bottom logs, I notched the end pieces so that the logs rested flush agai
 
 I filled them with a mixture of soil, compost, and a little peat. I think they turned out great!
 
-![Filled log raised garden beds.](PXL_20230531_183308882.jpg "The completed raised garden beds, made of pine logs 🪵")
+![Filled log raised garden beds.](PXL_20230531_183308882.webp "The completed raised garden beds, made of pine logs 🪵")
 
-![Filled log raised garden beds.](pxl_20230530_194204633.jpg "If you're curious about the arch, stay tuned for a future article!")
+![Filled log raised garden beds.](pxl_20230530_194204633.webp "If you're curious about the arch, stay tuned for a future article!")
 
 {{< affiliate >}}
