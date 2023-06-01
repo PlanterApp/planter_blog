@@ -71,6 +71,8 @@ For the bottom logs, I notched the end pieces so that the logs rested flush agai
 
 I filled them with a mixture of soil, compost, and a little peat. I think they turned out great!
 
+![Filled log raised garden beds.](PXL_20230531_183308882.jpg "The completed raised garden beds, made of pine logs 🪵")
+
 ![Filled log raised garden beds.](pxl_20230530_194204633.jpg "If you're curious about the arch, stay tuned for a future article!")
 
 {{< affiliate >}}
