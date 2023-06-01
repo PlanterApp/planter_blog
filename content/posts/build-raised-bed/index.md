@@ -55,7 +55,7 @@ How long your raised bed lasts depends primarily on moisture. I live in New Engl
 
 ## Other Materials
 
-This is just one way to make a raised bed. Raised beds can also be constructed of many other materials, including corrugated metal, cinder blocks, bricks, timbers, and more. If it can hold back soil, you can probably make a raised garden bed with it. I won't go in-depth for each of these materials, but I will show you the *other* raised beds I constructed:
+This is just one way to make a raised bed. Raised beds can also be constructed of many other materials, including [corrugated metal](https://www.amazon.com/VEGEGA-Zinc-Aluminum-Magnesium-Stainless-Planting-Vegetables/dp/B09WGLSLB7), cinder blocks, bricks, timbers, and more. If it can hold back soil, you can probably make a raised garden bed with it. I won't go in-depth for each of these materials, but I will show you the *other* raised beds I constructed:
 
 ### Logs
 
@@ -63,7 +63,7 @@ I live in the forest, and in that forest there are a lot of dead, fallen pine tr
 
 ![Pine logs after they've been cut.](pxl_20230506_181318764.jpg "I spent the weekend being a lumberjack. Chainsaws are pretty fun, it turns out 😉.")
 
-To put them together, I used 10" long timber screws. At nearly $3 each, these screws were kinda pricey, which nearly negated the cost savings from using free lumber. But the end result is so cool, I think the effort was worth it.\
+To put them together, I used [8" long timber screws](https://www.amazon.com/FastenMaster-TimberLok-Coat-Structural-Screws/dp/B07TNQ3MCY). At nearly $3 each, these screws were kinda pricey, which nearly negated the cost savings from using free lumber. But the end result is so cool, I think the effort was worth it.\
 \
 For the bottom logs, I notched the end pieces so that the logs rested flush against each other. This also let the screws go further into the wood.
 
@@ -72,3 +72,5 @@ For the bottom logs, I notched the end pieces so that the logs rested flush agai
 I filled them with a mixture of soil, compost, and a little peat. I think they turned out great!
 
 ![Filled log raised garden beds.](pxl_20230530_194204633.jpg "If you're curious about the arch, stay tuned for a future article!")
+
+{{< affiliate >}}
