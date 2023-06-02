@@ -18,7 +18,6 @@ I've got 6 raised beds in my garden, and 4 of them use this exact method. It wor
 Prefer to learn via video? Friend-of-the-app Gardener Scott has a great video using this exact same method:
 {{< youtube KRAieQI4SWo >}}
 
-
 ## Materials Needed:
 
 * 3 2"×8"×8' regular pine boards (or 2×6, 2×10, 2×12. See our article on [soil depth requirements](../soil-depth-requirements/))
@@ -75,6 +74,7 @@ Yet another approach that I *don't* recommend is what I did on my very first rai
 
 ![Joining the layers using notches](IMG_20150411_112522.webp "Joining the layers using notches.")
 
+Another thing to consider with taller beds is the additional pressure from the soil. To counter this, you can add a reinforcing board in the middle (similar to the above photo, although I wouldn't suggest this notch technique, just screw it in place). This board will need to be 3" shorter than the end boards, so 45".
 
 ## Other Materials
 
