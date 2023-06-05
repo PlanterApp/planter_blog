@@ -16,7 +16,7 @@ Popular plants such as tomatoes, peppers, and beans often take center stage in t
 
 ### Tomatillos
 
-If you have ever enjoyed ‘salsa verde’ at a Mexican restaurant, you should definitely give tomatillos a try in your garden! Tomatillos are in the Solanaceae (nightshade) family like tomatoes and peppers but in many ways they are easier to grow. They do enjoy heat and a long growing season, but as long as you get them up and running in time they will produce like crazy until frost comes. They are relatively disease-and-pest resistant, and pruning or fancy trellising is not required! You can let your tomatillos bush out and offer them some support in a sturdy tomato cage- then watch them take off!
+If you have ever enjoyed ‘salsa verde’ at a Mexican restaurant, you should definitely give tomatillos a try in your garden! Tomatillos are in the Solanaceae (nightshade) family like tomatoes and peppers but in many ways they are easier to grow. They do enjoy heat and a long growing season, but as long as you get them up and running in time they will produce like crazy until frost comes. They are relatively disease and pest resistant, and pruning or fancy trellising is not required! You can let your tomatillos bush out and offer them some support in a sturdy tomato cage- then watch them take off!
 
 ### Potatoes
 
