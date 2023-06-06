@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "New Feature and Behind-the-Scenes Conversation with Gardener Scott"
 slug = "garden-summary-gardener-scott"
-date = 2023-06-06T19:54:20.858Z
+date = 2023-06-10T05:23:00.000Z
 author = "Peter Keefe"
 weight = 5
 
