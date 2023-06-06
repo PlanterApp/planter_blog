@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "How to Build a Raised Bed"
+title = "How to Build a Raised Garden Bed"
 slug = "build-raised-bed"
 date = 2023-06-01T00:00:00.000Z
 author = "Peter Keefe"
