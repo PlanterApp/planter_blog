@@ -9,8 +9,8 @@ weight = 5
 
 [cover]
 relative = true
-image = "planting-seedlings.jpg"
-alt = "PLACEHOLDER"
+image = "underrated-plants.png"
+alt = "A collage of 7 plant images"
 +++
 Popular plants such as tomatoes, peppers, and beans often take center stage in the summer garden. It can be easy to fall into the routine of planting the same favorite crops over and over again. But even if you stick with the classics, it’s worth branching out and trying a couple new plants each year. There are some plants that can tend to be overlooked that can make excellent additions to the garden if you give them a chance. You might just discover a new favorite plant to add to the must-grow list!
 
@@ -40,7 +40,7 @@ Thinking about turnip might conjure up memories of a mushy puree served exclusiv
 
 ### Winter Squash
 
-![]()
+![Squash plants in the field with ripe butternut squash](squash.jpg)
 
 Summer squash such as zucchini often dominates in the summer garden, but winter squashes that can be stored such as butternut, acorn, and spaghetti squash are highly versatile crops that let you enjoy your garden harvest well into the winter months when other crops have long since been consumed. The term ‘winter squash’ seems to suggest something to be planted in the fall, they are in fact heat-loving plants that grow through the summer months. While winter squash plants are large and ramble-y, just one healthy plant can produce several squashes. And if space is a consideration, you can always trellis them vertically to free up space on the ground.
 
