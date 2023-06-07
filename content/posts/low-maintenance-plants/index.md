@@ -5,6 +5,7 @@ slug = "low-maintenance-plants"
 date = 2023-05-12T02:45:49.406Z
 author = "Erin Thomson"
 plants = ["Chard", "Kale", "Onions", "Squash", "Beans", "Tomatoes", "Oregano", "Thyme", "Rosemary", "Mint", "Dill", "Catnip", "Sage", "Lavender"]
+series = ["Plant Picks"]
 weight = 5
 
 [cover]
