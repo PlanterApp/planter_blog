@@ -4,13 +4,14 @@ title = "7 Underrated Plants to Add to Your Garden"
 slug = "underrated-plants"
 date = 2023-06-05T00:50:01.908Z
 author = "Erin Thomson"
+plants = ["Tomatillos", "Potatoes", "Spinach", "Turnip", "Squash", "Raspberries", "Rhubarb"]
 series = ["Plant Picks"]
 weight = 5
 
 [cover]
 relative = true
 image = "underrated-plants.png"
-alt = "A collage of 7 plant images"
+alt = "A collage of plant images with the words \"7 Underrated Plants for Your Garden\""
 +++
 Popular plants such as tomatoes, peppers, and beans often take center stage in the summer garden. It can be easy to fall into the routine of planting the same favorite crops over and over again. But even if you stick with the classics, it’s worth branching out and trying a couple new plants each year. There are some plants that can tend to be overlooked that can make excellent additions to the garden if you give them a chance. You might just discover a new favorite plant to add to the must-grow list!
 
