@@ -14,7 +14,7 @@ alt = "The new Garden Summary feature."
 +++
 Today, I'm thrilled to share some exciting news with you about our latest feature: the Garden Summary. But first, let me tell you about an incredible conversation we had with none other than Gardener Scott. 
 
-If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) right now and binge-watch his excellent veggie gardening videos. We (Gardener Scott, Erin Thomson, and myself) met up on a rainy day to discuss his feature requests and the top requests from the Planter community, a brief history of the app, and, of course, our brand-new Garden Summary feature. So be sure to check out the interview video **\[insert link to Gardener Scott's YouTube video]**.\
+If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) right now and binge-watch his excellent gardening videos. We (Gardener Scott, Erin Thomson, and myself) met up on a rainy day to brainstorm cool features together, talked about the history of the app, and, of course, our brand-new Garden Summary feature. In fact, the Garden Summary feature was inspired by a previous conversation with Gardener Scott and input from the Planter community! So be sure to check out the interview video **\[insert link to Gardener Scott's YouTube video]**.\
 \
 Ok, now back to the new feature!
 
