@@ -14,7 +14,7 @@ alt = "The new Garden Summary feature."
 +++
 Today, I'm thrilled to share some exciting news with you about our latest feature: the Garden Summary. But first, let me tell you about an incredible conversation we had with none other than Gardener Scott. 
 
-If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) right now and binge-watch his excellent gardening videos. We (Gardener Scott, Erin Thomson, and myself) met up on a rainy day to brainstorm cool features together, talked about the history of the app, and, of course, our brand-new Garden Summary feature. In fact, the Garden Summary feature was inspired by a previous conversation with Gardener Scott and input from the Planter community! So be sure to check out the interview video **\[insert link to Gardener Scott's YouTube video]**.\
+If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) right now and binge-watch his excellent gardening videos. We (Gardener Scott, Erin Thomson, and myself) met up on a rainy day to brainstorm cool features together, talked about the history of the app, and, of course, our brand-new Garden Summary feature. In fact, the Garden Summary feature was inspired by a previous conversation with Gardener Scott as well as input from the Planter community! So be sure to check out the interview video **\[insert link to Gardener Scott's YouTube video]**.\
 \
 Ok, now back to the new feature!
 
@@ -26,17 +26,17 @@ As passionate gardeners ourselves, we understand the challenges of planning and 
 
 So, what does the Garden Summary do? 
 
-### Plant Quantity Breakdown:
+### Plant Quantity Breakdown
 
 ![Screenshot of the Garden Summary plant quantity view.](screenshot-2023-06-06-at-4.10.59-pm.png "The Garden Summary shows exactly how many of each plant you've got in a bed, and breaks it down by variety.")
 
 Ever found yourself in a nursery, scratching your head, wondering how many plants or seeds to buy? Worry no more! With the summary view, we provide you with the exact quantity of each plant and variety in your garden bed. It takes the guesswork out of your shopping list, making sure you get just the right number of plants to thrive in your garden.
 
-### Notes and Events:
+### Notes and Events
 
 In addition to plant quantities, the Garden Summary shows all of your garden’s notes, allowing you to have a quick and comprehensive overview. At the moment it only includes garden-wide notes, but we plan to add plant-specific notes in the future (once we figure out a nice way to indicate *which* plant the note belongs to).
 
-### Export and Share:
+### Export and Share
 
 *(Planter Premium feature)*
 
