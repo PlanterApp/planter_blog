@@ -37,7 +37,7 @@ Lettuce is often the go-to when it comes to leafy garden greens, but spinach is 
 
 ![Bunches of hakurei turnips in a wooden box](hakurei-turnips.jpg)
 
-Thinking about turnip might conjure up memories of mushy puree served exclusively over the holidays. But you might not know that there are some types of turnips that are deliciously sweet, crispy, and can be eaten raw or cooked. ‘Hakurei turnips’ are a farmer’s market favorite that are super easy to grow. They look like a jumbo-size white radish, and grow  similarly to radishes, but the taste is fresh and juicy without any of the signature radish kick (radish haters love them!) The greens are also excellent for stir-frying. Even if adding turnips to your garden has never crossed your mind, be sure to give hakurei a try!
+Thinking about turnip might conjure up memories of mushy puree served exclusively over the holidays. But you might not know that there are some types of turnips that are deliciously sweet, crispy, and can be eaten raw or cooked. ‘Hakurei turnips’ are a farmer’s market favorite that are super easy to grow. They look like a jumbo-size white radish, and grow similarly to radishes, but the taste is fresh and juicy without any of the signature radish kick (radish haters love them!) The greens are also excellent for stir-frying. Even if adding turnips to your garden has never crossed your mind, be sure to give hakurei a try!
 
 ### Winter Squash
 
