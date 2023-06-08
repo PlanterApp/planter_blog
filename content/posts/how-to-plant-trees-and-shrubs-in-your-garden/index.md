@@ -36,12 +36,10 @@ It's important to prepare the planting area to avoid transplant shock, which can
 * Rake away ground cover like mulch and leaf litter
 * Dig a hole 2-3 times wider than the root ball or container, and as deep. 
 * If the tree or shrub roots have a covering of some kind, make sure to remove it! It can restrict root growth very severely if you leave that on.
-* Carefully shake off excess dirt from the plant, and if there's any circling roots you can carefully straighten them out.
+* Carefully shake off excess dirt from the plant, and if there's any circling roots you can carefully straighten them out. Plants container-grown are particularly prone to becoming rootbound, so be sure to pay special attention to such plants.
 
 ### Time to Plant
 
 * When you lower your plant into the hole, make sure to hold it by the root ball, not the stem or branches.
-
-
 
 ![](planting-trees-as-part-reforestation-process.jpg)
