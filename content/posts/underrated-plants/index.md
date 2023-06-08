@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "7 Underrated Plants to Add to Your Garden"
 slug = "underrated-plants"
 date = 2023-06-05T00:50:01.908Z
@@ -59,4 +59,4 @@ Rhubarb might feel like an old-timey (dare I say boring?) plant, but they are a 
 
 You don’t need to give up all your garden go-tos to make way for new plants. Just Keep an open mind and try at least one or two plants you may have never thought of growing. You might just find they end up in your regular garden rotation!
 
-{{ <affiliate> }}
+{{< affiliate >}}
