@@ -8,14 +8,16 @@ weight = 5
 
 [cover]
 relative = true
-image = "screenshot-2023-06-06-at-4.10.42-pm.png"
-caption = "The new Garden Summary feature."
-alt = "The new Garden Summary feature."
+image = "snapshot1-1-.jpg"
+caption = "From left-to-right: Gardener Scott, [Erin Thomson](https://blog.planter.garden/author/erin-thomson/), and [Peter Keefe](https://blog.planter.garden/author/peter-keefe/)"
+alt = "From left-to-right: Gardener Scott, Erin Thomson, and Peter Keefe"
 +++
 Today, I'm thrilled to share some exciting news with you about our latest feature: the Garden Summary. But first, let me tell you about an incredible conversation we had with none other than Gardener Scott. 
 
-If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) right now and binge-watch his excellent gardening videos. We (Gardener Scott, Erin Thomson, and myself) met up on a rainy day to brainstorm cool features together, talked about the history of the app, and, of course, our brand-new Garden Summary feature. In fact, the Garden Summary feature was inspired by a previous conversation with Gardener Scott as well as input from the Planter community! So be sure to check out the interview video **\[insert link to Gardener Scott's YouTube video]**.\
-\
+If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) right now and binge-watch his excellent gardening videos. We (Gardener Scott, Erin Thomson, and myself) met up on a rainy day to brainstorm cool features together, talked about the history of the app, and, of course, our brand-new Garden Summary feature. In fact, the Garden Summary feature was inspired by a previous conversation with Gardener Scott as well as input from the Planter community! So be sure to check out the video:
+
+{{< youtube swuD8dGNgME >}}
+
 Ok, now back to the new feature!
 
 ## Garden Summary
@@ -52,4 +54,4 @@ But that's not all! We're actively listening to your [feedback](https://planter.
 
 Whether it's managing your seed inventory, enhancing the calendar with reminders and planting tips, or exploring other exciting possibilities, we're committed to evolving Planter into the ultimate gardening companion. 
 
-So stay tuned for future updates, and be sure to watch our conversation with Gardener Scott for a candid conversation about the app and what we're plannning **\[insert link to Gardener Scott's YouTube video]**. Happy gardening!
+So stay tuned for future updates, and be sure to watch Gardener Scott's [video for a candid conversation](https://youtu.be/swuD8dGNgME) about the app and what we're planning. Happy gardening!
