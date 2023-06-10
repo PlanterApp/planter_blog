@@ -1,6 +1,6 @@
 +++
-draft = false
-title = "New Feature and Behind-the-Scenes Conversation with Gardener Scott"
+draft = true
+title = "Behind-the-Scenes with Planter and Gardener Scott (and a New Feature!)"
 slug = "garden-summary-gardener-scott"
 date = 2023-06-10T05:23:00.000Z
 author = "Peter Keefe"
@@ -12,21 +12,19 @@ image = "snapshot1-1-.jpg"
 caption = "From left-to-right: Gardener Scott, [Erin Thomson](https://blog.planter.garden/author/erin-thomson/), and [Peter Keefe](https://blog.planter.garden/author/peter-keefe/)"
 alt = "From left-to-right: Gardener Scott, Erin Thomson, and Peter Keefe"
 +++
-Today, I'm thrilled to share some exciting news with you about our latest feature: the Garden Summary. But first, let me tell you about an incredible conversation we had with none other than Gardener Scott. 
+Today, I'm excited to share an incredible conversation we had with none other than **Gardener Scott**,and to announce a brand-new Planter feature: the **Garden Summary.**
 
-If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) right now and binge-watch his excellent gardening videos. We (Gardener Scott, Erin Thomson, and myself) met up on a rainy day to brainstorm cool features together, talked about the history of the app, and, of course, our brand-new Garden Summary feature. In fact, the Garden Summary feature was inspired by a previous conversation with Gardener Scott as well as input from the Planter community! So be sure to check out the video:
+If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) and binge-watch his excellent gardening videos. We (Gardener Scott, Erin Thomson, and myself) met up on a rainy day in Connecticut to chat about the Planter backstory, to brainstorm possibilities for the future, and to test drive the brand-new Garden Summary feature. The Garden Summary is inspired by a prior conversation we had with Gardener Scott (as well as input from the Planter community!) so we are thrilled to have the opportunity to launch it together. Before we dive into the nitty-gritty on the Garden Summary, be sure to watch Gardener Scott's behind-the-scenes video of our discussion:
 
 {{< youtube swuD8dGNgME >}}
 
-Ok, now back to the new feature!
+So, what is the Garden Summary exactly?
 
 ## Garden Summary
 
-As passionate gardeners ourselves, we understand the challenges of planning and managing a garden. To make this a bit easier, we wanted a way to view everything about your garden, quickly and easily.
+As passionate gardeners ourselves, we understand the challenges of planning and managing a garden. To make this easier, we wanted a way to view key details about your garden quickly and easily in Planter.
 
 ![Screenshot showing how to access the Garden Summary view.](screenshot-2023-06-06-at-4.09.15-pm.png "You can find the new Garden Summary by tapping the ⋮ symbol while viewing any garden.")
-
-So, what does the Garden Summary do? 
 
 ### Plant Quantity Breakdown
 
@@ -40,18 +38,18 @@ In addition to plant quantities, the Garden Summary shows all of your garden’s
 
 ### Export and Share
 
-*(Planter Premium feature)*
+*(Exporting is a [Premium feature](https://info.planter.garden/account/premium-subscription/))*
 
 ![The downloaded Garden Summary PDF.](screenshot-2023-06-06-at-4.57.38-pm.png "Sometimes you just need your plan on physical paper, and that's okay 🖨️.")
 
 We know how important it is to have your garden plan easily accessible. That's why we've included the ability to export your Garden Summary to PDF or CSV format. You can print it, save it on your device, or share it with friends and fellow gardeners. 
 
-## Next Steps
+## Looking Ahead: The Future of Planter
 
 We never stop improving Planter, and a future update will allow you to compile multiple beds into one summary. This means you'll be able to manage larger garden spaces effortlessly, no matter how many garden beds you have.
 
-But that's not all! We're actively listening to your [feedback](https://planter.garden/requests) and ideas, like the ones shared by Gardener Scott during our interview.
+But that's not all! As Gardener Scott said, we are actively listening to your [feedback](https://planter.garden/requests) and ideas and taking them into consideration for future app updates.
 
-Whether it's managing your seed inventory, enhancing the calendar with reminders and planting tips, or exploring other exciting possibilities, we're committed to evolving Planter into the ultimate gardening companion. 
+Whether it's managing your seed inventory, enhancing the calendar with reminders and planting tips, or exploring other exciting possibilities, we're committed to evolving Planter into the ultimate gardening companion- not only for planning but also for managing your garden.
 
-So stay tuned for future updates, and be sure to watch Gardener Scott's [video for a candid conversation](https://youtu.be/swuD8dGNgME) about the app and what we're planning. Happy gardening!
+So stay tuned for future updates, and be sure to watch Gardener Scott's [video for a candid conversation](https://youtu.be/swuD8dGNgME) about the app and what we're planning. Happy gardening! 🌱
