@@ -9,7 +9,7 @@ weight = 5
 [cover]
 relative = true
 image = "snapshot1-1-.jpg"
-caption = "From left-to-right: Gardener Scott, [Erin Thomson](https://blog.planter.garden/author/erin-thomson/), and [Peter Keefe](https://blog.planter.garden/author/peter-keefe/)"
+caption = "From left-to-right: [Gardener Scott](https://www.youtube.com/@GardenerScott), [Erin Thomson](https://blog.planter.garden/author/erin-thomson/), and [Peter Keefe](https://blog.planter.garden/author/peter-keefe/)"
 alt = "From left-to-right: Gardener Scott, Erin Thomson, and Peter Keefe"
 +++
 Today, I'm excited to share an incredible conversation we had with none other than **Gardener Scott**,and to announce a brand-new Planter feature: the **Garden Summary.**
