@@ -2,7 +2,7 @@
 draft = true
 title = "Behind-the-Scenes with Planter and Gardener Scott (and a New Feature!)"
 slug = "garden-summary-gardener-scott"
-date = 2023-06-10T05:23:00.000Z
+date = 2023-06-10T19:15:00.000Z
 author = "Peter Keefe"
 weight = 5
 
