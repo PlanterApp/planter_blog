@@ -20,9 +20,9 @@ If you don’t know who Gardener Scott is, you should go straight to his [YouTub
 
 
 
-So, what is the Garden Summary exactly?
-
 ## Garden Summary
+
+So, what is the Garden Summary exactly?
 
 As passionate gardeners ourselves, we understand the challenges of planning and managing a garden. To make this easier, we wanted a way to view key details about your garden quickly and easily in Planter.
 
