@@ -18,6 +18,8 @@ If you don’t know who Gardener Scott is, you should go straight to his [YouTub
 
 {{< youtube swuD8dGNgME >}}
 
+
+
 So, what is the Garden Summary exactly?
 
 ## Garden Summary
