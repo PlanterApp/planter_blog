@@ -14,7 +14,7 @@ alt = "From left-to-right: Gardener Scott, Erin Thomson, and Peter Keefe"
 +++
 Today, I'm excited to share an incredible conversation we had with none other than **Gardener Scott**, and to announce a brand-new Planter feature: the **Garden Summary.**
 
-If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) and binge-watch his excellent gardening videos. We (Gardener Scott, Erin Thomson, and myself) met up on a rainy day in Connecticut to chat about the Planter backstory, to brainstorm possibilities for the future, and to test drive the brand-new Garden Summary feature. The Garden Summary is inspired by a prior conversation we had with Gardener Scott (as well as input from the Planter community!) so we are thrilled to have the opportunity to launch it together. Before we dive into the nitty-gritty on the Garden Summary, be sure to watch Gardener Scott's behind-the-scenes video of our discussion:
+If you don’t know who Gardener Scott is, you should go straight to his [YouTube channel](https://www.youtube.com/@GardenerScott) and binge-watch his excellent gardening videos. We had the pleasure of meeting up with Gardener Scott on a rainy day in Connecticut to chat about the Planter backstory, to brainstorm cool new features, and to test drive the Garden Summary together. The Garden Summary is inspired by a prior conversation we had with Gardener Scott (as well as input from the Planter community!) so we are thrilled to have the opportunity to launch it together. Before we dive into the nitty-gritty on the Garden Summary, be sure to watch Gardener Scott's behind-the-scenes video of our discussion:
 
 {{< youtube swuD8dGNgME >}}
 
