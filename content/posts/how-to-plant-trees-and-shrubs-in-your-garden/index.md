@@ -11,13 +11,13 @@ relative = true
 image = "man-plating-ground-small-tree.jpg"
 alt = "Gardener comparing tree to hole"
 +++
-Planting a tree or a shrub can be a long-term commitment, but it can be a great way to expand your gardening horizons. Once planted and mature, though, your new plant (or plants) will offer up harvests for years to come and bring environmental benefits as well. 
+Are you looking to take a bigger step in gardening? Planting a tree or a shrub can be a long-term commitment, but it can be a great way to expand your gardening horizons. Once planted and mature, though, your new plant (or plants) will offer up harvests for years to come and bring environmental benefits as well. Read on for tips on how to best plant trees and shrubs on your lands!
 
 ### Location, Location (and Time, too!)
 
-Where you plant your tree is very important, because it will dictate both what you can plant there as well as how well it will do there. Your climate is the primary concern, however you may want to consider certain trees over others depending on variables such as size. A large tree will need room away from things like buildings so that it can put out a good root system. Similarly, different shrubs and trees will have different light needs. Your soil may led itself to certain plants better than others, depending on its nutrients or pH. All of these are important factors to consider when you're looking to introduce a major new addition to your garden!
+Where you plant your tree or shrub is very important, because it will dictate both what you can plant there as well as how well it will do there. Your climate is the primary concern, however you may want to consider certain trees over others depending on variables such as size. A large tree will need room away from things like buildings so that it can put out a good root system. Similarly, different shrubs and trees will have different light needs. Your soil may led itself to certain plants better than others, depending on its nutrients or pH. All of these are important factors to consider when you're looking to introduce a major new addition to your garden!
 
-Tree in hand, it's important to choose the right time to plant. The best time to plant is during dormant seasons: after leaves fall in autumn, or before buds emerge in spring, while the weather is cool. Certainly not in the summer- the amount of sun will promote growth of leaves, while a new transplant needs to invest in a strong root system first!
+Plant in hand, it's important to choose the right time to start it. The best time to plant is during dormant seasons: after leaves fall in autumn, or before buds emerge in spring, while the weather is cool. Certainly not in the summer- the amount of sun will promote growth of leaves, while a new transplant needs to invest in a strong root system first!
 
 **Make sure you know what is under the ground before digging!** There may be underground utilities that you do not want to bother. If you live in the US, you can call 811; that's our national call-before-you-dig number.
 
