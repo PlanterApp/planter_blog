@@ -11,11 +11,11 @@ relative = true
 image = "man-plating-ground-small-tree.jpg"
 alt = "Gardener comparing tree to hole"
 +++
-Planting a tree can be a long-term commitment, but it can be a great way to expand your gardening horizons. Once planted and mature, though, your tree (or trees) will offer up harvests for years to come and bring environmental benefits as well. 
+Planting a tree or a shrub can be a long-term commitment, but it can be a great way to expand your gardening horizons. Once planted and mature, though, your new plant (or plants) will offer up harvests for years to come and bring environmental benefits as well. 
 
 ### Location, Location
 
-Where you plant your tree is very important, because it will dictate both what you can plant there as well as how well it will do there. Your climate is the primary concern, however you may want to consider certain trees over others depending on variables such as size. A large tree will need room away from things like buildings so that it can put out a good root system. Similarly, different shrubs and trees will have different light needs. Your soil may 
+Where you plant your tree is very important, because it will dictate both what you can plant there as well as how well it will do there. Your climate is the primary concern, however you may want to consider certain trees over others depending on variables such as size. A large tree will need room away from things like buildings so that it can put out a good root system. Similarly, different shrubs and trees will have different light needs. Your soil may led itself to certain plants better than others, depending on its nutrients or pH. All of these are important factors to consider when you're looking to introduce a major new addition to your garden!
 
 ![](pexels-zen-chung-5528999.jpg)
 
@@ -37,6 +37,8 @@ It's important to prepare the planting area to avoid transplant shock, which can
 * Dig a hole 2-3 times wider than the root ball or container, and as deep. 
 * If the tree or shrub roots have a covering of some kind, make sure to remove it! It can restrict root growth very severely if you leave that on.
 * Carefully shake off excess dirt from the plant, and if there's any circling roots you can carefully straighten them out. Plants container-grown are particularly prone to becoming rootbound, so be sure to pay special attention to such plants.
+
+![](compost-still-life-concept-1-.jpg)
 
 ### Time to Plant
 
