@@ -41,5 +41,6 @@ It's important to prepare the planting area to avoid transplant shock, which can
 ### Time to Plant
 
 * When you lower your plant into the hole, make sure to hold it by the root ball, not the stem or branches.
+*
 
 ![](planting-trees-as-part-reforestation-process.jpg)
