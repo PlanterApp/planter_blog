@@ -13,6 +13,8 @@ alt = "Gardener holding soil, which lists various elements held within"
 +++
 \[intro]
 
+Before you start to add various different amendments to your garden, it's important to know what exactly your garden needs (and what it doesn't). Make sure to do a soil test to see if some of the issues you're having are related to drainage, nutrients, or pH, because different additives will target different needs for your garden! You can gather a sample of your garden soil and bring it to your local extension office to assess its quality- or do a DIY test!
+
 ### General Guidelines
 
 * When using animal-based additives, apply them 9 months before harvest, or at least 2 weeks before planting! These amendments are typically used to improve soil structure and support beneficial organisms in the soil.
@@ -29,9 +31,11 @@ This fertilizer is used similarly to blood meal, but adds calcium and phosphorus
 
 ### Wood Ash
 
+Wood ash is the residue left after burning wood. It contains potassium and can help raise soil pH levels if the soil is too acidic. However, it should be used sparingly as excessive application can make the soil too alkaline.
 
+### Buried Scraps/Compost
 
-### Buried Scraps
+'Buried scraps' simply refers to composting kitchen scraps or burying organic matter directly beneath your garden soil. This helps improve soil fertility, texture, and moisture-holding capacity as the organic material decomposes and releases nutrients into the soil. The exact nutritional benefits of this will depend on what scraps you use. As before, be careful of herbicides that may be in your kitchen veggie scraps!
 
 ### Epsom Salt
 
@@ -43,11 +47,15 @@ These are an *extremely* rich fertilizer for nutrients and minerals! They help t
 
 ### Inoculants
 
-'Inoculants" is a \[uhhh] word, but it's a simple concept: an inoculant is anything that adds beneficial microbes to your soil. 
+'Inoculants" is a \[uhhh] word, but it's a simple concept: an inoculant is anything that adds beneficial microbes to your soil. They can be used to enhance the soil's biological activity and improve nutrient availability for plants. For example, legume inoculants contain nitrogen-fixing bacteria that form a symbiotic relationship with legume plants, providing them with nitrogen.
 
 ### Borax
 
+Borax is a mineral salt containing boron, which is an essential micronutrient for plants. It is used in small quantities to correct boron deficiencies in the soil, which can lead to stunted growth and poor fruit development in certain crops.
+
 ### Eggshells
+
+Eggshells, like bone meal, are an excellent source of calcium. They have the added benefit of not attracting carnivores, and while they don't deter deer and such, they can deter certain pests like slugs or snails. 
 
 ### Manure or Guano
 
