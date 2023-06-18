@@ -13,7 +13,7 @@ alt = "Gardener holding soil, which lists various elements held within"
 +++
 Are you looking to give your plants an extra boost and achieve that lush, thriving garden you've always dreamed of? Well, look no further! Welcome to our guide for anything you might want to put in your dirt; we're diving into the wonderful world of soil amendments. Whether you're a seasoned gardener or just starting out, these will revolutionize the way you nurture your plants. So let's get started!!
 
-### General Guidelines
+## General Guidelines
 
 * Before you start to add various different amendments to your garden, it's important to know what exactly your garden needs (and what it doesn't). Make sure to do a soil test to see if some of the issues you're having are related to drainage, nutrients, or pH, because different additives will target different needs for your garden! You can gather a sample of your garden soil and bring it to your local extension office to assess its quality- or do a DIY test!
 * When using animal-based additives, apply them 9 months before harvest, or at least 2 weeks before planting! These amendments are typically used to improve soil structure and support beneficial organisms in the soil.
@@ -30,7 +30,7 @@ This fertilizer is used similarly to blood meal, but adds calcium and phosphorus
 
 ### Wood Ash
 
-Wood ash is the residue left after burning wood. It contains potassium and can help raise soil pH levels if the soil is too acidic. However, it should be used sparingly as excessive application can make the soil too alkaline.
+Wood ash is the residue left after burning wood. It contains potassium and can help raise soil pH levels if the soil is too acidic. However, it should be used sparingly as excessive application can make the soil too alkaline. On top of its effect on the pH, it also adds nutrients like potassium, calcium, and nitrogen!
 
 ### Buried Scraps/Compost
 
@@ -44,9 +44,13 @@ Epsom salt isn't actually a salt, but it's a compound of magnesium and sulfur. I
 
 These are an *extremely* rich fertilizer for nutrients and minerals! They help to improve soil structure, regulate water usage, and support beneficial microorganisms. They're so packed with good compounds that you could use them instead of potting soil, and a plant will process as much as it needs at a time so you don't have to worry about overapplying. This is a fertilizer you can make yourself, but we'll leave that for another Growing Guide!
 
+### Perlite/Pumice
+
+These two soil additives are used very similarly in garden soil; they both work to improve soil structure by counteracting soil compaction to allow air, nutrients, and water to reach *and* drain away from the roots. Perlite is lightweight, so it may over time work its way out of the soil; on the other hand, pumice is heavier, so it will stay in place more easily. Perlite is also very processed, while pumice is a naturally occuring volcanic rock, so it is more eco-friendly!
+
 ### Inoculants
 
-'Inoculants" is a \[uhhh] word, but it's a simple concept: an inoculant is anything that adds beneficial microbes to your soil. They can be used to enhance the soil's biological activity and improve nutrient availability for plants. For example, legume inoculants contain nitrogen-fixing bacteria that form a symbiotic relationship with legume plants, providing them with nitrogen.
+'Inoculants" may be a scary word, but it's a simple concept: an inoculant is anything that adds beneficial microbes to your soil. They can be used to enhance the soil's biological activity and improve nutrient availability for plants. For example, legume inoculants contain nitrogen-fixing bacteria that form a symbiotic relationship with legume plants, providing them with nitrogen. These nitrogen-rich plants can then be composted to pass those nutrients and microbes to the rest of your garden!
 
 ### Borax
 
