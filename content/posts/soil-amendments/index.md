@@ -11,12 +11,11 @@ relative = true
 image = "fertile-loam-soil-suitable-planting.jpg"
 alt = "Gardener holding soil, which lists various elements held within"
 +++
-\[intro]
-
-Before you start to add various different amendments to your garden, it's important to know what exactly your garden needs (and what it doesn't). Make sure to do a soil test to see if some of the issues you're having are related to drainage, nutrients, or pH, because different additives will target different needs for your garden! You can gather a sample of your garden soil and bring it to your local extension office to assess its quality- or do a DIY test!
+Are you looking to give your plants an extra boost and achieve that lush, thriving garden you've always dreamed of? Well, look no further! Welcome to our guide for anything you might want to put in your dirt; we're diving into the wonderful world of soil amendments. Whether you're a seasoned gardener or just starting out, these will revolutionize the way you nurture your plants. So let's get started!!
 
 ### General Guidelines
 
+* Before you start to add various different amendments to your garden, it's important to know what exactly your garden needs (and what it doesn't). Make sure to do a soil test to see if some of the issues you're having are related to drainage, nutrients, or pH, because different additives will target different needs for your garden! You can gather a sample of your garden soil and bring it to your local extension office to assess its quality- or do a DIY test!
 * When using animal-based additives, apply them 9 months before harvest, or at least 2 weeks before planting! These amendments are typically used to improve soil structure and support beneficial organisms in the soil.
 * Mineral-based amendments are easy to over-apply because they take time to break down, so make sure to do a soil test before you start adding them! These amendments are typically used to correct mineral deficiencies.
 * Make sure your plant-based amendments aren't contaminated by herbicide, or they may cause more harm than good. These amendments typically are used to improve the soil structure.
@@ -59,4 +58,4 @@ Eggshells, like bone meal, are an excellent source of calcium. They have the add
 
 ### Manure or Guano
 
-Depending on exactly *what* you're getting this amendment from, the results can vary wildly. If you use Bat Guano, it is a fast acting and very concentrated fertilizer with a lot of phosphor. On the other hand, livestock manure is a slower-release fertilizer mainly providing nitrogen, and can help the soil's ability to hold water.
+Depending on exactly *what* you're getting this amendment from, the results can vary wildly. If you use bat guano, it is a fast acting and very concentrated fertilizer with a lot of phosphor. On the other hand, livestock manure is a slower-release fertilizer mainly providing nitrogen, and can help the soil's ability to hold water.
