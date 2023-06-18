@@ -11,36 +11,40 @@ relative = true
 image = "fertile-loam-soil-suitable-planting.jpg"
 alt = "Gardener holding soil, which lists various elements held within"
 +++
-Are you looking to give your plants an extra boost and achieve that lush, thriving garden you've always dreamed of? Well, look no further! Welcome to our guide for anything you might want to put in your dirt; we're diving into the wonderful world of soil amendments. Whether you're a seasoned gardener or just starting out, these will revolutionize the way you nurture your plants. So let's get started!!
+Are you looking to give your plants an extra boost and achieve that lush, thriving garden you've always dreamed of? Well, look no further! Welcome to our guide for anything you might want to put in your dirt; we're diving into the wonderful world of soil amendments. Whether you're a seasoned gardener or just starting out, these will revolutionize the way you nurture your plants. These special ingredients can fix nutrient deficiencies, soil compaction, alkaline/acidic soils, and the like! So let's get started!!
 
 ## General Guidelines
+
+![](hand-holding-trowel-with-land.jpg)
 
 * Before you start to add various different amendments to your garden, it's important to know what exactly your garden needs (and what it doesn't). Make sure to do a soil test to see if some of the issues you're having are related to drainage, nutrients, or pH, because different additives will target different needs for your garden! You can gather a sample of your garden soil and bring it to your local extension office to assess its quality- or do a DIY test!
 * When using animal-based additives, apply them 9 months before harvest, or at least 2 weeks before planting! These amendments are typically used to improve soil structure and support beneficial organisms in the soil.
 * Mineral-based amendments are easy to over-apply because they take time to break down, so make sure to do a soil test before you start adding them! These amendments are typically used to correct mineral deficiencies.
 * Make sure your plant-based amendments aren't contaminated by herbicide, or they may cause more harm than good. These amendments typically are used to improve the soil structure.
 
-### Blood Meal
+### Blood Meal/Bone Meal
 
-This animal-based fertilizer is slow-release, acidic, and high in nitrogen; it doubles as a repellant to some animals like deer, moles, and rabbits because of its smell. However, it can be overapplied, and may promote leaf growth on plants you're looking for flowers on. It also may attract carnivorous animals in place of the herbivores you're repelling.
-
-### Bone Meal
-
-This fertilizer is used similarly to blood meal, but adds calcium and phosphorus to your garden! This fertilizer may also attract carnivores, but it promotes non-leaf growth in plants instead of foliage growth. 
+Both of these options are animal-based slow-release fertilizers. Blood meal is acidic, and high in nitrogen; it doubles as a repellant to some animals like deer, moles, and rabbits because of its smell. However, it can be overapplied, and may promote leaf growth on plants you're looking for flowers on. It also may attract carnivorous animals in place of the herbivores you're repelling. Bone meal is used very similarly, but adds calcium and phosphorus to your garden! This fertilizer may also attract carnivores, but it promotes non-leaf growth in plants instead of foliage growth. 
 
 ### Wood Ash
+
+![](fire-burns-campfire-with-red-fire-background-high-quality-photo.jpg)
 
 Wood ash is the residue left after burning wood. It contains potassium and can help raise soil pH levels if the soil is too acidic. However, it should be used sparingly as excessive application can make the soil too alkaline. On top of its effect on the pH, it also adds nutrients like potassium, calcium, and nitrogen!
 
 ### Buried Scraps/Compost
 
+![](compost-still-life-concept-1-.jpg)
+
 'Buried scraps' simply refers to composting kitchen scraps or burying organic matter directly beneath your garden soil. This helps improve soil fertility, texture, and moisture-holding capacity as the organic material decomposes and releases nutrients into the soil. The exact nutritional benefits of this will depend on what scraps you use. As before, be careful of herbicides that may be in your kitchen veggie scraps!
 
 ### Epsom Salt
 
-Epsom salt isn't actually a salt, but it's a compound of magnesium and sulfur. It supplements magnesium in the soil which is important for chlorophyll production. It's also sometimes used to help with germinating seeds!
+Epsom salt isn't actually a salt, but it's a compound of magnesium and sulfur. It supplements magnesium in the soil which is important for chlorophyll production. It's also sometimes used to help with germinating seeds! **\[try to add more]**
 
 ### Worm Castings
+
+![](compost-still-life-concept-with-earthworms.jpg)
 
 These are an *extremely* rich fertilizer for nutrients and minerals! They help to improve soil structure, regulate water usage, and support beneficial microorganisms. They're so packed with good compounds that you could use them instead of potting soil, and a plant will process as much as it needs at a time so you don't have to worry about overapplying. This is a fertilizer you can make yourself, but we'll leave that for another Growing Guide!
 
@@ -54,12 +58,20 @@ These two soil additives are used very similarly in garden soil; they both work 
 
 ### Borax
 
-Borax is a mineral salt containing boron, which is an essential micronutrient for plants. It is used in small quantities to correct boron deficiencies in the soil, which can lead to stunted growth and poor fruit development in certain crops.
+Borax is a mineral salt containing boron, which is an essential micronutrient for plants. It is used in small quantities to correct boron deficiencies in the soil, which can lead to stunted growth and poor fruit development in certain crops. **\[try to add more/clean up]**
 
 ### Eggshells
+
+![](farm-eggs-basket-with-dried-lavender.jpg)
 
 Eggshells, like bone meal, are an excellent source of calcium. They have the added benefit of not attracting carnivores, and while they don't deter deer and such, they can deter certain pests like slugs or snails. 
 
 ### Manure or Guano
 
-Depending on exactly *what* you're getting this amendment from, the results can vary wildly. If you use bat guano, it is a fast acting and very concentrated fertilizer with a lot of phosphor. On the other hand, livestock manure is a slower-release fertilizer mainly providing nitrogen, and can help the soil's ability to hold water.
+![](compost-still-life-concept-2-.jpg)
+
+Depending on exactly *what* you're getting this amendment from, the results can vary wildly. If you use bat guano, it is a fast acting and very concentrated fertilizer with a lot of phosphor. On the other hand, livestock manure is a slower-release fertilizer mainly providing nitrogen, and can help the soil's ability to hold water. **\[look into a bit more]**
+
+
+
+**\[conclusion]**
