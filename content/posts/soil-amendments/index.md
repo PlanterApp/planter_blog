@@ -2,7 +2,7 @@
 draft = true
 title = "Uncommon Soil Amendments for Your Garden"
 slug = "soil-amendments"
-date = 2023-06-17T22:36:37.127Z
+date = 2023-06-22T10:00:12.921Z
 author = "Jessalyn Krenicki"
 weight = 5
 
@@ -29,6 +29,8 @@ This fertilizer is used similarly to blood meal, but adds calcium and phosphorus
 
 ### Wood Ash
 
+
+
 ### Buried Scraps
 
 ### Epsom Salt
@@ -41,7 +43,7 @@ These are an *extremely* rich fertilizer for nutrients and minerals! They help t
 
 ### Inoculants
 
-
+'Inoculants" is a \[uhhh] word, but it's a simple concept: an inoculant is anything that adds beneficial microbes to your soil. 
 
 ### Borax
 
