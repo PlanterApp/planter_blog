@@ -51,7 +51,9 @@ So long as your part-shade garden receives 3-6 hours of direct sunlight per day 
 
 While peas perform best when they receive full-sun, you can still get a harvest if they are planted in part-shade. You could also consider trellising your climbing peas so that the plants are planted in part-shade but are able to climb up and over to a full-sun location. It is important to plant your peas with enough time for them to reach maturity before the summer heat comes - while shade will keep them a bit cooler, eventually the weather will be so hot that they will stop flowering. This is a bit easier said than done in part-shade as shady locations take longer for the soil to warm up and the plants will grow more slowly- so plan accordingly!
 
-**'Leafy' herbs (such as cilantro, dill, and parsley)**
+**Certain herbs (such as mint, cilantro, dill, and parsley)**
+
+While Mediterranean herbs such as rosemary and oregano prefer full sun and soil on the drier side, other herbs such as mint, cilantro, dill, and parsley don’t mind a bit of shade. The shade will help keep the soil moist and will help delay bolting. Trim (and cook with!) herbs planted in part-shade regularly to help keep the plants bushy and compact. And a special warning about mint- be sure to plant it in a container to keep it from spreading prolifically!
 
 ![](https://lh3.googleusercontent.com/UddOtVwfaYShezkSDo4DKAPpw07ZxVoL10eZfczvCJiXZx2m-VW92kOFJoCSQ8xrD1J_aZYPPej2kZb5oxjsc0uqyJ5YYr2oQotSjFrNHiqFaja9gFS9otJwKfkAPPnASsDGkxCeAJEadWw3hFaJOj0)
 
