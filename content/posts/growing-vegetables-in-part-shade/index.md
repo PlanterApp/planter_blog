@@ -63,10 +63,18 @@ While Mediterranean herbs such as rosemary and oregano prefer full sun and soil 
 
 **Container gardening**
 
-
+While your yard might be submerged in shade, perhaps there’s a sunny spot on a deck or front porch that could be a great spot to grow veggies in containers. Virtually every type of veggie can be grown in a container provided the soil quality is good, the container is large enough for the crop, and you water regularly to keep the container from drying out. Containers can also be moved around as needed to capture the most amount of sun available as the sun’s angle changes throughout the season.
 
 **Rent a community garden plot**
+
+If your house is in the middle of the deep woods (like Planter founder Peter Keefe’s is!) your best bet for getting a sizeable garden harvest could be to rent a plot at your local community garden. Community garden plots are typically inexpensive for an entire season and will allow you to grow sun-loving veggies with relative ease. If you garden in a community plot be sure to set reminders to water when the weather's hot and dry as it won’t be obvious as it would be when you’re gardening at home.
+
+
 
 ![Vegetable plants in a raised bed in a community garden plot](community-garden.jpg)
 
 **Garden with neighbors and friends**
+
+If your neighbors and/or friends have underutilized backyard space that gets full-sun exposure try striking a deal with them! If they let you use their space for gardening, you can bestow them with some tasty garden-grown produce throughout the season. If your friends are gardening enthusiasts even better- you can share the work, share knowledge, and share the reward!
+
+Don’t let the semi-shaded parts of your garden be nothing more than wasted space- try growing some of these shade-tolerant plants to maximize your harvest and save the premium sun locations for your sun-loving crops. Maintain realistic expectations about gardening in part-shade- plants will take longer to grow, they may be smaller and not as productive as those that receive full-sun. You’ll come to see every harvest from the shady space as a major bonus!
