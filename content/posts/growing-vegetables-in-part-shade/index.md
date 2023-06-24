@@ -59,7 +59,7 @@ While Mediterranean herbs such as rosemary and oregano prefer full sun and soil 
 
 **Container gardening**
 
-While your yard might be submerged in shade, perhaps there’s a sunny spot on a deck or front porch that could be a great spot to grow veggies in containers. Virtually every type of veggie can be grown in a container provided the soil quality is good, the container is large enough for the crop, and you water and fertilize regularly to keep the growing medium moist and full of nutrients. Containers can also be moved around as needed to capture the most amount of sun available as the sun’s angle changes.
+While your yard might be submerged in shade, perhaps there’s a sunny spot on a deck or front porch that could be a great spot to grow veggies in containers. Virtually every type of veggie can be grown in a container provided the container is large enough for the crop, and you water and fertilize regularly to keep the growing medium moist and full of nutrients. Containers can also be moved around as needed to capture the most amount of sun available as the sun’s angle changes.
 
 **Rent a community garden plot**
 
