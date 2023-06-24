@@ -13,7 +13,7 @@ relative = true
 image = "lettuce-garden.jpg"
 alt = "Lettuce plants in a row in a garden receiving partial sun"
 +++
-One of the things many of us first learn as gardeners is how important it is to select a full sun location for a veggie garden. Unfortunately, many of us don’t have the luxury of having an extra large yard with all-day sun exposure. Even if you’re lucky enough to have a sun-drenched backyard, you might have underutilized partially shaded areas of your yard that you wish you could grow food in. The good news is…you can in fact grow some vegetables in part shade!
+One of the things we first learn as gardeners is how important it is to select a full sun location for a veggie garden. Unfortunately, many of us don’t have the luxury of having an extra large yard with all-day sun exposure. Even if you’re lucky enough to have a sun-drenched backyard, you might have underutilized partially shaded areas of your yard that you wish you could grow food in. The good news is…you can in fact grow some vegetables in part shade!
 
 ### Do all veggie plants need full sun?
 
