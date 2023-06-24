@@ -17,7 +17,7 @@ One of the things we first learn as gardeners is how important it is to select a
 
 ### Do all veggie plants need full sun?
 
-For the most part, vegetable plants grow and produce best in full sun (at least 6 hours of direct sun per day). Veggie plants need ample sun to be able to photosynthesize and grow as quickly as possible- a lack of sun may not outright kill them but it can severely stunt their growth. But there are some plants that will still produce a respectable harvest in partial shade (4-6 hours of sun per day). Gardening successfully in part shade comes down to being selective about what you choose to grow, and having realistic expectations about how much you’ll be able to harvest.
+For the most part, vegetable plants grow and produce best in full sun (at least 6 hours of direct sun per day). Veggie plants need ample sun to be able to photosynthesize and grow as quickly as possible- a lack of sun may not outright kill them but it can severely stunt their growth. But there are some plants that will still produce a respectable harvest in partial shade (4-6 hours of sun per day). Gardening successfully in part shade comes down to being selective about what you choose to grow and having realistic expectations about how much you’ll be able to harvest.
 
 If your potential garden location is in near total shade and gets only a few hours of sun each day, you may want to skip down the **Alternatives to gardening in part shade** section of this article. While you can certainly have fun experimenting with growing edible plants in shade (you might even discover some non-traditional edible plants that grow well in shade), you’ll likely only be able to muster up a meager harvest.
 
