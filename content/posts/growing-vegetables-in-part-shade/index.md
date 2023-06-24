@@ -25,11 +25,11 @@ If your potential garden location is in near total shade and gets only a few hou
 
 **Lettuce and leafy greens**
 
-Lettuce and other leafy greens such as spinach, chard, and arugula are star performers in the shade. Growing them in part shade can even have some benefits as blasting summer sun can contribute to them [bolting](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/). To get the plants off to a good start you may want to consider starting them indoors then transplanting out to the shadier parts of your garden. It can be challenging to get lettuce to form full-sized heads in part-shade, but you can certainly harvest it as [cut-and-come-again](https://blog.planter.garden/posts/harvesting-how-to-and-when/#how-to-harvest-lettuce) lettuce.
+Lettuce and other leafy greens such as spinach, chard, and arugula are star performers in the shade. Growing them in part shade can even have some benefits, as blazing summer sun can contribute to them [bolting](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/). To get the plants off to a good start you may want to consider starting them indoors then transplanting out to the shadier parts of your garden. It can be challenging to get lettuce to form full-sized heads in part-shade, but you can certainly harvest it as [cut-and-come-again](https://blog.planter.garden/posts/harvesting-how-to-and-when/#how-to-harvest-lettuce) lettuce.
 
 **Green onions and chives**
 
-‘Bulbing onions’ require full sun to form their large, edible bulbs, however green onions and chives are excellent shady garden plants because they are primarily harvested for their slender, pungent greens. While they will produce best in full sun, you can tuck them into shady spots and still harvest enough to make the effort worthwhile. For more information on growing these and other allium-family crops be sure to check out [Grow Amazing Alliums](https://blog.planter.garden/posts/grow-amazing-alliums/).
+‘Bulbing onions’ require full sun to form their large, edible bulbs, however green onions and chives are excellent shady garden plants because they are primarily harvested for their slender, pungent greens. While they will produce best in full sun, you can tuck them into shady spots and still harvest enough to make the effort worthwhile. To learn more about growing these and other allium-family crops be sure to check out [Grow Amazing Alliums](https://blog.planter.garden/posts/grow-amazing-alliums/).
 
 **Radishes**
 
@@ -47,7 +47,7 @@ Brassicas can be grown in part-shade locations- but they must receive at minimum
 
 **Peas**
 
-While peas perform best when in full sun, you can still get a harvest if they’re planted in part shade. You might even be able to trellis your climbing peas so that the plants are able to climb out of the shade to reach more sun. It is important to plant your peas with enough time for them to reach maturity before the summer heat comes. While partial shade will help keep them cooler for longer, eventually they will stop flowering and producing peas in the summer’s heat. For more info check out Grow Awesome Legumes.
+While peas perform best when in full sun, you can still get a harvest if they’re planted in part shade. You might even be able to trellis your climbing peas so that the plants are able to climb out of the shade to reach more sun. It is important to plant your peas with enough time for them to reach maturity before the summer heat comes. While partial shade will help keep them cooler for longer, eventually they will stop flowering and producing peas in the summer’s heat. For more info on growing peas, check out [Grow Awesome Legumes](https://blog.planter.garden/posts/grow-awesome-legumes/).
 
 **Certain herbs (such as mint, cilantro, dill, and parsley)**
 
