@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Growing Vegetables in Part-Shade"
+title = "Growing Vegetables in Part Shade"
 slug = "Growing-Vegetables-in-Part-Shade"
 date = 2023-06-26T04:00:00.000Z
 author = "Erin Thomson"
