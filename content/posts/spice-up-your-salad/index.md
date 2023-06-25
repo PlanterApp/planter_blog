@@ -42,7 +42,7 @@ Kale is often grown for full-sized leaves that can be turned into kale chips, ch
 
 ![Chard leaves on a white background](chard.jpg)
 
-Chard and beets are related plants that have very similar greens. Chard is often grown for full-sized leaves, while beets are often grown for their sugary roots- but they can both be seeded densely and grown for their greens. Like beet roots, beet greens (they can often be purple-red in color) have an ‘earthy’ undertone to their flavor that may not appeal to everyone. Chard has a more neutral spinach-like flavor and the colorful stems and bright-green leaves are visually striking. Both can add a nice depth of flavor and pop of color to a salad mix.
+Chard and beets are related plants that have very similar greens. Chard is often grown for full-sized leaves, while beets are often grown for their sugary roots- but they can both be seeded densely and grown for salad greens. Like beet roots, beet greens (they can often be purple-red in color) have an ‘earthy’ undertone to their flavor that may not appeal to everyone. Chard has a more neutral spinach-like flavor and the colorful stems and bright-green leaves are visually striking. Both can add a nice depth of flavor and pop of color to a salad mix.
 
 ### Endive/escarole
 
