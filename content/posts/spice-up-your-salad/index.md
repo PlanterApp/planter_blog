@@ -14,13 +14,9 @@ image = "salad-greens.png"
 caption = ""
 alt = "A bowl of mixed salad greens with the words \"Spice up your Salad\" over top"
 +++
-\-Seed more densely
+The first salads of spring are always exciting- lettuce is at its most young and tender, and it’s a nice departure from heartier winter storage veggies. But eating lettuce-based salads over and over again can become a bit boring. If your daily salad routine is getting a bit ‘blah’, jazz it up by adding some new and exciting greens into the mix!
 
-\-Use insect netting (Amazon link)
-
-\-Cut-and-come-again harvesting
-
-\-Keep harvesting until it bolts (blog link)
+The greens we’ll cover in this article should be seeded more densely than the usually recommended spacing (give a density range)- this ensures that the leaves will stay more compact (the perfect size for salads) and makes it easier to harvest them with a knife as cut-and-come-again greens. So long as you don’t entirely cut off the top growing crowns, you can keep harvesting the greens as they regrow until they finally bolt. If you’re particular about bug-bitten leaves (or if you have some especially hungry pests), be sure to cover your greens with insect netting to help keep the leaves mostly intact.
 
 ### Arugula
 
