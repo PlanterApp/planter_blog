@@ -48,7 +48,7 @@ Chard and beets are related plants that have very similar greens. Chard is often
 
 ![Endive leaf on a white background](endive.jpg)
 
-While endive and escarole can look like little lettuces, they are actually members of a unique chicory sub-group of plants (genus Cichorium). These greens are most commonly described as bitter- if you’re not a fan of bitter flavors they might not agree with you. Endive and escarole is typically blanched when growing- that is the growing stem is blocked from receiving sunlight to maintain a white color and a milder flavor. They can be used as the sole green in a salad, but the strong bitter flavor often needs to be balanced out by adding plenty of sweet, salty, and/or acidic ingredients. They can also be grilled first which adds a depth of flavor that works really well with the bitterness.
+While endive and escarole can look like little lettuces, they are actually members of a unique chicory sub-group of plants (genus *Cichorium*). These greens are most commonly described as bitter- if you’re not a fan of bitter flavors they might not agree with you. Endive and escarole is typically blanched when growing- that is the growing stem is blocked from receiving sunlight to maintain a white color and a milder flavor. They can be used as the sole green in a salad, but the strong bitter flavor often needs to be balanced out by adding plenty of sweet, salty, and/or acidic ingredients. They can also be grilled first which adds a depth of flavor that works really well with the bitterness.
 
 ### Bonus: Nasturtiums
 
