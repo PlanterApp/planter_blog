@@ -53,3 +53,5 @@ While endive and escarole can look like lettuces, they are in fact members of th
 ![A colorful salad with nasturtiums](nasturtiums.jpg)
 
 Nasturtiums are often added to edible gardens for their beautiful color, to attract pollinators, and as excellent companion plants. But did you know that all parts of the nasturtium plant are also edible? They have a mild peppery taste and they make for a stunningly beautiful salad with the flowers and the leaves combined together. They look super-sophisticated on the plate, but they are so easy to grow in the garden!
+
+Salads are a great way to enjoy garden veggies at their peak freshness! If you start to tire of the same old salad ingredients, don’t give up on them entirely. Up your salad game instead by incorporating some new and interesting greens!
