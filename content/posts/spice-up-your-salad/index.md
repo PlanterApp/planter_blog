@@ -14,7 +14,7 @@ image = "salad-greens.png"
 caption = ""
 alt = "A bowl of mixed salad greens with the words \"Spice up your Salad\" over top"
 +++
-The first salads of spring are always exciting- lettuce is at its most young and tender, and a fresh salad feels like a nice departure from the heartier winter veggies. But eating lettuce-based salads over and over again can become a bit boring. If your daily salad routine is getting a bit blah, jazz it up by adding some new and exciting greens into the mix!
+The first salads of spring are always exciting- lettuce is at its most young and tender, and a fresh salad feels like a nice departure from the heartier winter veggies. But eating lettuce-based salads over and over again can get to be boring. If your daily salad routine is getting a bit blah, jazz it up by adding some new and exciting greens into the mix!
 
 The greens we’ll cover in this article should be seeded quite densely to be grown for salad greens (roughly 1.5’-2’ between plants)- this helps the leaves stay salad-sized and makes it easier to harvest them with a knife as cut-and-come-again greens. So long as you don’t entirely cut off the top growing crowns of the plants, you can keep harvesting the greens as they regrow until they finally [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/). If you’re particular about bug-bitten leaves (or if you have some especially hungry pests), be sure to cover your greens with [insect netting](https://www.amazon.com/s?k=garden+insect+netting) to help keep the leaves intact.
 
