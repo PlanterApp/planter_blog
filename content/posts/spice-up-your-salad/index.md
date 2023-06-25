@@ -22,7 +22,7 @@ The greens we’ll cover in this article should be seeded quite densely to be gr
 
 ![Arugula leaves on a white background](arugula.jpg)
 
-Also known as rocket or rucola, arugula is a delicate leafy green that packs a peppery punch. If you don’t mind salad with a kick you can use arugula as the sole green, but it also makes  a great addition to mesclun mix where its spiciness is balanced out with lettuce and milder greens. Or, skip the salad and sprinkle it on top of homemade pizza or sandwiches for a gourmet touch! Arugula can tend to [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/) easily so be sure to keep it well-watered to avoid drought stress, and consider sowing in regular successions to be able to continue harvesting throughout the season.
+Also known as rocket or rucola, arugula is a delicate leafy green that packs a peppery punch. If you don’t mind salad with a kick you can use arugula as the sole green, but it also makes a great addition to mesclun mix where its spiciness is balanced out with lettuce and milder greens. Or, skip the salad and sprinkle it on top of homemade pizza or sandwiches for a gourmet touch! Arugula can tend to [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/) easily so be sure to keep it well-watered to avoid drought stress, and consider sowing in regular successions to be able to continue harvesting throughout the season.
 
 ### Mustard
 
