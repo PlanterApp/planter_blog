@@ -38,6 +38,6 @@ By implementing some preventative measures, you can make sure to protect your pe
 * Be careful of pet-toxic plants
 * Create a play specific area
 * Use cedar chips for garden beds to deter ticks
-* Fences are still important!Ca
+* Fences are still important!
 
 \[conclusion]
