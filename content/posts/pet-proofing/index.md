@@ -21,23 +21,36 @@ On the other side, pets, especially dogs and cats, can unintentionally cause dam
 
 By implementing some preventative measures, you can make sure to protect your pets and your hobby!
 
-### \[X] Ways to Pet-Proof Your Garden
+### 3 Great Ways to Pet-Proof Your Garden
 
-* Chicken Wire Fence can protect the whole bed
+* A wall or fence can protect the whole bed
 
-  * (Or any fence, really)
-* Raised beds are harder for small animals to wander into
-* Plants like rosemary or peppers deter animals like dogs
-* Short stakes can prevent animals laying on your crops
-* Coffee grounds keeps cats away
-* For digging animals, bury fence deep with stone/brick under the surface
+  * Six feet is generally high enough for most dogs. If your dog is an exceptional vertical jumper or a good climber, go for seven or eight feet.
+  * Chicken wire may be a sufficient material for cats or dogs that don't decide to go investigating too forcefully.
+  * If your pets (or local animals) have a tendancy to dig, you might want to burry the bottom of the fence deep with stones just under the surface. Most animals will stop digging once they hit something hard.
+* Raised beds are difficult to wander into
+
+  * This can deter animals like bunnies, too, which may wander in with the intent of getting an easy meal and a good place to burrow.
+  * This does restrict your gardening area, however.
+* Odorous deterrents can repel the animals entirely
+
+  * Plants like rosemary or peppers deter animals like dogs
+  * Coffee grounds keeps cats away
+
+![](whats-down-here-high-angle-shot-adorable-young-jack-russell-digging-hole-ground-outside.jpg)
 
 ### What if I want a Pet-*Friendly* Garden?
 
-* Large plants are less likely to be trampled
+* Fences are still important
+
+  * Even if you're okay with your pets bounding through the garden rows, you still need to protect them from dangerous areas. Make sure they won't end up chasing each other or a toy into a road or another property!
+* Try to create a play specific area
+
+  * Some pets tend to participate in mirroring, where they try to mimick things their humans do in order to bond better. If you find your pup is digging up your garden after you planted new things, creating a specific area for the pet to dig (maybe with some good sturdy plants that can take the abuse) is a great way to bond!
 * Be careful of pet-toxic plants
-* Create a play specific area
 * Use cedar chips for garden beds to deter ticks
-* Fences are still important!
+* Large plants are less likely to be trampled
+
+![](cat-garden-with-flowers.jpg)
 
 \[conclusion]
