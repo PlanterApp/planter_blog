@@ -24,17 +24,17 @@ By implementing some preventative measures, you can make sure to protect your pe
 
 ### 3 Great Ways to Pet-Proof Your Garden
 
-* A wall or fence can protect the whole bed
+* #### A wall or fence can protect the whole bed
 
 Six feet is generally high enough for most dogs. If your dog is an exceptional vertical jumper or a good climber, go for seven or eight feet. Chicken wire may be plenty strong enough for cats or dogs who don't try and test physical barriers, but if your pets are aggressive investigators, wood or hard mesh may work out better for you.
 
 If your pets (or local animals) have a tendency to dig, you might want to burry the bottom of the fence deep with stones just under the surface. Most animals will stop digging once they hit something hard.
 
-* Raised beds are difficult to wander into
+* #### Raised beds are difficult to wander into
 
 This can deter animals like bunnies, too, which may wander in with the intent of getting an easy meal and a good place to burrow. This does restrict your gardening area, however.
 
-* Odorous deterrents can repel the animals entirely
+* #### Odorous deterrents can repel the animals entirely
 
 Plants like rosemary or peppers deter some animals like dogs; Coffee grounds keeps cats away
 
@@ -42,16 +42,22 @@ Plants like rosemary or peppers deter some animals like dogs; Coffee grounds kee
 
 ### What if I want a Pet-*Friendly* Garden?
 
-* Fences are still important
+* #### Fences are still important
 
 Even if you're okay with your pets bounding through the garden rows, you still need to protect them from dangerous areas. Make sure they won't end up chasing each other or a toy into a road or another property!
 
-* Try to create a play specific area
+* #### Try to create a play specific area
 
 Some pets tend to participate in mirroring, where they try to mimick things their humans do in order to bond better. If you find your pup is digging up your garden after you planted new things, creating a specific area for the pet to dig (maybe with some good sturdy plants that can take the abuse) is a great way to bond!
 
-* Be careful of pet-toxic plants
-* Use cedar chips for garden beds to deter ticks
+* #### Be careful of pet-toxic plants or chemicals
+
+Plants like onions, chives, garlic, daffodils, parsley or fennel can all give a horrid stomachache - or worse - to your pets.  [The ASPCA has an extensive list of such plants to exclude from a pet-friendly garden.](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) Similarly, you will need to invest in pet-safe chemicals for your garden, and make sure to keep your chemicals and tools locked up so that your pets can't get hurt on them.
+
+* #### Use cedar chips for garden beds to deter ticks
+
+
+
 * Large plants are less likely to be trampled
 
 ![](cat-garden-with-flowers.jpg)
