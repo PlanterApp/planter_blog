@@ -22,6 +22,8 @@ On the other side, pets, especially dogs and cats, can unintentionally cause dam
 
 By implementing some preventative measures, you can make sure to protect your pets and your hobby!
 
+![](contented-rabbit-happily-munching-fresh-greens-ai-generated.jpg)
+
 ### 3 Great Ways to Pet-Proof Your Garden
 
 * #### A wall or fence can protect the whole bed
@@ -52,14 +54,16 @@ Some pets tend to participate in mirroring, where they try to mimick things thei
 
 * #### Be careful of pet-toxic plants or chemicals
 
-Plants like onions, chives, garlic, daffodils, parsley or fennel can all give a horrid stomachache - or worse - to your pets.  [The ASPCA has an extensive list of such plants to exclude from a pet-friendly garden.](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) Similarly, you will need to invest in pet-safe chemicals for your garden, and make sure to keep your chemicals and tools locked up so that your pets can't get hurt on them.
+Plants like onions, chives, garlic, daffodils, sunflowers, parsley or fennel can all give a horrid stomachache - or worse - to your pets.  [The ASPCA has an extensive list of such plants to exclude from a pet-friendly garden.](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) Similarly, you will need to invest in pet-safe chemicals for your garden, and make sure to keep your chemicals and tools locked up so that your pets can't get hurt on them.
 
-* #### Use cedar chips for garden beds to deter ticks
+* #### Use wood chips to mulch garden beds to deter ticks
 
+With your pets roaming in the outdoors, they may pick up some unwanted hitchhikers. There's certainly some chemical means to deter such visitors, but a great option for preventing this issue is simple and safe for animals- wood chip mulch! Ticks don't particularly like to move on hard, sharp surfaces, and the mulch will also protect your plants in the winter!
 
+* #### Large plants are less likely to be trampled
 
-* Large plants are less likely to be trampled
+This one's pretty simple, but large, sturdy plants will hold up well against animals passing around them. Bushes or vines on trellises are some great options that will resist being knocked over or crushed underfoot. 
 
 ![](cat-garden-with-flowers.jpg)
 
-\[conclusion]
+In conclusion,
