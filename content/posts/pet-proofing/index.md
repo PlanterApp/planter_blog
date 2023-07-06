@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Pet-Proofing Your Garden"
 slug = "pet-proofing"
 date = 2023-07-06T10:00:31.459Z
