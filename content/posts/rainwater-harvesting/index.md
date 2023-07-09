@@ -23,19 +23,19 @@ If your region has outdoor watering restrictions in the summertime, harvesting r
 
 There is not a clear-cut answer as to whether it is safe to use collected rainwater on edible plants. Some sources recommend avoiding the use of water from rain barrels on edible plants, while others consider it to be generally safe with some precautions.
 
-The two primary potential safety concerns when it comes to using collected rainwater on edible plants are pollutants and bacteria. Pollutants can be accumulated as the water runs along the roof of your house, potentially picking up chemicals used in the roofing materials. Bacteria such as E. coli can also be picked up if there are bird or other animal droppings on the roof.
+The two primary potential safety concerns when it comes to using collected rainwater on edible plants are pollutants and bacteria. Pollutants can be accumulated as the water runs along the roof of your house, potentially picking up chemicals used in the roofing materials. Bacteria such as *E. coli* can also be picked up if there are bird or other animal droppings on the roof.
 
 The Washington State Department of Ecology looked at pollutant levels in rainwater runoff from various types of roofing materials ([study link](https://apps.ecology.wa.gov/publications/documents/1403033.pdf)). The study wasn’t specific to collecting rainwater for a veggie garden; it was concerned with levels of contaminants that could be entering the environment. It found that some types of roofing materials released elevated levels of pollutants into the rainwater runoff while others did not. It also noted that the age of the roofing materials could impact the levels of pollutants released over time. So before collecting rainwater from your roof you may want to check the type of roof you have and consider its age.
 
 Rutgers University specifically looked at the question of whether it is safe to use rainwater from asphalt shingle roofs for vegetable gardens, considering both pollutants and bacteria ([study link](https://njaes.rutgers.edu/fs1218/)). This study concluded that “Based on study results, rain barrel water can be safely utilized to irrigate a vegetable/herb garden. Pathogen treatment should be conducted and best practices utilized when applying the water.”
 
-Be sure to review research from several sources for yourself before deciding whether you are comfortable with the risks of using water from a rain barrel on your edible plants.
+Be sure to review research from several reputable sources for yourself before deciding whether you’re comfortable with using water from a rain barrel on your edible plants. Also be aware that local regulations may limit the use of harvested rainwater for irrigation at school or community gardens, or gardens where the produce will be sold.
 
-There are also several precautions that you should consider taking if you choose to use harvested rainwater on your veggies:
+There are several precautions that you should consider taking if you do choose to use harvested rainwater on your veggies:
 
 * The “first flush” of rainwater after a dry spell can be the most contaminated- you may want to empty it out and discard it or use it on ornamental plants
 * Add ⅛ teaspoon of bleach per gallon of water, then wait 24 hours before using it to water your plants
-* You can consider testing your rain barrel water for E. coli (some cities may require this)
+* You can consider testing your rain barrel water for *E. coli*
 * Water the soil and not the plant itself (this is a good practice anyways regardless of the water source, to help prevent plant disease)
 * Do not harvest produce immediately after watering
 * Most importantly, always wash garden produce thoroughly before eating it!
