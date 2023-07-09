@@ -52,6 +52,8 @@ Then you’ll need to select a barrel. There are many different sizes and styles
 
 There are many different ways to install a rain barrel but it will typically involve cutting (and potentially re-supporting) the downspout then attaching a flexible or rigid pipe that directs the water into the top of the barrel. Consult online video tutorials to find step-by-step instructions that are specific to the type of downspout and barrel you have. Be sure to have a clear plan and all the necessary materials before starting- you won’t want to leave the project half-finished then have a rainstorm hit!
 
+![A rain barrel on a patio beside a garlic patch](rain-barrel.jpg)
+
 Rain barrels work with gravity; the more full the barrel is the more quickly water will flow from the spigot at the bottom. The higher up the barrel the higher the flow rate will be- and the easier it will be to get a watering can under the spigot. Use concrete blocks or wood to build a strong, solid platform to raise the barrel up, or buy a ready-made rain barrel stand. Using an additional water pump or purchasing a barrel with a built-in pump can help to get more water pressure from the barrel especially when the water level is low.
 
 To make use of water from a rain barrel you can use a watering can or a gravity-fed drip irrigation system that is specifically designed for the low water pressure from a rain-barrel. If you have a water pump you may be able to use a sprinkler system with the barrel.
