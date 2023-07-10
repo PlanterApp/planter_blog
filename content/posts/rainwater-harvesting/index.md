@@ -42,13 +42,13 @@ There are several precautions that you should consider taking if you do choose t
 
 ![A hose watering the soil beside a lettuce plant](hose-watering-lettuce.jpg)
 
-If you decide not to use rainwater on your edible plants, It’s still worth installing a rain barrel to water your ornamental plants.
+If you decide not to use rainwater on your edible plants, it’s still worth installing a rain barrel to water your ornamental plants.
 
 ### How to collect and use rainwater
 
 To set up a rain barrel you’ll first need to identify a good location for the barrel. You’ll want to place it on firm, level ground by a downspout close to where you’ll use the water. Some rain barrels can be connected together so when one fills up the water will divert into a second or third barrel- if you want to go this route be sure the site has enough space for multiple barrels. You’ll also want to consider where to divert overflow from the barrel so it doesn’t pool near your house foundation.
 
-Then you’ll need to select a barrel. There are many different sizes and styles of barrels. Consult your local regulations to see if there are limits on how much rainwater you can collect and choose a barrel size accordingly. Your rain barrel should have a debris screen to filter out solid materials from the water- in some cases these are required by regulation. Some barrels can be opened from the top to allow for easy filling of a watering can, while others are fully enclosed.
+Then you’ll need to select a barrel. There are many different sizes and styles of barrels. Consult your local regulations to see if there are limits on how much rainwater you can collect and choose a barrel size accordingly. Your rain barrel should have a debris screen to filter out solid materials from the water. Some barrels can be opened from the top to allow for easy filling of a watering can, while others are fully enclosed.
 
 There are many different ways to install a rain barrel but it will typically involve cutting (and potentially re-supporting) the downspout then attaching a flexible or rigid pipe that directs the water into the top of the barrel. Consult online video tutorials to find step-by-step instructions that are specific to the type of downspout and barrel you have. Be sure to have a clear plan and all the necessary materials before starting- you won’t want to leave the project half-finished then have a rainstorm hit!
 
