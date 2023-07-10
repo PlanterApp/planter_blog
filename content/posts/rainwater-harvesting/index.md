@@ -54,9 +54,9 @@ There are many different ways to install a rain barrel but it will typically inv
 
 ![A rain barrel on a patio beside a garlic patch](rain-barrel.jpg)
 
-Rain barrels work with gravity; the more full the barrel is the more quickly water will flow from the spigot at the bottom. The higher up the barrel the higher the flow rate will be- and the easier it will be to get a watering can under the spigot. Use concrete blocks or wood to build a strong, solid platform to raise the barrel up, or buy a ready-made rain barrel stand. Using an additional water pump or purchasing a barrel with a built-in pump can help to get more water pressure from the barrel especially when the water level is low.
+Rain barrels work with gravity; the more full the barrel is the more quickly water will flow from the spigot at the bottom. The higher up the barrel the higher the flow rate will be- and the easier it will be to get a watering can under the spigot. Use concrete blocks or wood to build a strong, solid platform to raise the barrel up, or buy a ready-made rain barrel stand. Using a rain barrel pump can help to get more water pressure from the barrel especially when the water level is low.
 
-To make use of water from a rain barrel you can use a watering can or a gravity-fed drip irrigation system that is specifically designed for the low water pressure from a rain barrel. If you have a water pump you may be able to use a sprinkler system with the barrel.
+To make use of water from a rain barrel you can use a watering can or a gravity-fed drip irrigation system that is specifically designed for the low water pressure from a rain barrel. If you have a pump you may be able to use a sprinkler system with the barrel.
 
 A note for those of us living in cold climates- before winter hits you’ll want to be sure to drain your rain barrel completely and store it in a garage or shed where so it's not exposed to temperature extremes that can cause cracking.
 
