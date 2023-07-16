@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Gardening With Kids"
 slug = "gardening-with-kids"
-date = 2023-07-16T15:03:48.061Z
+date = 2023-07-17T05:03:00.000Z
 author = "Peter Keefe"
 weight = 5
 
@@ -12,15 +12,13 @@ image = "20230322_163927_2.png"
 alt = "My son sowing pea seeds in the garden."
 caption = "My son sowing pea seeds in the garden."
 +++
-Nurturing a love for gardening in our children is a rewarding experience that not only imparts valuable life skills but also creates cherished memories. Just as my mom did for my brothers and me, I now have the pleasure of involving my own kids in our vegetable garden. Seeing the excitement in their eyes as they witness the fruits of their labor is truly heartwarming. In the spirit of passing along this delightful tradition, here are some practical tips for parents of young aspiring gardeners.
-
-
+One of the best things we can do as gardeners is pass along our love of gardening to our children. When I was a kid, my mom would let me and my two brothers pick a corner of the garden to plant cucumbers. As the season went along, we’d watch excitedly as our cucumbers grew and jump at the chance to harvest them (it was also a bit of competition between us siblings to see whose plants grew the most cucumbers 😉).Now that I’m grown and have my own kids “helping” me in the garden, I thought I’d share some tips that I've learned along the way.
 
 ### Patience: Cultivate Patience in the Garden
 
 ![My kids having a great time climbing soil bags when I was setting up the garden.](pxl_20210410_132623274-1-.jpg "My kids having a great time climbing soil bags when I was setting up the garden.")
 
-Gardening with kids requires an abundance of patience. As any parent knows, tasks that seem simple and quick can often turn into extended adventures when children are involved. It's important to set realistic expectations and remember that gardening with kids is about the process, not just the end result. Embrace the slower pace, and use this opportunity to teach children the virtue of patience.
+Gardening with kids requires an abundance of patience. As any parent knows, tasks that seem simple and quick can often turn into extended adventures when children are involved. It's important to set realistic expectations and remember that gardening with kids is about having fun, not just the end result. Like our [gardening shirts](https://store.planter.garden/listing/romaine-calm-green) say, "Romaine Calm, Lettuce Carrot On". Embrace the slower pace, and use this opportunity to teach children the virtue of patience.
 
 ### Select Kid-Friendly Seeds
 
@@ -67,7 +65,5 @@ Gardening often involves being out in the sun for extended periods. Ensure your 
 ### Share the Bountiful Harvest
 
 As the gardening season comes to an end, involve your children in sharing the harvest with friends, family, or neighbors. Let them experience the joy of giving back to the community by gifting the fruits of their labor. This act of kindness reinforces the values of generosity and sharing.
-
-
 
 Gardening with kids is a remarkable journey that fosters a love for nature and instills valuable life skills. Embrace the opportunity to slow down, bond, and create lasting memories with your kids. By following these tips, you can make gardening an enjoyable and enriching experience for the whole family. Happy gardening!
