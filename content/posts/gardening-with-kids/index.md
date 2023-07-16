@@ -12,7 +12,7 @@ image = "20230322_163927_2.png"
 alt = "My son sowing pea seeds in the garden."
 caption = "My son sowing pea seeds in the garden."
 +++
-One of the best things we can do as gardeners is pass along our love of gardening to our children. When I was a kid, my mom would let me and my two brothers pick a corner of the garden to plant cucumbers. As the season went along, we’d watch excitedly as our cucumbers grew and jump at the chance to harvest them (it was also a bit of competition between us siblings to see whose plants grew the most cucumbers 😉).Now that I’m grown and have my own kids “helping” me in the garden, I thought I’d share some tips that I've learned along the way.
+One of the best things we can do as gardeners is pass along our love of gardening to our children. When I was a kid, my mom would let me and my two brothers each pick a corner of the garden to plant cucumbers. As the season went along, we’d watch excitedly as our cucumbers grew and jump at the chance to harvest them (it was also a bit of competition between us siblings to see whose plants grew the most cucumbers 😉).Now that I’m grown and have my own kids “helping” me in the garden, I thought I’d share some tips that I've learned along the way.
 
 ### Patience: Cultivate Patience in the Garden
 
@@ -24,7 +24,7 @@ Gardening with kids requires an abundance of patience. As any parent knows, task
 
 ![My son sowing pea seeds in the garden.](20230322_163835.jpg "My son sowing pea seeds in the garden.")
 
-When it comes to planting, kids absolutely love getting their hands dirty and sowing seeds. To make the experience enjoyable and easy for them, opt for seeds that are large and easy to handle. Peas, beans, and seeds from the squash family are perfect choices. Their size and shape make them convenient for little fingers to hold and place in the soil, increasing the chances of successful planting.\
+Kids love getting their hands dirty and sowing seeds. To make it easier for them, choose seeds that are large and easy to handle. Peas, beans, and seeds from the squash family are perfect choices. Their size and shape make them convenient for little fingers to hold and place in the soil, increasing the chances of successful planting.\
 \
 We learned this lesson the hard way this year; first we planted peas which went super well. I dug a trough for the seeds and my son was able to plant them every couple inches and they grew super well! However, next to the peas we planted carrots, and nearly a hundred seeds ended up in the same spot.
 
@@ -36,23 +36,25 @@ We learned this lesson the hard way this year; first we planted peas which went 
 
 Kids love digging in the dirt, but that can sometimes pose a challenge in the garden. They might accidentally dig up your carefully planted seeds or seedlings. Rather than fight their natural digging nature, create a designated digging spot just for the kids. This can be a small section within the garden or even a separate container filled with loose soil. Now, they can dig to their heart's content without worrying about affecting the main vegetable plots.
 
-### Give Each Child Their Garden Space
+### Give Each Child Their Own Garden Space
 
-Kids love having a sense of ownership and responsibility. Assign each kid their little spot in the garden where they can grow plants of their choice. Let them take charge of planting and caring for their space, allowing them to experience the joy of seeing their efforts yield results. This sense of accomplishment will instill a deeper connection with nature and nurture their interest in gardening.
+When I was a kid, my brothers and I each had a corner of the garden where we were in charge of growing cucumbers. It was great to see the whole process from sowing seeds to harvesting cucumbers. 
 
-When I was a kid, my brothers and I each had a corner of the garden where we were in charge of growing cucumbers. It was great to see the whole process from sowing seeds to harvesting cucumbers.
+Kids love having a sense of ownership and responsibility. Give each kid their own little spot in the garden where they can grow what they like. Friend-of-the-app Ben Gardner of the [Backyard Gardens podcast,](https://www.backyardgardenstv.com/backyard-gardens-podcast.html) does just that. This year he gave his son an entire garden bed to grow what he wanted, and he chose potatoes. This is a great way to let kids grow their independence and gain an appreciation for gardening.
+
+
 
 ### Discover Garden Critters
 
 ![](look-magnifying-glass-butterfly-sits-flowers-selective-focus.jpg)
 
-Explore the world of garden critters with your children. Teach them about [beneficial insects](https://blog.planter.garden/posts/16-of-your-garden-s-local-pest-hunters/) like ladybugs and bees that play a crucial role in pollination. Also, introduce them to earthworms and explain their significance in enriching the soil. Learning about these creatures fosters an understanding of the delicate balance within the garden ecosystem.
+Kids *love* bugs. Whether they're poking rolly pollies or try to burn ants with a microscope, they're all about the bugs. But us gardeners....not so much, especially the ones that munch on all of our plants. But we can teach them about [beneficial insects](https://blog.planter.garden/posts/16-of-your-garden-s-local-pest-hunters/) like ladybugs, bees, and earthworms.
 
 ### Celebrate Harvest Time
 
 ![My son eating a carrot straight from the garden!](pxl_20230713_212032019.jpg "My son eating a carrot straight from the garden. He didn't want to try carrots before that but now he loves them!")
 
-Harvesting is perhaps the most exciting part of gardening for kids (and adults!). Involve them in the process of picking ripe veggies. Encourage them to taste their freshly harvested produce (after a quick rinse, of course) and try out simple, kid-friendly recipes. This hands-on experience not only teaches them where their food comes from but also makes them more eager to grow and eat their own homegrown produce. And it might help a picky kid try something new. 
+Harvesting is perhaps the most exciting part of gardening for kids (and adults!). Involve them in the process of picking ripe veggies. Encourage them to taste their freshly harvested produce (after a quick rinse, of course) and try out simple, kid-friendly recipes. This hands-on experience teaches them where their food comes and it might even help a picky kid try something new. 
 
 ### Garden Crafts and Projects
 
