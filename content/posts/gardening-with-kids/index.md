@@ -54,18 +54,22 @@ Kids *love* bugs. Whether they're poking rolly pollies or try to burn ants with 
 
 ![My son eating a carrot straight from the garden!](pxl_20230713_212032019.jpg "My son eating a carrot straight from the garden. He didn't want to try carrots before that but now he loves them!")
 
-Harvesting is perhaps the most exciting part of gardening for kids (and adults!). Involve them in the process of picking ripe veggies. Encourage them to taste their freshly harvested produce (after a quick rinse, of course) and try out simple, kid-friendly recipes. This hands-on experience teaches them where their food comes and it might even help a picky kid try something new. 
+Harvesting is perhaps the most exciting part of gardening for kids (and adults!). Involve them in the process of picking ripe veggies. Encourage them to taste their freshly harvested produce (after a quick rinse, of course) and try out simple, kid-friendly recipes. This hands-on experience teaches them where their food comes and it might even help a picky kid try something new. \
+\
+And if your harvest is a bit *too* bountiful, involve your children in sharing the harvest with friends, family, neighbors, or your local food bank. It'll be extra rewarding, especially after all of their help in the garden.
 
 ### Garden Crafts and Projects
 
-Enhance the gardening experience with creative projects. Engage kids in making garden markers using popsicle sticks or stones painted with the names of different plants. Create scarecrows together or build a birdhouse to attract feathered friends into the garden. These crafts add an element of fun and encourage children to take pride in their garden space.
+Here are a few craft ideas for the garden:
+
+1. Make plant markers using popsicle sticks or stones painted with the names or pictures of different plants.
+2. Create a scarecrow to protect corn at harvest time.
+3. Build a birdhouse.
 
 ### Be Safe and Sun Smart
 
-Gardening often involves being out in the sun for extended periods. Ensure your children are adequately protected by providing them with hats, sunscreen, and comfortable clothing. Teach them about the importance of sun safety from a young age, and encourage regular breaks in the shade to stay hydrated.
+Gardening often involves being out in the heat and sun for extended periods. Make sure your kids are adequately protected by providing them with hats, sunscreen, and comfortable clothing. Encourage regular breaks in the shade to stay hydrated.
 
-### Share the Bountiful Harvest
+### Wrapping it Up
 
-As the gardening season comes to an end, involve your children in sharing the harvest with friends, family, or neighbors. Let them experience the joy of giving back to the community by gifting the fruits of their labor. This act of kindness reinforces the values of generosity and sharing.
-
-Gardening with kids is a remarkable journey that fosters a love for nature and instills valuable life skills. Embrace the opportunity to slow down, bond, and create lasting memories with your kids. By following these tips, you can make gardening an enjoyable and enriching experience for the whole family. Happy gardening!
+Gardening with kids is a great way to get them outdoors and teach them where their food comes from. It's also a great way to spend time together and create lasting memories. I hope these tips have been helpful, and that you and your little minions have a great time gardening together. Happy gardening!
