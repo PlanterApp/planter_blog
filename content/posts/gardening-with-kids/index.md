@@ -18,7 +18,7 @@ One of the best things we can do as gardeners is pass along our love of gardenin
 
 ![My kids having a great time climbing soil bags when I was setting up the garden.](pxl_20210410_132623274-1-.jpg "My kids having a great time climbing soil bags when I was setting up the garden.")
 
-Gardening with kids requires an abundance of patience. As any parent knows, tasks that seem simple and quick can often turn into extended adventures when children are involved. It's important to set realistic expectations and remember that gardening with kids is about having fun, not just the end result. Embrace the slower pace, and like our [gardening shirts](https://store.planter.garden/listing/romaine-calm-green) say, "Romaine Calm, Lettuce Carrot On".
+Gardening with kids requires an abundance of patience. As any parent knows, tasks that seem simple and quick can often take twice as long when children are involved. It's important to set realistic expectations and remember that gardening with kids is about having fun, not just the end result. Embrace the slower pace, and like our [gardening shirts](https://store.planter.garden/listing/romaine-calm-green) say, "Romaine Calm, Lettuce Carrot On".
 
 ### Select Kid-Friendly Seeds
 
