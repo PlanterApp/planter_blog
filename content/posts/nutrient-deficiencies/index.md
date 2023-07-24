@@ -11,4 +11,18 @@ relative = true
 image = "biotechnology-woman-engineer-examining-plant-leaf-disease.jpg"
 alt = "Person examining a plant's leaves."
 +++
-wip
+Hey there, gardeners! Have you been dealing with nutrient deficiencies in your garden? It's a common hurdle for gardeners to overcome, but don't worry- nutrients are something that is very manageable to resolve and maintain.
+
+### What nutrients are important in the garden?
+
+First things first, let's talk about the essential nutrients your plants need. There are three primary nutrients that plants require in larger quantities, often referred to as N-P-K:
+
+1. Nitrogen (N): Vital for leafy growth and that lush green color we all love in our plants.
+2. Phosphorus (P): Important for strong root development, flowering, and fruiting.
+3. Potassium (K): Helps with overall plant health, disease resistance, and fruit quality.
+
+### How do I know that my plants are nutrient deficient?
+
+Now, how do you spot nutrient deficiencies? Keep an eye on your plants for any unusual signs:
+
+*
