@@ -18,11 +18,19 @@ Hey there, gardeners! Have you been dealing with nutrient deficiencies in your g
 First things first, let's talk about the essential nutrients your plants need. There are three primary nutrients that plants require in larger quantities, often referred to as N-P-K:
 
 1. Nitrogen (N): Vital for leafy growth and that lush green color we all love in our plants.
-2. Phosphorus (P): Important for strong root development, flowering, and fruiting.
-3. Potassium (K): Helps with overall plant health, disease resistance, and fruit quality.
+2. Phosphorus (P): Important for strong root, flower, and fruit development- so, key in food production.
+3. Potassium (K): Helps with overall plant health, disease resistance, and fruit quality, so your hard work proves fruitful (pun intended!)
+
+![](smart-agriculture-iot-with-hand-planting-tree-background.jpg)
 
 ### How do I know that my plants are nutrient deficient?
 
 Now, how do you spot nutrient deficiencies? Keep an eye on your plants for any unusual signs:
 
-*
+* Yellowing leaves: Could indicate a lack of nitrogen.
+* Purple or red leaves: Suggests a phosphorus deficiency.
+* Yellow edges or leaf curling: Could be a sign of potassium deficiency.
+
+A soil test will also tell you when and if your plants have a nutrient imbalance, so regular testing is a good habit for any gardener to get into!
+
+![](pexels-syn-gor-10651660.jpg)
