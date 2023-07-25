@@ -25,12 +25,12 @@ First things first, let's talk about the essential nutrients your plants need. T
 
 ### How do I know that my plants are nutrient deficient?
 
-Now, how do you spot nutrient deficiencies? Keep an eye on your plants for any unusual signs:
+Now, how do you spot nutrient deficiencies? Thankfully, plants often are very good at keeping us informed about what they need. Just like how limp leaves show when your garden needs water, keep an eye on your plants for any of these signs:
 
 * Yellowing leaves: Could indicate a lack of nitrogen.
 * Purple or red leaves: Suggests a phosphorus deficiency.
 * Yellow edges or leaf curling: Could be a sign of potassium deficiency.
 
-A soil test will also tell you when and if your plants have a nutrient imbalance, so regular testing is a good habit for any gardener to get into!
+A soil test will also tell you when and if your plants have a nutrient imbalance, so regular testing is a good habit for any gardener to get into! That way, you can notice changes before your plant even has to tell you.
 
 ![](pexels-syn-gor-10651660.jpg)
