@@ -15,11 +15,13 @@ Hey there, gardeners! Have you been dealing with nutrient deficiencies in your g
 
 ### What nutrients are important in the garden?
 
-First things first, let's talk about the essential nutrients your plants need. There are three primary nutrients that plants require in larger quantities, often referred to as N-P-K:
+There's a lot of different nutrients that go into our growing plants, but let's talk about the essential nutrients your plants need. There are the three macronutrients that plants require in larger quantities, often referred to as N-P-K:
 
-1. Nitrogen (N): Vital for leafy growth and that lush green color we all love in our plants.
-2. Phosphorus (P): Important for strong root, flower, and fruit development- so, key in food production.
-3. Potassium (K): Helps with overall plant health, disease resistance, and fruit quality, so your hard work proves fruitful (pun intended!)
+1. Nitrogen (N): Nitrogen's vital for leafy growth and that lush green color we all love in our plants. This is a primary ingredient in enzyme and protein development!
+2. Phosphorus (P): Phosphorous's role in the system is energy; it's Important for strong root, flower, and fruit development! 
+3. Potassium (K): You may also hear this referred to as Potash; Potassium is the quality control for plants. It helps with overall plant health, disease resistance, and fruit quality, so your hard work proves fruitful (pun intended!)
+
+You might recognize these three from fertilizer labels! There's a reason that these are the big three; 
 
 ![](smart-agriculture-iot-with-hand-planting-tree-background.jpg)
 
@@ -31,6 +33,22 @@ Now, how do you spot nutrient deficiencies? Thankfully, plants often are very go
 * Purple or red leaves: Suggests a phosphorus deficiency.
 * Yellow edges or leaf curling: Could be a sign of potassium deficiency.
 
-A soil test will also tell you when and if your plants have a nutrient imbalance, so regular testing is a good habit for any gardener to get into! That way, you can notice changes before your plant even has to tell you.
+A soil test is the best way to know when and if your plants have a nutrient imbalance, so regular testing is a good habit for any gardener to get into! That way, you can notice changes before your plant even has to tell you. It's always best to test!
 
 ![](pexels-syn-gor-10651660.jpg)
+
+### What do I do if my plants are nutrient deficient?
+
+There's many things you can use to boost your plants if they're low on an important nutrient! Fertilizers are, of course, a useful and all-encompassing solution in this situation. Different fertilizers will have different ratios of those three primary nutrients, so be sure to choose one that supplements what you need!
+
+If you're hoping for some other soil amendment options to use, we covered those more extensively in [this blog post about soil amendments!](https://blog.planter.garden/posts/soil-amendments/) For a cursory rundown, compost is pretty balanced in nutrients depending on what it's made up of; manures are extremely rich in nutrients (typically nitrogen, but bat guano is high in phosphor) ; and additives like wood ash is high in potassium!
+
+Mulching is also a great long-term practice overall; it retains moisture in the soil, suppresses weeds, helps keep the roots a bit less cold in the winter, and (most importantly here) will slowly break down into nutrients!
+
+![](istock-1226575634.jpg)
+
+### How can I avoid nutrient deficiency in my garden?
+
+Many farmers practice crop rotation to avoid stripping an area of nutrients. If you're thoughtful about what you plant each year in each spot, you can allow your soil to take breaks every few seasons to naturally revitalize itself with the nutrients it needs; then, you won't need to make dramatic fixes in soil makeup to help your plants.
+
+![](farm-life-with-vegetables-high-angle.jpg)
