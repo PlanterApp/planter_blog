@@ -51,4 +51,6 @@ Mulching is also a great long-term practice overall; it retains moisture in the 
 
 Many farmers practice crop rotation to avoid stripping an area of nutrients. If you're thoughtful about what you plant each year in each spot, you can allow your soil to take breaks every few seasons to naturally revitalize itself with the nutrients it needs; then, you won't need to make dramatic fixes in soil makeup to help your plants.
 
+Whether you plan to amend your soil to resolve your issues, or hope to prevent them by changing your gardening habits, we hope that this guide has made nutrient deficiencies a minor hurdle in your gardening adventure!
+
 ![](farm-life-with-vegetables-high-angle.jpg)
