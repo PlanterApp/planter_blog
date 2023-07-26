@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Dealing with Nutrient Deficiencies in the Garden"
 slug = "nutrient-deficiencies"
 date = 2023-07-27T22:00:02.844Z
