@@ -29,9 +29,9 @@ You might recognize these three from fertilizer labels! There's a reason that th
 
 Now, how do you spot nutrient deficiencies? Thankfully, plants often are very good at keeping us informed about what they need. Just like how limp leaves show when your garden needs water, keep an eye on your plants for any of these signs:
 
-* Yellowing leaves: Could indicate a lack of nitrogen.
-* Purple or red leaves: Suggests a phosphorus deficiency.
-* Yellow edges or leaf curling: Could be a sign of potassium deficiency.
+* Yellowing leaves: Could indicate a lack of nitrogen, because it's very important to the production of chlorophyll!
+* Dark/Purple leaves: Could fortell a phosphorus deficiency; phosphorus is necessary for new growth, so stunted growth is also a telltale sign of it.
+* Leaf curling: Could be a sign of potassium deficiency, because potassium helps to regulate water balance. In an ideal water balance, the leaves should be nice and sturdy!
 
 A soil test is the best way to know when and if your plants have a nutrient imbalance, so regular testing is a good habit for any gardener to get into! That way, you can notice changes before your plant even has to tell you. It's always best to test!
 
