@@ -42,26 +42,18 @@ Taming the tomato jungle involves trellising. Stakes, cages, or other supports k
 
 ### Waging War on Pests
 
-
+Pesky intruders like aphids and hornworms can wreak havoc on tomato plants. Employ natural predators like ladybugs and lacewings, and turn to organic insecticides when needed. Regular monitoring is key to keeping pest numbers down. [If you're interested in biological control in the garden, here's our blog post on pest hunters you can introduce!](https://blog.planter.garden/posts/16-of-your-garden-s-local-pest-hunters/)
 
 \[image?]
-
-### Harvesting with Finesse
-
-
-
-
 
 ### Wrapping up the Season
 
-
-
-\[image]
+As the growing season winds down, clean up your garden bed. Remove all plant debris to discourage disease and pest overwintering. Consider sowing cover crops to replenish the soil during the dormant months.
 
 ### Embrace Crop Rotation
 
+The last tip, but certainly not the least, is to rotate your tomato crops annually! This simple practice prevents the buildup of soil-borne pests and diseases, ensuring the longevity of your tomato-growing success. If you plan to garden long-term, and don't want to sign yourself up for future difficulties in severe soil amendments, crop rotation is only going to help you!
 
+\[image]
 
 \[conclusion]
-
-\[image?]
