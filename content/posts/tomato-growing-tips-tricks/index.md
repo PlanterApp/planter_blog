@@ -14,31 +14,35 @@ alt = "Gardener harvesting Tomatoes"
 +++
 Tomatoes, those luscious gems of the garden, hold a special place in the hearts of many gardeners. While basic tomato growing practices are well-known, diving into advanced care techniques can elevate your tomato game to new heights. From strategic fruit removal to battling pesky diseases, let's explore a comprehensive guide that goes beyond the usual and takes your tomato cultivation skills up a notch.
 
-\[image]
+![](istock-1137926606.jpg)
 
 ### Pruning for Vigor
 
-Pruning isn't just about aesthetics; it's a strategic move. Pinch off suckers, those tempting side shoots that appear at the junction of the main stem and branches. This redirects the plant's energy towards fruiting, resulting in larger, healthier tomatoes!
+Pruning isn't just about aesthetics; it's a strategic move. Try pinching off suckers- those side shoots that appear at the junction of the main stem and branches. These shoots typically grow very vigorously and compete with the main stem for nutrients. This redirects the plant's energy towards fruiting, resulting in larger, healthier tomatoes!
 
 ### Thinning for Success
 
 Similarly to pruning, thinning will help to promote larger tomatoes! Counterintuitive as it may seem, thinning out early fruits can boost your overall harvest. By removing some young tomatoes, you allow the plant to channel its energy into fewer, but larger and more flavorful, mature fruits. It's all about quality over quantity!
 
+When thinning, choose the smaller, underdeveloped fruits to remove. These are typically the ones that formed early in the season, or are on the bottom of the truss. Aim to leave about 4-6 tomatoes per truss, depending on the size of the tomato variety.
+
 ![](ripe-red-tomatoes-growing-bush-garden.jpg)
 
 ### Topping Techniques
 
-
+Topping, the art of removing the main stem's growing tip, is a technique that divides tomato growers. By topping your plants, you promote lateral branching and more abundant fruiting. It's typically performed when the plant reaches a particular height- typically around 4-5 feet, but it varies based on growing conditions and variety. It's simply matter of preference, and can be fairly rewarding!
 
 ### The Art of Tomato Trellising
 
-Taming the tomato jungle involves trellising. Stakes, cages, or other supports keep plants upright, enhancing air circulation and reducing disease risk. A well-supported tomato plant is a healthy one. [If you're looking for an extensive guide to trellising your plants, we have a great tomato trellising guide here!](https://blog.planter.garden/posts/tomato-trellising-techniques/)
+Taming the tomato jungle involves trellising. Stakes, cages, string, or other supports keep plants upright, enhancing air circulation and reducing disease risk. A well-supported tomato plant is a healthy one. [If you're looking for an extensive guide to trellising your plants, we have a great tomato trellising guide here!](https://blog.planter.garden/posts/tomato-trellising-techniques/)
 
 ![](beautiful-red-ripe-cherry-tomatoes-grown-greenhouse.jpg)
 
 ### Covering Disease Management
 
+Tomatoes are prone to various diseases, particularly diseases of the leaves such as bacterial leaf spot or blight. But don't worry- good gardening habits will lessen your risk of contracting these in your plants!
 
+Rotate crops annually, provide proper spacing, and eliminate overhead watering. Opt for disease-resistant varieties to bolster your garden's health. Avoid growing monocultures of single varieties (or even plant families) so that you won't get your whole crop wiped out by a single outbreak. With careful monitoring (and pruning of infected leaves and plants), you shouldn't have to worry about disease wiping out your tomatoes!
 
 ### Waging War on Pests
 
@@ -48,7 +52,7 @@ Pesky intruders like aphids and hornworms can wreak havoc on tomato plants. Empl
 
 ### Wrapping up the Season
 
-As the growing season winds down, clean up your garden bed. Remove all plant debris to discourage disease and pest overwintering. Consider sowing cover crops to replenish the soil during the dormant months.
+As the growing season winds down, clean up your garden bed. Remove all plant debris to discourage disease and pest overwintering. Consider sowing cover crops to replenish the soil during the dormant months. [If you're not yet feeling like saying goodbye to your garden for the year, here's a post that may help to carry you through the fall season!](https://blog.planter.garden/posts/fall-garden-chores/)
 
 ### Embrace Crop Rotation
 
@@ -56,4 +60,4 @@ The last tip, but certainly not the least, is to rotate your tomato crops annual
 
 ![](istock-671192338.jpg)
 
-\[conclusion]
+Mastering these advanced techniques enhances your ability to cultivate robust and productive tomato plants. As you experiment with new tricks such as pruning, thinning, trellising, and pest management, you'll gain a deeper understanding of your plants' needs and strengths. Remember, gardening is an ongoing journey, and each season offers new lessons and opportunities for growth. Happy gardening!
