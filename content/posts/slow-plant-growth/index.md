@@ -59,4 +59,4 @@ And last but not least, weeds are a very common culprit behind slow plant growth
 
 If your plants seem like they’re taking their sweet time to mature, be sure to dig a little deeper to see what the root cause might be. In some cases there might be factors outside of your control that you either have to mitigate or just understand and accept (at least for this season). In other cases there are actions you can take to reinvigorate your plants’ growth. Either way, it will be that much more rewarding when your plants finally produce a harvest!
 
-{{ <affiliate> }}
+{{< affiliate >}}
