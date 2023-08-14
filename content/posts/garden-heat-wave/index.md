@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Help your Garden Survive a Heat Wave"
 slug = "garden-heat-wave"
 date = 2023-08-13T22:13:18.265Z
@@ -35,4 +35,4 @@ Last but not least, if you are transplanting or seeding new plants in a heat wav
 
 While it's good to do what we can to help our plants through the heat, even the most experienced gardeners can have plants succumb to heat and drought. So don’t take it as a failure if some of your plants are struggling- count every plant that powers through as a win, and chalk the rest up to a learning experience for future years. Helping your plants beat the heat is challenging- especially when we don’t feel like being out in the heat either- but your efforts can be crucial to save your harvests!
 
-{{ <affiliate> }}
+{{< affiliate >}}
