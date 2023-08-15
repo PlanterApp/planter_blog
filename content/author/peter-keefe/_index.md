@@ -3,9 +3,9 @@ title = "Peter Keefe"
 [cover]
 alt = ""
 caption = ""
-image = "/uploads/img_5057.jpg"
+image = "PXL_20230814_134850735.jpg"
 
 +++
-Peter is the founder and developer of Planter. In 2017 he created the app to make his own garden planning easier, and since then it's helped many more gardeners! He lives near the University of Connecticut and unfortunately his yard is way too shady to grow anything, so he has a community garden plot where he loves to grow a little bit of everything, especially salsa ingredients 🍅 🫑 🌶 🧅 🌮 .   
+Hi, I'm Peter and I'm the founder and developer of Planter. In 2017, I created the app to make my own garden planning easier, and since then it's helped many more gardeners! I live near the University of Connecticut and unfortunately my yard is way too shady to grow anything, so I have a community garden plot where I grow a little bit of everything, especially salsa ingredients 🍅 🫑 🌶 🧅 🌮 .   
   
-When Peter isn't in the garden or coding the app, he enjoys hiking with his wife and kids, kayaking on peaceful lakes, or enjoying his saltwater reef aquarium 🐠. 
+When I'm not in the garden or coding the app, I enjoy hiking with my family, kayaking on peaceful lakes, or enjoying my saltwater reef aquarium 🐠. 
