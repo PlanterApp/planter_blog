@@ -2,7 +2,7 @@
 draft = true
 title = "Reviving Your Garden: A Post-Storm Cleanup Guide"
 slug = "garden-storm"
-date = 2023-08-16T21:36:08.976Z
+date = 2023-08-24T10:00:08.976Z
 author = "Jessalyn Krenicki"
 weight = 5
 
@@ -29,7 +29,9 @@ A great first step is to start by clearing branches, leaves, and other debris. T
 
 ### Righting Uprooted Plants
 
-### Saying Farewell to Goners
+### Remove Plants Beyond Repair
+
+Unfortunately, not all your plants may weather the storm. Plants that have lost significant portions of root systems will likely not bounce back from the incident, so keep an eye out for plants that have sustained considerable damage. It can also be a fresh chance to add something new to the garden, so don't be afraid to say goodbye!
 
 ### Give Your Plants Some TLC
 
@@ -43,9 +45,15 @@ A great first step is to start by clearing branches, leaves, and other debris. T
 
 ### Reducing Soil Erosion
 
+Heavy rains are often a cause of soil erosion. Erosion through rain will carry away your nutritious topsoil, so keep an eye out for spots where that's been washed away. If you see them, you can rebuild the topsoil with mulch, or implement some more permanent erosion control measures. Cover crops are a great boon in protecting your topsoil from the elements!
+
 ### Check Your Structures
 
 ### Help the Water Table
 
 * plant shrubs or trees by recurring water pools
 * redirect water flow
+
+\[concl]
+
+I hope that this growing guide can help you gather what you can after a storm.
