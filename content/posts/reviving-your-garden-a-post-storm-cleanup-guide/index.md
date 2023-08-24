@@ -21,23 +21,23 @@ Once the storm has passed, the first step is to see what needs to be resolved. T
 
 ### Prioritize Safety
 
-Your garden will come back- so don't risk your own safety in your panic. Storms can and will result in dangers such as downed power lines or unstable trees, so make sure that you check the area carefully and use protective gear such as goggles, gloves, and sturdy boots. If the situation is too dangerous, make sure to acquire help- especially if there's a wire down!
+Your garden will come back- so don't risk your own safety in your panic. Storms can result in dangers such as downed power lines or unstable trees, so make sure that you check the area carefully and use protective gear such as goggles, gloves, and sturdy boots. If the situation is too dangerous, make sure to acquire help- especially if there's a wire down!
 
 ### Clearing Debris
 
-A great first step is to start by clearing branches, leaves, and other debris. The best w
+A great first step is to start by clearing branches, leaves, and other debris. Your trellises may be in a tree, or in pieces, or somehow weathered the storm in place, but if it's in the way of cleanup it's going to have to move. 
 
 ### Righting Uprooted Plants
+
+Plants are incredibly resilent- the winds and water may have uprooted your plants, but as long as their root systems are mostly intact, they will persevere! This goes for anything from a tomato plant to a plum tree, so be sure to put everyone back in their earthy seats!
 
 ### Remove Plants Beyond Repair
 
 Unfortunately, not all your plants may weather the storm. Plants that have lost significant portions of root systems will likely not bounce back from the incident, so keep an eye out for plants that have sustained considerable damage. It can also be a fresh chance to add something new to the garden, so don't be afraid to say goodbye!
 
-### Give Your Plants Some TLC
-
-* weed and mulch
-
 ### Protect from Pests
+
+Storms can weaken plants, leaving them susceptible to pests and diseases- and insects can even use the wind like public transport. Keep an eagle eye out for any telltale signs of infestations or illnesses, and take swift action to nip any potential problems in the bud. Any new problems could become very prevalent in a recovering garden.
 
 ## Protecting For The Future
 
