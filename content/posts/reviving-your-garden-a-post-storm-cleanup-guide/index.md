@@ -43,17 +43,16 @@ Storms can weaken plants, leaving them susceptible to pests and diseases- and in
 
 ### Cleaning and Pruning
 
+
+
 ### Reducing Soil Erosion
 
-Heavy rains are often a cause of soil erosion. Erosion through rain will carry away your nutritious topsoil, so keep an eye out for spots where that's been washed away. If you see them, you can rebuild the topsoil with mulch, or implement some more permanent erosion control measures. Cover crops are a great boon in protecting your topsoil from the elements!
-
-### Check Your Structures
+Heavy rains are often a cause of soil erosion, which will carry away your nutritious topsoil, so keep an eye out for spots where that's been washed away. If you see them, you can rebuild the topsoil with mulch, or implement some more permanent erosion control measures. Cover crops are a great boon in protecting your topsoil from the elements!
 
 ### Help the Water Table
 
-* plant shrubs or trees by recurring water pools
-* redirect water flow
+If you notice a lot of consistent flooding in your garden, there could be an issue with the water table- the amount of water that your garden can hold in its soil. Thankfully, there's an easy way to help support it: you can plant plant shrubs or trees near recurring water pools to draw from it, reducing the load on the soil. Alternatively, you can redirect water flow by filling in the pools, forcing the water to move elsewhere. This will ultimately help in reducing soil erosion in future storms.
 
-\[concl]
+######    
 
-I hope that this growing guide can help you gather what you can after a storm.
+With the increasing intensity of storms as of yet, it's very important to prepare and be versatile in the face of such disasters. We at Planter hope that this guide might help those who have been impacted by such storms, notably those in California, Oregon, and Idaho who are recovering from Hurricane Hillary. Similarly, I hope that some of these tips may help people prepare their gardens in advance for the coming weather events, to have one less thing to worry about in difficult times. Happy gardening!
