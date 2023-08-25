@@ -1,16 +1,18 @@
 +++
-author = "Peter Keefe"
+draft = false
 authors = []
-date = 2023-01-11T05:00:00Z
-override_position = false
-plants = ["watermelon", "tomatoes", "sweet potatoes", "corn", "squash", "pumpkin", "peppers", "okra", "eggplant", "cucumbers", "beans"]
 title = "Growing Veggies in Subtropical and Tropical Climates"
+slug = "Growing Veggies in Subtropical and Tropical Climates"
+date = 2023-01-11T05:00:00.000Z
+author = "Peter Keefe"
+plants = []
 weight = 5
+override_position = false
+
 [cover]
-alt = ""
+alt = "Tropical bird on a plant."
 caption = ""
 image = "/uploads/pexels-jean-van-der-meulen-1581101.jpg"
-
 +++
 Are you starting a veggie garden in a subtropical or tropical climate? These regions offer a unique set of conditions for growing veggies, and it's important to understand the differences between the two and choose the right plants for your area.
 
