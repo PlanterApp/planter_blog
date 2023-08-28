@@ -19,13 +19,13 @@ As back-to-school approaches it can feel like planting the garden was all but a 
 
 ![Spinach plants in a garden](spinach.jpg)
 
-Considering spinach is often harvested for its tender baby leaves, it’s amazing just how cold-hardy it is. Depending on the conditions, spinach can still be going strong with minimal frost protection and snow on the ground! With added protection, some cold-climate gardeners are even able to overwinter spinach for harvests right through winter and into the following spring. Spinach is also a super fast-growing crop that can be ready to harvest in as little as 35 days- so even if you don’t feel like using season extension techniques you can still get a solid fall crop of spinach. And as the weather cools down there is less risk of your spinach bolting, meaning you can get a prolonged harvest if you only pick the outermost leaves. 
+Considering spinach is often harvested for its tender baby leaves, it’s amazing just how cold-hardy it is. Depending on the conditions, spinach can still be going strong with minimal frost protection and snow on the ground! With added protection, some cold-climate gardeners are even able to overwinter spinach for harvests right through winter and into the following spring. Spinach is also a super fast-growing crop that can be ready to harvest in as little as 35 days- so even if you don’t feel like using season extension techniques you can still get a solid fall crop of spinach. And as the weather cools down there is less risk of your spinach [bolting](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/), meaning you can get a prolonged harvest if you only pick the outermost leaves. 
 
 ### Kale
 
 ![Kale plant in a garden](kale.jpg)
 
-Kale is truly an incredible plant. Not only is it astoundingly cold-hardy, once established it can grow through almost anything you can throw at it. Kale is a top low-maintenance plant pick because you plant it once and enjoy continuous harvests all season long (assuming you are harvesting it for larger, individual leaves). To harvest kale just snap off the lowest, largest leaves as close as possible to the stem, making sure to leave the top of the plant and several upper leaves intact. When harvested this way, kale can keep on producing well into fall and even winter…You might even find it grows back again the following year!
+Kale is about as cold-hardy as plants come, which makes it a potential candidate for early fall sowing. That being said, like most every plant kale’s growth will slow to almost a standstill once the temperatures approach freezing. To get a fall (and potentially winter!) harvest of kale you’ll need at least 55 days for the plants to reach maturity. If you don’t have that long left in your growing season, you still have options to grow kale. You can look for pre-started kale transplants at your local garden center (although they might be hard to come by), or you can seed intensively and harvest [baby kale](https://blog.planter.garden/posts/spice-up-your-salad/#baby-kale) leaves as a delicious delicacy!
 
 ### Radishes
 
