@@ -31,7 +31,7 @@ Kale is about as cold-hardy as plants come, which makes it a potential candidate
 
 ![Radishes in a garden](radishes.jpg)
 
-Radishes are an excellent crop to sow midsummer (or almost anytime, really) as they grow  extremely quickly. Radishes can reach maturity in as little as 25 days, and their compact size means that they can be tucked into almost any garden space that frees up as spring and summer crops kick the bucket. And if your radishes happen to [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/) before you get a chance to harvest them you can always let them continue growing- the green seed pods are edible (and delicious!) Then plant a whole new wave of radishes!
+Radishes are a classic crop for fall planting as they grow so quickly and are also quite cold-hardy. Radishes can reach maturity in as little as 25 days, meaning you can keep on planting [successions](https://blog.planter.garden/posts/succession-planting-for-nonstop-harvests/) of radishes almost right to the bitter end of your growing season. Radishes grown in cooler weather tend to be less spicy than their summer-grown counterparts so if you’re not a fan of the typical radish bite you might like fall (and spring) grown radishes. If your radishes do not bulb up as your first frost date approaches you can also harvest them for their green tops, which can be cooked up in stir-frys and soups. If you’re after the radish greens you will want to pull your radishes before frost comes or otherwise use season extension techniques to protect them as the greens do tend to get droopy with the frost.
 
 ### Lettuce
 
