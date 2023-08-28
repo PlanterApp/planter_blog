@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Help your Garden Survive a Heat Wave"
+title = "Help Your Garden Survive a Heat Wave"
 slug = "garden-heat-wave"
 date = 2023-08-13T22:13:18.265Z
 author = "Erin Thomson"
