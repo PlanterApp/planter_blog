@@ -49,7 +49,7 @@ Arugula is a rather spicy green that may not appeal to everyone, but if you can 
 
 ![A bok choy seedling in a garden](bok-choy-seedling.jpg)
 
-Bok choy, also known as pac choi or chinese cabbage, is a frost-tolerant member of the brassica family that is a delicious addition in stir fries, soups, and noodle dishes. Some varieties of bok choy can be ready to harvest in as little as 30 days, but many can take 45-60 days– so be careful to select a variety that will be able to reach maturity in the remainder of your growing season. If your bok choy doesn’t quite reach full size by the time heavy frosts set in, you can still harvest it on the smaller side as ‘baby bok choy’.
+Bok choy, also known as pac choi or chinese cabbage, is a frost tolerant member of the brassica family that is a delicious addition in stir fries, soups, and noodle dishes. Some varieties of bok choy can be ready to harvest in as little as 30 days, but many can take 45-60 days– so be careful to select a variety that will be able to reach maturity in the remainder of your growing season. If your bok choy doesn’t quite reach full size by the time heavy frosts set in, you can still harvest it on the smaller side as ‘baby bok choy’.
 
 ### Hakurei turnips
 
