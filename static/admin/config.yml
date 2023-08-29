@@ -54,6 +54,12 @@ collections:
         required: false
         summary: "{{fields.series}}"
         field: { label: "Series", name: "series", widget: "string" }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        summary: "{{fields.tag}}"
+        field: { label: "Tag", name: "tag", widget: "string" }
       - label: "Weight (default 5, use lower number to pin post)"
         name: "weight"
         widget: "number"
@@ -70,7 +76,7 @@ collections:
           - label: "Cover Photo"
             name: "image"
             widget: "image"
-            required: true
+            required: false
             choose_url: false
             media_library:
               config:
@@ -78,7 +84,7 @@ collections:
           - label: "Alt Text"
             name: "alt"
             widget: "string"
-            required: true
+            required: false
           - label: "Caption"
             name: "caption"
             widget: "string"
@@ -86,7 +92,7 @@ collections:
           - label: "Relative"
             name: "relative"
             widget: "hidden"
-            default: true
+            default: false
       - label: "Body"
         name: "body"
         widget: "markdown"
