@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "What Can I Plant in Early Fall?"
 slug = "plant-in-early-fall"
 date = 2023-08-28T00:19:41.645Z
@@ -37,22 +37,24 @@ Radishes are a classic crop for fall planting as they grow so quickly and are al
 
 ![Lettuce plants in a garden](lettuce-plants.jpg)
 
-While lettuce does not at all enjoy the heat of summer, it's good to plan for multiple plantings of lettuce throughout the growing season (this is called [succession sowing](https://blog.planter.garden/posts/succession-planting-for-nonstop-harvests/)). Lettuce is generally a quick-growing crop, especially if you are growing it as [cut-and-come-again](https://blog.planter.garden/posts/harvesting-how-to-and-when/#how-to-harvest-lettuce) lettuce rather than full lettuce heads. Lettuce planted in the summer may need a little TLC to produce a harvest. [Shade cloth](https://www.amazon.com/s?k=shade+cloth) can help block out too much searing heat from the sun, and consistent watering can help to avoid stress to the plant that could accelerate [bolting](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/). And once cooler temperatures hit, your lettuce crop will be even more prolific!
+Lettuce is a semi-frost tolerant plant that grows at its best in cool-ish temperatures. If you grow loose-leaf lettuce as a [cut-and-come-again](https://blog.planter.garden/posts/harvesting-how-to-and-when/#how-to-harvest-lettuce) crop, rather than aiming for a full-sized lettuce head, you will be able to harvest your lettuce much earlier. Ideally, look for lettuce varieties that are more cold-hardy and well-suited for late-season planting. While lettuce can handle a light frost, if a nighttime frost is in the forecast you may still want to temporarily cover your lettuce with row cover, plastic, bedsheets, or towels, as a preventative measure. Even if frost doesn’t take out the plant entirely, frost damage on the leaves can render them inedible.
 
 ### Arugula
 
 ![Arugula plants in the sun](arugula-plants.jpg)
 
-Also known as rocket or rucola, arugula is a delicate leafy green that packs a peppery punch. If you don’t mind salad with a kick you can use arugula as the sole green, but it also makes a great addition to mesclun mix where its spiciness is balanced out with lettuce and milder greens. Or, skip the salad and sprinkle it on top of homemade pizza or sandwiches for a gourmet touch! Arugula can tend to [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/) easily so be sure to keep it well-watered to avoid drought stress, and consider sowing in regular successions to be able to continue harvesting throughout the season.
+Arugula is a rather spicy green that may not appeal to everyone, but if you can handle its peppery punch it is a prime candidate for fall planting. Arugula can reach maturity in as little as 28 days and the seeds can germinate in cool soil. Like lettuce, arugula is semi-tolerant of frost- so you may want to err on the side of caution and cover it up if frost is in the forecast. Cut or pick just the outermost leaves of the arugula, leaving the growing crown intact, to keep the harvests going. Arugula is much less likely to bolt in the cooler weather, so you may be able to harvest it continuously until a freeze takes it out!
 
 ### Bok Choy
 
 ![A bok choy seedling in a garden](bok-choy-seedling.jpg)
 
+Arugula is a rather spicy green that may not appeal to everyone, but if you can handle its peppery punch it is a prime candidate for fall planting. Arugula can reach maturity in as little as 28 days and the seeds can germinate in cool soil. Like lettuce, arugula is semi-tolerant of frost- so you may want to err on the side of caution and cover it up if frost is in the forecast. Cut or pick just the outermost leaves of the arugula, leaving the growing crown intact, to keep the harvests going. Arugula is much less likely to bolt in the cooler weather, so you may be able to harvest it continuously until a freeze takes it out!
+
 ### Hakurei turnips
 
 ![Bunches of hakurei turnips in a wooden crate](white-turnips.jpg)
 
-Thinking about turnip might conjure up memories of mushy puree served exclusively over the holidays. But you might not know that there are some types of turnips that are deliciously sweet, crispy, and can be eaten raw or cooked. ‘Hakurei turnips’ are a farmer’s market favorite that are super easy to grow. They look like a jumbo-size white radish, and grow similarly to radishes, but the taste is fresh and juicy without any of the signature radish kick (radish haters love them!) The greens are also excellent for stir-frying. Even if adding turnips to your garden has never crossed your mind, be sure to give hakurei a try!
+While the larger, standard grocery store turnips are typically slow-growing plants that take their time to mature, there are smaller ‘hakurei salad turnip’ varieties available that can be ready to harvest in as little as 35 days! Hakurei turnips are frost tolerant, and although the greens may take a beating with heavier frost the roots will remain sweet, juicy, and crisp- just be sure to get them out of the ground before a hard freeze sets in. Hakurei turnips add nice variety to a late-season harvest that can often be mostly greens.
 
 While the end of summer can be bittersweet, in the garden it’s the perfect time to get some new crops growing! Take advantage of the more comfortable temperatures to get outside and plant a fresh round of veggies for late-fall harvests!
