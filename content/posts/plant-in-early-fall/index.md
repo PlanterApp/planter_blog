@@ -45,7 +45,7 @@ Lettuce is a semi-frost tolerant plant that grows at its best in cool-ish temper
 
 Arugula is a rather spicy green that may not appeal to everyone, but if you can handle its peppery punch it is a prime candidate for fall planting. Arugula can reach maturity in as little as 28 days and the seeds can germinate in cool soil. Like lettuce, arugula is semi-tolerant of frost- so you may want to err on the side of caution and cover it up if frost is in the forecast. Cut or pick just the outermost leaves of the arugula, leaving the growing crown intact, to keep the harvests going. Arugula is much less likely to bolt in the cooler weather, so you may be able to harvest it continuously until a freeze takes it out!
 
-### Bok Choy
+### Bok choy
 
 ![A bok choy seedling in a garden](bok-choy-seedling.jpg)
 
