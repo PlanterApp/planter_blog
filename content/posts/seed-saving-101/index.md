@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Seed Saving 101"
-slug = "Seed Saving 101"
+slug = "Seed-Saving-101"
 date = 2023-09-04T21:07:35.201Z
 author = "Erin Thomson"
 weight = 5
