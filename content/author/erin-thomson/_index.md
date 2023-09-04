@@ -1,6 +1,6 @@
 +++
 title = "Erin Thomson"
-draft = true
+draft = false
 name = "Erin Thomson"
 slug = "Erin Thomson"
 
