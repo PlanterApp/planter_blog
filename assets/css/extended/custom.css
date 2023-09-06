@@ -17,10 +17,3 @@
   --signature: var(--primary);
 }
 
-.first-entry .entry-content {
-    margin: 14px 0;
-    font-size: 17px;
-    line-height: 1.6em;
-    display: block;
-    overflow: initial;  /* fix <mark> edge get cut */
-}
