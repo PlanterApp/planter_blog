@@ -535,3 +535,36 @@
         animation-timing-function:cubic-bezier(0,0,.2,1)
     }
 }
+
+.dark {
+    .welcomments__comments-title,
+    .welcomments__author-name,
+    .welcomments__comment-message a,
+    .welcomments__comment-form label {
+        color: white !important;
+    }
+    .welcomments__comment-time a time,
+    .welcomments__comment-form p {
+        color: var(--content) !important;
+    }
+    .welcomments__comment-message {
+        color: var(--content) !important;
+    }
+    .welcomments__comment-reply-link,
+    .welcomments__comment-form textarea,
+    .welcomments__comment-form input {
+        background-color: var(--entry) !important;
+        color: var(--content) !important;
+    }
+    .welcomments__submit-button {
+        background-color: var(--primary) !important;
+    }
+    .welcomments__comment {
+        border-color: var(--entry) !important;
+    }
+    .welcomments__comment-form textarea,
+    .welcomments__comment-form input {
+        border-color: var(--border) !important;
+    }
+
+}
