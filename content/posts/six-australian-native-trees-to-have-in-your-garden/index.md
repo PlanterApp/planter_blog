@@ -16,15 +16,15 @@ alt = "An image displaying a large field and trees - it is bright and sunlit. "
 +++
 Native fruits and plants surround us all the time, on the sides of paths and in the depths of forests, but rarely do we think to include them in our edible gardens. But some truly astounding varieties of edible fruits are out there! From finger limes to Blueberry Ash trees, let’s explore six varieties of small native Australian trees that can provide fruit for your garden!
 
-# **1)     Finger lime (*Citrus australasica*)**  
+# **Finger lime (*Citrus australasica*)**  
 
 The Australian finger lime – an underrated, underappreciated fruit tree that can easily be grown in most gardens. These hardy little shrubs are native to Queensland and New South Wales, and can grow anywhere between 2-6 meters tall. This tree grows slowly, and I do have to warn you, it has thorns! But it also produces the most lovely tiny white or pale pink flowers, along with the finger limes themselves – which can come in a variety of colours such as green, yellow, black, brown, and purple. These lovely little trees tend to flower in late autumn to early summer, with fruit ripening in May to June.
+
+## Green Finger Lime
 
 After the harvest season is over, I would recommend pruning your finger lime back a bit, so it has time to recover the energy it put into fruiting.
 
 ![An image displaying Fingerlime fruit - the fruit depicted is red and oblong, whilst the insides look much like transparent caviar.](fingerlime-1.png)
-
- 
 
 ![An image displaying the Finger Lime plant and flowers - the flowers are small and white with pale yellow centres. ](fingerlime-2.png)
 
@@ -43,8 +43,6 @@ The Kakadu plum – if you haven’t heard of it, I wouldn’t be surprised! The
 In contrast, the leaves of the Kakadu plum are large and spaced apart. This tree grows between 4-10 meters, and has been a cultural bushfood for Aboriginal peoples for years.
 
 ![An image showing the Kakadu Plum fruit - the fruit is small, green, and pear shaped, and has a central seed like a plum.](kakadu.png)
-
-  
 
 #### **4)     Kanagroo apple (*Solanum aviculare*)**
 
@@ -66,21 +64,13 @@ This low maintenance tree flowers in the spring and summer, and sets fruit in wi
 
 ![An image displaying the young Bolwarra fruit - the fruit depicted look similar to gumnuts. The surrounding leaves are a mix of a red-brown and green. ](bolwarra.png)
 
- 
-
-
-
 ###### **6)     Blueberry ash (*Elaeocarpus reticulatus*)**
 
 The Blueberry ash is a small plant native to eastern Australia, perfect for a small garden. These lovely native rainforest plants are low maintenance and have a high tolerance for pests and diseases. Plus, they have the most gorgeous flowers! The smaller varieties grow 4-5m, and are slender in width – perfect for a small corner. The Blueberry ash is variation of native quandong, meaning that not only are they drought resistant, but they also produce an edible fruit – an incredibly bright blue berry! These berries can be crushed and made into jams, or used as a tea.
 
 ![An image depicting Blueberry Ash flowers - they are delicate and pink, with frayed edges to the petals.](ash-2.jpg)
 
-   
-
 ![An image of Blueberry Ash fruit - they are bright blue and perfectly round. They stem from the plant in bunches of one to three. ](ash-3.png)
-
-
 
 And that's all six! I hope this provides inspiration and insight into the amazing world of edible fruit our beautiful native plants can provide. 
 
