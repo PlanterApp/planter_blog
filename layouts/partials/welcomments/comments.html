@@ -17,9 +17,9 @@
   {{ end }}
 
   {{ if gt $allComments 0 }}
-    <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">{{ len $allComments }} comment{{ if gt $allComments 1 }}s{{ end }}</h3>
+    <h3 id="welcomments__comment-count-title" class="welcomments__comments-title" style="margin-top:20px;">{{ len $allComments }} comment{{ if gt $allComments 1 }}s{{ end }}</h3>
   {{ else }}
-    <h3 id="welcomments__comment-count-title" class="welcomments__comments-title">No comments yet!</h3>
+    <h3 id="welcomments__comment-count-title" class="welcomments__comments-title" style="margin-top:20px;">No comments yet!</h3>
   {{ end }}
 
   <section id="welcomments__comment-container" class="welcomments__comment-container">
@@ -47,7 +47,7 @@
   Contains some basic comment section styling, so that you can get started quickly
   without having to come up with your own CSS if you don't want to.
                                                                                -->
-<link rel="stylesheet" href="https://cdn.welcomments.io/welcomments.css" />
+<!--<link rel="stylesheet" href="https://cdn.welcomments.io/welcomments.css" />-->
 
 <!--
   Includes the optional Welcomments Javascript file. It enhances the user experience
