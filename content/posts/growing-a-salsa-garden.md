@@ -5,7 +5,7 @@ date = 2022-09-27T04:00:00Z
 override_position = false
 plants = ["cilantro", "onions", "peppers", "tomatoes"]
 title = "Growing a Salsa Garden"
-weight = 5
+
 [cover]
 alt = "Salsa veggies next to a bowl of fresh salsa."
 caption = "Salsa created from my garden!"

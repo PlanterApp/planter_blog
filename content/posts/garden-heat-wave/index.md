@@ -4,7 +4,7 @@ title = "Help Your Garden Survive a Heat Wave"
 slug = "garden-heat-wave"
 date = 2023-08-13T22:13:18.265Z
 author = "Erin Thomson"
-weight = 5
+
 
 [cover]
 relative = true

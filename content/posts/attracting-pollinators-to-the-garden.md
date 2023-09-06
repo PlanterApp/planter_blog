@@ -4,7 +4,7 @@ date = 2022-04-16T04:00:00Z
 override_position = false
 plants = ["marigolds", "sunflower", "echinacea", "chamomile", "catnip", "bee balm", "dill", "borage", "nasturtiums"]
 title = "Attracting Pollinators to the Garden"
-weight = 5
+
 [cover]
 alt = "Bee with pollen on an echinacea flower"
 caption = "Bee with pollen on an echinacea flower"

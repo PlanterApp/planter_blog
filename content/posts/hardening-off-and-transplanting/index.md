@@ -5,7 +5,7 @@ slug = "Hardening Off and Transplanting"
 date = 2022-05-04T04:00:00.000Z
 author = "Erin Thomson"
 series = ["Seed Starting"]
-weight = 5
+
 
 [cover]
 relative = true

@@ -5,7 +5,7 @@ draft = false
 override_position = false
 plants = []
 title = "Apps that Every Gardener Needs to Know About"
-weight = 5
+
 [cover]
 alt = ""
 caption = ""

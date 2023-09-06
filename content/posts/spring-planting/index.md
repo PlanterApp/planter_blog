@@ -4,7 +4,7 @@ title = "How to Plant a Spring Garden"
 slug = "spring-garden"
 date = 2023-04-30T17:33:30.799Z
 author = "Erin Thomson"
-weight = 5
+
 
 [cover]
 relative = true

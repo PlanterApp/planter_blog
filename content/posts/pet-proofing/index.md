@@ -5,7 +5,7 @@ slug = "pet-proofing"
 date = 2023-07-06T10:00:31.459Z
 author = "Jessalyn Krenicki"
 plants = ["rosemary"]
-weight = 5
+
 
 [cover]
 relative = true

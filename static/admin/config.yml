@@ -60,14 +60,13 @@ collections:
         required: false
         summary: "{{fields.tag}}"
         field: { label: "Tag", name: "tag", widget: "string" }
-      - label: "Weight (default 5, use lower number to pin post)"
+      - label: "Weight (default blank, use lower number to pin post)"
         name: "weight"
         widget: "number"
-        default: 5
         value_type: "int"
         min: 1
         max: 10
-        required: true
+        required: false
       - label: "Cover"
         name: "cover"
         widget: "object"

@@ -5,7 +5,7 @@ slug = "Grow-Amazing-Alliums"
 date = 2023-04-24T02:30:33.055Z
 author = "Erin Thomson"
 plants = ["Garlic", "Leeks", "Shallots", "Chives", "Onions"]
-weight = 5
+
 
 [cover]
 relative = true

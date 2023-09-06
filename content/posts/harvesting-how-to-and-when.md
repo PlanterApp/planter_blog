@@ -4,7 +4,7 @@ date = 2022-08-01T04:00:00Z
 override_position = false
 plants = ["peas", "beans", "lettuce", "squash", "tomatoes"]
 title = "Harvesting How-To (and When)"
-weight = 5
+
 [cover]
 alt = "Tomatoes, beans, squash, and lettuce in a basket"
 caption = "A colorful fresh vegetable harvest"

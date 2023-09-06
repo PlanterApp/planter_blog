@@ -5,7 +5,7 @@ date = 2022-11-21T05:00:00Z
 override_position = false
 plants = []
 title = "2022 Gardeners' Gift Guide"
-weight = 5
+
 [cover]
 alt = "A holiday gift with a red bow surrounded by greenery"
 caption = ""

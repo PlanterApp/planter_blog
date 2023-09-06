@@ -4,7 +4,7 @@ date = 2022-07-10T04:00:00Z
 override_position = false
 plants = []
 title = "What's Wrong With My Plant?"
-weight = 5
+
 [cover]
 alt = "Leaf miner damage in beet leaves"
 caption = "Leaf miner damage in beet leaves"

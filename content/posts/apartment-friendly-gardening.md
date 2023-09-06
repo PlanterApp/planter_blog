@@ -4,7 +4,7 @@ date = 2022-07-18T04:00:00Z
 override_position = false
 plants = []
 title = "Apartment Friendly Gardening"
-weight = 5
+
 [cover]
 alt = ""
 caption = ""

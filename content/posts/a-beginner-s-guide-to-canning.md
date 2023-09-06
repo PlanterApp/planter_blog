@@ -5,7 +5,7 @@ date = 2022-10-11T04:00:00Z
 override_position = false
 plants = []
 title = "A Beginner's Guide to Canning!"
-weight = 5
+
 [cover]
 alt = ""
 caption = ""

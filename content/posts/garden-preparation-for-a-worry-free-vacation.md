@@ -3,7 +3,7 @@ author = "Erin Thomson"
 date = 2022-06-27T04:00:00Z
 override_position = false
 title = "Garden Preparation for a Worry-Free Vacation"
-weight = 5
+
 [cover]
 alt = "A garden in the sun"
 caption = "A garden in the sun"

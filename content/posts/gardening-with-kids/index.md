@@ -5,7 +5,7 @@ slug = "gardening-with-kids"
 date = 2023-07-16T21:22:32.041Z
 author = "Peter Keefe"
 tags = ["Gardening"]
-weight = 5
+
 
 [cover]
 relative = true

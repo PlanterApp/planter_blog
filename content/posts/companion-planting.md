@@ -5,7 +5,7 @@ date = 2023-03-09T05:00:00Z
 override_position = false
 plants = []
 title = "Feature Launch:  Enhanced Companion Planting Relationships"
-weight = 5
+
 [cover]
 alt = "Lettuce and green onions growing together"
 caption = "Lettuce and green onions growing together"

@@ -6,7 +6,7 @@ slug = "Growing Veggies in Subtropical and Tropical Climates"
 date = 2023-01-11T05:00:00.000Z
 author = "Peter Keefe"
 plants = []
-weight = 5
+
 override_position = false
 
 [cover]

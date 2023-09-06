@@ -4,7 +4,7 @@ title = "Behind-the-Scenes with Planter and Gardener Scott (and a New Feature!)"
 slug = "garden-summary-gardener-scott"
 date = 2023-06-10T18:55:00.000Z
 author = "Peter Keefe"
-weight = 5
+
 
 [cover]
 relative = true

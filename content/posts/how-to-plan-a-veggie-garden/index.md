@@ -3,7 +3,7 @@ draft = false
 title = "How to Plan a Veggie Garden"
 date = 2023-03-19T19:12:46.916Z
 author = "Erin Thomson"
-weight = 5
+
 
 [cover]
 relative = true

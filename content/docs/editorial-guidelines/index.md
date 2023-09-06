@@ -4,7 +4,7 @@ title = "Editorial Guidelines"
 slug = "editorial-guidelines"
 date = 2023-04-14T18:14:57.625Z
 author = "Peter Keefe"
-weight = 5
+
 
 [cover]
 relative = true
@@ -151,7 +151,7 @@ draft = false
 title = "Article Title"
 date = YYYY-MM-DDT00:00:00.000Z 
 author = "First Last"
-weight = 5
+
 
 [cover]
 relative = true

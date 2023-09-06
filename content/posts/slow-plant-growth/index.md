@@ -4,7 +4,7 @@ title = "Why Are My Plants Growing So Slowly?"
 slug = "slow-plant-growth"
 date = 2023-08-07T23:18:48.722Z
 author = "Erin Thomson"
-weight = 5
+
 
 [cover]
 relative = true

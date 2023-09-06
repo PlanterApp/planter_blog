@@ -4,7 +4,7 @@ title = "Uncommon Soil Amendments for Your Garden"
 slug = "soil-amendments"
 date = 2023-06-22T10:00:12.921Z
 author = "Jessalyn Krenicki"
-weight = 5
+
 
 [cover]
 relative = true

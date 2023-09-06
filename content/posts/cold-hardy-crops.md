@@ -4,7 +4,7 @@ date = 2022-04-05T04:00:00Z
 override_position = false
 plants = ["parsley", "chives", "garlic", "spinach", "kale", "peas", "cilantro", "lettuce", "beets", "carrots"]
 title = "Cold-Hardy Crops"
-weight = 5
+
 [cover]
 alt = "Chives and lettuce in a spring garden"
 caption = "Chives and lettuce in a spring garden"

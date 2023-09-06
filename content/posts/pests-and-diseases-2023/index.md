@@ -4,7 +4,7 @@ title = "Pests and Diseases to Watch Out For!"
 slug = "pests-and-diseases-2023"
 date = 2023-07-31T22:36:51.333Z
 author = "Erin Thomson"
-weight = 5
+
 
 [cover]
 relative = true

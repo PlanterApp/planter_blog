@@ -4,7 +4,7 @@ title = "Feature Launch: Rotate 1x2 Plants and More!"
 slug = "v3-3-0"
 date = 2023-04-26T21:06:24.914Z
 author = "Peter Keefe"
-weight = 5
+
 
 [cover]
 relative = false

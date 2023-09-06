@@ -5,7 +5,7 @@ slug = "Tomato Growing Tips & Tricks"
 date = 2023-08-11T10:00:00.000Z
 author = "Jessalyn Krenicki"
 plants = ["Tomato"]
-weight = 5
+
 
 [cover]
 relative = true

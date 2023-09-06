@@ -3,7 +3,7 @@ author = "Erin Thomson"
 date = 2022-06-17T04:00:00Z
 override_position = false
 title = "Beat the Mid-Season Blahs"
-weight = 5
+
 [cover]
 alt = "Tomato plants with unripe tomatoes and sun in the background"
 caption = "Tomato plants in the sun"

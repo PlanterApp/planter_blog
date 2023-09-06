@@ -7,7 +7,7 @@ date = 2023-03-10T00:53:37.065Z
 author = "Peter Keefe"
 plants = []
 series = ["Test Series"]
-weight = 5
+
 override_position = false
 
 [cover]

@@ -4,7 +4,7 @@ date = 2022-08-30T04:00:00Z
 override_position = false
 plants = []
 title = "Season Extension: Keep the Growing Going!"
-weight = 5
+
 [cover]
 alt = "Plants growing under row cover"
 caption = "Plants protected with row cover"

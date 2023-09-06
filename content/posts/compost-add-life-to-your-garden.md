@@ -3,7 +3,7 @@ author = "Erin Thomson"
 date = 2022-05-18T04:00:00Z
 override_position = false
 title = "Compost: Add Life to Your Garden!"
-weight = 5
+
 [cover]
 alt = "A gardener's hands planting seedlings in dark brown soil"
 caption = "Seedlings in healthy soil"

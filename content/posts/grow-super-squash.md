@@ -4,7 +4,7 @@ date = 2022-05-20T04:00:00Z
 override_position = false
 plants = ["squash"]
 title = "Grow Super Squash"
-weight = 5
+
 [cover]
 alt = ""
 caption = "Zucchini plant with flowers and fruits"

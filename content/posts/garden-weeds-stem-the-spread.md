@@ -4,7 +4,7 @@ date = 2022-06-03T04:00:00Z
 override_position = false
 plants = []
 title = "Garden Weeds: Stem the Spread"
-weight = 5
+
 [cover]
 alt = "Dandelion head with seeds"
 caption = "Dandelion head with seeds"

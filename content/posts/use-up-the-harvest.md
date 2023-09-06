@@ -5,7 +5,7 @@ date = 2022-09-15T04:00:00Z
 override_position = false
 plants = []
 title = "Use It or Lose It: What to Do with a Veggie Glut"
-weight = 5
+
 [cover]
 alt = "A bountiful harvest of squash, tomatoes, and peppers"
 caption = "A bountiful harvest of squash, tomatoes, and peppers"

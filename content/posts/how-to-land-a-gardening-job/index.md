@@ -3,7 +3,7 @@ draft = false
 title = "How to Land a Gardening Job"
 date = 2023-04-07T02:00:43.558Z
 author = "Erin Thomson"
-weight = 5
+
 
 [cover]
 relative = true

@@ -4,7 +4,7 @@ date = 2022-08-13T04:00:00Z
 override_position = false
 plants = []
 title = "Gardening for Newbies: The 9 Easiest Plants for Your Garden"
-weight = 5
+
 [cover]
 alt = ""
 caption = ""

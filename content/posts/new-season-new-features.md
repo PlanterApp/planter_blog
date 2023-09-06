@@ -5,7 +5,7 @@ date = 2023-01-27T05:00:00Z
 override_position = false
 plants = []
 title = "New Season, New Features!"
-weight = 5
+
 [cover]
 alt = "Crocus poking through the snow"
 caption = "Like this crocus, we're excited for spring!"

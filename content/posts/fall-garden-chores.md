@@ -5,7 +5,7 @@ date = 2022-09-30T04:00:00Z
 override_position = false
 plants = ["garlic"]
 title = "Fall Garden Chores"
-weight = 5
+
 [cover]
 alt = "A raised bed garden in the fall"
 caption = "A raised bed garden in the fall"

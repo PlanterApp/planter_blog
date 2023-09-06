@@ -4,7 +4,7 @@ title = "When Can I Plant Outdoors?"
 slug = "when-to-plant-outdoors"
 date = 2023-05-06T01:09:38.295Z
 author = "Erin Thomson"
-weight = 5
+
 
 [cover]
 relative = true

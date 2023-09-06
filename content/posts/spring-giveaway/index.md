@@ -4,7 +4,7 @@ title = "Spring Giveaway"
 slug = "spring-giveaway"
 date = 2023-05-08T17:18:01.800Z
 author = "The Planter Team"
-weight = 5
+
 
 [cover]
 relative = true

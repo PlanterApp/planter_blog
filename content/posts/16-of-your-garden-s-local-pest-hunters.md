@@ -4,7 +4,7 @@ date = 2022-08-02T04:00:00Z
 override_position = false
 plants = ["chamomile", "parsley", "fennel", "lemon balm", "dill"]
 title = "16 of Your Garden's Local Pest Hunters"
-weight = 5
+
 [cover]
 alt = ""
 caption = ""

@@ -4,7 +4,7 @@ date = 2022-07-24T04:00:00Z
 override_position = false
 plants = ["chives", "leeks", "parsley", "cilantro", "chervil", "onions", "brussels sprouts", "peas", "beans", "parsnips", "endive/escarole", "collard greens", "kohlrabi", "bok choy", "shallots", "garlic", "beets", "carrots", "radishes", "arugula", "chard", "spinach", "lettuce", "kale", "cabbage", "cauliflower", "broccoli"]
 title = "Don't Forget Your Fall Garden!"
-weight = 5
+
 [cover]
 alt = "A garden with seedlings in trays"
 caption = "Seedlings ready to be planted for a fall garden"

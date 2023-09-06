@@ -4,7 +4,7 @@ date = 2022-06-09T04:00:00Z
 override_position = false
 plants = []
 title = "Which Part of the Plant are You Eating?"
-weight = 5
+
 [cover]
 alt = ""
 caption = ""

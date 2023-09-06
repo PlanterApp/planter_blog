@@ -4,7 +4,7 @@ title = "Revolutionize Your Seed Starting with Soil Blocking"
 date = 2023-04-12T13:00:00.000Z
 author = "Jessalyn Krenicki"
 series = []
-weight = 5
+
 
 [cover]
 relative = true

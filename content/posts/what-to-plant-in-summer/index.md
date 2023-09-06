@@ -6,7 +6,7 @@ date = 2023-07-21T23:16:21.883Z
 author = "Erin Thomson"
 plants = ["Chard", "Beans", "Radishes", "Lettuce", "Beets", "Carrots", "Cilantro"]
 series = ["Plant Picks"]
-weight = 5
+
 
 [cover]
 relative = true

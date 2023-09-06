@@ -4,7 +4,7 @@ date = 2022-07-03T04:00:00Z
 override_position = false
 plants = ["tomatoes"]
 title = "Tomato Trellising Techniques"
-weight = 5
+
 [cover]
 alt = "Tomato plants supported by a trellis"
 caption = "Tomato plants supported by a trellis"

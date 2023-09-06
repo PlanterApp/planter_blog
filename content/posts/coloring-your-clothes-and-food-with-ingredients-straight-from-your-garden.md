@@ -4,7 +4,7 @@ date = 2022-09-07T04:00:00Z
 override_position = false
 plants = ["spinach", "sweet potatoes", "blackberries", "basil", "cabbage", "carrots", "raspberries", "strawberries", "onions", "avocado", "beets"]
 title = "Coloring Your Clothes (and Food!) with Ingredients Straight from Your Garden"
-weight = 5
+
 [cover]
 alt = ""
 caption = ""

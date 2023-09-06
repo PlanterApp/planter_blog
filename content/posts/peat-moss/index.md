@@ -4,7 +4,7 @@ title = "Peat Moss - Good or bad?"
 slug = "peat-moss-vs-coconut-coir"
 date = 2023-04-16T16:23:06.690Z
 author = "Peter Keefe"
-weight = 5
+
 
 [cover]
 relative = true

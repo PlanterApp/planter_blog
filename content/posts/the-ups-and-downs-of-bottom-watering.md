@@ -4,7 +4,7 @@ date = 2022-07-09T15:00:00Z
 override_position = false
 plants = []
 title = "The Ups and Downs of Bottom Watering"
-weight = 5
+
 [cover]
 alt = ""
 caption = ""

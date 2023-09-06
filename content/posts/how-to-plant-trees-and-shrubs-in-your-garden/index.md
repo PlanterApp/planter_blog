@@ -4,7 +4,7 @@ title = "How to Plant Trees and Shrubs in Your Garden"
 slug = "plant-trees-shrubs"
 date = 2023-06-12T10:00:31.021Z
 author = "Jessalyn Krenicki"
-weight = 5
+
 
 [cover]
 relative = true

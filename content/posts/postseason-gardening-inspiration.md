@@ -5,7 +5,7 @@ date = 2022-11-01T04:00:00Z
 override_position = false
 plants = []
 title = "Postseason Gardening Inspiration"
-weight = 5
+
 [cover]
 alt = "Leafy greens in a garden bed dusted with snow"
 caption = "Leafy greens dusted with snow"

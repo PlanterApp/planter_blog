@@ -4,7 +4,7 @@ title = "Rabbit Proof Your Garden"
 slug = "garden-fence"
 date = 2023-04-21T20:00:09.094Z
 author = "Peter Keefe"
-weight = 5
+
 
 [cover]
 relative = true
