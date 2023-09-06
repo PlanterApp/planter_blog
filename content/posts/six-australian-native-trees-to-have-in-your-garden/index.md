@@ -24,9 +24,9 @@ The Australian finger lime – an underrated, underappreciated fruit tree that c
 
 After the harvest season is over, I would recommend pruning your finger lime back a bit, so it has time to recover the energy it put into fruiting.
 
-![An image displaying Fingerlime fruit - the fruit depicted is red and oblong, whilst the insides look much like transparent caviar.](fingerlime-1.png)
+![An image displaying Fingerlime fruit - the fruit depicted is red and oblong, whilst the insides look much like transparent caviar.](shutterstock_1431545150.webp)
 
-![An image displaying the Finger Lime plant and flowers - the flowers are small and white with pale yellow centres. ](fingerlime-2.png)
+![An image displaying the Finger Lime plant and flowers - the flowers are small and white with pale yellow centres. ](shutterstock_1431700487.webp)
 
 ### **Lilly Pilly (*Syzygium smithii*)**  
 
@@ -34,7 +34,7 @@ The Lilly Pilly – have you ever seen such vibrant fruit? Coming in shades of p
 
 Flowering in summer and fruiting in winter, this evergreen tree is drought tolerant and not too fussy about soil – making it very easy to care for!
 
-![Image displaying the Lilly Pilly plant - the main body of the shrub has small green leaves, while the new growth is a soft pink.](https://lh3.googleusercontent.com/lS6thgK3m4yW7NcIwje5miW5x66JNvUOHgdun-rojOpf9lf0CdVGLDGhC9wYWxFzFOHa74MjHy90LdCTaS4FgHyPjvy-bEoy2mxZ6JfUGF5INdCZ8IKAll5nZd2aXcKhW3IdtCNvJNO_WNnDX3PaRlo)
+![Image displaying the Lilly Pilly plant - the main body of the shrub has small green leaves, while the new growth is a soft pink.](shutterstock_2116815545.webp)
 
 ### **Kakadu plum (*Terminalia ferdinandiana*)**
 
@@ -42,7 +42,7 @@ The Kakadu plum – if you haven’t heard of it, I wouldn’t be surprised! The
 
 In contrast, the leaves of the Kakadu plum are large and spaced apart. This tree grows between 4-10 meters, and has been a cultural bushfood for Aboriginal peoples for years.
 
-![An image showing the Kakadu Plum fruit - the fruit is small, green, and pear shaped, and has a central seed like a plum.](kakadu.png)
+![An image showing the Kakadu Plum fruit - the fruit is small, green, and pear shaped, and has a central seed like a plum.](shutterstock_2271990053.webp)
 
 ### **Kangaroo apple (*Solanum aviculare*)**
 
@@ -54,7 +54,7 @@ These trees fruit in summer, and grow between 1-4 meters high, so perfect for a 
 
 In the past, these fruits have been used as an anti-inflammatory paste for joints!
 
-![An image showing the Kangaroo Apple plant and fruit - the fruit is small and round, and is a soft orange colour. ](https://lh4.googleusercontent.com/5nUcfWRupQPdkwZ9D35yD91GziFhKr-oV87Xqrnu7zw5vppLxer_cTynCIZE6UsNBbR-SmVS2mEqFkXv2f3Qwem9rBF0HpANSqzwSfnfDNIzBTkC-qInNsd1S1KS5WPB5VgWVgI_xbScf_I97zejzZY)
+![An image showing the Kangaroo Apple plant and fruit - the fruit is small and round, and is a soft orange colour. ](shutterstock_1220223037.webp)
 
 ### **Bolwarra (*Eupomatia laurina*)**
 
@@ -62,7 +62,7 @@ The Bolwarra plant, or a native guava, is a plant native to Australia and New Gu
 
 This low maintenance tree flowers in the spring and summer, and sets fruit in winter. It’s also been known to attract butterflies!
 
-![An image displaying the young Bolwarra fruit - the fruit depicted look similar to gumnuts. The surrounding leaves are a mix of a red-brown and green. ](bolwarra.png)
+![An image displaying the young Bolwarra fruit - the fruit depicted look similar to gumnuts. The surrounding leaves are a mix of a red-brown and green. ](shutterstock_2228600269.webp)
 
 ### **Blueberry ash (*Elaeocarpus reticulatus*)**
 
