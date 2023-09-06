@@ -12,7 +12,7 @@ weight = 5
 relative = false
 image = "cover.jpg"
 caption = ""
-alt = "An image displaying a large field and trees - it is bright and sunlit. "
+alt = "An image displaying a large field and trees - it is bright and sunlit.  "
 +++
 Welcome to the first of the Southern Hemisphere series! This series seeks to explore all things related to gardening in the Southern Hemisphere, and the unique challenges presented. These articles are so far being written from Australia. 
 
