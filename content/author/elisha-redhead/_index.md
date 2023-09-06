@@ -1,6 +1,8 @@
 +++
-draft = true
-name = "Elisha Redhead "
+draft = false
+title = "Elisha Redhead"
+name = "Elisha Redhead"
+slug = "Elisha Redhead"
 
 [cover]
 image = "img_7833.jpg"

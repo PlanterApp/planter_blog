@@ -8,21 +8,16 @@
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
             {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
             <li>
-                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
-                {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
-                <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
-                            {{- .Pre }}
-                            {{- .Name -}}
-                            {{ .Post -}}
-                        </span>
-                {{- if (findRE "://" .URL) }}&nbsp;
-                <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
-                     stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
-                    <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
-                    <path d="M15 3h6v6"></path>
-                    <path d="M10 14L21 3"></path>
-                </svg>
-                {{- end }}
+                <a href="{{ $menu_item_url }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
+                {{- if $is_search -}}data-no-instant{{- end -}}
+                {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}
+                {{- if strings.HasPrefix $page_url $menu_item_url }} class="active" {{- end }}
+                {{- if .Params.External }} target="_blank" {{- end }}
+                >
+                {{- .Pre }}
+                {{- .Name -}}
+                {{ .Post -}}
+                {{- if .Params.External }}<span class="external-link">{{ safeHTML (index $.Site.Data.svg "external-link") }}</span>{{- end }}
                 </a>
             </li>
             {{- end }}
@@ -53,6 +48,23 @@
 {{- partial "extend_footer.html" . }}
 
 <script>
+  (function() {
+    /* theme toggle */
+    const disableThemeToggle = '{{ if site.Params.disableThemeToggle }}1{{ end }}' == '1';
+    if (disableThemeToggle) {
+      return;
+    }
+
+    let button = document.getElementById("theme-toggle")
+    // remove the listeners first to prevent adding duplicated listener when history goes back and forth
+    button.removeEventListener('click', toggleThemeListener)
+    // listen to toggle button
+    button.addEventListener('click', toggleThemeListener)
+  })();
+</script>
+
+<script>
+  (function () {
     let menu = document.getElementById('menu')
     if (menu) {
         menu.scrollLeft = localStorage.getItem("menu-scroll-position");
@@ -61,17 +73,20 @@
         }
     }
 
+    const disableSmoothScroll = '{{- if (.Param "DisableSmoothScroll") -}}1{{- end -}}' == '1';
+    const enableInstantClick = '{{- if (.Param "EnableInstantClick") -}}1{{- end -}}' == '1';
+    // instant click and smooth scroll are mutually exclusive
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || disableSmoothScroll || enableInstantClick) {
+      return;
+    }
+    // only run this code if smooth scroll should be enabled
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener("click", function (e) {
             e.preventDefault();
             var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
                 document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
                     behavior: "smooth"
                 });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
             if (id === "top") {
                 history.replaceState(null, null, " ");
             } else {
@@ -79,7 +94,7 @@
             }
         });
     });
-
+  })();
 </script>
 
 {{- if (not site.Params.disableScrollToTop) }}
@@ -98,67 +113,73 @@
 </script>
 {{- end }}
 
-{{- if (not site.Params.disableThemeToggle) }}
+{{- /* Base64Email */}}
+{{- if (.Param "MaskedEmail") }}
 <script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
+  document.querySelectorAll('.masked-email').forEach((el) => {
+    el.innerText = atob(el.innerText);
+    el.classList.remove('masked-email')
     })
 
 </script>
+{{- end -}}
+
+
+{{/* Clear ToC Scroll */}}
+<script>
+  if (window.scrollListeners) {
+    // console.log('disable toc scroll', scrollListeners)
+    for (const listener of scrollListeners) {
+      window.removeEventListener('scroll', listener)
+    }
+  }
+  window.scrollListeners = []
+</script>
+
+{{/* Load mediumZoom script */}}
+{{/* It has to be loaded here because of the data-no-instant attribute */}}
+{{- $imagezoom := resources.Get "js/medium-zoom.min.js" }}
+<script src="{{ $imagezoom.RelPermalink }}" data-no-instant
+  {{- if site.Params.assets.disableFingerprinting }}integrity="{{ $imagezoom.Data.Integrity }}"{{- end }}
+></script>
+
+{{- if .IsPage }}
+  {{- partial "page_footer.html" . }}
 {{- end }}
 
-{{- if (and (eq .Kind "page") (ne .Layout "archives") (ne .Layout "search") (.Param "ShowCodeCopyButtons")) }}
-<script>
-    document.querySelectorAll('pre > code').forEach((codeblock) => {
-        const container = codeblock.parentNode.parentNode;
+{{- /* Search */}}
+{{- if (eq .Layout `search`) -}}
+<link crossorigin="anonymous" rel="preload" as="fetch" href="../index.json">
+{{- $fastsearch := resources.Get "js/fastsearch.js" | js.Build (dict "params" (dict "fuseOpts" site.Params.fuseOpts)) }}
+{{- $fusejs := resources.Get "js/fuse.basic.min.js" }}
+{{- if not site.Params.assets.disableFingerprinting }}
+{{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" | minify | fingerprint }}
+<script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}" integrity="{{ $search.Data.Integrity }}"></script>
+{{- else }}
+{{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" | minify }}
+<script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}"></script>
+{{- end }}
 
-        const copybutton = document.createElement('button');
-        copybutton.classList.add('copy-code');
-        copybutton.innerHTML = '{{- i18n "code_copy" | default "copy" }}';
+{{- else }}
 
-        function copyingDone() {
-            copybutton.innerHTML = '{{- i18n "code_copied" | default "copied!" }}';
-            setTimeout(() => {
-                copybutton.innerHTML = '{{- i18n "code_copy" | default "copy" }}';
-            }, 2000);
-        }
-
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                navigator.clipboard.writeText(codeblock.textContent);
-                copyingDone();
-                return;
-            }
-
-            const range = document.createRange();
-            range.selectNodeContents(codeblock);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-            try {
-                document.execCommand('copy');
-                copyingDone();
-            } catch (e) { };
-            selection.removeRange(range);
-        });
-
-        if (container.classList.contains("highlight")) {
-            container.appendChild(copybutton);
-        } else if (container.parentNode.firstChild == container) {
-            // td containing LineNos
-        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
-            // table containing LineNos and code
-            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
-        } else {
-            // code blocks not having highlight as parent class
-            codeblock.parentNode.appendChild(copybutton);
-        }
-    });
+{{- /* InstantClick.js */}}
+{{- if (.Param "EnableInstantClick") }}
+{{- $instantclick := resources.Get "js/instantclick.js" }}
+{{- if hugo.IsProduction }}
+  {{- $instantclick = minify $instantclick }}
+{{- end }}
+<script src="{{ $instantclick.RelPermalink }}" data-no-instant
+  {{- if site.Params.assets.disableFingerprinting }}integrity="{{ $instantclick.Data.Integrity }}"{{- end }}
+></script>
+<script data-no-instant>
+  // http://instantclick.io/scripts
+  // InstantClick.on('change', function(isInitialLoad) {
+  //   if (isInitialLoad) {
+  //     return;
+  //   }
+  // });
+  InstantClick.init();
 </script>
 {{- end }}
+
+{{- end -}}

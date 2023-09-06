@@ -1,7 +1,3 @@
-.footer nav a {
-    border-bottom: none;
-}
-
-.footer nav a:hover {
-    border-bottom: none;
+.footer a {
+    box-shadow: none;
 }

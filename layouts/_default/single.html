@@ -1,23 +1,32 @@
 {{- define "main" }}
+{{- $isNewsletter := eq .Type "newsletter" }}
 
 <article class="post-single">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
+
+    {{- if $isNewsletter -}}
+    {{- partial "newsletter_brand.html" . }}
+    {{- end -}}
     <h1 class="post-title">
-      {{ .Title }}
-      {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+      {{- if $isNewsletter -}}
+      {{- replace .Title (.Param "titlePrefix") (.Param "titlePrefixReplace") -}}
+      {{- else -}}
+      {{- .Title -}}
+      {{- end -}}
+      {{- if .Draft -}}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end -}}
     </h1>
     {{- if .Description }}
     <div class="post-description">
-      {{ .Description }}
+      {{- .Description -}}
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
-      {{- partial "translation_list.html" . -}}
-      {{- partial "edit_post.html" . -}}
-      {{- partial "post_canonical.html" . -}}
+      {{/* TODO move to footer */}}
+      {{/* partial "edit_post.html" . */}}
+      {{/* partial "post_canonical.html" . */}}
     </div>
     {{- end }}
   </header>
@@ -35,29 +44,33 @@
   </div>
   {{- end }}
 
-<!--  <div>-->
-<!--    <applause-button style="width: 58px; height: 58px;" multiclap="true" />-->
-<!--  </div>-->
-
   <footer class="post-footer">
-    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-    <ul class="post-tags">
-      {{- range ($.GetTerms $tags) }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-      {{- end }}
-    </ul>
+    {{- if (.Param "socialLinks") }}
+    {{- partial "social_links.html" . }}
+    {{- end }}
+
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
 
     {{- partial "bottom_promo.html" . }}
 
-    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
-    {{- partial "share_icons.html" . -}}
+    {{- if $isNewsletter }}
+    <div class="newsletter-sub">
+      <div class="notice">
+        {{- if site.Params.newsletter.notice.usePartial }}
+        {{- partial "newsletter_notice.html"}}
+        {{- else }}
+        {{- site.Params.newsletter.notice.content | default "Thanks for reading, if you like it, please subscribe below." }}
+        {{- end }}
+      </div>
+      {{- partial "newsletter_sub_form.html"}}
+    </div>
     {{- end }}
   </footer>
 
-  {{- if (.Param "comments") }}
+  {{- if not (.Param "noComments") }}
+  <div class="comments-separator"></div>
   {{- partial "comments.html" . }}
   {{- end }}
 </article>

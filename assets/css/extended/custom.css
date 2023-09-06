@@ -1,0 +1,26 @@
+:root {
+  --primary: #43a047;
+  --link-color: var(--primary);
+  --link-hover-color: var(--primary);
+  --link-underline-shadow: 0 1px 0 var(--link-color);
+  --link-hover-underline-color: var(--primary);
+  --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+}
+
+.dark {
+  --primary: #8BC34A;
+  --link-color: var(--primary);
+  --link-hover-color: var(--primary);
+  --link-underline-shadow: 0 1px 0 var(--link-color);
+  --link-hover-underline-color: var(--primary);
+  --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+  --signature: var(--primary);
+}
+
+.first-entry .entry-content {
+    margin: 14px 0;
+    font-size: 17px;
+    line-height: 1.6em;
+    display: block;
+    overflow: initial;  /* fix <mark> edge get cut */
+}

@@ -4,7 +4,6 @@ title = "Six Australian Native Trees to have in your Garden"
 slug = "Six Australian Native Trees to have in your Garden"
 date = 2023-09-02T07:57:17.137Z
 author = "Elisha Redhead "
-series = ["Southern Hemisphere"]
 tags = ["Southern Hemisphere ", "Australia ", "Native Plants"]
 weight = 5
 
@@ -14,7 +13,7 @@ image = "cover.jpg"
 caption = ""
 alt = "An image displaying a large field and trees - it is bright and sunlit.  "
 +++
-Welcome to the first of the Southern Hemisphere series! This series seeks to explore all things related to gardening in the Southern Hemisphere, and the unique challenges presented. These articles are so far being written from Australia. 
+Welcome to the first of the [Southern Hemisphere](../../tags/southern-hemisphere/) series! This series seeks to explore all things related to gardening in the Southern Hemisphere, and the unique challenges presented. These articles are so far being written from Australia. 
 
 Native fruits and plants surround us all the time, on the sides of paths and in the depths of forests, but rarely do we think to include them in our edible gardens. But some truly astounding varieties of edible fruits are out there! From finger limes to Blueberry Ash trees, let’s explore six varieties of small native Australian trees that can provide fruit for your garden!
 
