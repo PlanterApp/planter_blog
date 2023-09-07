@@ -17,3 +17,11 @@
   --signature: var(--primary);
 }
 
+#menu svg {
+    width: 24px;
+    height: auto;
+    position: relative;
+    top: 6px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
