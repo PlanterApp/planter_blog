@@ -1,11 +1,10 @@
 +++
-draft = true
+draft = false
 title = "Six Australian Native Trees to have in your Garden"
 slug = "Six Australian Native Trees to have in your Garden"
 date = 2023-09-02T07:57:17.137Z
 author = "Elisha Redhead "
 tags = ["Southern Hemisphere ", "Australia ", "Native Plants"]
-
 
 [cover]
 relative = false
