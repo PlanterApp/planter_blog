@@ -72,6 +72,14 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  avatars: [
+    "Bee.svg",
+    "Bunny.svg",
+    "Cat.svg",
+    "Dog.svg",
+    "Frog.svg",
+    "Snail.svg"
+  ]
 #  editPost:
 #    URL: "https://github.com/PlanterApp/planter_blog/blob/main/content/"
 #    Text: "Suggest Changes" # edit text
