@@ -44,7 +44,7 @@ Once your seeds are harvested and completely dry (emphasis on *completely*; they
 
 **Tomatoes:** saving seeds from tomatoes can seem daunting but its not too tricky. To save seeds from tomatoes first cut them in pieces so you can scoop out the gel along with the seeds. It's recommended to ferment your tomato seeds for the best longevity and germination. To do this, scoop the gel and seeds into a glass container then add enough water to cover the seeds. Put a piece of paper towel on the container and secure it with an elastic band. Leave the seed mixture in a warm place (ideally not within smelling distance!) for about two weeks. After this time, dump the mixture into a fine mesh sieve and rinse the gunk off the seeds with running water. Spread the seeds out on a paper plate to dry completely, then store them in a container.
 
-![](tomato-seeds.jpg "A glass container covered with a paper towel containing tomato seeds and water")
+![A glass container covered with a paper towel containing tomato seeds and water](tomato-seeds.jpg)
 
 **Peppers:** saving seeds from peppers couldn't be easier- just cut the pepper open and there are infinite seeds inside! Remove the seeds from the inner membrane and leave them on a paper plate to dry completely before storing. Be aware that if you grow hot peppers and mild peppers close to each other, there is a small chance that you could end up with a mixed variety. If some unexpected heat could pose a problem for you and your family, be sure to follow minimum isolation distances between pepper varieties so you don’t end up with a spicy surprise!
 
