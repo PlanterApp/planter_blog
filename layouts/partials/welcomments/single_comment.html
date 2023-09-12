@@ -14,6 +14,7 @@
 {{- $s = apply $s "printf" "%#x" "." -}}
 {{- $s = apply $s "int" "." -}}
 {{- $s = delimit $s "" -}}
+{{- $s = substr $s 0 9 -}}
 {{- $avatarIndex := (mod (int $s) $avatarCount) -}}
 {{- $avatar := (cond (eq (index .comment "author" "avatar_url") nil) (print "/icons/avatars/" (index $avatars $avatarIndex)) (index .comment "author" "avatar_url")) -}}
 
