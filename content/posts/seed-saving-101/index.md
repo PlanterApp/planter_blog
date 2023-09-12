@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Seed Saving 101"
 slug = "Seed-Saving-101"
 date = 2023-09-04T21:07:35.201Z
@@ -53,3 +53,5 @@ Once your seeds are harvested and completely dry (emphasis on *completely*; they
 **Lettuce:** when your lettuce bolts it can be quite disappointing- but if you let the process continue your lettuce plants will make beautiful flower stalks and eventually seeds. If you are worried about your lettuce varieties cross-pollinating, you can use a fine mesh bag or row cover to isolate the flower stalk. The seeds are ready when the flowers turn white and wispy (similar to what a dandelion would do). You can pick the seeds off of the flower heads and then fan them to blow away the flower whisps.
 
 Try saving seeds from some of these plants, and if you find you enjoy seed saving then you can [read up on more advanced seed saving](https://www.amazon.com/s?k=seed+saving) techniques! If nothing else it’s a learning experience…and you might end up growing some truly unique plants!
+
+{{< affiliate >}}
