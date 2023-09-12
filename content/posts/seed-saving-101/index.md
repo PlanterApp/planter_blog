@@ -18,7 +18,7 @@ On the surface, seed saving is as simple as harvesting the fully-mature seeds, d
 
 * Some plant species have male and female flowers on separate plants (such as asparagus and spinach),
 * Some have male and female flowers on the same plant (such as cucumbers, squash, and pumpkins), and
-* Some have flowers that have both male and female parts, known as ‘perfect flowers’ . Some of these plants can pollinate themselves (‘self-pollinating’), while others cannot (peas, peppers, tomatoes, and eggplant are examples of self-pollinating plants with perfect flowers).
+* Some have flowers that have both male and female parts, known as ‘perfect flowers’. Some of these plants can pollinate themselves (‘self-pollinating’), while others cannot (peas, peppers, tomatoes, and eggplant are examples of self-pollinating plants with perfect flowers).
 
 So why does this matter? It has to do with the likelihood of ‘cross-pollination’. If a flower happens to be cross-pollinated with pollen from a different variety of the same plant, the resulting seeds can have wildly different combinations of traits passed down from the parent plants. You might discover a pleasant-tasting new variety, or you might end up with something totally unappetizing. In plants with ‘perfect flowers’ that can also self-pollinate, the chances of cross-pollination are much lower compared to plants that rely on pollinators to move pollen around from flower to flower.
 
@@ -49,6 +49,8 @@ Once your seeds are harvested and completely dry (emphasis on *completely*; they
 **Peppers:** saving seeds from peppers couldn't be easier- just cut the pepper open and there are infinite seeds inside! Remove the seeds from the inner membrane and leave them on a paper plate to dry completely before storing. Be aware that if you grow hot peppers and mild peppers close to each other, there is a small chance that you could end up with a mixed variety. If some unexpected heat could pose a problem for you and your family, be sure to follow minimum isolation distances between pepper varieties so you don’t end up with a spicy surprise!
 
 **Radish:** radish is another crop that readily goes to seed. If you are concerned about cross-pollination in your radishes, you may want to sow different varieties at different times. To save radish seeds, allow the pods to become large, brown, and dry on the plant. You can then pick or cut the pods off the plant. To get to the seeds inside you’ll need to crack the seed pods open and shake, rub or pick the seeds out. This isn't the most efficient task in the world, but it's a good project to tackle while watching some gardening videos on YouTube 🙂. The dried pods can be a bit prickly so you may want to protect your hands if they are sensitive.
+
+![A white plate with radish seed pods and radish seeds](radish-seeds.jpg)
 
 **Lettuce:** when your lettuce bolts it can be quite disappointing- but if you let the process continue your lettuce plants will make beautiful flower stalks and eventually seeds. If you are worried about your lettuce varieties cross-pollinating, you can use a fine mesh bag or row cover to isolate the flower stalk. The seeds are ready when the flowers turn white and wispy (similar to what a dandelion would do). You can pick the seeds off of the flower heads and then fan them to blow away the flower whisps.
 
