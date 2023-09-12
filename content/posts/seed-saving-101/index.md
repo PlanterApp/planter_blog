@@ -18,7 +18,7 @@ On the surface, seed saving is as simple as harvesting the fully-mature seeds, d
 
 * Some plant species have male and female flowers on separate plants (such as asparagus and spinach),
 * Some have male and female flowers on the same plant (such as cucumbers, squash, and pumpkins), and
-* Some have flowers that have both male and female parts, known as ‘perfect flowers’ . Some of these plants can pollinate themselves (‘self-pollinating’), while others cannot. (peas, peppers, tomatoes, and eggplant are all examples of self-pollinating plants with perfect flowers)
+* Some have flowers that have both male and female parts, known as ‘perfect flowers’ . Some of these plants can pollinate themselves (‘self-pollinating’), while others cannot (peas, peppers, tomatoes, and eggplant are examples of self-pollinating plants with perfect flowers).
 
 So why does this matter? It has to do with the likelihood of ‘cross-pollination’. If a flower happens to be cross-pollinated with pollen from a different variety of the same plant, the resulting seeds can have wildly different combinations of traits passed down from the parent plants. You might discover a pleasant-tasting new variety, or you might end up with something totally unappetizing. In plants with ‘perfect flowers’ that can also self-pollinate, the chances of cross-pollination are much lower compared to plants that rely on pollinators to move pollen around from flower to flower.
 
@@ -30,7 +30,7 @@ Another consideration when saving seeds is whether the plant varieties you are g
 
 The first step in saving seeds is keeping accurate records of which plant varieties you have growing where in your garden, so you know which varieties you are saving seeds from (this is where [Planter](http://planter.garden/gardens) comes in!)
 
-Next of course is to let your plants go to seed. In fruiting plants this means letting the fruits achieve full ripeness (in some cases, going beyond the ripeness you would normally eat them at). In non-fruiting plants this means leaving the plant in the garden until it produces flowers and seed pods. Be sure to account for this in your garden plan, as leaving plants to go to seed means you won’t be able to make use of that space for quite some time.
+Next of course is to let your plants go to seed. In fruiting plants this means letting the fruits achieve full ripeness (in some cases, going beyond the ripeness you would normally eat them at). In non-fruiting plants this means leaving the plant in the garden until it produces flowers and seed pods. Be sure to account for this in your garden plan, as leaving plants to go to seed means you won’t be able to make use of that space for =some time.
 
 The seed saving process varies widely depending on the plant you are saving seed from- you’ll want to do some research to determine when to harvest seeds from each type of plant and how to process them.
 
@@ -46,7 +46,7 @@ Once your seeds are harvested and completely dry (emphasis on *completely*; they
 
 ![A glass jar covered with a paper towel containing tomato seeds in water](tomato-seeds.jpg)
 
-**Peppers:** Saving seeds from peppers couldn't be easier- just cut the pepper open and there are infinite seeds inside! Remove the seeds from the inner membrane and leave them on a paper plate to dry completely. Be aware that if you grow hot peppers and mild peppers close to each other, there is a small chance that you could end up with a mixed variety. If some unexpected heat could pose a problem for you and your family, be sure to follow minimum isolation distances between pepper varieties so you don’t end up with a spicy surprise!
+**Peppers:** Saving seeds from peppers couldn't be easier- just cut the pepper open and there are infinite seeds inside! Remove the seeds from the inner membrane and leave them on a paper plate to dry completely before storing. Be aware that if you grow hot peppers and mild peppers close to each other, there is a small chance that you could end up with a mixed variety. If some unexpected heat could pose a problem for you and your family, be sure to follow minimum isolation distances between pepper varieties so you don’t end up with a spicy surprise!
 
 **Radish:** Radish is another crop that readily goes to seed. If you are concerned about cross-pollination in your radishes, you may want to sow different varieties at different times. The green radish seed pods are actually edible (and delicious!) with a mild radish flavor. If you want to save your radish seeds rather than eating all the pods, allow the pods to become large, brown, and dry on the plant. You can then pick or cut the pods off the plant. To get to the seeds inside you’ll need to crack the seed pods open and shake, rub or pick the seeds out. This isn't the most efficient task in the world, but it's a good project to tackle while watching some gardening videos on YouTube 🙂. The dried pods can be a bit prickly so you may want to protect your hands if they are sensitive.
 
