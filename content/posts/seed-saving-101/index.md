@@ -30,7 +30,7 @@ Another consideration when saving seeds is whether the plant varieties you are g
 
 The first step in saving seeds is keeping accurate records of which plant varieties you have growing where in your garden, so you know which varieties you are saving seeds from (this is where [Planter](http://planter.garden/gardens) comes in!)
 
-Next of course is to let your plants go to seed. In fruiting plants this means letting the fruits achieve full ripeness (in some cases, going beyond the ripeness you would normally eat them at). In non-fruiting plants this means leaving the plant in the garden until it produces flowers and seed pods. Be sure to account for this in your garden plan, as leaving plants to go to seed means you won’t be able to make use of that space for =some time.
+Next of course is to let your plants go to seed. In fruiting plants this means letting the fruits achieve full ripeness (in some cases, going beyond the ripeness you would normally eat them at). In non-fruiting plants this means leaving the plant in the garden until it produces flowers and seed pods. Be sure to account for this in your garden plan, as leaving plants to go to seed means you won’t be able to make use of that space for some time.
 
 The seed saving process varies widely depending on the plant you are saving seed from- you’ll want to do some research to determine when to harvest seeds from each type of plant and how to process them.
 
