@@ -14,7 +14,7 @@ Have you ever wondered if it's possible to save seeds from your plants, instead 
 
 ### Seed saving considerations
 
-On the surface, seed saving is as simple as harvesting the fully-mature seeds, drying them, and storing them for future planting. The trick is you might not get the plant variety that you expected growing from those seeds. To understand why this could happen, we need to know a bit about how pollination works in different plants.
+On the surface, seed saving is as simple as harvesting the fully-mature seeds, drying them, and storing them for future planting. The trick is you might not get the plant variety that you expected growing from those seeds. To understand why this could happen, we need to know a bit about how pollination works in different plants:
 
 * Some plant species have male and female flowers on separate plants (such as asparagus and spinach),
 * Some have male and female flowers on the same plant (such as cucumbers, squash, and pumpkins), and
