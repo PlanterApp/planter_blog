@@ -10,7 +10,7 @@ series = ["Plant Picks"]
 [cover]
 relative = true
 image = "what-to-plant-in-fall.png"
-alt = "A collage of plant images with the text 'what can I plant in early fall?\""
+alt = "A collage of plant images with the text 'what can I plant in early fall?'"
 +++
 As back-to-school approaches it can feel like planting the garden was all but a distant memory. But with the cooler temps comes a whole new potential garden season! While some plants like broccoli and cabbage commonly need to be started in the summer to be ready in time for a fall harvest, there are still plenty of plants you can start growing in early fall! Of course what you can plant in early fall depends on your location, so as a first step be sure to check the [Growing Calendar](https://planter.garden/calendar) in Planter to see which plants can be grown now in your local area. This article covers some of our favorite, cold-hardy crops that can be planted in early fall.
 
