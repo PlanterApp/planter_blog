@@ -1,5 +1,7 @@
 +++
 title = "Wren"
+description = "Graphic Designer"
+ignoreArticles = true
 
 [cover]
 alt = ""

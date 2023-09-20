@@ -1,5 +1,7 @@
 +++
 title = "Francis Lamadeleine"
+description = "French Translator"
+ignoreArticles = true
 
 [cover]
 alt = ""

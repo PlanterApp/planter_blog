@@ -1,5 +1,7 @@
 +++
 title = "Peter Keefe"
+description = "Founder and Developer"
+
 [cover]
 alt = ""
 caption = ""

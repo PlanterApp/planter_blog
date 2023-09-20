@@ -1,5 +1,7 @@
 +++
 draft = false
+description = "Growing Guide Author"
+
 title = "Elisha Redhead"
 name = "Elisha Redhead"
 slug = "Elisha Redhead"

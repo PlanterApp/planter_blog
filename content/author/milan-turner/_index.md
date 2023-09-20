@@ -1,5 +1,7 @@
 +++
 title = "Milan Turner"
+description = "Social Media Manager"
+ignoreArticles = true
 
 [cover]
 alt = ""

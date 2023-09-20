@@ -9,7 +9,7 @@
   {{- partial "breadcrumbs.html" . }}
   <h1>
     {{/* see: https://gohugo.io/variables/taxonomy/#taxonomy-terms-page-variables */}}
-    {{- if eq .Kind "term" -}}{{- .Data.Singular }}: {{ end -}}
+    {{- if ne .Data.Singular "author" -}}{{- if eq .Kind "term" -}}{{- .Data.Singular }}: {{ end -}}{{ end -}}
     {{ .Title -}}
   </h1>
   {{- if .Description }}
@@ -31,6 +31,7 @@
 </div>
 {{- end }}
 
+{{- if ne .Params.ignoreArticles true }}
 
 {{- $pages := .Pages }}
 {{- if .IsHome }}
@@ -103,6 +104,8 @@
   </nav>
 </footer>
 {{- end }}
+
+{{- end }}{{/* end ignoreArticles */}}
 
 {{- end }}{{/* end profileMode */}}
 

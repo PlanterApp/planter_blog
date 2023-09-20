@@ -1,5 +1,6 @@
 +++
 title = "Abigail Bar"
+
 [cover]
 alt = ""
 caption = ""

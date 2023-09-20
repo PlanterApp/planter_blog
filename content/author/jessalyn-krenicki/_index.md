@@ -1,5 +1,7 @@
 +++
 title = "Jessalyn Krenicki"
+description = "Content Intern"
+
 [cover]
 alt = ""
 caption = ""

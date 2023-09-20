@@ -1,5 +1,6 @@
 +++
 title = "Erin Thomson"
+description = "Growing Guide Author"
 draft = false
 name = "Erin Thomson"
 slug = "Erin Thomson"
