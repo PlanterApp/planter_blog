@@ -24,7 +24,7 @@ Here's a video of what my tomatillo plants looked like in August:
 
 {{< youtube id="Mq7JF_x-iYY" short="true">}}\
 \
-Tomatillos are now my favorite crop in the garden. Not only do they taste great as salsa verde, they are easy. In my case, **extremely easy**. After I planted them, they required no support besides a simple tomato cage. Even with the cage, some limbs still plopped on the ground but that didn't prevent them from growing fruit. And each fruit comes with it's own pest-resistant papery wrapper. I never noticed damage to any tomatillo that was still on the plant. Even tomatillos that had fallen on the ground lasted for about a week before the ants finally started to munch on them. And unlike their cousins, tomatoes, tomatillos aren't very susceptible to diseases. They just grow, no fuss!
+Tomatillos are now my favorite crop in the garden. Not only do they taste great as salsa verde, they are easy. In my case, **extremely easy**. After I planted them, they required no support besides a simple tomato cage. Even with the cage, some limbs still plopped on the ground but that didn't prevent them from growing fruit. And each fruit comes with it's own pest-resistant papery wrapper. I never noticed damage to any tomatillo that was still on the plant. Even tomatillos that had fallen on the ground lasted for about a week before the ants finally started to munch on them. And unlike their cousins, tomatoes, tomatillos aren't very susceptible to diseases. They just grow, no fuss! And once harvested, they'll last on the counter for weeks. So easy!
 
 [Check out tomatillos in Planter](https://planter.garden/plants/tomatillos) for more growing information.
 
