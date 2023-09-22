@@ -5,7 +5,7 @@
 {{- $short := eq (.Get "short" | default "false") "true" -}}
 {{- $class := .Get "class" | default (.Get 1) -}}
 {{- $title := .Get "title" | default "YouTube Video" }}
-<div {{ with $class }}class="{{ . }}"{{ else }}style="{{ if $short }}text-align: center; {{ end }}position: relative; padding-bottom: 56.25%; overflow: hidden; margin-bottom: 16px"{{ end }}>
+<div {{ with $class }}class="{{ . }}"{{ else }}style="{{ if $short }}text-align: center; {{ else }} padding-bottom: 56.25%; {{ end }}position: relative; overflow: hidden; margin-bottom: 16px"{{ end }}>
     <iframe src="https://{{ $ytHost }}/embed/{{ $id }}?rel=0{{ with .Get "autoplay" }}{{ if eq . "true" }}&autoplay=1{{ end }}{{ end }}" {{ if not $class }}style="{{ if $short }} width: 315px; height: 560px; {{ else }}position: absolute; top: 0; left: 0; width: 100%; height: 100%; {{ end }}border:0;" {{ end }}allowfullscreen title="{{ $title }}"></iframe>
 </div>
 {{ end -}}
