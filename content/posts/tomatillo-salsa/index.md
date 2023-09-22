@@ -16,7 +16,7 @@ I tried growing tomatillos for the first time this year, and boy, did I get a bu
 \
 The tomatillo plants took off FAST. By mid-summer, they were a pollinator's dream:
 
-![](tomatillo_flowers.webp)
+![](tomatillo_flowers.webp "Bees going crazy for all the tomatillo flowers 🌼")
 
 \
 \
