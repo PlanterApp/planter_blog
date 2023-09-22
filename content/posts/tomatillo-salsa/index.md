@@ -32,7 +32,7 @@ Tomatillos are now my favorite crop in the garden. Not only do they taste great 
 
 If you've ever had Moe's green tomatillo salsa, this is it!
 
-#### Ingredients:
+#### Ingredients
 
 * ~40 medium tomatillos (enough to fill a baking sheet when sliced in half)
 * 1 medium onion
