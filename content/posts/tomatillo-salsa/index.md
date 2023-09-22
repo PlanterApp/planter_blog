@@ -14,4 +14,4 @@ caption = "Fresh tomatillo salsa!"
 +++
 I tried growing tomatillos for the first time this year, and boy, did I get a bumper crop. I started 8 seedlings indoors in March and all survived. So of course I planted all 8 tomatillos. Afterall, it's so hard to *not* plant a seedling that you grew, isn't it! 
 
-{{< youtube Mq7JF_x-iYY >}}
+{{< youtube id="Mq7JF_x-iYY" short="true">}}
