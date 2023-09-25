@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Pests and Diseases to Watch Out For (in Fall!)"
 slug = "pests-fall-2023"
 date = 2023-09-25T01:18:54.417Z
@@ -36,7 +36,7 @@ Grubs are usually thought of as a lawn pest, but did you know they can also atta
 
 ### White mold
 
-White mold is a descriptive name for fungal disease typically caused by *Sclerotinia sclerotiorum*. As the name suggests, white mold is a white, fuzzy, watery-looking mold that often starts out on the plant stem then spreads to other parts of the plant. White mold can become especially problematic in fall with the onset of cooler, damp weather. Also, if you’re using [season extension techniques](https://blog.planter.garden/posts/season-extension/) and growing under plastic or row covers, the reduced airflow can cause white mold to proliferate. Ensuring your plants are spaced properly is key to promote good air circulation that can help stave off white mold. If you can, open up or vent your coverings during the day. Any infected plants should be removed immediately (be sure to sanitize your tools afterwards). Staying on top of weeding and clearing out plant debris can also help by reducing potential hosts for white mold spores.
+White mold is a descriptive name for fungal disease typically caused by *Sclerotinia sclerotiorum*. As the name suggests, white mold is a white, fuzzy, watery-looking mold that often starts out on the plant stem then spreads to other parts of the plant. White mold can become especially problematic in fall with the onset of cooler, damp weather. Also, if you’re using [season extension techniques](https://blog.planter.garden/posts/season-extension/) and growing under plastic or row covers, the reduced airflow can cause white mold to proliferate. Ensuring your plants are spaced properly is key to promote good air circulation that can help stave off white mold. If you can, open up or vent your coverings during the day. Any infected plants should be removed immediately (be sure to sanitize your tools afterwards). Also, staying on top of weeding and clearing out plant debris can help by reducing potential hosts for white mold spores.
 
 Don’t take your eye off the ball in your fall garden! Even if you’re not outside as regularly as in summer, stay vigilant for these and other fall pests and take action as soon as you spot them to protect your precious fall harvests!
 
