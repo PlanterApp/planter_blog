@@ -11,7 +11,7 @@ image = "magnifying-glass-bean-plant.jpg"
 caption = ""
 alt = "A hand holding a magnifying glass in front of a bean plant leaf"
 +++
-In some ways growing a fall garden can be easier than a summer garden. Extremes of heat, and drought often give way to more moderate conditions (that is, until frosty weather hits!) While some pests and diseases are less problematic in fall, there are some that can become more active. With time in the growing season running short, you might not have time to replant plants that succumb to pests and diseases. So even if you’re not out in the garden watering every day be sure to get out there to keep an eye out for these fall garden pests!
+<https://www.amazon.com/Bonide-REPELS-ALL-Animal-Repellent-Sprayer/dp/B07JZ4LJYR/>In some ways growing a fall garden can be easier than a summer garden. Extremes of heat, and drought often give way to more moderate conditions (that is, until frosty weather hits!) While some pests and diseases are less problematic in fall, there are some that can become more active. With time in the growing season running short, you might not have time to replant plants that succumb to pests and diseases. So even if you’re not out in the garden watering every day be sure to get out there to keep an eye out for these fall garden pests!
 
 ### Squirrels
 
