@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Pests and Diseases to Watch Out For (in Fall!)"
 slug = "pests-fall-2023"
 date = 2023-09-25T01:18:54.417Z
@@ -11,13 +11,13 @@ image = "magnifying-glass-bean-plant.jpg"
 caption = ""
 alt = "Hand holding a magnifying glass in front of a bean plant leaf"
 +++
-[https:](https://www.amazon.com/Bonide-REPELS-ALL-Animal-Repellent-Sprayer/dp/B07JZ4LJYR/)In some ways growing a fall garden can be easier than a summer garden. Extremes of heat, and drought often give way to more moderate conditions (that is, until frosty weather hits!) While some pests and diseases are less problematic in fall, there are some that can become more active. With time in the growing season running short, you might not have time to replant plants that succumb to pests and diseases. So even if you’re not out in the garden watering every day be sure to get out there to keep an eye out for these fall garden pests!
+In some ways growing a fall garden can be easier than a summer garden. Extremes of heat, and drought often give way to more moderate conditions (that is, until frosty weather hits!) While some pests and diseases are less problematic in fall, there are some that can become more active. With time in the growing season running short, you might not have time to replant plants that succumb to pests and diseases. So even if you’re not out in the garden watering every day be sure to get out there to keep an eye out for these fall garden pests!
 
 ### Squirrels
 
 ![ A grey squirrel eating an apple in grass](squirrel-eating-apple.jpg)
 
-Squirrels become extra active garden thieves in fall as they’re on a mission to store food for winter. While they’re well-known for smuggling nuts, seeds, and fruits, squirrels will also nibble on many fruiting crops and can dig around and damage newly planted seeds and seedlings. There might be some level of squirrel damage that is tolerable but if you tend to take heavy harvest losses from squirrels you’ll need to take action. There are edible-garden safe [repellent sprays](https://www.amazon.com/Bonide-REPELS-ALL-Animal-Repellent-Sprayer/) available that can keep squirrels at bay. You can also try sprinkling cayenne pepper around your plants and in your bird feeder (if you have one) as the spice will deter squirrels- just be sure not to dust it directly on a plant you’re about to eat! If all else fails, you might need to resort to building a squirrel-proof enclosure out of sturdy chicken wire- for inspiration check out this post on building a [rabbit (/squirrel) proof fence](https://blog.planter.garden/posts/garden-fence/).
+Squirrels become extra active garden thieves in fall as they’re on a mission to store food for winter. While they’re well-known for smuggling nuts, seeds, and fruits, squirrels will also nibble on many fruiting crops and can dig around and damage newly planted seeds and seedlings. There might be some level of squirrel damage that is tolerable but if you tend to take heavy harvest losses from squirrels you’ll need to take action. There are edible-garden safe [repellent sprays](https://www.amazon.com/Bonide-REPELS-ALL-Animal-Repellent-Sprayer/dp/B07JZ4LJYR/) available that can keep squirrels at bay. You can also try sprinkling cayenne pepper around your plants and in your bird feeder (if you have one) as the spice will deter squirrels- just be sure not to dust it directly on a plant you’re about to eat! If all else fails, you might need to resort to building a squirrel-proof enclosure out of sturdy chicken wire- for inspiration check out this post on building a [rabbit (/squirrel) proof fence](https://blog.planter.garden/posts/garden-fence/).
 
 ### Slugs
 
