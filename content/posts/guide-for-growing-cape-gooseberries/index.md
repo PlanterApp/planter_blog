@@ -6,7 +6,7 @@ date = 2023-09-10T10:12:37.559Z
 author = "Elisha Redhead "
 plants = []
 series = ["Southern Hemisphere, Australia"]
-weight = 1
+weight = ""
 
 [cover]
 relative = false
