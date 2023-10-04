@@ -13,11 +13,13 @@ relative = false
 image = "cover2.jpg"
 alt = "An image displaying three unripe Gooseberry fruits - they are spherical and pale yellow, with the husks of dead flowers still clinging to the bottom of the fruits. "
 +++
-Welcome back to part three of the Southern Hemisphere series!
+Welcome back to part three of the [Southern Hemisphere](/tags/southern-hemisphere/) series!
 
-Now, if you’re reading the title and thinking "didn’t I just read about those?" well no fear. Gooseberries, and Cape Gooseberries, are two entirely different plants, from entirely separate parts of the planet. Amazing, really, that they both ended up being called Gooseberries. But below you’ll find a guide for growing the far more difficult Gooseberry!
+Now, if you’re reading the title and thinking "Didn’t I just [read about those](/posts/garden-gooseberry-growing-cape-gooseberry-edition/)?" well no fear. Gooseberries, and Cape Gooseberries, are two entirely different plants, from entirely separate parts of the planet. Amazing, really, that they both ended up being called Gooseberries. But below you’ll find a guide for growing the far more difficult Gooseberry!
 
-The Gooseberry plant is a small stiff stemmed plant native to Europe, and often considered difficult to grow in temperate climates. Difficult, maybe, but most certainly not impossible! And it is certainly very rewarding.
+The Gooseberry plant is a small, stiff-stemmed plant native to Europe, and is often considered difficult to grow in temperate climates. Difficult, maybe, but most certainly not impossible! And it is certainly very rewarding.\
+\
+{{< notice tip >}} Checkout gooseberries in [Planter](https://planter.garden/plants/gooseberries) {{< /notice >}}
 
 ###  **Plant description**
 
@@ -31,7 +33,7 @@ It’s easiest to plant Gooseberries via cuttings, however, they can be bought f
 
 ### **Planting**
 
-Gooseberries do best in slightly acidic soil – it’s best to plant them in constantly moist soil, although do be careful not to drown them or leave them completely dry. I would recommend turning over the soil before planting so to get good aeration and water drainage. Plant the seeds 6mm (0.25 inches) deep, and 4-5m (13-16 feet) apart. If you wish, you can plant the seeds in smaller punnets closer together, and transplant them into an area with more space once they have germinated. If you’re working from a cutting, plant it 5cm (2 inches) deep.
+Gooseberries do best in slightly acidic soil – it’s best to plant them in constantly moist soil, although do be careful not to drown them or leave them completely dry. I would recommend turning over the soil before planting so as to get good aeration and water drainage. Plant the seeds 6mm (0.25 inches) deep, and 4-5m (13-16 feet) apart. If you wish, you can plant the seeds in smaller punnets closer together, and transplant them into an area with more space once they have germinated. If you’re working from a cutting, plant it 5cm (2 inches) deep.
 
 Soaking the seeds in hot water for a little, then drying them before planting, should help increase the chances of germination. Plant these seeds between Autumn to early Spring.
 
@@ -49,11 +51,11 @@ In this aspect, regular Gooseberries are almost identical to Cape Gooseberries. 
 
 There are roughly seven stages of growth when it comes to Cape Gooseberries. Germination, continued leaf and shoot development, reproductive development, flowering, fruit development, fruit maturation, and deterioration.
 
-Germination takes roughly 2-6 weeks, and is characterised by the formation of new leaves poking through the soil. At this point, the Cape Gooseberry will have its first fragile roots!
+Germination takes roughly 2-6 weeks, and is characterized by the formation of new leaves poking through the soil. At this point, the Cape Gooseberry will have its first fragile roots!
 
-The plants should grow and mature over the following 90-120 days. As stated prior, it is recommended you plant these plants at the start of the cold season, so that they have the time needed to grow and mature before producing fruit throughout Spring
+The plants should grow and mature over the following 90-120 days. As stated prior, it is recommended you plant these plants at the start of the cold season, so that they have the time needed to grow and mature before producing fruit throughout Spring.
 
-![A close up image of some Gooseberry fruit. They are ovular in shape, and have white veins running across their surface. They have a fine layer of prickle across the surface.](goose.jpg)
+![A close up image of some Gooseberry fruit. They are ovular in shape, and have white veins running across their surface. They have a fine layer of prickle across the surface.](goose.jpg "Ripe gooseberries. [Source](https://commons.wikimedia.org/wiki/File:Stachelbeeren.jpg)")
 
 ### **Knowing when they’re ripe**
 
@@ -65,6 +67,6 @@ If you’ve ever saved cherry tomato seeds, then you’re already on the right t
 
 ### **What can you use Gooseberries in?**
 
-Gooseberries are much sweeter than Cape Gooseberries, however are still tart. As of such, they’re best to be used in jellies, sweet jams, and desserts such as pies. They can obviously also be eaten just as they are! Yellow and red Gooseberries are claimed to be a sweeter variety than the green, although all are good.
+Gooseberries are much sweeter than Cape Gooseberries, however they are still tart. As such, they’re best to be used in jellies, sweet jams, and desserts such as pies. They can obviously also be eaten just as they are! Yellow and red Gooseberries are claimed to be a sweeter variety than the green, although all are good.
 
 Happy Gardening!
