@@ -15,7 +15,7 @@ alt = "An image displaying three unripe Gooseberry fruits - they are spherical a
 +++
 Welcome back to part three of the Southern Hemisphere series!
 
-Now, if you’re reading the title and thinking[ ‘didn’t I just read about those?’](https://blog-preview.planter.garden/posts/guide-for-growing-cape-gooseberries-/) well no fear. Gooseberries, and Cape Gooseberries, are two entirely different plants, from entirely separate parts of the planet. Amazing, really, that they both ended up being called Gooseberries. But below you’ll find a guide for growing the far more difficult Gooseberry!
+Now, if you’re reading the title and thinking "didn’t I just read about those?" well no fear. Gooseberries, and Cape Gooseberries, are two entirely different plants, from entirely separate parts of the planet. Amazing, really, that they both ended up being called Gooseberries. But below you’ll find a guide for growing the far more difficult Gooseberry!
 
 The Gooseberry plant is a small stiff stemmed plant native to Europe, and often considered difficult to grow in temperate climates. Difficult, maybe, but most certainly not impossible! And it is certainly very rewarding.
 
@@ -27,7 +27,7 @@ The Gooseberry plant is a small, thorny plant that provides pink flowers during 
 
 ### **Finding seeds**
 
-It’s easiest to plant Gooseberry’s via cuttings, however, they can be bought from most gardening stores in colder climates. For more tropical areas, I’d advise checking online, as you may need to go to a more specialised nursery.
+It’s easiest to plant Gooseberries via cuttings, however, they can be bought from most gardening stores in colder climates. For more tropical areas, I’d advise checking online, as you may need to go to a more specialized nursery.
 
 ### **Planting**
 
@@ -51,7 +51,7 @@ There are roughly seven stages of growth when it comes to Cape Gooseberries. Ger
 
 Germination takes roughly 2-6 weeks, and is characterised by the formation of new leaves poking through the soil. At this point, the Cape Gooseberry will have its first fragile roots!
 
-The plants should grow and mature over the following 90-120 days. As stated prior, its recommended you plant these plants at the start of the cold season, so that they have the time needed to grow and mature before producing fruit throughout Spring
+The plants should grow and mature over the following 90-120 days. As stated prior, it is recommended you plant these plants at the start of the cold season, so that they have the time needed to grow and mature before producing fruit throughout Spring
 
 ![A close up image of some Gooseberry fruit. They are ovular in shape, and have white veins running across their surface. They have a fine layer of prickle across the surface.](goose.jpg)
 
