@@ -24,7 +24,7 @@ Buying seedlings from the garden center is an option if you don’t want to star
 
 Another benefit of starting seeds indoors is being able to control the environment and tend the plants more easily. Seeds that are direct sown outdoors are exposed to potential inclement weather and pests right away. It's easier to micro-manage sensitive seedlings indoors versus having them exposed in the garden.
 
-![Seedlings in peat pots](peat-pot-seedlings.jpg)
+![Seedlings in peat pots](peat-pot-seedlings.webp)
 
 ### How to know which seeds to start indoors
 
@@ -38,15 +38,15 @@ The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/)
 
 **Broccoli** should be started inside then transplanted (direct sowing outside is not recommended)
 
-![Screenshot of the broccoli growing calendar in Planter](broccoli-calendar.jpg)
+![Screenshot of the broccoli growing calendar in Planter](broccoli-calendar.webp)
 
 **Lettuce** can be started indoors then transplanted, or direct-sown outside
 
-![Screenshot of the lettuce growing calendar in Planter](lettuce-calendar.jpg)
+![Screenshot of the lettuce growing calendar in Planter](lettuce-calendar.webp)
 
 **Radishes** should be direct sown outside (starting indoors is not recommended)
 
-![Screenshot of the radish growing calendar in Planter](radishes-calendar.jpg)
+![Screenshot of the radish growing calendar in Planter](radishes-calendar.webp)
 
 ### When to start seeds indoors
 
@@ -72,6 +72,6 @@ Starting seeds indoors involves a few basic steps:
 
 As the seedlings grow you’ll need to continue watering and start fertilizing them. You might also need to ‘thin them out’ and ‘pot them up’. We’ll cover seedling care and troubleshooting in an upcoming post!
 
-![Cucumber seedlings in small pots](cucumber-seedlings.jpg)
+![Cucumber seedlings in small pots](cucumber-seedlings.webp)
 
 Having the ability to start seeds indoors will take your garden to the next level! It might seem intimidating, but over time you’ll hone in on a seed-starting approach that works for you. The time and investment is more than worth it to kick-start your gardening season!
