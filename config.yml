@@ -2,10 +2,14 @@ baseURL: "https://blog.planter.garden/"
 languageCode: "en-us"
 title: "Planter | Growing Guide"
 description: "The essential guide to growing your own food. Alongside Planter, the garden planning app, this guide will teach you how to grow vegetables, including useful tips and tricks."
-theme: "PaperModX"
 googleAnalytics: G-3KCJ1RRWM3
 timeout: 600000
 Copyright: "Planter"
+
+module:
+  imports:
+    - path: github.com/martignoni/hugo-notice
+    - path: github.com/PlanterApp/hugo-PaperModX
 
 languages:
   en:
