@@ -38,7 +38,7 @@ How deep to plant your garlic is also a topic with some conflicting advice. It d
 
 While you can grow garlic in containers you’ll need to take steps to prevent it from completely freezing and dehydrating over winter. You’ll want to consider mulching, and bringing the container into a cold garage where it won’t be exposed to extreme freezing temperatures.
 
-Once you have your garlic planted, you’ll want to avoid watering it (unless you’re experiencing an unusual fall drought) or fertilizing it until the coming year. Excess water can cause the cloves to rot and fertilizing can stimulate garlic to start putting on new growth that you don’t really want until the following spring.
+Once you have your garlic planted, avoid watering it (unless you’re experiencing an unusual fall drought) or fertilizing it until the coming year. Excess water can cause the cloves to rot and fertilizing can stimulate garlic to start putting on new growth that you don’t really want until the following spring.
 
 If you haven’t grown garlic before, it might seem like a pain in the *neck* 🙂. But growing garlic is totally worthwhile even if it means you have to go out on a chilly, windy day and dig around in cold wet soil! You’ll be amply rewarded with your garlic harvest next year…you might even be able to skip buying garlic from the store completely!
 
