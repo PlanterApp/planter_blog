@@ -45,6 +45,6 @@ If your herbs are growing in containers you might be able to easily transition t
 
 Last but not least, you can simply let nature take its course. Without any extra effort you might find that your herb garden mostly bounces back come spring. Perennial herbs can make a comeback, semi-tender herbs might surprise you with their resilience, and some herbs might have self-seeded so you get brand-new plants as soon as the weather warms up! As mentioned, keep in mind that herbs left in containers outside are less likely to survive winter unaided (depending on the size of the container and the temperatures). Also be aware that some herbs, such as lavender, are fairly cold-hardy but will rot and die if they are left in wet, poorly-drained soil. Doing nothing is a bit of a gamble, but if you happen to end up with holes in your herb garden next season consider it an excuse to try growing some brand-new herb varieties!
 
-Herbs can be sturdy winter warriors, but they are not all created equal! Decide what you want to do with each plant as the snow approaches, then hunker down and start planning in Planter for an abundant herb garden next year!
+Herbs can be sturdy winter warriors, but they are not all created equal! Decide what you want to do with each plant as the snow approaches, then hunker down and start planning in [Planter](https://planter.garden/gardens) for an abundant herb garden next year!
 
 <<{ affiliate }>>
