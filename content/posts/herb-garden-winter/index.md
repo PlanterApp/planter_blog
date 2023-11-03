@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "What to Do with Your Herb Garden Before Winter"
 slug = "herb-garden-winter"
 date = 2023-11-01T23:50:31.487Z
@@ -47,4 +47,4 @@ Last but not least, you can simply let nature take its course. Without any extra
 
 Herbs can be sturdy winter warriors, but they are not all created equal! Decide what you want to do with each plant as the snow approaches, then hunker down and start planning in [Planter](https://planter.garden/gardens) for an abundant herb garden next year!
 
-{<<affiliate>>}
+{{< affiliate >}}
