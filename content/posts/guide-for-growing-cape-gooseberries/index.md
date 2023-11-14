@@ -13,7 +13,6 @@ relative = false
 image = "gooseberry4.jpg"
 alt = "An image of a Cape Gooseberry, its protective shell peeled back. The berry is a lovely golden colour, and perfectly round."
 +++
-Welcome to part two of the Southern Hemisphere series!
 
 The Cape Gooseberry plant is a large leafy plant native to Chile and Peru, and is actually a part of the Nightshade family. Unlike the Nightshade, however, the fruits of this plant are completely edible, and go great in salads! These plants grow amazingly in temperate climates, and a wonderful addition to any garden. 
 

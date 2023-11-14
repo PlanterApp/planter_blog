@@ -8,7 +8,6 @@ Copyright: "Planter"
 
 module:
   imports:
-    - path: github.com/martignoni/hugo-notice
     - path: github.com/PlanterApp/hugo-PaperModX
 
 languages:

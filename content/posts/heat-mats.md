@@ -14,7 +14,6 @@ alt = "My seedling heat mat, a seedling tray, seeds, and an Android figurine wit
 caption = "Getting ready to start some seeds!"
 image = "/uploads/pxl_20230204_150317675.jpg"
 +++
-*This is the second article in our* *[Seed Starting](../../series/seed-starting/)* *series.*
 
 I don’t know about you, but I’m dreaming of warmer spring weather and getting back out in the garden! To satisfy that “gardening itch” that comes every winter, I like to dig out my seed starting supplies and grow tomatoes, peppers, and a few other veggies. Our last post focused on grow lights, which are arguably the most important piece of equipment for starting seeds. However, some seeds may not even germinate to see that light if you don’t keep them at the right temperature. So today, we’re going all-in on heat mats. 🔥
 
@@ -80,9 +79,7 @@ That’s why we recommend a thermostat-controlled heating mat such as the [Spide
 
 One important thing to keep in mind: Not all seeds need a heat mat. Many cold-hardy crops such as lettuce, spinach, and peas will germinate just fine at room temperature. In fact, they might not germinate at all if the soil is too warm! Just take a look at the table above, the max germination temperature for spinach is just 75°F.
 
-{{% hint info %}}
-Not all seeds need a heat mat
-{{% /hint %}}
+{{< notice info >}} Not all seeds need a heat mat {{< /notice >}}
 
 ### What next?
 

@@ -14,14 +14,7 @@ image = "banana.jpg"
 alt = "A picture of ripe bananas cut up on a chopping board. The skins are yellow and the fruit a soft cream."
 +++
 
-
-Welcome back to part four of the Southern Hemisphere series!
-
 Bananas. Nearly everyone knows what they are, and they can commonly be found in supermarkets. These long yellow fruits go great in smoothies, or ice-cream, or salads, or on their own! Banana’s grow in a variety of tropical climates, and can be an awesome fruit to grow.
-
- 
-
- 
 
 ### **1) Plant description**
 

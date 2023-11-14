@@ -12,7 +12,6 @@ image = "indoor-seedlings.jpg"
 alt = "Young seedlings growing in a foil tray"
 caption = "Young seedlings started indoors"
 +++
-*This is the third article in our [Seed Starting](../../series/seed-starting/) series.*
 
 It can seem like a hassle to start seeds indoors- why bother if you can plant seeds directly in the garden? For some plants, starting seeds indoors is not just a nice-to-do, it’s a must-do! In this article we’ll cover the whys, whens, and hows of starting seeds indoors.
 
