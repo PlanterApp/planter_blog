@@ -204,10 +204,11 @@ collections:
         name: "title"
         widget: "string"
         required: true
-      - label: "Description"
+      - label: "Short Description"
         name: "description"
         hint: "This appears in the series widget."
         widget: "string"
+        required: false
       - label: "Cover"
         name: "cover"
         widget: "object"
@@ -248,9 +249,10 @@ collections:
         name: "title"
         widget: "string"
         required: true
-      - label: "Description"
+      - label: "Short Description"
         name: "description"
         widget: "string"
+        required: false
       - label: "Cover"
         name: "cover"
         widget: "object"
