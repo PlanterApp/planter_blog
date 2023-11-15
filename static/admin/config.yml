@@ -162,7 +162,7 @@ collections:
         default: true
         required: true
       - label: "Name"
-        name: "name"
+        name: "title"
         widget: "string"
         required: true
       - label: "Cover"
@@ -201,7 +201,7 @@ collections:
         default: true
         required: true
       - label: "Name"
-        name: "name"
+        name: "title"
         widget: "string"
         required: true
       - label: "Cover"
