@@ -2,6 +2,7 @@
 draft = false
 title = "Southern Hemisphere"
 slug = "southern-hemisphere"
+description = "For gardeners \"down under\", this series brings you gardening info written specifically for, and by, gardeners in the southern hemisphere."
 date = 2023-04-14T18:14:57.625Z
 
 
