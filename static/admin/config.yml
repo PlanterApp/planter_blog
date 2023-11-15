@@ -228,6 +228,46 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
+  - name: "tags"
+    label: "Tags"
+    folder: "content/tags"
+    path: "{{slug}}/_index"
+    create: true
+    format: "toml-frontmatter"
+    fields:
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        default: true
+        required: true
+      - label: "Name"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Cover"
+        name: "cover"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Cover Photo"
+            name: "image"
+            widget: "image"
+            choose_url: false
+            required: false
+            media_library:
+              config:
+                multiple: false
+          - label: "Alt Text"
+            name: "alt"
+            widget: "string"
+            required: false
+          - label: "Caption"
+            name: "caption"
+            widget: "string"
+            required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
   - name: "docs"
     label: "Blog documentation"
     folder: "content/docs"
