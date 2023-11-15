@@ -213,6 +213,7 @@ collections:
             name: "image"
             widget: "image"
             choose_url: false
+            required: false
             media_library:
               config:
                 multiple: false
