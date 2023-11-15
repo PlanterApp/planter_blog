@@ -152,7 +152,7 @@ collections:
   - name: "author"
     label: "Author"
     folder: "content/author"
-    path: "{{slug}}/_index.md"
+    path: "{{slug}}/_index"
     create: true
     format: "toml-frontmatter"
     fields:
@@ -191,7 +191,7 @@ collections:
   - name: "series"
     label: "Series"
     folder: "content/series"
-    path: "{{slug}}/_index.md"
+    path: "{{slug}}/_index"
     create: true
     format: "toml-frontmatter"
     fields:
