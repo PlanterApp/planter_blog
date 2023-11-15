@@ -206,6 +206,7 @@ collections:
         required: true
       - label: "Description"
         name: "description"
+        hint: "This appears in the series widget."
         widget: "string"
       - label: "Cover"
         name: "cover"
