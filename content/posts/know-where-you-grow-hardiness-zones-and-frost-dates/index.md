@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Know Where You Grow: Hardiness Zones and Frost Dates"
+title = "Know Where You Grow: Hardiness Zones and Frost Dates (Update)"
 slug = "know-where-you-grow-hardiness-zones-and-frost-dates"
 date = 2023-11-16T19:09:08.509Z
 author = "Erin Thomson"
