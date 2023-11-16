@@ -1,22 +1,22 @@
 +++
 draft = false
 title = "Know Where You Grow: Hardiness Zones and Frost Dates"
-slug = "Know Where You Grow: Hardiness Zones and Frost Dates"
+slug = "know-where-you-grow-hardiness-zones-and-frost-dates"
 date = 2023-11-16T19:09:08.509Z
 author = "Erin Thomson"
 
 [cover]
 alt = "Frost-covered plant leaves"
 caption = "Frost-covered plant leaves"
-image = "/uploads/frost-on-leaves.jpg"
+image = "frost-on-leaves.webp"
 +++
-{{< notice info >}}In November 2023, the USDA released an update to the Plant Hardiness Zones map. The new map shows that many areas have become warmer of the past decade, with some areas moving up one or two zones.{{< /notice >}}
+{{< notice info >}}In November 2023, the USDA released updated plant hardiness zones. The new map shows that many areas have become warmer in the past decade, with some areas moving up one or two zones. ![Comparison between 2012 and 2023 maps, focusin on Illinois.](2012-2023-comparison.webp "The hardiness map for Illinois. Left side: 2012. Right side: 2023."){{< /notice >}}
 
 When starting a garden, understanding the growing climate in your area is an important first step. There are two key pieces of information to know about your local growing climate: your hardiness zone and frost dates. While sometimes represented together, hardiness zones and frost dates are separate concepts. Read on to learn what they are and why they matter for a successful garden.
 
 ### What are Plant Hardiness Zones?
 
-![USDA plant hardiness zone map](/uploads/usda-growing-zones-map.jpg "View the [interactive map](https://planthardiness.ars.usda.gov/) to determine your plant hardiness zone. [Image Source](https://planthardiness.ars.usda.gov/pages/map-downloads).")
+![USDA plant hardiness zone map](usda-growing-zones-map.webp "View the [interactive map](https://planthardiness.ars.usda.gov/) to determine your plant hardiness zone. [Image Source](https://planthardiness.ars.usda.gov/pages/map-downloads).")
 
 In North America, plant hardiness zones commonly refer to the US Department of Agriculture (USDA) Plant Hardiness Zones. Canada has developed its own hardiness zone system, but for practical purposes the USDA zones are commonly used. There are many plant hardiness zone systems in use around the world.
 
