@@ -6,6 +6,7 @@ date = 2023-11-18T11:00:44.523Z
 author = "Jessalyn Krenicki"
 plants = ["lemon", "blueberry", "strawberry", "Raspberry", "Ginger", "Echinacea", "Cilantro", "Fennel", "Lavender", "Bee Balm", "Chamomile", "Basil", "Catnip", "Nasturium", "Lemon Balm", "Lemon Verbena", "Mint", "Lemongrass", "Sage", "Stevia", "Thyme", "Rosemary"]
 series = ["Plan Your Garden"]
+tags = ["Planning"]
 
 [cover]
 relative = false
@@ -39,7 +40,7 @@ Today, we're focusing on an assortment plants that we can use for tea. Whether i
 
 *
 
-### Suggested Garden Plans
+### Example Garden Plans
 
 ![](screenshot-2023-11-11-at-7.24.10-pm.png "4x8 variety garden, featuring EVERY plant in this post!")
 
@@ -51,29 +52,30 @@ This garden's plants had no combative or companion relationships in our database
 
 ### Tea Plants Breakdown
 
-Tea from Fruit
-
 * Blueberry
+
+  * Fruit
 * Lemon
+
+  * Fruit
 * Strawberry
+
+  * Fruit
 * Raspberry
 
   * Can use fruit or leaves
-
-Tea from Root
-
 * Ginger
+
+  * Root
 * Echinacea
 
   * Can use root, flower, or leaves!
-
-Tea from Seeds
-
 * Cilantro
+
+  * Seeds
 * Fennel
 
-Tea from Flower
-
+  * Seeds
 * Lavender
 
   * Flowers or leaves, calming
@@ -91,22 +93,29 @@ Tea from Flower
   * Leaves or flowers, calming
 * Nasturium
 
-And for the largest group...
-
-Tea from Leaves
-
+  * Flowers
 * Lemon Balm
 
   * leaves, calming
 * Lemon Verbena
+
+  * Leaves
 * Mint
 
-  * Leaves, digestive and calming
+  * Use the leaves, digestive and calming
 * Lemongrass
 
   * Stalk, digestive and calming
   * Careful when harvesting, the stalks can be sharp!
 * Sage
+
+  * Leaves
 * Stevia
+
+  * Leaves
 * Thyme
+
+  * Leaves
 * Rosemary
+
+  * Leaves
