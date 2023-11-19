@@ -2,7 +2,7 @@
 draft = true
 title = "Plan Your Tea Garden with Planter!"
 slug = "tea-garden"
-date = 2023-11-18T11:00:44.523Z
+date = 2023-11-20T11:00:00.000Z
 author = "Jessalyn Krenicki"
 plants = ["lemon", "blueberry", "strawberry", "Raspberry", "Ginger", "Echinacea", "Cilantro", "Fennel", "Lavender", "Bee Balm", "Chamomile", "Basil", "Catnip", "Nasturium", "Lemon Balm", "Lemon Verbena", "Mint", "Lemongrass", "Sage", "Stevia", "Thyme", "Rosemary"]
 series = ["Plan Your Garden"]
@@ -52,9 +52,14 @@ This garden's plants had no combative or companion relationships in our database
 
 ### Tea Plants Breakdown
 
-* Blueberry
+#### Fruits
 
-  * Fruit
+Blueberry
+
+* Fruit
+
+
+
 * Lemon
 
   * Fruit
@@ -66,10 +71,13 @@ This garden's plants had no combative or companion relationships in our database
   * Can use fruit or leaves
 * Ginger
 
-  * Root
+  * Dried root, sliced up
+  * Bright and spicy flavor, which stands easily on its own. 
+  * Known to be a digestive aid
 * Echinacea
 
   * Can use root, flower, or leaves!
+  * A long-utilized medicinal plant, tea made with this plant gives a pine flavor that pairs well with honey and lemon!
 * Cilantro
 
   * Seeds
@@ -79,43 +87,63 @@ This garden's plants had no combative or companion relationships in our database
 * Lavender
 
   * Flowers or leaves, calming
+  * A sweet flavor that isn't too floral, it goes well with other herbs or even black tea.
+  * Dry blossoms are a bit stronger than fresh, so keep that in mind when making your tea
+  * English Lavender has compact flower heads, so may be a good choice for tea!
 * Bee Balm
 
-  * Flowers or leaves
+  * Dried or fresh, petals or leaves
+  * A little goes a long way with this plant. It's got a strong mint flavor with some citrus note
 * Chamomile
 
   * Buds, relaxing and stomach settler
+  * Can be dried, or fresh for a fruitier tea.
+  * Chamomile can hold its own in tea without accompaniment or to support other herbs.
 * Basil
 
-  * Flowers or leaves
+  * Dried Flowers or leaves
+  * Great with mint, or lemon/lemon flavored herbs
+  * soothing
 * Catnip
 
-  * Leaves or flowers, calming
+  * Dried leaves or flowers, calming
+  * Your cats may go crazy over this plant, but for people, catnip can make a calming and mild mint tea that can help with headaches.
 * Nasturium
 
-  * Flowers
+  * Dried flowers
+  * Slightly peppery flavor
 * Lemon Balm
 
-  * leaves, calming
+  * Dried leaves, bright citrus flavor
+  * It's a refreshing way to relieve insomnia and anxiety.
 * Lemon Verbena
 
-  * Leaves
+  * Dried leaves, lemony flavor, good for digeston
 * Mint
 
-  * Use the leaves, digestive and calming
+  * Use the dried leaves, digestive and calming. Pairs well with other herbs like lavender
+  * So many varieties of mint- each with slightly different flavors. Try out Chocolate Mint, or Apple, or tried-and-true Peppermint!
+  *
 * Lemongrass
 
-  * Stalk, digestive and calming
+  * Stalks, digestive and calming
+  * Can be dried, or used fresh
   * Careful when harvesting, the stalks can be sharp!
+  * Intense lemon flavor, use sparingly; could go well with black tea over ice!
 * Sage
 
   * Leaves
+  *
 * Stevia
 
-  * Leaves
+  * Dried leaves
+  * It's very sweet, so use very sparingly! Treat it like sugar (because frankly, it is).
+  * Try it with with mint, lemon balm, and sage!
 * Thyme
 
-  * Leaves
+  * Dried Leaves (remove the stems!)
+  * Slightly savory and great for a cough. Goes well by itself or with a citrusy herb
 * Rosemary
 
-  * Leaves
+  * Dried leaves
+  * Slight pine taste with some citrus, an invigorating tea with interesting flavor
