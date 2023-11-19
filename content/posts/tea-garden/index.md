@@ -54,36 +54,33 @@ This garden's plants had no combative or companion relationships in our database
 
 #### Fruits
 
-Blueberry
+* Apple (not shown in garden examples)
 
-* Fruit
+  *
+* Blueberry
 
-
-
+  * Fresh or Frozen Fruit 
+  * Pairs well with basil, hibiscus, or green tea
+  * Mashing the blueberries in the water and then straining can get the richest berry flavor!
 * Lemon
 
-  * Fruit
+  * Juice or fresh fruit
+  * Lemon is an excellent addition even to black tea, but paired with honey it can be a lovely refreshing drink itself. Ginger is also a great pairing with lemon, but you may want to boost the amount of honey you include.
 * Strawberry
 
-  * Fruit
+  * Fresh fruit
+  * Pairs well with black tea, add milk for milk tea!
+  * For an herbal option, try pairing with mint, basil, ginger, or anything citrusy!
 * Raspberry
 
   * Can use fruit or leaves
-* Ginger
 
-  * Dried root, sliced up
-  * Bright and spicy flavor, which stands easily on its own. 
-  * Known to be a digestive aid
+#### Flowers
+
 * Echinacea
 
   * Can use root, flower, or leaves!
   * A long-utilized medicinal plant, tea made with this plant gives a pine flavor that pairs well with honey and lemon!
-* Cilantro
-
-  * Seeds
-* Fennel
-
-  * Seeds
 * Lavender
 
   * Flowers or leaves, calming
@@ -99,19 +96,38 @@ Blueberry
   * Buds, relaxing and stomach settler
   * Can be dried, or fresh for a fruitier tea.
   * Chamomile can hold its own in tea without accompaniment or to support other herbs.
+* Nasturium
+
+  * Dried flowers
+  * Slightly peppery flavor
+
+
+
+#### Herbs
+
+* Ginger
+
+  * Dried root, sliced up
+  * Bright and spicy flavor, which stands easily on its own. 
+  * Known to be a digestive aid
+* Cilantro/Coriander
+
+  * Dried seeds or fresh leaves
+  * The leaves don't retain much flavor when dried, but fresh ones bring a slight taste of citrus and pepper, while the seeds have a more tangy and floral taste. Fun fact: the seeds are sometimes used as a flavoring agent in beer!
+  * Pairs well with lemony herbs and honey
+  * Makes a fragrant tea with lots of antioxidants and vitamin K!
+* Fennel
+
+  * Seeds
 * Basil
 
-  * Dried Flowers or leaves
+  * Dried Flowers, fresh or dried leaves
   * Great with mint, or lemon/lemon flavored herbs
   * soothing
 * Catnip
 
   * Dried leaves or flowers, calming
   * Your cats may go crazy over this plant, but for people, catnip can make a calming and mild mint tea that can help with headaches.
-* Nasturium
-
-  * Dried flowers
-  * Slightly peppery flavor
 * Lemon Balm
 
   * Dried leaves, bright citrus flavor
@@ -123,7 +139,6 @@ Blueberry
 
   * Use the dried leaves, digestive and calming. Pairs well with other herbs like lavender
   * So many varieties of mint- each with slightly different flavors. Try out Chocolate Mint, or Apple, or tried-and-true Peppermint!
-  *
 * Lemongrass
 
   * Stalks, digestive and calming
