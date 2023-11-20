@@ -22,7 +22,7 @@ Today, we're focusing on an assortment plants that we can use for tea. Whether i
 
 #### Harvesting
 
-* Some plants may taste better dried or fresh, so experiment!
+* Some plants may taste better dried or fresh, so experiment! Fresh leaves will tend to make more mild flavored teas.
 * The best time to harvest tea herbs is a dry morning; too late and the heat of the sun will dry out the leaves a bit, but also drive out some of their flavor.
 
 #### Drying
@@ -34,11 +34,15 @@ Today, we're focusing on an assortment plants that we can use for tea. Whether i
 
 #### Storing
 
-* The most important thing is to keep your harvest stored in an airtight container; whether that's in bags or containers, in the cabinet or the freezer in cubes, it doesn't matter too much! It may be useful to label your containers while you're at it, if you've dried similar-looking herbs
+* The most important thing is to keep your harvest stored in an airtight container; whether that's in bags or containers, in the cabinet or the freezer in cubes, it doesn't matter too much! It may be useful to label your containers while you're at it, if you've dried similar-looking herbs.
+* To see if dried herbs are still good for tea, rub them between your fingers and smell them. If they smell like nothing, or dusty, then the best thing you can do is toss them!
 
 #### Steeping
 
-*
+* About 1-2 teaspoons of your harvest with 8 ounces of water should be enough for the perfect tea. 
+* Most things will be ready after about 8 minutes of steeping. If your blend is too bitter after that time, try reducing the time; or if it's too weak, increase it.
+* Some teas, such as green tea, go bitter when steeped in boiling water. If your tea is too bitter, and reducing steeping time only made it weaker, try steeping with hot (but not boiling) water!
+* Some of your plants aren't going to fit in a tea bag, but you can use a sieve, french press, or a tea ball to separate out the solids from the tea.
 
 ### Example Garden Plans
 
@@ -56,7 +60,8 @@ This garden's plants had no combative or companion relationships in our database
 
 * Apple (not shown in garden examples)
 
-  *
+  * This ended up being a late addition to our Growing Guide, but I had opened my cabinet and made myself my favorite cinnamon tea, and realized I hadn't included apples yet!
+  * Pairs well with honey, ginger, or spices like cinnamon! I haven't tried it, but it may also go well with Nasturium, given the flower's peppery flavor.
 * Blueberry
 
   * Fresh or Frozen Fruit 
@@ -84,7 +89,7 @@ This garden's plants had no combative or companion relationships in our database
 * Lavender
 
   * Flowers or leaves, calming
-  * A sweet flavor that isn't too floral, it goes well with other herbs or even black tea.
+  * A sweet flavor that isn't too floral, it goes well with other herbs, honey, or even black tea.
   * Dry blossoms are a bit stronger than fresh, so keep that in mind when making your tea
   * English Lavender has compact flower heads, so may be a good choice for tea!
 * Bee Balm
@@ -107,9 +112,10 @@ This garden's plants had no combative or companion relationships in our database
 
 * Ginger
 
-  * Dried root, sliced up
+  * Dried root, peeled (easiest with a spoon!) and sliced or grated up
   * Bright and spicy flavor, which stands easily on its own. 
-  * Known to be a digestive aid
+  * Known to be a digestive aid, and is very invigorating- try drinking ginger tea instead of coffee!
+  * Pairs well with honey and lemon
 * Cilantro/Coriander
 
   * Dried seeds or fresh leaves
@@ -119,11 +125,11 @@ This garden's plants had no combative or companion relationships in our database
 * Fennel
 
   * Seeds
+  * Pairs well with Thyme and something floral, like lavender!
 * Basil
 
-  * Dried Flowers, fresh or dried leaves
-  * Great with mint, or lemon/lemon flavored herbs
-  * soothing
+  * Use the flowers or leaves; soothing
+  * Tastes subtly peppery. Great with mint, or lemon/citrusy herbs. Also goes well with black tea.
 * Catnip
 
   * Dried leaves or flowers, calming
@@ -137,8 +143,9 @@ This garden's plants had no combative or companion relationships in our database
   * Dried leaves, lemony flavor, good for digeston
 * Mint
 
-  * Use the dried leaves, digestive and calming. Pairs well with other herbs like lavender
-  * So many varieties of mint- each with slightly different flavors. Try out Chocolate Mint, or Apple Mint, or tried-and-true Peppermint!
+  * Use the fresh or dried leaves, digestive and calming. Pairs well with other herbs like lavender, thyme, and rosemary.
+  * Fresh leaves make a more mild tea
+  * So many varieties of mint- each with slightly different flavors. Try out Chocolate Mint, or Apple Mint, or tried-and-true Peppermint
 * Lemongrass
 
   * Stalks, digestive and calming
@@ -148,7 +155,7 @@ This garden's plants had no combative or companion relationships in our database
 * Sage
 
   * Leaves
-  *
+  * Tastes very strongly of pine, which can be overwhelming by itself. Pairs best with stevia or honey, and lemon
 * Stevia
 
   * Dried leaves
@@ -156,9 +163,9 @@ This garden's plants had no combative or companion relationships in our database
   * Try it with with mint, lemon balm, and sage!
 * Thyme
 
-  * Dried Leaves (remove the stems!)
-  * Slightly savory and great for a cough. Goes well by itself or with a citrusy herb
+  * Fresh or Dried Leaves (the stems don't add much, but they do make it easier to 
+  * Slightly savory and very fragrent and great for a cough/soothing your throat. Goes well by itself or with a citrusy herb
 * Rosemary
 
   * Dried leaves
-  * Slight pine taste with some citrus, an invigorating tea with interesting flavor
+  * Slight pine taste with some citrus, an invigorating tea with interesting flavor. Pairs well with other citrusy herbs, and a little sweetener (stevia or honey)
