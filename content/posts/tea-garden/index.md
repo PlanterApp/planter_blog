@@ -23,7 +23,7 @@ Today, we're focusing on an assortment plants that we can use for tea. Whether i
 #### Harvesting
 
 * Some plants may taste better dried or fresh, so experiment!
-* The best time to harvest tea herbs is a dry morning; the heat of the sun will dry out the leaves a bit, but also drive out some of their flavor.
+* The best time to harvest tea herbs is a dry morning; too late and the heat of the sun will dry out the leaves a bit, but also drive out some of their flavor.
 
 #### Drying
 
@@ -138,7 +138,7 @@ This garden's plants had no combative or companion relationships in our database
 * Mint
 
   * Use the dried leaves, digestive and calming. Pairs well with other herbs like lavender
-  * So many varieties of mint- each with slightly different flavors. Try out Chocolate Mint, or Apple, or tried-and-true Peppermint!
+  * So many varieties of mint- each with slightly different flavors. Try out Chocolate Mint, or Apple Mint, or tried-and-true Peppermint!
 * Lemongrass
 
   * Stalks, digestive and calming
