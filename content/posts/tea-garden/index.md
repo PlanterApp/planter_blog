@@ -58,10 +58,6 @@ This garden's plants had no combative or companion relationships in our database
 
 #### Fruits
 
-* Apple (not shown in garden examples)
-
-  * This ended up being a late addition to our Growing Guide, but I had opened my cabinet and made myself my favorite cinnamon tea, and realized I hadn't included apples yet!
-  * Pairs well with honey, ginger, or spices like cinnamon! I haven't tried it, but it may also go well with Nasturium, given the flower's peppery flavor.
 * Blueberry
 
   * Fresh or Frozen Fruit 
