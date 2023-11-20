@@ -58,6 +58,8 @@ This garden's plants had no combative or companion relationships in our database
 
 #### Fruits
 
+![](cute-assortment-forest-fruit-top-view.jpg)
+
 * Blueberry
 
   * Fresh or Frozen Fruit 
@@ -77,6 +79,8 @@ This garden's plants had no combative or companion relationships in our database
   * Can use fruit or leaves
 
 #### Flowers
+
+![](side-view-flowers-cup-saucer-wooden-background.jpg)
 
 * Echinacea
 
@@ -105,6 +109,8 @@ This garden's plants had no combative or companion relationships in our database
 
 
 #### Herbs
+
+![](set-tea-strainer-herbs-citrus-fruits-herbal-tea-cookies-white-surface.jpg)
 
 * Ginger
 
@@ -165,3 +171,7 @@ This garden's plants had no combative or companion relationships in our database
 
   * Dried leaves
   * Slight pine taste with some citrus, an invigorating tea with interesting flavor. Pairs well with other citrusy herbs, and a little sweetener (stevia or honey)
+
+
+
+![](girl-is-holding-warm-warming-herbal-tea-close-up.jpg)
