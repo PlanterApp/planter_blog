@@ -12,8 +12,6 @@ tags = ["Planning"]
 relative = false
 image = "berries-wild-blueberries-lingonberries-plate-blooming-sprig-magical-forest-heather-with-forest-mushrooms-chanterelles.jpg"
 +++
-
-
 So begins our series of various garden plans to inspire you! 
 
 Today, we're focusing on an assortment plants that we can use for tea. Whether it's the fruit, leaves, root, flower, or even the seeds themselves, there's incredible range in the kind of plants that can be used for a wonderful cup of tea! We'll be focusing on some of the more common plants in this Growing Guide.
@@ -60,7 +58,7 @@ This garden's plants had no combative or companion relationships in our database
 
 #### Blueberry
 
-Whether you opt for fresh or frozen blueberries, both bring a burst of flavor to your cup. Consider experimenting with complementary notes by pairing blueberries with basil, hibiscus, or green tea for a unique twist. If you want to extract the full berry goodness, try mashing the blueberries directly into the water and then straining the mixture. This method ensures that your tea captures the richest and most vibrant essence of the blueberries.
+Whether you opt for fresh or frozen blueberries, both bring a burst of flavor to your cup. Consider experimenting with complementary notes by pairing blueberries with basil, hibiscus, or green tea for a unique twist. If you want to extract the full berry goodness, try mashing the blueberries directly into the water and then straining the mixture!
 
 #### Raspberry
 
@@ -74,9 +72,9 @@ Lemon is something that may be tough to grow in a small garden, but its versatil
 
 #### Strawberry
 
-Get ready to sweeten up your tea game with fresh strawberries! These juicy delights aren't just for snacking – they make a fantastic addition to your tea ritual. For a classic touch, pair strawberries with black tea, and if you're feeling a bit indulgent, throw in some milk for a delightful twist on milk tea. 
+Get ready to sweeten up your tea game with fresh strawberries! For a classic touch, pair strawberries with black tea, and if you're feeling something a bit smoother, you can add milk for some strawberry milk tea!
 
-But don't stop there; strawberries are versatile enough to rock the herbal tea scene too. Experiment with pairings like mint, basil, ginger, or anything citrusy. 
+If you want something more herbal, experiment with pairings like mint, basil, ginger, or anything citrusy. 
 
 ![](side-view-flowers-cup-saucer-wooden-background.jpg)
 
@@ -86,7 +84,7 @@ Known for its long history of medicinal use, the coneflower brings a unique pine
 
 #### Lavender
 
-Whether you use the flowers or even the leaves, lavender brings a calm and sweet flavor to your cup that's not overwhelmingly floral. This versatile herb plays well with others, making it a fantastic companion to various herbs, a drizzle of honey, or even in tandem with the bold notes of black tea. The variety English Lavender is particularly excellent for tea, with its compact flower heads.
+Whether you use the flowers or even the leaves, lavender brings a calm and sweet flavor to your cup that's not overwhelmingly floral. This versatile herb plays well with others, making it a fantastic companion to herbs, a drizzle of honey, or even in black tea. The variety English Lavender is particularly excellent for tea, with its compact flower heads.
 
 ![](chamomile-tea-cups-top-view.jpg)
 
