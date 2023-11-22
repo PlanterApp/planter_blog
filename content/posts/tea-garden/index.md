@@ -167,7 +167,7 @@ Enter catnip, not just a feline favorite but a soothing herb for your tea ritual
 * It's very sweet, so use very sparingly! Treat it like sugar (because frankly, it is).
 * Try it with with mint, lemon balm, and sage!
 
-![](close-up-view-thyme-bunch-green-thyme-glass.jpg)
+![](fresh-thyme-rosemary-herbs-glass.jpg)
 
 #### Thyme
 
