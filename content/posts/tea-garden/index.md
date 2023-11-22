@@ -2,7 +2,7 @@
 draft = true
 title = "Plan Your Tea Garden with Planter!"
 slug = "tea-garden"
-date = 2023-11-20T11:00:00.000Z
+date = 2023-11-22T11:00:00.000Z
 author = "Jessalyn Krenicki"
 plants = ["lemon", "blueberry", "strawberry", "Raspberry", "Ginger", "Echinacea", "Cilantro", "Fennel", "Lavender", "Bee Balm", "Chamomile", "Basil", "Catnip", "Nasturium", "Lemon Balm", "Lemon Verbena", "Mint", "Lemongrass", "Sage", "Stevia", "Thyme", "Rosemary"]
 series = ["Plan Your Garden"]
@@ -12,6 +12,8 @@ tags = ["Planning"]
 relative = false
 image = "berries-wild-blueberries-lingonberries-plate-blooming-sprig-magical-forest-heather-with-forest-mushrooms-chanterelles.jpg"
 +++
+
+
 So begins our series of various garden plans to inspire you! 
 
 Today, we're focusing on an assortment plants that we can use for tea. Whether it's the fruit, leaves, root, flower, or even the seeds themselves, there's incredible range in the kind of plants that can be used for a wonderful cup of tea! We'll be focusing on some of the more common plants in this Growing Guide.
@@ -72,9 +74,7 @@ Lemon is something that may be tough to grow in a small garden, but its versatil
 
 #### Strawberry
 
-Get ready to sweeten up your tea game with fresh strawberries! For a classic touch, pair strawberries with black tea, and if you're feeling something a bit smoother, you can add milk for some strawberry milk tea!
-
-If you want something more herbal, experiment with pairings like mint, basil, ginger, or anything citrusy. 
+Get ready to sweeten up your tea game with fresh strawberries! For a classic touch, pair strawberries with black tea, and if you're feeling something a bit smoother, you can add milk for some strawberry milk tea! If you want something more herbal, experiment with pairings like mint, basil, ginger, or anything citrusy. 
 
 ![](side-view-flowers-cup-saucer-wooden-background.jpg)
 
@@ -100,84 +100,75 @@ Bee balm, a tea sensation in a small package! Whether dried or fresh, petals or 
 
 #### Ginger
 
-Meet ginger, the flavor powerhouse for your tea adventures! Grab some dried ginger root, peel it with a spoon, and then slice or grate it up to unleash its bright and spicy kick. Ginger's robust flavor easily takes the spotlight, making it a solo act in your tea cup – a perfect alternative to coffee for an invigorating kick. 
-
-Known for its digestive benefits, ginger pairs seamlessly with the sweet touch of honey and the zesty freshness of lemon. Spice up your tea routine with the bold and energizing essence of ginger.
+Meet ginger, the flavor powerhouse for your tea adventures! The root, when peeled and grated, has a robust flavor that easily takes the spotlight. This makes it an easy solo act in your tea cup – a perfect alternative to coffee for an invigorating kick.   Known for its digestive benefits, ginger pairs seamlessly with the sweet touch of honey and the zesty freshness of lemon. Spice up your tea routine with the bold and energizing essence of ginger.
 
 #### Nasturium
 
-Introducing nasturtium, a floral delight for your tea cup! Opt for dried nasturtium flowers to unlock their slightly peppery flavor, adding a unique kick to your brew. These blooms, bursting with personality, offer a distinctive note that can stand out on its own or complement other herbal blends. Spice up your tea ritual with the subtle warmth of nasturtium, making each sip a flavorful journey.
+Introducing nasturtium, a floral delight for your tea cup! These orange blooms, bursting with personality, offer a distinctive note that can stand out on its own or complement other herbal blends. They make a peppery brew to wake your senses! Spice up your tea ritual with the subtle warmth of nasturtium, making each sip a flavorful journey.
 
 ![](traditional-teapot-with-dried-herbs-teacups-concrete-dark-background.jpg)
 
 #### Cilantro/Coriander
 
-Enter cilantro, a versatile herb ready to shake up your tea game! Whether you're working with dried seeds or fresh leaves, cilantro adds a unique twist to your brew. While the dried leaves may not retain much flavor, fresh ones bring a subtle citrus and peppery note, while the seeds boast a tangy and floral taste, even making appearances in the world of beer flavoring. This herb loves to mingle with lemony companions and a hint of honey, creating a fragrant tea rich in antioxidants and vitamin K. So, spice up your tea ritual with cilantro and savor a cup that's as flavorful as it is refreshing!
+Whether you're working with dried seeds or fresh leaves, cilantro adds a unique twist to your brew. While the dried leaves may not retain much flavor, fresh ones bring a subtle citrus and peppery note, while the seeds boast a tangy and floral taste, even making appearances in the world of beer flavoring. This herb loves to mingle with lemony companions and a hint of honey, creating a fragrant tea rich in antioxidants and vitamin K. 
 
 #### Fennel
 
-Say hello to fennel, where the magic lies in the seeds! Steep these little powerhouses to unlock their licorice and anise symphony. Want to freshen it up? Mint is your go-to wingman. For a sweeter kick, introduce stevia or honey to build on that licorice goodness. But if you're feeling bold, toss in some ginger and lemon for a flavor explosion that'll redefine your tea experience. Fennel, the secret ingredient to a cup that's not just a drink but a journey through layers of aromatic delight.
+Fennel's tea potential lies not in its leaves, but it's seeds. Steep them like any other tea for a licorice-anise symphony. For a fresher note, opt for some mint to assist- for a sweeter kick, introduce stevia or honey to build on that licorice goodness. But if you're feeling bold, toss in some ginger and lemon for a strong and well-rounded flavor explosion.
 
 ![](tea-cup-with-mint-cinnamon-dried-herbs-lime-grungy-blue-surface-high-angle-view.jpg)
 
 #### Basil
 
-Whether you fancy the flowers or the leaves, basil brings a subtle peppery note to your cup. Dive into herbal harmony by pairing it with mint for a refreshing twist, or let it dance with the bright zest of lemon or citrusy herbs. Feeling a bit traditional? Basil plays well with black tea, creating a blend that's both familiar and comforting. Elevate your tea ritual with basil, where every sip is a journey into tranquility and flavor.
+Whether you fancy the flowers or the leaves, basil brings a subtle peppery note to your cup. Dive into herbal harmony by pairing it with mint for a refreshing twist, or let it dance with the bright zest of lemon or citrusy herbs. This herb also plays well with black tea, creating a blend that's both familiar and comforting.
 
 #### Catnip
 
-Enter catnip, not just a feline favorite but a soothing herb for your tea ritual! Whether it's the dried leaves or flowers, catnip can brew into a calming and mild mint tea that might just become your new go-to for relaxation. While your cats might go wild over this plant, for humans, it's a gentle remedy that can aid with headaches and provide a moment of tranquility. So, indulge in a cup of catnip tea and let its calming properties work their magic.
+Catnip isn't just a feline favorite but a soothing herb for your tea as well! Whether it's the dried leaves or flowers, catnip can brew into a calming and mild mint tea. While your cats might go wild over this plant, for humans, it's a gentle remedy that can aid with headaches and provide a moment of tranquility. 
 
 ![](lemongrass-honey-lemon-juice-food-beverage-products-from-lemongrass-extract-food-nutrition-concept.jpg)
 
 #### Lemon Balm
 
-* Dried leaves, bright citrus flavor
-* It's a refreshing way to relieve insomnia and anxiety.
+Discover the soothing embrace of lemon balm tea, crafted from its dried leaves that release a bright citrus flavor with every steep. This herbal infusion not only tantalizes your taste buds but also offers a refreshing remedy for insomnia and anxiety. Allow the calming essence of lemon balm to guide you into a tranquil state, sip by sip.
 
 #### Lemongrass
 
-* Stalks, digestive and calming
-* Can be dried, or used fresh
-* Careful when harvesting, the stalks can be sharp!
-* Intense lemon flavor, use sparingly; could go well with black tea over ice!
+Embark on a journey of relaxation with lemongrass tea, carefully crafted from its vibrant stalks known for their digestive and calming properties. Whether dried for a concentrated experience or used fresh for a burst of vitality, lemongrass adds a unique twist to your tea repertoire. Exercise caution when harvesting this herb, as the stalks can be sharp! Remember – a little goes a long way with this intense herb. Use sparingly to avoid overwhelming your palate, and consider pairing it with black tea over ice.
 
 ![](top-view-cup-tea-with-lemon-sugar-mint-leaves-white-surface-horizontal.jpg)
 
 #### Mint
 
-* Use the fresh or dried leaves, digestive and calming. Pairs well with other herbs like lavender, thyme, and rosemary.
-* Fresh leaves make a more mild tea
-* So many varieties of mint- each with slightly different flavors. Try out Chocolate Mint, or Apple Mint, or tried-and-true Peppermint
+This versatile herb harmonizes effortlessly with other companions like lavender, thyme, and rosemary, creating a symphony of flavors in your teacup. Opt for fresh mint leaves for a milder tea experience that gently soothes your senses. Explore the vast array of mint varieties, each offering slightly different flavors. Whether it's the sweet allure of Chocolate Mint, the fruity notes of Apple Mint, or the classic appeal of Peppermint, let the diverse mint family elevate your tea ritual to new heights.
 
 #### Lemon Verbena
 
-* Dried leaves, lemony flavor, good for digeston
+Indulge in the refreshing essence of lemon verbena tea, skillfully crafted from its dried leaves that impart a zesty, lemony flavor. Beyond its delightful taste, this herbal infusion is renowned for its digestive benefits, making it a good choice for after a meal. Savor the bright and citrusy notes as you sip on lemon verbena tea, letting its soothing properties contribute to a blissful moment of relaxation while aiding digestion.
 
 ![](herbal-tea-with-medicinal-herbs-flowers-selective-focus.jpg)
 
 #### Sage
 
-* Leaves
-* Tastes very strongly of pine, which can be overwhelming by itself. Pairs best with stevia or honey, and lemon
+Elevate your tea experience with sage, a herb that brings a bold and distinctive pine flavor to your cup. When using sage leaves, be mindful of their potent taste, which can be overwhelming. To create a harmonious blend, consider pairing sage with the sweet touch of stevia or honey, or a splash of lemon Explore the unique combination of flavors as sage takes center stage, complemented by the subtle sweetness of honey or stevia and the bright citrusy notes of lemon.
 
 #### Stevia
 
-* Dried leaves
-* It's very sweet, so use very sparingly! Treat it like sugar (because frankly, it is).
-* Try it with with mint, lemon balm, and sage!
+Step into the world of natural sweetness with stevia tea, crafted from its dried leaves. Known for its intense sweetness, treat stevia with care, using it sparingly as you would with sugar—it's nature's sweetener. Don't expect this to be the tea's main contender; it should be used as support for other herbs.
+
+Experiment with pairing stevia with mint, creating a refreshing and sweet symphony that tantalizes your taste buds; or, you can opt for something citrusy like lemon balm. For a unique twist, combine stevia with sage, balancing its sweet notes with the bold and piney flavors of sage.
 
 ![](fresh-thyme-rosemary-herbs-glass.jpg)
 
 #### Thyme
 
-* Fresh or Dried Leaves (the stems don't add much, but they do make it easier to 
-* Slightly savory and very fragrent and great for a cough/soothing your throat. Goes well by itself or with a citrusy herb
+Savor the slightly savory and highly fragrant notes of thyme, offering not only a delightful tea experience but also providing relief for coughs and soothing your throat. Whether enjoyed on its own for a pure thyme infusion or paired with a citrusy herb, this versatile tea promises a comforting and flavorful journey with every sip.
+
+Thyme's leaves make delicious brews whether they're dried or fresh. While the stems may not contribute significantly to the taste, they make taking the leaves back out much easier.
 
 #### Rosemary
 
-* Dried leaves
-* Slight pine taste with some citrus, an invigorating tea with interesting flavor. Pairs well with other citrusy herbs, and a little sweetener (stevia or honey)
+Immerse yourself in the delightful pine-y essence of rosemary tea, made from its dried leaves. Enriched with a touch of citrus, this aromatic infusion creates a harmonious balance that tantalizes your taste buds. This pairs perfectly with other citrusy herbs to bring out those undertones. And just like most herbal teas, you can always sweeten up your brew with stevia or honey.
 
 ![](girl-is-holding-warm-warming-herbal-tea-close-up.jpg)
 
