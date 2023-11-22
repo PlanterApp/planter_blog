@@ -118,7 +118,7 @@ Enter cilantro, a versatile herb ready to shake up your tea game! Whether you're
 
 Say hello to fennel, where the magic lies in the seeds! Steep these little powerhouses to unlock their licorice and anise symphony. Want to freshen it up? Mint is your go-to wingman. For a sweeter kick, introduce stevia or honey to build on that licorice goodness. But if you're feeling bold, toss in some ginger and lemon for a flavor explosion that'll redefine your tea experience. Fennel, the secret ingredient to a cup that's not just a drink but a journey through layers of aromatic delight.
 
-![](top-view-cup-tea-with-lemon-sugar-mint-leaves-white-surface-horizontal.jpg)
+![](tea-cup-with-mint-cinnamon-dried-herbs-lime-grungy-blue-surface-high-angle-view.jpg)
 
 #### Basil
 
@@ -142,7 +142,7 @@ Enter catnip, not just a feline favorite but a soothing herb for your tea ritual
 * Careful when harvesting, the stalks can be sharp!
 * Intense lemon flavor, use sparingly; could go well with black tea over ice!
 
-![](peppermint-tea-glass-ready-drink.jpg)
+![](top-view-cup-tea-with-lemon-sugar-mint-leaves-white-surface-horizontal.jpg)
 
 #### Mint
 
