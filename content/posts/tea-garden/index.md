@@ -108,7 +108,7 @@ Known for its digestive benefits, ginger pairs seamlessly with the sweet touch o
 
 Introducing nasturtium, a floral delight for your tea cup! Opt for dried nasturtium flowers to unlock their slightly peppery flavor, adding a unique kick to your brew. These blooms, bursting with personality, offer a distinctive note that can stand out on its own or complement other herbal blends. Spice up your tea ritual with the subtle warmth of nasturtium, making each sip a flavorful journey.
 
-![](herbal-tea-with-herbs-lime-glass-cup-pink-wooden.jpg)
+![](traditional-teapot-with-dried-herbs-teacups-concrete-dark-background.jpg)
 
 #### Cilantro/Coriander
 
