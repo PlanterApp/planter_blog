@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Plan Your Tea Garden with Planter!"
+title = "Plan Your Tea Garden"
 slug = "tea-garden"
 date = 2023-11-22T11:00:00.000Z
 author = "Jessalyn Krenicki"
@@ -12,8 +12,6 @@ tags = ["Planning"]
 relative = false
 image = "berries-wild-blueberries-lingonberries-plate-blooming-sprig-magical-forest-heather-with-forest-mushrooms-chanterelles.jpg"
 +++
-
-
 So begins our series of various garden plans to inspire you! 
 
 Today, we're focusing on an assortment plants that we can use for tea. Whether it's the fruit, leaves, root, flower, or even the seeds themselves, there's incredible range in the kind of plants that can be used for a wonderful cup of tea! We'll be focusing on some of the more common plants in this Growing Guide.
@@ -173,3 +171,7 @@ Immerse yourself in the delightful pine-y essence of rosemary tea, made from its
 ![](girl-is-holding-warm-warming-herbal-tea-close-up.jpg)
 
 As the air gains a chill, we tend to seek both warmth and a way to use our leftover harvest. Thankfully, you can do both by making some of these herbal teas! We hope this Growing Guide brings you some comfort and heat this season- keep an eye out for more pieces in this Plan Your Garden series!
+
+
+
+A note: You may be wondering, where's *Camellia sinensis* (the tea plant)? We looked into it, of course, but growing and making black tea at home turns out to be a very long process. Given its pervasive availability in stores, we opted to simply reference it, rather than include it as an entry. It'll join our plant roster on Planter sometime; however, if you plan to grow it before then, you can easily create a custom plant on our app!
