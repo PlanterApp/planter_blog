@@ -13,13 +13,13 @@ image = "curry-ingredients-plan.jpg"
 caption = ""
 alt = "A plate with a curry dish surrounded by fresh vegetables and a tablet showing the Planter app"
 +++
-Planning a garden is not only about deciding which plants should go where, thinking about soil conditions, the orientation of the sun and which seeds you have kicking around from the most recent seed sale. Planning a garden should foremost be driven by selecting plants that you can and will use in the kitchen. One of the best ways to do that is to plan around the types of dishes you and your family enjoy preparing. If you and your family enjoy foods from around the globe, you might want to consider dedicating some space for a ‘curry garden’.
+While there are many factors to consider when planning a garden, it's important to plan based on the types of dishes you and your family enjoy preparing. If you and your family enjoy cooking food with a global flair, you might want to consider planning a ‘curry garden’.
 
-‘Curry’ is really a catch-all term that does not refer to any one specific dish. In most cultures the word ‘curry’ is not used- each dish will have its own unique name. That being said, dishes that would be loosely classified as ‘curry’ can take shape from some of the same base plants in the garden. From there you can branch out depending on the cuisine you are interested in and your family’s taste.
+‘Curry’ is actually a loose, catch-all term that doesn’t properly refer to any specific dish. In its originating culture, each dish would have its own unique name. That being said, many dishes that could be roughly considered as ‘curry-style’ dishes can be created using many of the same core plants in the garden.
 
-## Curry Garden Base Plan
+## Curry garden base plan
 
-For my curry garden design, I started with a core garden that has some of the foundational  plants that can form the backbone of a great curry (and not only curry- many of these form the base of all types of cuisines!)
+Our sample curry garden base plan is filled with uber-versatile plants that form the backbone of great curry dishes:
 
 * Garlic
 * Ginger
@@ -30,28 +30,34 @@ For my curry garden design, I started with a core garden that has some of the fo
 
 ![Screenshot of a curry garden plan in Planter](curry-garden.jpg)
 
-When choosing the placement of the plants in the plan I tried to place them in a way that would make harvesting easy. Since garlic and onions can be slow growers (not green onions though!) and need to be pulled out of the soil, they’ve been placed on the outside. Onions also happen to be companions with the hot serrano chiles, which can potentially help to ward off pests. Two chile pepper plants will likely be prolific enough to provide your family with ample spice potential- but if you are real spice lovers feel free to ramp that number up. Cilantro has been planted in between the peppers and roma tomatoes, to hopefully take some advantage of any shade they can offer. While cilantro is associated with cuisines from some of the hotter parts of the world, it actually can’t take the heat all that well and has a tendency to bolt and go bitter. Because of this you might want to plan to plant a few successions of cilantro. Roma tomatoes were chosen because they are a nice meaty tomato that translates well when cooked into sauces and soups. A nice addition and a plant I’ve enjoyed growing this past year is ginger. The ginger is separated in containers because a) it has a long growing season and needs to be started indoors well in advance if you live in a cooler climate and b) the containers can be moved and positioned so the plants receive dappled sun (they like the heat but not direct, intense sunlight).
+In this plan, garlic and cooking onions were placed on the outside because they are slower growers and need to be harvested by pulling or forking them out of the soil. Two hot pepper plants might not seem like a lot, but they’ll likely be prolific enough to provide your family with ample chili harvests (of course if you’re major spice lovers feel free to add more!) While cilantro is associated with cuisines from some of the hotter parts of the world, it actually can’t take the heat all that well and has a tendency to bolt and go bitter. Because of this, you might want to plan to plant a few successions of cilantro. 
 
-If you have a bit more space to play with you might want to consider adding more garlic in particular since it's such a versatile ingredient that stores well. And if you’ve got ample space to play with you could branch out into some more specific cuisines:
+Roma tomatoes were chosen because they are a nice meaty tomato that translates well when cooked into sauces and soups. Ginger is separated in containers because a) it has a long growing season and needs to be started indoors well in advance if you live in a cooler climate and b) the containers can be moved and positioned around the garden so the plants receive dappled sun (they love the heat but not direct, scorching sunlight).
 
-## Thai Curry Garden
+When choosing locations for these plants in your own plan, be sure to position them so they’ll be easily accessible for harvesting and where they won't shade each other out unintentionally. 
 
-Thai food is bright and vibrant and features an array of different veggies. To expand my ‘curry garden’ to be able to prepare some tasty Thai food I added the following plants:
+If you have a bit more space to play with you could consider branching out into some more specific cuisines.
+
+## Thai curry garden plan
 
 ![A bowl of green curry with basil and chiles on top surrounded by fresh curry ingredients](green-curry.jpg)
+
+Thai food is vibrant and features an array of different veggies. To be able to prepare some tasty Thai dishes, the following plants were added to the plan:
 
 * Peas
 * Eggplant
 * Carrots
 * Lemongrass
-* Thai Basil
-* Thai Mint
+* (Thai) Basil
+* (Thai) Mint
 * Peanuts
-* Lime
+* Dwarf Lime
 
-In the Thai garden plan, we’ve kept many of the elements of the base curry garden plan. The serrano chiles were swapped for hot Thai chiles, and we’ve added more garlic and onions. A pathway was left in the middle of the two garden beds to allow for easy access for tending the plants and harvesting. Lemongrass and mint were added as container plants- the lemongrass to allow for easy starting indoors and the mint to prevent it from overtaking the garden! Basil plays a little more nicely so its been added right into the garden bed. If possible try to find the Thai varieties of mint and basil to offer a more authentic flavor. For an exotic touch- peanuts and a (dwarf) lime was added to the plan- peanuts can grow well even in northern climates as long as you select an appropriate variety. Limes on the other hand are frost sensitive, but dwarf varieties can be grown as container plants that can be brought in over winter. If this is too much work, forgo the lime and plant something else instead- just consider the space you are working with and make sure to place the plants in ways where they are accessible for harvesting and will not shade out other plants unintentionally.
+The Thai curry garden plan incorporates most of the plants from the base curry garden plan. Serrano chiles were swapped for Thai chiles, and more garlic and onions were added. A pathway was left between the two garden areas to allow for access to tend and harvest the plants. Lemongrass is included as a unique container plant- just be sure to give it a head start indoors if you’re growing in a cooler climate. Mint was also added in a container- mint must be contained so it doesn’t spread and take over your garden! Basil plays a little more nicely so its incorporated right into the garden bed. If possible, try to find the Thai varieties of mint and basil to offer a more authentic flavor. 
 
-## Indian Curry Garden
+For an exotic touch- peanuts and a dwarf lime were added to the plan- peanuts can grow well even in northern climates as long as you select an appropriate variety. Limes on the other hand are frost sensitive, but dwarf varieties can be grown as container plants that can be brought in over winter. If this is too much work, forgo the lime and plant something else instead- just consider the space you are working with and make sure to place the plants in ways where they are accessible for harvesting and will not shade out other plants unintentionally.
+
+## Indian curry garden plan
 
 ![A bowl of Indian curry with a cilantro leaf on top surrounded by Indian curry ingredients](indian-curry.jpg)
 
