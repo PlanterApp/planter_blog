@@ -48,10 +48,12 @@ Thai food is vibrant and features an array of different veggies. To prepare some
 * Eggplant
 * Carrots
 * Lemongrass
-* (Thai) Basil
-* (Thai) Mint
+* Thai Basil
+* Thai Mint
 * Peanuts
 * Dwarf Lime
+
+![Screenshot of a Thai curry garden plan in Planter](thai-curry-garden.jpg)
 
 The Thai curry garden plan incorporates most of the plants from the base curry garden plan. Serrano chiles were swapped for Thai chiles, and more garlic and onions were added. A pathway was left between the two garden areas to allow for access to tend and harvest the plants. Lemongrass is included as a unique container plant- be sure to give it a head start indoors if you’re growing in a cooler climate. Mint was also kept in a container to prevent it from spreading and taking over the entire garden! Basil plays more nicely so its OK to incorporate right into the garden bed. If possible, try to find Thai varieties of mint and basil to offer a more authentic flavor. 
 
