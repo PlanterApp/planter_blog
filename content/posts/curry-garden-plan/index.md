@@ -71,8 +71,10 @@ Flipping over to a different cuisine entirely, the Indian curry garden plan stil
 * Mustard seed
 * Spinach
 
+![](indian-curry-garden.jpg)
+
 Turmeric is a rhizomatous plant that grows similarly to ginger. Since turmeric isn’t available in Planter (yet!) I’ve taken the easy way out and just created a ‘variety’ of ginger called turmeric. Like ginger, the turmeric is grown in pots so it can be started well in advance and moved around in the garden to capture the perfect balance of sun and shade.
 
 Cauliflower and potatoes are included in the plan as core ingredients in the popular and delicious ‘aloo gobi’ dish. Okra is added as a key component of ‘bhindi masala’, and kidney beans are added to create delicious ‘rajma’. With drying beans you’ll want to have several plants to get a yield that is substantial enough to make a bean-based dish like rajma. Rounding out the list we have spinach and mustard- spinach can be used to make a mouth-watering ‘saag paneer’ and along with mustard and other greens in delicious ‘saag’ curries. If your mustard goes to seed no worries- mustard seed also features as a key spice in many Indian dishes.
 
-We hope these curry garden plans have provided some inspiration to plan a fun, yet practical cuisine-themed garden! Having all the veggies at hand to create a whole range of dishes is important to be able to make the best use of your garden produce in the kitchen. The best part is [Planter](https://planter.garden/gardens) makes the process of playing around with all the different garden design possibilities easy and fun!
+We hope these curry garden plans have provided some inspiration to plan a fun and practical cuisine-themed garden! Having all the veggies at hand to create a whole range of dishes is important to be able to make the best use of your garden produce in the kitchen. The best part is [Planter](https://planter.garden/gardens) makes the process of playing around with all the different garden design possibilities easy and fun!
