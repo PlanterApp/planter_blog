@@ -4,6 +4,7 @@ title = "Plan Your Curry Garden"
 slug = "curry-garden-plan"
 date = 2023-11-27T22:10:30.621Z
 author = "Erin Thomson"
+plants = ["garlic", "ginger", "peppers", "onions", "cilantro", "pease", "carrots", "eggplant", "lemongrass", "basil", "mint", "lime", "peanuts", "okra", "potatoes", "cauliflower", "spinach", "mustard", "beans"]
 series = ["Plan Your Garden"]
 tags = ["Planning"]
 
@@ -24,7 +25,7 @@ Our sample curry garden base plan starts with a standard 4' x 8' garden in [Plan
 * Garlic
 * Ginger
 * Cilantro
-* Chilies
+* Hot peppers
 * Tomatoes
 * Onions
 
@@ -42,16 +43,16 @@ If you happen to have some more space to play with in your garden, consider bran
 
 ![A bowl of green curry with basil and chiles on top surrounded by fresh curry ingredients](green-curry.jpg)
 
-Thai food is vibrant and features an array of different veggies. To prepare some tasty Thai dishes, the following plants were added to the plan:
+Thai food is vibrant and features an array of different veggies. To prepare some tasty Thai dishes, the following plants were added to the base plan:
 
 * Peas
 * Eggplant
 * Carrots
 * Lemongrass
-* Thai Basil
-* Thai Mint
+* Thai basil
+* Thai mint
 * Peanuts
-* Dwarf Lime
+* Dwarf lime
 
 ![Screenshot of a Thai curry garden plan in Planter](thai-curry-garden.jpg)
 
