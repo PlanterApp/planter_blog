@@ -1,10 +1,10 @@
 +++
 draft = false
 title = "Plan Your Tea Garden"
-slug = "tea-garden"
+slug = "tea-garden-plan"
 date = 2023-11-22T11:00:00.000Z
 author = "Jessalyn Krenicki"
-plants = ["lemon", "blueberry", "strawberry", "Raspberry", "Ginger", "Echinacea", "Cilantro", "Fennel", "Lavender", "Bee Balm", "Chamomile", "Basil", "Catnip", "Nasturium", "Lemon Balm", "Lemon Verbena", "Mint", "Lemongrass", "Sage", "Stevia", "Thyme", "Rosemary"]
+plants = ["Lemon", "Blueberries", "Strawberries", "Raspberries", "Ginger", "Echinacea", "Cilantro", "Fennel", "Lavender", "Bee Balm", "Chamomile", "Basil", "Catnip", "Nasturium", "Lemon Balm", "Lemon Verbena", "Mint", "Lemongrass", "Sage", "Stevia", "Thyme", "Rosemary"]
 series = ["Plan Your Garden"]
 tags = ["Planning"]
 
