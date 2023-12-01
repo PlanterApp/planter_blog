@@ -20,7 +20,7 @@ While there are many factors to consider when planning a garden, it's important 
 
 ## Curry garden base plan
 
-Our sample curry garden base plan starts with a standard 4' x 8' garden in [Planter](https://planter.garden/gardens). We've filled the garden with uber-versatile plants that form the backbone of great curry dishes:
+Our sample curry garden base plan starts with a standard 4' x 8' garden in [Planter](https://planter.garden/gardens). We've filled the garden with uber-versatile plants that form the backbone of many great curry dishes:
 
 * Garlic
 * Ginger
@@ -31,9 +31,9 @@ Our sample curry garden base plan starts with a standard 4' x 8' garden in [Plan
 
 ![Screenshot of a curry garden plan in Planter](curry-garden.jpg)
 
-Garlic and cooking onions were placed on the outside because they are slow growers and need to be harvested by pulling or forking them out of the soil. Two hot pepper plants might not seem like a lot, but they’ll likely be prolific enough to provide your family with ample chili harvests (of course if you’re major spice lovers feel free to add more!) While cilantro is associated with cuisines from some of the hotter parts of the world, it actually can’t take the heat all that well and has a tendency to [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/) and go bitter. Because of this, you might want to plan to plant your cilantro in [successions](https://blog.planter.garden/posts/succession-planting-for-nonstop-harvests/).
+Garlic and cooking onions were placed on the outside because they are slow growers and need to be harvested by pulling or forking them out of the soil. Two hot pepper plants might not seem like a lot, but they’ll likely be prolific enough to provide your family with ample chili harvests (of course if you’re major spice lovers feel free to add more!) While cilantro is associated with cuisines from some of the hotter parts of the world, it actually can’t take the heat all that well and has a tendency to [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/). Because of this, you might want to plan to plant your cilantro in [successions](https://blog.planter.garden/posts/succession-planting-for-nonstop-harvests/).
 
-Roma tomatoes were chosen because they are a nice meaty tomato that work well for cooked sauces. Ginger is added in containers because a) it grows slowly and needs to be started indoors well in advance if you live in a cooler climate and b) the containers can be moved and positioned around the garden so the plants receive dappled sun- ginger loves the heat but not direct, scorching sunlight.
+Roma tomatoes were chosen because they are a nice meaty tomato that work well for cooking. Ginger is kept in containers because a) it grows slowly and needs to be started indoors well in advance if you live in a cooler climate and b) the containers can be moved and positioned around the garden so the plants receive dappled sun- ginger loves the heat but not direct, scorching sunlight.
 
 When choosing locations for the plants in your own plan, be sure to position them so they’ll be easily accessible for harvesting and where they won't shade each other out unintentionally. This base plan is just a starting point that you can adapt to your unique garden conditions. 
 
