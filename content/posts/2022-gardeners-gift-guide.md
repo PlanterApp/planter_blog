@@ -1,16 +1,17 @@
 +++
-author = "Erin Thomson"
+draft = true
 authors = []
-date = 2022-11-21T05:00:00Z
-override_position = false
-plants = []
 title = "2022 Gardeners' Gift Guide"
+slug = "2022 Gardeners' Gift Guide"
+date = 2022-11-21T05:00:00.000Z
+author = "The Planter Team"
+plants = []
+override_position = false
 
 [cover]
 alt = "A holiday gift with a red bow surrounded by greenery"
 caption = ""
 image = "/uploads/xmas-gift.jpg"
-
 +++
 Looking for the perfect holiday gifts for the gardeners in your life? Or maybe you’re looking for some neat gardening gear to put on your own wish list (no judgment…us too!) Whoever you’re shopping for, our 2022 Gardeners' Gift Guide has something for every gardener!
 
