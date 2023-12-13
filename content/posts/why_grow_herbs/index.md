@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Why Should I Grow Herbs in My Garden?"
-slug = "WhyShouldIGrowHerbs"
+slug = "why_grow_herbs"
 date = 2023-12-12T17:23:03.947Z
 author = "Samantha Togstad"
 plants = ["Rosemary"]
