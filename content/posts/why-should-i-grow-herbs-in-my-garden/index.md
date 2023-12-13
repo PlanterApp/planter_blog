@@ -54,9 +54,9 @@ If you’re ready to add herbs to your space, you might be thinking about where 
 
 ![](driedherbs.jpg)
 
-Plants like rosemary, thyme, and sage are good beginner herbs and they tend to be available at most nurseries and garden centers. They are also pretty easygoing.   If you’re beyond the beginner herbs, chamomile, yarrow, parsley, and several types of mint are easy to find. For the more unusual herbs you might have to get them from a specialty shop or online. A quick internet search can point you to some medicinal herb companies.
+Plants like rosemary, thyme, and sage are good beginner herbs and they tend to be available at most nurseries and garden centers. They are also pretty easygoing. If you’re beyond the beginner herbs, chamomile, yarrow, parsley, and several types of mint are easy to find. For the more unusual herbs you might have to get them from a specialty shop or online. A quick internet search can point you to some medicinal herb companies.
 
-### Can I grow herbs in the fall and winter? 
+### Can I grow herbs in the fall and winter?
 
 Cold-hardy herbs like parsley, bay leaf, winter savory, and some types of rosemary can be grown and harvested in the winter. They can be left outside as long as they have soil with good drainage. If you live in an area with very cold winters, look for varieties that are best for your growing zone. For some, growing herbs indoors is a better choice. Thyme, garden sage, and mint are easy to grow inside. You can often find potted basil at the grocery store too, even in the winter. You might have to supplement with a grow light during the darkest part of the year. Growing herbs indoors during the winter is a great way to pass the time while you dream about spring. 
 
