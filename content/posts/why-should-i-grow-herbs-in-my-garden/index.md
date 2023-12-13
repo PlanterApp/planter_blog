@@ -6,7 +6,7 @@ date = 2023-12-12T17:23:03.947Z
 author = "Samantha Togstad"
 plants = ["Rosemary"]
 series = ["Herbs"]
-tags = ["Thyme"]
+tags = ["#Thyme"]
 
 [cover]
 relative = false
