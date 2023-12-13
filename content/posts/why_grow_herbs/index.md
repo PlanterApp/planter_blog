@@ -1,17 +1,18 @@
 +++
 draft = true
 title = "Why Should I Grow Herbs in My Garden?"
-slug = "why_grow_herbs"
+slug = "Why Should I Grow Herbs in My Garden?"
 date = 2023-12-12T17:23:03.947Z
 author = "Samantha Togstad"
-plants = ["Rosemary"]
+plants = ["Rosemary", "Thyme"]
 series = ["Herbs"]
-tags = ["#Thyme"]
+tags = []
 
 [cover]
 relative = false
+image = "feverfew.jpg"
 +++
-<!--StartFragment-->
+
 
 ![](feverfew.jpg)
 
@@ -25,7 +26,7 @@ There are many ways to enjoy herbs. It can be as easy as brewing a cup of tea or
 
 ### Culinary vs. Medicinal Herbs
 
-You already know that we use culinary herbs, like rosemary, to add flavor to food. And you probably know some herbs that are used as supplements, such as ginkgo biloba.  But people are often surprised to find out that a lot of the herbs sitting in their spice cabinet have a long history of use in traditional medicine! Thyme is an herb that is considered both culinary and medicinal.  Echinacea, on the other hand, is not quite as tasty and is usually only used for enhancing health. Some herbs are also too strong to use more than just a little bit at a time.
+You already know that we use culinary herbs, like rosemary, to add flavor to food. And you probably know some herbs that are used as supplements, such as Ginkgo biloba.  But people are often surprised to find out that a lot of the herbs sitting in their spice cabinet have a long history of use in traditional medicine! Thyme is an herb that is considered both culinary and medicinal.  Echinacea, on the other hand, is not quite as tasty and is usually only used for enhancing health. Some herbs are also too strong to use more than just a little bit at a time.
 
 ### The Benefits of Having an Herbal Garden
 
@@ -62,12 +63,4 @@ Cold-hardy herbs like parsley, bay leaf, winter savory, and some types of rosema
 
 ![](indoorpots.jpg)
 
-Don't forget to add herbs while you're working on your garden plan in [Planter.](https://planter.garden/)
-
-You can also check out these growing guides for more inspiration:
-
-[Grow Abundant Herbs](https://blog.planter.garden/posts/grow-abundant-herbs/)
-
-[What to do with your Herb Garden Before Winter](https://blog.planter.garden/posts/herb-garden-winter/)
-
-<!--EndFragment-->
+No matter what size garden you're working with, be sure to include herbs in your garden plan in [Planter. ](https://planter.garden/)
