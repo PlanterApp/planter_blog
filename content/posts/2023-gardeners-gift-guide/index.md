@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "2023 Gardeners' Gift Guide"
 slug = "2023-gardeners-gift-guide"
 date = 2023-12-11T02:51:02.933Z
@@ -13,11 +13,11 @@ alt = "Presents wrapped in gold and red paper tied with red and green bows, plac
 +++
 All we want for Christmas is…gardening gear! And we’ve rounded up our top gardening gift picks for 2023. From seed starting to produce preservation, we’ve got gift-giving inspiration for every gardener!
 
-### Greenstalk Original Vertical Planter
+### GreenStalk Original Vertical Planter
 
-![Greenstalk Vertical Planter product image](https://cdn11.bigcommerce.com/s-uw06ilppdw/images/stencil/1280x1280/products/112/1986/0ade84f7-97e9-4d72-bb7e-15974135665c__59907.1701184874.jpg?c=2 "Image source: Greenstalk")
+![GreenStalk Vertical Planter product image](https://cdn11.bigcommerce.com/s-uw06ilppdw/images/stencil/1280x1280/products/112/1986/0ade84f7-97e9-4d72-bb7e-15974135665c__59907.1701184874.jpg?c=2 "Image source: GreenStalk")
 
-You might have seen the [Greenstalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) showcased on your favorite gardening YouTube channels…And for good reason! The Greenstalk is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The Greenstalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it's built strong and guaranteed to last! Use code PLANTERAPP at checkout to get $10 off your purchase of $75 or more.
+You might have seen the [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) showcased on your favorite gardening YouTube channels…And for good reason! The GreenStalk is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The GreenStalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it's built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
 
 ### Bootstrap Farmer Air Prune Propagation Tray
 
