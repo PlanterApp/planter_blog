@@ -35,13 +35,13 @@ It might feel a bit odd to give a knife as a gift, but we can assure you any ser
 
 ![Park Seed easy tunnel product image](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/518n6lsGDxL._AC_.jpg "Image source: Amazon")
 
-The [Park Seed tunnel](https://www.amazon.com/Park-Seed-Standard-Tunnel-Protective/dp/B08X7H4M41/ref=sr_1_5?crid=3SK9K8I6N2IHK&keywords=giant%2Beasy%2Bpoly%2Btunnel&qid=1701707280&sprefix=giant%2Beasy%2Bpoly%2Btunnel%2Caps%2C97&sr=8-5&th=1) is an easy and inexpensive way to get started with season extension techniques! They offer convenient telescoping low tunnels covered with either poly plastic, fleece row cover, or netting depending on the desired degree of protection. The best part is how easy it is to move the tunnels around the garden to where they’re needed.
+The [Park Seed easy tunnel](https://www.amazon.com/Park-Seed-Standard-Tunnel-Protective/dp/B08X7H4M41/ref=sr_1_5?crid=3SK9K8I6N2IHK&keywords=giant%2Beasy%2Bpoly%2Btunnel&qid=1701707280&sprefix=giant%2Beasy%2Bpoly%2Btunnel%2Caps%2C97&sr=8-5&th=1) is an easy and inexpensive way to get started with season extension techniques! They offer convenient telescoping low tunnels covered with either poly plastic, fleece row cover, or netting depending on the desired degree of protection. The best part is how easy it is to move the tunnels around the garden to where they’re needed.
 
 ### Hamilton Beach Dehydrator
 
 ![Hamilton Beach dehydrator product image](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71ygIB-E+lL._AC_SX569_.jpg "Image source: Amazon")
 
-While it's a kitchen gadget, the [Hamilton Beach dehydrator](https://www.amazon.com/Hamilton-Beach-32100A-Digital-Dehydrator/dp/B012CG8N26/ref=sr_1_11?crid=10OPIZTPMPYHP&keywords=dehydrator&qid=1701707368&sprefix=dehydrator%2Caps%2C101&sr=8-11) is the perfect gift for an avid gardener who finds themselves with gluts of produce that need preserving! Having a dehydrator means that fresh garden fruits, veggies, and herbs can be enjoyed year round- as dehydrated produce can store for up to several months- and helps prevent any precious produce from going to the compost pile!
+While it's technically a kitchen gadget, the [Hamilton Beach dehydrator](https://www.amazon.com/Hamilton-Beach-32100A-Digital-Dehydrator/dp/B012CG8N26/ref=sr_1_11?crid=10OPIZTPMPYHP&keywords=dehydrator&qid=1701707368&sprefix=dehydrator%2Caps%2C101&sr=8-11) is the perfect gift for an avid gardener who finds themselves with gluts of produce that need preserving! Having a dehydrator means that fresh garden fruits, veggies, and herbs can be enjoyed year round- as dehydrated produce can store for up to several months- and helps prevent any precious produce from going to the compost pile!
 
 ### Spider Farmer Seedling Heat Mat Kit
 
