@@ -51,6 +51,8 @@ A seedling heat mat might seem like an unnecessary extra piece of equipment, but
 
 ### True Leaf Seed Kits
 
+![True Leaf seed kit product image](https://cdn.shopify.com/s/files/1/2016/2681/products/kit-basic-box-wb-WM-COMP2.jpg "Image source: True Leaf Market")
+
 What gardener wouldn’t love getting seeds for Christmas? For gift-giving we especially love these [True Leaf seed kits](https://www.trueleafmarket.com/collections/garden-seed-kits?rstr=atlgrow)- they have a great selection of themed seed kits from salsa gardens to salad gardens to culinary herbs. The kits come in attractive gift-ready packaging and include some basic seed starting supplies so your giftee will have everything they need to get growing!
 
 ### Row Seeder
@@ -73,7 +75,7 @@ For a gardener that’s new to seed starting or working with limited space, thes
 
 ### Planter Premium Subscription
 
-
+![Screenshot of a customized garden plan in Planter](customized-garden.jpg)
 
 And of course, if your recipient doesn’t already have a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/), why not get them a gift card for the App Store or Google Play so they can subscribe! They’ll be able to plan unlimited gardens, use the [Planter web app](https://planter.garden/gardens), customize their garden and more!
 
