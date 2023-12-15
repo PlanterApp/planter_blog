@@ -67,7 +67,7 @@ These [bottle-top waterers from Lee Valley Tools](https://www.leevalley.com/en-u
 
 ### Adjustable Tabletop Grow Lights
 
-![Adjustable tabletop grow lights product image](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/718Qvwli2+L._AC_SX342_SY445_.jpg "Image source: Amazon")
+![Adjustable tabletop grow lights product image](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81y3jkHvUjL._AC_SX679_.jpg "Image source: Amazon")
 
 For a gardener that’s new to seed starting or working with limited space, these [adjustable tabletop grow lights](https://www.amazon.com/GroDrow-Starting-Spectrum-Adjustable-Gooseneck/dp/B092R2CD42) are the perfect solution! The adjustable necks as well as brightness and spectrum settings offers the ultimate flexibility for indoor seed starting and growing. The built-in timer means that plants will consistently get the right amount of light each day.
 
