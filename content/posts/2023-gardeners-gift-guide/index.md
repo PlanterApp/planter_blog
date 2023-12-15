@@ -4,6 +4,7 @@ title = "2023 Gardeners' Gift Guide"
 slug = "2023-gardeners-gift-guide"
 date = 2023-12-11T02:51:02.933Z
 author = "The Planter Team"
+series = ["Gift guides"]
 
 [cover]
 relative = false
