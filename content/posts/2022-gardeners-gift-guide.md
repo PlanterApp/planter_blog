@@ -2,10 +2,11 @@
 draft = false
 authors = []
 title = "2022 Gardeners' Gift Guide"
-slug = "2022 Gardeners' Gift Guide"
+slug = "2022-gardeners-gift-guide"
 date = 2022-11-21T05:00:00.000Z
 author = "The Planter Team"
 plants = []
+series = ["Gift guides"]
 override_position = false
 
 [cover]
