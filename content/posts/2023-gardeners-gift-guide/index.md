@@ -11,7 +11,7 @@ relative = false
 image = "christmas-gifts.jpg"
 alt = "Presents wrapped in gold and red paper tied with red and green bows, placed beside greenery and candy canes"
 +++
-All we want for Christmas is…gardening gear! And we’ve rounded up our top gardening gift picks for 2023. From seed starting to produce preservation, we’ve got gift-giving inspiration for every gardener.
+All we want for Christmas is…gardening gear! And we’ve rounded up our top gardening gift picks for 2023. From seed starting to produce preservation, we’ve got gift-giving inspiration for every gardener!
 
 ### Greenstalk Original Vertical Planter
 
