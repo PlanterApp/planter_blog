@@ -50,7 +50,7 @@ If you’re ready to add herbs to your space, you might be thinking about where 
 * Do you want to [plan a tea garden](https://blog.planter.garden/posts/tea-garden-plan/)?
 * Do you want to grow enough herbs to keep a well-stocked home apothecary?
 
-![](driedherbs.jpg)
+![Dried herbs](driedherbs.jpg)
 
 Plants like rosemary, thyme, and sage are good beginner herbs and they tend to be available at most nurseries and garden centers. They are also pretty easygoing. If you’re beyond the beginner herbs, chamomile, yarrow, parsley, and several types of mint are easy to find. For the more unusual herbs you might have to get them from a specialty shop or online. A quick internet search can point you to some medicinal herb companies.
 
