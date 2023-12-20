@@ -22,8 +22,7 @@ Commonly used herbs:
   * Seeds are easy to shake from the seed head after bolting and letting dry
 * Fennel
 
-  * bulb fennel is used usually as a root veggie but can be grown for seeds for the spice
-  * key ingredient in many baking recipes
+  * Fennel is used usually as a root veggie, but you can also grow it for the seeds and use them as a spice! Fennel seeds
 * Ginger
 
   * Great raw, can be used in baked goods when ground
