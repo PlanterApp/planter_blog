@@ -5,6 +5,7 @@ slug = "herb-garden-winter"
 date = 2023-11-01T23:50:31.487Z
 author = "Erin Thomson"
 plants = ["rosemary", "basil", "thyme", "oregano", "sage", "parsley", "dill", "cilantro", "marjoram", "mint", "tarragon", "chervil", "lemon balm", "lemon verbena", "stevia"]
+series = ["Herbs"]
 
 [cover]
 relative = false
