@@ -11,14 +11,16 @@ tags = ["planning"]
 [cover]
 relative = false
 +++
-What Exactly are Spices?\
-In broad terms both herbs and spices come from plants but herbs are the *fresh* part of the plant while spice is the dried root, dried stalk, seed or dried fruit of the plant and is almost always *dried* not fresh. Both herbs and spices add flavor to the dish, however herbs are more subtle while spices have stronger flavor. (Some plants, like bay laurel, are woody plants and therefore their leaves fall under spices.)
+What Exactly are Spices?
+
+In broad terms both herbs and spices come from plants, but herbs are usually the fresh leaves. On the other hand, spices are typically dried, and they make use of many other parts of the plant- root, stalk, seed or fruit. Both herbs and spices add flavor to the dish, however herbs are more subtle while spices have stronger flavor. (Some plants, like bay laurel, are woody plants and therefore their leaves fall under spices.)
 
 
 
 Companion/Combative Info:
 
 * Onions, while not featured in this post, are a great companion plant to peppers (which make up a large part of our example garden!) Peppers are particularly prone to aphids, and are protected by the pungence of onions and shallots!
+* Fennel and dill will play just fine together normally, but if you are looking to harvest the *seeds*, you might want to give them some healthy space. Some accidental cross-pollinating can cause some strange flavors in both.
 
 Commonly used herbs:
 
