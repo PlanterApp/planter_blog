@@ -14,12 +14,19 @@ relative = false
 What Exactly are Spices?\
 In broad terms both herbs and spices come from plants but herbs are the *fresh* part of the plant while spice is the dried root, dried stalk, seed or dried fruit of the plant and is almost always *dried* not fresh. Both herbs and spices add flavor to the dish, however herbs are more subtle while spices have stronger flavor. (Some plants, like bay laurel, are woody plants and therefore their leaves fall under spices.)
 
+
+
+Companion/Combative Info:
+
+* Onions, while not featured in this post, are a great companion plant to peppers (which make up a large part of our example garden!) Peppers are particularly prone to aphids, and are protected by the pungence of onions and shallots!
+
 Commonly used herbs:
 
 * Coriander
 
-  * The seed of the cilantro plant, which is also used as an herb! mild flavor, main ingredient of garam masala
-  * Seeds are easy to shake from the seed head after bolting and letting dry
+  * The seed of the cilantro plant, which is also used as an herb! These seeds are often used in a variety of cultures, including Indian and Middle Eastern cuisines. Their mild flavor is put to good work alongside other spices in curries, masala, soups, or even pickles. 
+  * Heating the seeds before using them will bring out their flavor, so be sure to toast them before grinding them up!
+  * When your plant bolts, let it dry out, and then the coriander should be easy to shake from the seed head!
 * Fennel
 
   * Fennel is used usually as a root veggie, but you can also grow it for the seeds and use them as a spice! Fennel seeds
