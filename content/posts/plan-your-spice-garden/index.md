@@ -23,7 +23,7 @@ Companion/Combative Info:
 * Fennel and dill will play just fine together normally, but if you are looking to harvest the *seeds*, you might want to give them some healthy space. Some accidental cross-pollinating can cause some strange flavors in both.
 * Fennel shouldn't be planted by peppers- it releases chemicals in the soil to inhibit the growth of competing plants, so your peppers will pay the price.
 
-Commonly used herbs:
+Commonly used spices:
 
 * Coriander
 
@@ -38,7 +38,8 @@ Commonly used herbs:
 * Ginger
 
   * It has a very warm flavor that's widely used in both sweet and savory dishes. Try it ground in baked dishes,
-  * Raw ginger can easily take the show in dishes, due to its strong and bright sweetness. My personal favorite salad dresser is a carrot ginger dressing, a staple in most hibachi restaurants.
+  * Fresh ginger can easily take the show in dishes, due to its strong and bright sweetness. My personal favorite salad dressing is made of carrot and ginger, and is a staple in most hibachi restaurants.
+  *
 * Peppers
 
   * Chili peppers and the like can be considered a spice! When dried, their spiciness takes a whole new level, and can be ground up into a powder
