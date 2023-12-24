@@ -39,10 +39,11 @@ Commonly used spices:
 
   * It has a very warm flavor that's widely used in both sweet and savory dishes. Try it ground in baked dishes,
   * Fresh ginger can easily take the show in dishes, due to its strong and bright sweetness. My personal favorite salad dressing is made of carrot and ginger, and is a staple in most hibachi restaurants.
-  *
+  * Ginger can also be candied for an explosively spicy-sweet treat!
 * Peppers
 
-  * Chili peppers and the like can be considered a spice! When dried, their spiciness takes a whole new level, and can be ground up into a powder
+  * Chili peppers and the like can be considered a spice! When dried, their spiciness takes a whole new level.
+  * Paprika and Cayenne are both made from powdered, dried peppers. However, their spiciness levels are leagues apart- paprika is made with mild peppers like bells, and isn't very flavorful by itself, but it can be a great pairing to tomatoes or meat. On the other hand, Cayenne uses much hotter peppers, and should be used MUCH more sparingly, with care not to touch your face or eyes!
 * Mustard seed
 
   * just like coriander, let it go to flower and set seed
@@ -60,6 +61,3 @@ Commonly used spices:
 * Dill
 
   * The seeds are excellent for pickling; can be used when ground too, for things like ranch dressing
-* Cayenne
-
-  * similar to paprika, but MUCH more spicy. Use very sparingly and don't touch your face when using it!
