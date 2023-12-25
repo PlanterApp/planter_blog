@@ -47,6 +47,7 @@ Commonly used spices:
 * Mustard seed
 
   * just like coriander, let it go to flower and set seed
+  * You can grind up the seeds with vinegar or oil to make your own mustard (the condiment), or you can roast the seeds to bring out earthier flavors and rub them into chicken or fish!
 * Garlic
 * * Dehydrated and powdered/minced, very hearty powerful spice great in curry or most savory dishes. as useful as salt or pepper
 * Paprika
