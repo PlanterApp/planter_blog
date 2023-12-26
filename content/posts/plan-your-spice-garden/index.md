@@ -43,16 +43,13 @@ Commonly used spices:
 * Peppers
 
   * Chili peppers and the like can be considered a spice! When dried, their spiciness takes a whole new level.
-  * Paprika and Cayenne are both made from powdered, dried peppers. However, their spiciness levels are leagues apart- paprika is made with mild peppers like bells, and isn't very flavorful by itself, but it can be a great pairing to tomatoes or meat. On the other hand, Cayenne uses much hotter peppers, and should be used MUCH more sparingly, with care not to touch your face or eyes!
+  * Paprika and Cayenne are both made from powdered, dried peppers. However, their spiciness levels are leagues apart- paprika is made with mild peppers like bells, and isn't very flavorful by itself, but when smoked it can be a great pairing to tomatoes or meat. On the other hand, Cayenne uses much hotter peppers, and should be used MUCH more sparingly, with care not to touch your face or eyes!
 * Mustard seed
 
-  * just like coriander, let it go to flower and set seed
-  * You can grind up the seeds with vinegar or oil to make your own mustard (the condiment), or you can roast the seeds to bring out earthier flavors and rub them into chicken or fish!
+  * Did you know- mustard seed is the largest selling spice in the world? It's included in so many household condiments and pickled foods! 
+  * You can grind up the seeds with vinegar or oil to make your own mustard (the condiment), or you can roast the seeds to bring out earthier flavors and rub them into chicken or fish! It's also key in pickling, and an essential ingredient in relish. 
 * Garlic
-* * Dehydrated and powdered/minced, very hearty powerful spice great in curry or most savory dishes. as useful as salt or pepper
-* Paprika
-
-  * Not flavorful by itself, but pairs excellently with tomatoes or meat. holds smoked flavor very well if smoked. Made from mild, dried/powdered peppers.
+* * Fresh or dried, powdered or minced or crushed, garlic is a very hearty powerful spice great in curry or most savory dishes. This spice is, dare I say, as useful as salt or pepper. After all, what *can't* you use garlic in? It's a staple in italian cuisine, incredible on any kind meat, and it's even good raw in salsa. Something I've seen done before that I really want to try is roasting the cloves (which makes them really sweet) and then spreading them on toast.
 * Rosemary
 
   * is sort of a grey area, it could really be herb or spice
