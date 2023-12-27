@@ -49,7 +49,7 @@ Commonly used spices:
   * Did you know- mustard seed is the largest selling spice in the world? It's included in so many household condiments and pickled foods! 
   * You can grind up the seeds with vinegar or oil to make your own mustard (the condiment), or you can roast the seeds to bring out earthier flavors and rub them into chicken or fish! It's also key in pickling, and an essential ingredient in relish. 
 * Garlic
-* * Fresh or dried, powdered or minced or crushed, garlic is a very hearty powerful spice great in curry or most savory dishes. This spice is, dare I say, as useful as salt or pepper. After all, what *can't* you use garlic in? It's a staple in italian cuisine, incredible on any kind meat, and it's even good raw in salsa. Something I've seen done before that I really want to try is roasting the cloves (which makes them really sweet) and then spreading them on toast.
+* * Fresh or dried, powdered or minced or crushed, garlic is a very hearty powerful spice great in curry or most savory dishes. This spice is, dare I say, as useful as salt or pepper. After all, what *can't* you use garlic in? It's a staple in italian cuisine, incredible on any kind meat, and it's even good raw in salsa. Something I've seen done before that I really want to try is roasting the cloves (which makes them really sweet) and then spreading them on toast. The only downfall of this pice is its strength- it's very easy to go overboard.
 * Rosemary
 
   * is sort of a grey area, it could really be herb or spice
