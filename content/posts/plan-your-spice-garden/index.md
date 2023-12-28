@@ -60,7 +60,7 @@ Commonly used spices:
   * You can make a rosemary butter that flavors steak, or rub it into rich meats like lamb... or you can bake it into bread (focassia is the popular choice) or even gnocchi. It pairs well with cheese, too, or lemonade. Its warm flavor and smell can add a new dimension to many different dishes, so don't be afraid to make use of it!
 * Lavender
 
-  * Typically an herb, but you can use the seeds as well! Seeds can be steeped in tea, or you can steep them in milk for lavender ice cream!
+  * Lavender is typically used an herb, but you can use the flowers, buds, or seeds as a spice! Seeds can be steeped in tea, or you can steep them in milk for lavender ice cream. The buds and flowers can be very powerful when dried, and their floral flavor naturally pairs well with sweet flavors; however, they aren't a one-trick-pony! When paired with other herbs and spices, they can revolutionize tomato sauces or roasted potatoes.
 
 ![](bee-on-lavender.jpg)
 
