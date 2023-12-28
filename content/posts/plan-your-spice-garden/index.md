@@ -10,6 +10,7 @@ tags = ["planning"]
 
 [cover]
 relative = false
+image = "spices-herbs-large-assortment-spices-indian-cuisine-wooden-table-top-view-free-space-text.jpg"
 +++
 What Exactly are Spices?
 
