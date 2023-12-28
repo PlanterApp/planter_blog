@@ -35,6 +35,9 @@ Commonly used spices:
   * Fennel is used usually as a root veggie, but you can also grow it for the seeds and use them as a spice! 
   * Raw fennel seeds have a fresh licorice flavor, but bringing heat to the table sparks brand new flavors. When they're cooked, the seeds offer a more sweet and caramelized flavor.
   * These work well as an interesting sweetener for soups, broths, or oils; all you have to do is simmer them in the dish and strain. Ground, they can be a great rub on meats, particularly pork or lamb.
+
+![](anise-seeds-texture-background-top-view.jpg)
+
 * Ginger
 
   * It has a very warm flavor that's widely used in both sweet and savory dishes. Try it ground in baked dishes,
@@ -57,6 +60,9 @@ Commonly used spices:
 * Lavender
 
   * Typically an herb, but you can use the seeds as well! Seeds can be steeped in tea, or you can steep them in milk for lavender ice cream!
+
+![](bee-on-lavender.jpg)
+
 * Dill
 
   * The seeds are excellent for pickling; can be used when ground too, for things like ranch dressing
