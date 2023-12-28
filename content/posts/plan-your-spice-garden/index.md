@@ -52,7 +52,8 @@ Commonly used spices:
 * * Fresh or dried, powdered or minced or crushed, garlic is a very hearty powerful spice great in curry or most savory dishes. This spice is, dare I say, as useful as salt or pepper. After all, what *can't* you use garlic in? It's a staple in italian cuisine, incredible on any kind meat, and it's even good raw in salsa. Something I've seen done before that I really want to try is roasting the cloves (which makes them really sweet) and then spreading them on toast. The only downfall of this pice is its strength- it's very easy to go overboard.
 * Rosemary
 
-  * is sort of a grey area, it could really be herb or spice
+  * is sort of a grey area, it could really be herb or spice. The plants' woodiness puts it in the same limbo as bay leaves. Make sure to mince the needles finely, as their woodiness makes them tough even after cooking.
+  * You can make a rosemary butter that flavors steak, or rub it into rich meats like lamb... or you can bake it into bread (focassia is the popular choice) or even gnocchi. It pairs well with cheese, too, or lemonade. Its warm flavor and smell can add a new dimension to many different dishes, so don't be afraid to make use of it!
 * Lavender
 
   * Typically an herb, but you can use the seeds as well! Seeds can be steeped in tea, or you can steep them in milk for lavender ice cream!
