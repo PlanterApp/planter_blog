@@ -97,3 +97,5 @@ These seeds are a key ingredient in an important process- Pickling! But that's n
 ![](umbrellas-dill-fennel-with-seeds-white-wall.jpg)
 
 ### In Conclusion...
+
+No matter your planting ideas, you can bring them into colorful life with Planter!
