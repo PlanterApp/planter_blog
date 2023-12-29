@@ -58,7 +58,7 @@ Ginger, like many on this list, is a strong and showy participant in dishes! You
 
 Chili peppers and the like can be considered a spice! When dried, their spiciness takes a whole new level.
 
-Paprika and Cayenne are both made from powdered, dried peppers. However, their spiciness levels are leagues apart- paprika is made with mild peppers like bells, and isn't very flavorful by itself, but when smoked it can be a great pairing to tomatoes or meat. On the other hand, Cayenne uses much hotter peppers, and should be used MUCH more sparingly, with care not to touch your face or eyes!
+Paprika and Cayenne are both made from powdered, dried peppers. However, their levels of spicy are leagues apart. Paprika is made with mild peppers like bells, and isn't very flavorful by itself, but when smoked it can be a great pairing to tomatoes or meat. On the other hand, Cayenne uses much hotter peppers, and should be used MUCH more sparingly, with care not to touch your face or eyes!
 
 ![](red-peppers-oil.jpg)
 
