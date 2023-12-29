@@ -2,7 +2,7 @@
 draft = true
 title = "Plan Your Spice Garden"
 slug = "spice-garden"
-date = 2023-11-29T01:06:39.723Z
+date = 2023-12-30T11:00:39.723Z
 author = "Jessalyn Krenicki"
 plants = ["Cilantro", "Fennel", "Ginger", "Peppers", "Mustard", "Garlic", "Rosemary", "Lavender", "Dill"]
 series = ["Plan Your Garden"]
