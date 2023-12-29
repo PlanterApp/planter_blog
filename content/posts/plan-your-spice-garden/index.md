@@ -92,4 +92,8 @@ Lavender is typically used an herb, but you can use the flowers, buds, or seeds 
 
 #### Dill
 
-These seeds are a key ingrediant in an important process- Pickling! But that's not their only use. Unlike the leaves, dill seeds are enhanced by heat. Toasting these bundles of goodness brings out their flavor and aroma, and they make a good substitute for caraway in breads. Alongside spices like pepper, onion, and garlic, ground dill seed also makes a great rub for pork or steak!
+These seeds are a key ingredient in an important process- Pickling! But that's not their only use. Unlike the leaves, dill seeds are enhanced by heat. Toasting these bundles of goodness brings out their flavor and aroma, and they make a good substitute for caraway in breads. Alongside spices like pepper, onion, and garlic, ground dill seed also makes a great rub for pork or steak!
+
+![](umbrellas-dill-fennel-with-seeds-white-wall.jpg)
+
+### In Conclusion...
