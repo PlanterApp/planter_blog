@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Herbs and the Importance of Knowing Botanical Names"
-slug = "Herbs and the Importance of Knowing Botanical Names"
+slug = "Botanical-names"
 date = 2024-01-09T18:29:28.710Z
 author = "Samantha Togstad"
 
@@ -16,13 +16,19 @@ With hundreds of thousands of known plant species, and over 2,000 new plants bei
 
 ### Reasons to Learn Botanical Names
 
-When growing your vegetable and flower garden you can choose by color, size, or even by name. Who can resist a ‘Teddy Bear’ sunflower? With herbs, you need to have some knowledge of specific varieties. In the case of the witch hazel shrub, there are many cultivated varieties . Hamamelis virginiana is preferred for herbal use. The types mentioned above, 'Diane’ and ‘Jelena’, are a type of Hamamelis x intermedia.  Finding a good book on herbalism will help you learn which varieties are the ones you want to use. Another good reason to learn is because some herbalists and books will only refer to a plant by its botanical name.
+When growing your vegetable and flower garden you can choose by color, size, or even by name. Who can resist a ‘Teddy Bear’ sunflower? With herbs, you need to have some knowledge of specific varieties. In the case of the witch hazel shrub, there are many cultivated varieties . *Hamamelis virginiana* is preferred for herbal use. The types mentioned above, 'Diane’ and ‘Jelena’, are a type of *Hamamelis x intermedia*.  Finding a good book on herbalism will help you learn which varieties are the ones you want to use. Another good reason to learn is because some herbalists and books will only refer to a plant by its botanical name.
+
+![](witchhazel.jpg)
 
 ### Safety First
 
 Many herbs have different species and each species can have different levels of the plant's active ingredients. All elderberries’ leaves, stems, roots, and seeds have some level of toxicity from their cyanogenic glycosides. Sambucus racemosa, or the red elderberry, has the highest levels of these compounds so it’s best to avoid it for herbal use. The black and blue elderberries, Sambucus nigra, Sambucus canadensis, and Sambucus caerulea, are preferred, as they have the least amount of cyanogenic glycosides, and with proper preparation, are the safest elderberries to use.
 
-Passionflower is an herb known for its sleep-enhancing qualities. Many nurseries have passionflower for sale. But there are over 400 species of passionflower! Passiflora incarnata is what’s used for traditional medicine.  Passiflora edulis is where we get passionflower fruit from , but it’s not usually used as an herb. Other types might be toxic. Knowing the botanical name is very helpful in this case. 
+Passionflower is an herb known for its sleep-enhancing qualities. Many nurseries have passionflower for sale. But there are over 400 species of passionflower! Passiflora incarnata is what’s used for traditional medicine.  Passiflora edulis is where we get passionflower fruit from , but it’s not usually used as an herb. Other types might be toxic. Knowing the botanical name is very helpful in this case.
+
+![](passionflower2.jpg)
+
+ 
 
 ### How Planter Can Help
 
@@ -33,3 +39,5 @@ Labeling your herbs in Planter is also helpful when perennial herbs disappear in
 ### Conclusion
 
 It might seem overwhelming to learn the botanical names, but it’s an important part of having an herbal garden. With a little studying and the help of Planter, you’ll be inviting friends over for a cup of homegrown *Melissa officinalis* tea in no time.
+
+![](lemonbalm2.jpg)
