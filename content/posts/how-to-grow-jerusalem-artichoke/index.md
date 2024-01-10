@@ -12,13 +12,15 @@ image = "jerusalem-artichoke-tubers-freshly-harvested-root-2023-11-27-04-59-48-u
 +++
 ## **What is Jerusalem artichoke?**
 
-To put it very simply, Jerusalem artichoke is something like a combination between a potato and sunflower. Most varieties produce 10-foot-tall sturdy stalks much like a sunflower but under the soil produce knobby (some might say *ugly*) delicious little tubers. While Jerusalem artichoke is very popular in western Europe among vegetable gardeners it is actually indigenous to the central United States. It is also part of a very small handful of crops still around today that were originally domesticated by North American natives’ well before European settlers.
+To put it very simply, Jerusalem artichoke is something like a combination between a potato and sunflower. Most varieties produce 10-foot-tall sturdy stalks much like a sunflower but under the soil produce knobby (some might say ugly) delicious little tubers. While Jerusalem artichoke is very popular in western Europe among vegetable gardeners it is actually indigenous to the central United States. It is also part of a very small handful of crops still around today that were originally domesticated by North American natives’ well before European settlers arrived in the Americas.
 
 ### **Tips on Finding Seed Tubers**
 
 The first step to growing Jerusalem artichoke begins by finding some of those sweet, sweet tubers. You can start your search by looking online at places like Etsy or even Amazon but you will soon find that these little tubers are not the cheapest especially when compared to seed. With that said, usually their cost is in line with most other live seed tubers and realistically they’re no more expensive than potato seed tubers. However, unlike potatoes once you’ve grown Jerusalem artichoke, you will likely never need to buy tubers again. 
 
 If buying tubers isn't your bag there is another way to get them, its free, but you’ll need a bit of luck. Some folks view Jerusalem artichoke as something of a weed, so if you happen to come across other like-minded gardening folks and mention your interest in growing some, they may just point you in the direction of some tubers you can have for free. I procured some tubers this way last spring and the deal was what I dug up, I got to keep. So make sure to ask around because who doesn’t love free?
+
+
 
 ![](jerusalem-artichoke-tubers-in-hands-sunroot-sunc-2023-11-27-05-14-07-utc.jpg)
 
@@ -28,7 +30,7 @@ While getting tubers is important, WHERE you plant them in the garden is equally
 
 Jerusalem artichoke is versatile in the sense that your tubers won’t come out of dormancy until the soil temperature increases in spring. This means that at any point in the fall, or even early winter, so long as the soil is workable you can plant them and they will lay dormant until the time is right. If this process sounds similar to garlic, it is! However, unlike garlic, Jerusalem artichoke does not begin growing its roots in the fall like garlic does, so the timing of its planting in the fall/winter has no consequence on its productivity for the following year. It can even be transplanted in the spring in case you forget to move those sleepy little tubers in time. Like many other crops they
 
-**Pro Tip:** If you live in a windy area, it’s best to put up large stakes that are at least 5 feet tall with rope or twine around the perimeter of the bed you’ll be growing your Jerusalem artichoke. Staking gives your plants some needed support to withstand those windy summer storms.
+Pro Tip: If you live in a windy area, it’s best to put up large stakes that are at least 5 feet tall with rope or twine around the perimeter of the bed you’ll be growing your Jerusalem artichoke. Staking gives your plants some needed support to withstand those windy summer storms.
 
 ### Seasonal Maintenance
 
