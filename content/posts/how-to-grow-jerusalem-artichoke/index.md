@@ -23,7 +23,7 @@ If buying tubers isn't your bag there is another way to get them, its free, but 
 
 ![](jerusalem-artichoke-tubers-in-hands-sunroot-sunc-2023-11-27-05-14-07-utc.jpg)
 
-### **Where and When** Jerusalem Artichoke **Should Be Planted**
+### **Where and When Jerusalem Artichoke Should Be Planted**
 
 While getting tubers is important, WHERE you plant them in the garden is equally as important. This is because most varieties of Jerusalem artichoke are usually between 10 and 12 feet tall. This is likely to be the tallest "annual" crop you will ever grow. It’s easy to make the mistake of planting this crop in the middle of your garden where it WILL shade out every other sun loving crop around it. For that reason, it’s best to plant it in a block at the north section of your garden where it’s out of the way. If full sun is not an issue but very hot summers are, you can get strategic and plant your tubers in the far west section of your garden where it can provide some much-needed shade to heat sensitive crops in the middle of summer. 
 
@@ -35,7 +35,7 @@ Jerusalem artichoke is versatile in the sense that your tubers won’t come out 
 
 
 
-### Seasonal Maintenance
+### **Seasonal Maintenance**
 
 Jerusalem artichoke isn’t bothered by much, but If you live anywhere where beetle larva or grubs are an issue, growing plants that produce tubers can be a real challenge because those little grubs love delicious tubers just as much as you do! These grubs would shake you down and take the food right out of your mouth if they could. The good news is that there’s an easy, organic, and natural fix for this: beneficial nematodes. 
 
@@ -43,7 +43,7 @@ Jerusalem artichoke isn’t bothered by much, but If you live anywhere where bee
 
 Beneficial nematodes are little soil bound predators that feed on specific insect eggs and grubs. This makes them a tuber’s best friend in the garden. Most companies that offer beneficial nematodes sell them as a powder and their application is almost always the same. The instructions on the package will provide you with the water to powder mixing ratio you will need to follow and simply spray or otherwise evenly apply that mixture to your garden beds where your tubers are growing. The mixture only needs to be applied when the plants begin to flower because shortly after this is when the plants begin to form tubers. 
 
-### Harvesting Tips
+### **Harvesting Tips**
 
 You will know when it’s harvest time as you start to see the lower leaves on the plants begin to turn yellow and brown usually around late September or early October (depending on your location). 
 
@@ -59,7 +59,7 @@ As you start to look over your gold and purple bounty, you may begin to notice t
 
 Once your seed tubers are identified, simply put them back into the ground where they will become next year’s bounty. It’s best to have already picked out their new home before digging your tubers up, because unlike potatoes, they do not store well out of soil for more than a week or so. 
 
-### Preparing and Eating:
+### **Preparing and Eating**
 
 While this guide could have ended at harvest, I think it’s really important to understand how Jerusalem artichoke is best cooked and what it tastes like because after all isn't that what vegetable gardening is all about? For taste, most tubers I have tried don't differ much from one variety to next and are usually nutty, sweet, and have a touch of earthy. Like most niche foods, it’s something you really have to try for yourself to gauge whether you will like them. 
 
@@ -70,6 +70,6 @@ The best recipes I have tried involve sautéing or roasting the tubers and servi
 
 Jerusalem artichoke tubers also contain almost no starch and are packed with a type of fiber called inulin. While Jerusalem artichoke has various health advantages over potatoes, they do have one minor downside. Because the average person doesn’t consume much inulin through their regular diet, the first few times you have Jerusalem artichoke tubers in any sizable quantities, they may cause slight GI distress. It’s nothing to worry about and your gut will become accustomed to them over time, but they’ve earned the nickname “Fartichokes” for a reason. 😊 Jerusalem artichoke tubers also contain roughly half the calories per pound that potatoes do and are generally considered to be the healthier option of the two. 
 
-### Final Thoughts
+### **Final Thoughts**
 
 Jerusalem artichoke is an excellent crop if you want to grow something that is like a potato, but requires much less effort in terms of outside inputs and maintenance. In more ways than one, Jerusalem artichoke really is an incredible plant. So for those who would like to grow a very hardy and reliable crop for your kitchen garden, or you just want to try something new and interesting, Jerusalem artichoke is a great place to start. It’s amazing to watch it emerge from its slumber in the spring, beautiful to watch it flower in the Summer, and exciting to dig up its bounty in the fall. I hope that you will give it a grow this spring!
