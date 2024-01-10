@@ -1,10 +1,10 @@
 +++
 draft = false
-title = "How to Grow Jerusalem artichoke"
-slug = "How to Grow Jerusalem artichoke"
+title = "How to Grow Jerusalem Artichoke"
+slug = "How to Grow Jerusalem Artichoke"
 date = 2024-01-10T15:34:02.831Z
 author = "Jared Mann"
-plants = ["Sunflower"]
+plants = ["Sunflower", "Jerusalem Artichoke"]
 
 [cover]
 relative = false
