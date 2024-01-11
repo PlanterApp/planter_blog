@@ -1,9 +1,11 @@
 +++
 draft = true
 title = "Herbs and the Importance of Knowing Botanical Names"
-slug = "Botanical-names"
+slug = "Herbs-and-botanical-names"
 date = 2024-01-09T18:29:28.710Z
 author = "Samantha Togstad"
+plants = ["Elderberries", "Echinacea", "Lemon balm"]
+series = ["Herbs"]
 
 [cover]
 relative = false
@@ -32,9 +34,13 @@ Passionflower is an herb known for its sleep-enhancing qualities. Many nurseries
 
 ### How Planter Can Help
 
-Remembering the exact botanical name of an herb can be tricky. It helps if you have the names written down. This can be an old-fashioned pen-and-paper list or you can use your [Planter](https://planter.garden/) app and have it available any moment you need it. Create a garden in the “Gardens” tab. Next, click the notepad icon in your garden. This will bring up “Garden Notes and Events”. You can choose “Note” and then fill it in with your herb wish list using the botanical and common names. Click “Save”. You can also fill in your garden with the growing variety of herbs available in Planter. Clicking on "info" on a plant icon will show all you need to know about growing that plant, including the botanical name. You can create a [new plant](https://info.planter.garden/plant-information/create-plants/) if it isn’t in Planter. 
+Remembering the exact botanical name of an herb can be tricky. It helps if you have the names written down. This can be an old-fashioned pen-and-paper list or you can use your [Planter](https://planter.garden/) app and have it available any moment you need it. Create a garden in the “Gardens” tab. Next, click the notepad icon in your garden. This will bring up “Garden Notes and Events”. You can choose “Note” and then fill it in with your herb wish list using the botanical and common names. Click “Save”.  
 
 ![Enter garden notes in the Planter app](screenshot-1-.png "Using your Garden Notes can help keep track of plant names")
+
+You can also add  names and varieties to plants in your Planter garden by clicking a plant icon and then the "Add Note" icon. 
+
+![Add a note in your Planter garden app](screenshot-4-.png)
 
 Labeling your herbs in Planter is also helpful when some perennial plants disappear in the winter. Let Planter be your garden map and you won’t confuse your *Echinacea purpurea* with your *Echinacea angustifolia* in the spring. 
 
