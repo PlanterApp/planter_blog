@@ -2,7 +2,7 @@
 draft = true
 title = "Why Should I Grow Herbs in My Garden?"
 slug = "why-grow-herbs"
-date = 2023-12-12T17:23:03.947Z
+date = 2024-01-05T17:23:03.947Z
 author = "Samantha Togstad"
 plants = ["Rosemary", "Thyme", "Garlic", "Echinacea ", "Elderberries", "Lavender", "Sage", "Chamomile", "Parsley", "Mint", "Basil"]
 series = ["Herbs"]
@@ -13,7 +13,7 @@ relative = false
 image = "feverfew.jpg"
 alt = "Feverfew and calendula in bloom"
 +++
-Have you ever wanted to know more about herbs but weren't sure where to start? Maybe you're thinking you have to be enrolled at a school of wizardry to learn? Or maybe you have to be a medieval monk to have an apothecary garden? Not at all! The interest in herbalism is growing quickly. Many countries around the world use plants as a form of complementary medicine. There’s no better time than now to start your herbal garden.
+Have you ever wanted to know more about herbs but weren't sure where to start? Maybe you're thinking you have to be enrolled at a school of wizardry to learn. Or maybe you have to be a medieval monk to have an apothecary garden. Not at all! The interest in herbalism is growing quickly. Many countries around the world use plants as a form of complementary medicine. There’s no better time than now to start your herbal garden.
 
 ### What Makes a Plant an Herb?
 
@@ -44,7 +44,7 @@ You already know that we use culinary herbs, like rosemary, to add flavor to foo
 
 If you’re ready to add herbs to your space, you might be thinking about where to start. Here are some considerations: 
 
-* How much space do you have? Do you have enough room to have herbs such as elderberries? Or do you need to stick to the patio with container gardening? The good news is that a lot of Mediterranean herbs like thyme, rosemary, and lavender do excellent in pots!
+* How much space do you have? Do you have enough room to have herbs such as elderberries? Or do you need to stick to the patio with container gardening? The good news is that a lot of Mediterranean herbs like thyme, rosemary, and lavender do excellent in pots.
 * Do you want herbs mainly for flavoring your cooking?
 * Do you have the time for annuals? Or are perennials that come back on their own preferred? 
 * Do you want to [plan a tea garden](https://blog.planter.garden/posts/tea-garden-plan/)?
