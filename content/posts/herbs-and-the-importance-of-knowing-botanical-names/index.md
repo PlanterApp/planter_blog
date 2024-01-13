@@ -20,13 +20,11 @@ With hundreds of thousands of known plant species, and over 2,000 new plants bei
 
 ### Learn the Botanical Names of Herbs
 
-With your vegetable and flower garden you are free to choose by color, size, or even by name. Who can resist a ‘Teddy Bear’ sunflower? A pumpkin named 'Warty Goblin' deserves a spot in the fall garden.  With herbs, however, you need to have knowledge of specific varieties. In the case of the witch hazel shrub, *Hamamelis virginiana* is the preferred type for herbal use. Typically, cultivars like 'Jelena', do not have a history of traditional use. Finding a good book on herbalism will help you learn which varieties are the ones you want to use. Another good reason to learn is because some herbalists and books will only refer to a plant by its botanical name.
+With your vegetable and flower garden you are free to choose by color, size, or even by name. Who can resist a ‘Teddy Bear’ sunflower? A pumpkin named 'Warty Goblin' deserves a spot in the fall garden.  With herbs, however, you need to have knowledge of specific varieties. In the case of the witch hazel shrub, *Hamamelis virginiana* is the preferred type for herbal use. Not always, but usually cultivars, like 'Jelena', do not have a history of traditional use. Finding a good book on herbalism will help you learn which varieties are the ones you want to use. Another good reason to learn is because some herbalists and books will only refer to a plant by its botanical name.
 
 ### Safety First
 
 Many herbs have different species and each species can have different levels of the plant's active ingredients. All elderberries’ leaves, stems, roots, and seeds have some level of toxicity from the cyanogenic glycosides they have. *Sambucus racemosa*, or the red elderberry, has the highest levels of these compounds so it’s best to avoid it for herbal use. The black and blue elderberries, *Sambucus nigra*, *Sambucus canadensis*, and *Sambucus caerulea*, are preferred, as they have the least amount of cyanogenic glycosides, and with proper preparation, are the safest elderberries to use.
-
-
 
 ![Highlighting the botanical name of passionflower](passiflora.jpg)
 
@@ -38,15 +36,29 @@ Passionflower is an herb known for its sleep-enhancing qualities. Many nurseries
 
 Remembering the exact botanical name of an herb can be tricky. It helps if you have the names written down. This can be an old-fashioned pen-and-paper list or you can use your [Planter](https://planter.garden/) app and have it available any moment you need it. Create a garden in the “Gardens” tab. Next, click the notepad icon in your garden. This will bring up “Garden Notes and Events”. Add a new “Note” and then fill it in with your herb wish list using the botanical and common names. Click “Save”.  
 
-![Enter garden notes in the Planter app](screenshot-1-.png "Using your Garden Notes can help keep track of plant names")
+![Using Garden Notes in the Planter app to keep track of herb names](screenshot-1-.png "Garden Notes help keep things organized")
 
-You can also add  names and varieties to plants in your Planter garden by clicking a plant icon and then the "Add Note" icon. 
 
-![Add a note in your Planter garden app](screenshot-4-.png)
 
-Labeling your herbs in Planter is also helpful when some perennial plants disappear in the winter. Let Planter be your garden map and you won’t confuse your *Echinacea purpurea* with your *Echinacea angustifolia* in the spring. 
+Planter also lists botanical names in the information section of many plants:
 
-### Conclusion
+![The botanical name of Lemon balm listed in the Planter app](screenshot-9-.png)
+
+
+
+
+
+If a specific variety isn't listed in the information section of a certain plant, you can add that yourself. While in your garden, click the plant icon and then choose "Add Note". There you can add the variety you have. It will come up in the information under "Notes and Events".
+
+![Add a specific variety of Echinacea in the Planter app notes](screenshot-8-.png)
+
+
+
+
+
+
+
+Labeling your herbs in Planter is also helpful for when some perennial plants disappear in the winter. Let Planter be your garden map and you won’t confuse your *Echinacea purpurea* with your *Echinacea angustifolia* in the spring. 
 
 It might seem overwhelming to learn the botanical names, but it’s an important part of having an herbal garden. With a little studying and the help of Planter, you’ll be inviting friends over for a cup of homegrown *Melissa officinalis* tea in no time.
 
