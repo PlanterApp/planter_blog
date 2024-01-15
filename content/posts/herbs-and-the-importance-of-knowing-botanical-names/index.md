@@ -34,29 +34,9 @@ Passionflower is an herb known for its sleep-enhancing qualities. Many nurseries
 
 ### How Planter Can Help
 
-Remembering the exact botanical name of an herb can be tricky. It helps if you have the names written down. This can be an old-fashioned pen-and-paper list or you can use your [Planter](https://planter.garden/) app and have it available any moment you need it. Create a garden in the “Gardens” tab. Next, click the notepad icon in your garden. This will bring up “Garden Notes and Events”. Add a new “Note” and then fill it in with your herb wish list using the botanical and common names. Click “Save”.  
+Planter lists the botanical name in the information section of a plant. You can enter a specific variety yourself too.  Check out this link on how to [create a custom variety](https://info.planter.garden/plant-information/custom-varieties/). 
 
-![Using Garden Notes in the Planter app to keep track of herb names](screenshot-1-.png "Garden Notes help keep things organized")
-
-
-
-Planter also lists botanical names in the information section of many plants:
-
-![The botanical name of Lemon balm listed in the Planter app](screenshot-9-.png)
-
-
-
-
-
-If a specific variety isn't listed in the information section of a certain plant, you can add that yourself. While in your garden, click the plant icon and then choose "Add Note". There you can add the variety you have. It will come up in the information under "Notes and Events".
-
-![Add a specific variety of Echinacea in the Planter app notes](screenshot-8-.png)
-
-
-
-
-
-
+![Create custom plant varieties in Planter ](screenshot-10-.png)
 
 Labeling your herbs in Planter is also helpful for when some perennial plants disappear in the winter. Let Planter be your garden map and you won’t confuse your *Echinacea purpurea* with your *Echinacea angustifolia* in the spring. 
 
