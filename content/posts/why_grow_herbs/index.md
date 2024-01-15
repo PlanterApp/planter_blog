@@ -2,7 +2,7 @@
 draft = true
 title = "Why Should I Grow Herbs in My Garden?"
 slug = "why-grow-herbs"
-date = 2024-01-05T17:23:03.947Z
+date = 2024-01-15T17:23:03.947Z
 author = "Samantha Togstad"
 plants = ["Rosemary", "Thyme", "Garlic", "Echinacea ", "Elderberries", "Lavender", "Sage", "Chamomile", "Parsley", "Mint", "Basil"]
 series = ["Herbs"]
