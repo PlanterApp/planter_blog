@@ -7,12 +7,14 @@ author = "The Planter Team"
 
 [cover]
 relative = false
-image = "seed-box.jpg"
+image = "seed-box-cover.jpg"
 alt = "Screenshot of the Seed Box feature in Planter"
 +++
 To kick off the 2024 garden planning season, the Planter Team would like to announce a brand-new feature: the Seed Box! The Seed Box lets you keep track of all the seeds in your seed collection. No more buying too many seeds every year! (or at least…no more excuses😉)
 
 > **Note:** If you are using Planter on Android or IoS, be sure to update to the latest version to be able to access the seed box.
+
+![Screenshot of the Seed Box feature in Planter](seed-box.jpg)
 
 [Add seed packets](https://info.planter.garden/track-seeds/how-to-add/) to your Seed Box along with information about when you bought them (or saved them), how full the packet is, where you sourced them from, and any other notes about the seeds.
 
