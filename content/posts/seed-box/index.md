@@ -24,4 +24,4 @@ If you’ve already [favorited varieties](https://info.planter.garden/plant-info
 
 We hope you find the Seed Box handy to catalog your seed inventory and for planning your seed purchases. We’ll be continuing to roll out some very cool enhancements to the Seed Box to make the garden planning to seed purchase process super-slick!
 
-If you have ideas for how we could improve the Seed Box or any other Planter features use the [Feature Request list](https://planter.garden/requests) to upvote requests or submit a new request!
+> If you have ideas for how we could improve the Seed Box or any other Planter features use the [Feature Request list](https://planter.garden/requests) to upvote requests or submit a new request!
