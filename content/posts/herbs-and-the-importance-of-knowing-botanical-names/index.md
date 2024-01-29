@@ -2,7 +2,7 @@
 draft = true
 title = "Herbs and the Importance of Knowing Botanical Names"
 slug = "Herbs-and-botanical-names"
-date = 2024-01-09T18:29:28.710Z
+date = 2024-01-29T19:58:51.403Z
 author = "Samantha Togstad"
 plants = ["Elderberries", "Echinacea", "Lemon balm"]
 series = ["Herbs"]
@@ -34,11 +34,11 @@ Passionflower is an herb known for its sleep-enhancing qualities. Many nurseries
 
 ### How Planter Can Help
 
-Planter lists the botanical name in the information section of a plant. You can enter a specific variety yourself too.  Check out this link on how to [create a custom variety](https://info.planter.garden/plant-information/custom-varieties/). 
+Planter lists the botanical name in the information section of a plant. If a specific variety isn't listed, you can add one yourself.  Check out how to [create a custom variety](https://info.planter.garden/plant-information/custom-varieties/). 
 
 ![Create custom plant varieties in Planter ](screenshot-10-.png)
 
-Labeling your herbs in Planter is also helpful for when some perennial plants disappear in the winter. Let Planter be your garden map and you won’t confuse your *Echinacea purpurea* with your *Echinacea angustifolia* in the spring. 
+Labeling your herbs in Planter is helpful for when some perennial plants disappear in the winter. Let Planter be your garden map and you won’t confuse your *Echinacea purpurea* with your *Echinacea angustifolia* in the spring. 
 
 It might seem overwhelming to learn the botanical names, but it’s an important part of having an herbal garden. With a little studying and the help of Planter, you’ll be inviting friends over for a cup of homegrown *Melissa officinalis* tea in no time.
 
