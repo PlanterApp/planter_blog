@@ -10,6 +10,8 @@ relative = false
 image = "peter-garden.jpg"
 alt = "A view of Peter's community garden plot with several garden beds, a trellis, and a table and chairs"
 +++
+We here at Team Planter are getting busy planning our 2024 gardens in Planter! We hope you'll find inspiration for your own garden from the unique plans our team members have been working on:
+
 ## Peter
 
 ![A screenshot of Peter's community garden plan in Planter](peter-plan.png "Peter's community garden plan")
