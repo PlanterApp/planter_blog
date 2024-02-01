@@ -40,6 +40,8 @@ I’m working with a small suburban yard so the main challenge with garden plann
 
 ## Samantha
 
+![A screenshot of Samantha's garden plan in Planter](samantha-plan.png)
+
 This year I’m focusing on the vegetables that my family loves to eat. I have two children who love salads, so I’m letting them help out with the lettuce and radishes. Peas are always a favorite. Bok choy is a new addition.  We love salsa so there will be plenty of tomatoes, jalapenos, cayenne, and tomatillos. You can never have enough pesto either, so I am planning on lots of basil as well. I always have a couple of pumpkins in the patch too.
 
 I put most of my energy towards my beloved medicinal herb garden and I have quite a few plants to keep track of. A lot of plants in this garden are perennials, or they self-sow, so I don’t have to do a whole lot except to keep it weeded. A short list of some of my herbs: bee balm, echinacea, yarrow, valerian, feverfew, and skullcap. I have “weeds” like plantain, dandelion, chickweed, goldenrod, and nettles. I’ll be starting some holy basil and toothache plants soon. I am adding more catnip because my dog ate them all last year! I’m a lover of lavender and I will be adding a couple of new varieties. I have typical fruit trees such as apple and pear, but this year I want to add a quince to the collection.  They are supposed to smell amazing!
