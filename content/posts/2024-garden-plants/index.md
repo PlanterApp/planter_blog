@@ -8,16 +8,23 @@ author = "The Planter Team"
 [cover]
 relative = false
 image = "peter-garden.jpg"
+alt = "A view of Peter's community garden plot with several garden beds, a trellis, and a table and chairs"
 +++
 ## Peter
+
+![A screenshot of Peter's community garden plan in Planter](peter-plan.png "Peter's community garden plan")
 
 My garden is a 20x30 ft community garden plot since I live in the woods and the oak trees shade out pretty much everything. This year I’m excited to be growing many new varieties. I’m most excited about the Habanada peppers, which supposedly have some of the flavor of a Habanero pepper without the spice. Another variety I’m excited to try is the Cosmic Purple carrots. Up to this point, I’ve only ever eaten orange carrots. Finally, I’m trying four new cucumber varieties, all bred specifically for pickling. Last year I tried pickling some regular cucumbers and was disappointed in the texture. Hopefully at least one of these varieties will do well in my garden. I’ve positioned the cucumbers and squash in one single bed so that I can cover it to prevent the cucumber beetle and squash bugs from taking over. This bed will also have all-new soil since something wasn’t quite right with the old soil (3 years of bad harvests).\
 \
 I also plan to rip out the dwindling asparagus bed and put in 2 more raised beds for vining plants like watermelon and pumpkins. In between those beds will be a large garden tool chest that I’ll build to store my shovels and garden supplies.
 
+![A screenshot of Peter's GreenStalk plan in Planter](peter-greenstalk-plan.png "Peter's GreenStalk plan")
+
 Back at my home in the woods, I have a GreenStalk. It’s situated on my deck in the sunniest part of the yard, although it still only gets enough sunlight during the spring before the trees get their leaves. This year I’m testing the limits by planting a Patio Choice Yellow Tomato on the GreenStalk, although I doubt I’ll get many tomatoes from it. The rest of the GreenStalk is devoted to low-light veggies like lettuce, spinach, green onions, and herbs. We don’t have proper GreenStalk support in Planter (yet), but I approximated it as you can see in the screenshot. Each layer holds 6 plants and there are 6 layers. The gray boxes indicate the gaps between each layer.
 
 ## Wren
+
+![A screenshot of Wren's garden plan in Planter](wren-plan.png)
 
 I’m fortunate to have a large yard, but I’m unfortunate to have a deer problem so my gardens haven’t expanded as much as I’d like them to. Once we have the funds to create a fully fenced in garden that’ll be a different story, but for now I stick to what I can (hopefully) protect from the deer. In my veggie garden box this year I’ll be growing parsley, sage, snow peas, turnips, and bitter melon! I don’t like to eat bitter melons, but my mother in law does, so I grow them for her. Plus they attract a lot of pollinators with their beautiful yellow flowers and deer don’t much care for them at all, so they make a good natural wall to protect my other vegetables.
 
