@@ -36,6 +36,10 @@ I’m very passionate about pollinators and local flora and fauna so I have many
 
 ## Erin
 
+![A screenshot of Erin's garden plan in Planter](erin-plan1.png)
+
+![A second screenshot of Erin's garden plan in Planter](erin-plan2.png)
+
 I’m working with a small suburban yard so the main challenge with garden planning is always trying to cram too many plants into a small space! In addition to packing plenty of herbs and plants into my patio containers, I have a small side yard garden and four in-ground beds in the backyard to work with. The side garden receives partial sun so I’ve selected plants that won’t mind a bit of shade (the carrots will get the most sun). The four backyard garden beds receive full sun (or close to it) so this is where I’ve added sun-loving plants. Most of these plants are old favorites but I plan to try a few ‘experiments’- this year it's watermelon, peanuts, and okra!
 
 ## Samantha
