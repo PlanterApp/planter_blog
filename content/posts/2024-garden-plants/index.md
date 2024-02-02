@@ -26,7 +26,7 @@ Back at my home in the woods, I have a GreenStalk. It’s situated on my deck in
 
 ## Wren
 
-![A screenshot of Wren's garden plan in Planter](wren-plan.png)
+![A screenshot of Wren's garden plan in Planter](wren-plan.png "Wren's garden plan, made with a combination of Planter and Adobe Illustrator")
 
 I’m fortunate to have a large yard, but I’m unfortunate to have a deer problem so my gardens haven’t expanded as much as I’d like them to. Once we have the funds to create a fully fenced in garden that’ll be a different story, but for now I stick to what I can (hopefully) protect from the deer. In my veggie garden box this year I’ll be growing parsley, sage, snow peas, turnips, and bitter melon! I don’t like to eat bitter melons, but my mother in law does, so I grow them for her. Plus they attract a lot of pollinators with their beautiful yellow flowers and deer don’t much care for them at all, so they make a good natural wall to protect my other vegetables.
 
