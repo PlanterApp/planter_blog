@@ -32,11 +32,13 @@
             <a href="{{ $src | absURL }}" target="_blank" rel="noopener noreferrer">
         {{ end -}}
         {{- if $uploadCare }}
-            <img loading="lazy" alt="{{ .Text }}" title="{{ .Title }}" srcset="{{- range $size := $sizes -}}
-                {{ printf "%s/-/resize/%s %s" (.Destination | safeURL) (printf "%sx" $size) (printf "%sw ," $size) -}}
-            {{- end -}}
-            sizes="(min-width: 768px) 720px, 100vw" src="{{ .Destination | safeURL }}" alt="{{ $alt }}"
-            style="max-height:600px; object-fit: contain;">
+            {{- $url := (.Destination | safeURL) }}
+            <img loading="lazy" alt="{{ $alt }}" srcset="
+                {{- range $size := $sizes -}}
+                    {{ printf "%s %s %s %s" $url (print "/-/resize/") (printf "%sx" $size) (printf "%sw ," $size) -}}
+                {{- end -}}
+                " sizes="(min-width: 768px) 720px, 100vw" src="{{ $url }}" alt="{{ $alt }}"
+                style="max-height:600px; object-fit: contain;">
         {{- else }}
             <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}">
         {{- end }}
