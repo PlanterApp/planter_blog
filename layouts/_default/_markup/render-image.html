@@ -39,9 +39,9 @@
                 {{- end -}}
                 " sizes="(min-width: 768px) 720px, 100vw"
                 src="{{ $url }}" alt="{{ $alt }}" style="max-height:600px; object-fit: contain;">
-        {{- else }}
-            <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}">
-        {{- end }}
+            {{- else }}
+                <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}">
+            {{- end }}
         {{- end }}
         {{- if $addLink }}</a>{{ end -}}
     {{/*  Display Caption  */}}
