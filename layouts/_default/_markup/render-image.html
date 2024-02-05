@@ -16,7 +16,7 @@
         {{- end -}}
         {{- $prod := (hugo.IsProduction | or (eq .Page.Site.Params.env "production")) }}
         {{- if (and (in $processableFormats $src.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
-                <!-- Src image --><img loading="lazy" alt="{{ .Text }}" title="{{ .Title }}" srcset="{{- range $size := $sizes -}}
+                <p>src</p><img loading="lazy" alt="{{ .Text }}" title="{{ .Title }}" srcset="{{- range $size := $sizes -}}
             {{- if (ge $src.Width $size) -}}
                 {{ printf "%s %s" (($src.Resize (printf "%sx" $size)).Permalink) (printf "%sw ," $size) -}}
             {{ end }}
@@ -25,12 +25,12 @@
         sizes="(min-width: 768px) 720px, 100vw" src="{{ $src.Permalink }}" alt="{{ $alt }}"
         width="{{ $src.Width }}" style="max-height:600px; object-fit: contain;">
     {{- else }}{{/* Unprocessable image or responsive images disabled */}}
-        <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}"><!-- Unprocessable image -->
+        <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}"><p>unprocessable</p>
     {{- end }}
     {{- else }}{{/* For absolute urls and external links, no img processing here */}}
         {{- if $addLink }}
             <a href="{{ $src | absURL }}" target="_blank" rel="noopener noreferrer">{{ end -}}
-            <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}"> <!-- External image -->
+            <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}"> <p>external</p>
         {{- end }}
         {{- if $addLink }}</a>{{ end -}}
     {{/*  Display Caption  */}}
