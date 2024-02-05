@@ -3,6 +3,10 @@ backend:
   branch: main
 
 media_folder: "content/uploads"
+media_library:
+  name: uploadcare
+  config:
+    publicKey: "d92ab83842bf39b45c62"
 public_folder: "/uploads"
 display_url: https://blog.planter.garden
 logo_url: https://planter.garden/favicon.svg
