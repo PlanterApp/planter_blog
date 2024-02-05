@@ -3,6 +3,7 @@
     {{- $responsiveImages := (.Page.Params.responsiveImages | default .Page.Site.Params.responsiveImages) | default true }}
     {{- $addLink := .Page.Site.Params.linkFullImages | default false }}
     {{- $src := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL))  }}
+    {{- $uploadCare := string.Contains (printf "%s" (.Destination | safeURL)) "ucarecdn.com" }}
     {{- $alt := .PlainText | safeHTML }}
     {{- if $src -}}{{/* i.e it is present in page bundle */}}
         {{- if $addLink }}
@@ -24,12 +25,12 @@
         sizes="(min-width: 768px) 720px, 100vw" src="{{ $src.Permalink }}" alt="{{ $alt }}"
         width="{{ $src.Width }}" style="max-height:600px; object-fit: contain;">
     {{- else }}{{/* Unprocessable image or responsive images disabled */}}
-        <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}">
+        <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}"><!-- Unprocessable image -->
     {{- end }}
     {{- else }}{{/* For absolute urls and external links, no img processing here */}}
         {{- if $addLink }}
             <a href="{{ $src | absURL }}" target="_blank" rel="noopener noreferrer">{{ end -}}
-            <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}">
+            <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}"> <!-- External image -->
         {{- end }}
         {{- if $addLink }}</a>{{ end -}}
     {{/*  Display Caption  */}}

@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Test Image Upload Tool"
 slug = "Test Image Upload Tool"
 date = 2024-02-05T16:28:34.798Z
