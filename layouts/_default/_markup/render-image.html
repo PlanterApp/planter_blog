@@ -3,7 +3,7 @@
     {{- $responsiveImages := (.Page.Params.responsiveImages | default .Page.Site.Params.responsiveImages) | default true }}
     {{- $addLink := .Page.Site.Params.linkFullImages | default false }}
     {{- $src := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL))  }}
-    {{- $uploadCare := string.Contains (printf "%s" (.Destination | safeURL)) "ucarecdn.com" }}
+    {{- $uploadCare := strings.Contains (printf "%s" (.Destination | safeURL)) "ucarecdn.com" }}
     {{- $alt := .PlainText | safeHTML }}
     {{- if $src -}}{{/* i.e it is present in page bundle */}}
         {{- if $addLink }}
