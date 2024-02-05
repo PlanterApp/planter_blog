@@ -5,11 +5,11 @@
     {{- $src := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL))  }}
     {{- $uploadCare := strings.Contains (printf "%s" (.Destination | safeURL)) "ucarecdn.com" }}
     {{- $alt := .PlainText | safeHTML }}
+    {{- $sizes := (slice "360" "480" "720" "1080" "1500") }}
     {{- if $src -}}{{/* i.e it is present in page bundle */}}
         {{- if $addLink }}
             <a href="{{ $src | relURL }}" target="_blank" rel="noopener noreferrer">
         {{ end -}}
-        {{- $sizes := (slice "360" "480" "720" "1080" "1500") }}
         {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
         {{- if hugo.IsExtended -}}
             {{- $processableFormats = $processableFormats | append "webp" -}}
@@ -29,8 +29,17 @@
     {{- end }}
     {{- else }}{{/* For absolute urls and external links, no img processing here */}}
         {{- if $addLink }}
-            <a href="{{ $src | absURL }}" target="_blank" rel="noopener noreferrer">{{ end -}}
-            <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}"> <p>external</p>
+            <a href="{{ $src | absURL }}" target="_blank" rel="noopener noreferrer">
+        {{ end -}}
+        {{- if $uploadCare }}
+            <img loading="lazy" alt="{{ .Text }}" title="{{ .Title }}" srcset="{{- range $size := $sizes -}}
+                {{ printf "%s/-/resize/%s %s" (.Destination | safeURL) (printf "%sx" $size) (printf "%sw ," $size) -}}
+            {{- end -}}
+            sizes="(min-width: 768px) 720px, 100vw" src="{{ .Destination | safeURL }}" alt="{{ $alt }}"
+            style="max-height:600px; object-fit: contain;">
+        {{- else }}
+            <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ $alt }}">
+        {{- end }}
         {{- end }}
         {{- if $addLink }}</a>{{ end -}}
     {{/*  Display Caption  */}}
