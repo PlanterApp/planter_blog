@@ -35,7 +35,7 @@
             {{- $url := (.Destination | safeURL) }}
             <img loading="lazy" alt="{{ $alt }}" srcset="
                 {{- range $size := $sizes -}}
-                    {{ printf "%s %s %s %s" $url (print "/-/resize/") (printf "%sx" $size) (printf "%sw ," $size) -}}
+                    {{ printf "%s %s %s %s" (printf "%s" $url) (print "/-/resize/") (printf "%sx" $size) (printf "%sw ," $size) -}}
                 {{- end -}}
                 " sizes="(min-width: 768px) 720px, 100vw" src="{{ $url }}" alt="{{ $alt }}"
                 style="max-height:600px; object-fit: contain;">
