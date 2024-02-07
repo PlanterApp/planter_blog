@@ -4,11 +4,11 @@ backend:
 
 media_folder: "content/uploads"
 media_library:
-  - name: uploadcare
-    config:
-     publicKey: "d92ab83842bf39b45c62"
-    settings:
-     autoFilename: true
+  name: uploadcare
+  config:
+    publicKey: "d92ab83842bf39b45c62"
+  settings:
+    autoFilename: true
 public_folder: "/uploads"
 display_url: https://blog.planter.garden
 logo_url: https://planter.garden/favicon.svg
