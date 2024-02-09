@@ -1,0 +1,69 @@
+{{ $src := .src }}
+{{ $srcUrl := .srcUrl }}
+{{ $alt := .alt | default .caption | plainify }}
+{{ $responsiveImages := .responsiveImages | default site.Params.cover.responsiveImages | default true}}
+<figure {{ if .class }} class="{{ .class }}" {{ end }}>
+    {{ $addLink := (and .linkFullImages (not $.IsHome)) }}
+    {{ $sizes := (slice "360" "480" "720" "1080" "1500") }}
+    {{ if $src }}{{/* i.e it is present in page bundle */}}
+    {{ if $addLink }}
+    <a href="{{ $src | relURL }}" target="_blank" rel="noopener noreferrer">
+        {{ end }}
+        {{ $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") }}
+        {{ if hugo.IsExtended }}
+            {{ $processableFormats = $processableFormats | append "webp" }}
+        {{ end }}
+        {{ $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+        {{ if (and (in $processableFormats $src.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
+            <img loading="lazy" alt="{{ $alt }}" title="{{ .context.Title }}" srcset="
+            {{ range $size := $sizes }}
+                {{ if (ge $src.Width $size) }}
+                    {{ printf "%s %s" (($src.Resize (printf "%sx" $size)).Permalink) (printf "%sw ," $size) }}
+                {{ end }}
+            {{ end }}
+            {{ $src.Permalink }} {{printf "%dw" ($src.Width)}}"
+            sizes="(min-width: 768px) 720px, 100vw" src="{{ $src.Permalink }}" alt="{{ $alt }}"
+            width="{{ $src.Width }}" style="max-height:600px; object-fit: contain;">
+        {{ else }} {{/* Unprocessable image or responsive images disabled */}}
+            <img loading="lazy" src="{{ $srcUrl }}" alt="{{ $alt }}">
+        {{ end }}
+        {{ else }} {{/* For absolute urls and external links, no img processing here */}}
+            {{ $fullUrl := $srcUrl }}
+            {{ $parsedUrl := urls.Parse $fullUrl }}
+            {{ $path := path.Split ($parsedUrl.Path) }}
+            {{ $pathDir := $path.Dir }}
+            {{ $pathFile := $path.File }}
+            {{ $pathExt := path.Ext $path}}
+            {{ $uploadCare := strings.Contains $fullUrl "ucarecdn.com" }}
+            {{ $isAnimated := eq $pathExt ".gif" }}
+            {{ $gif2Video := false }}
+            {{ if $addLink }}
+                <a href="{{ $fullUrl }}" target="_blank" rel="noopener noreferrer">
+            {{ end }}
+            {{ if (and $uploadCare (not $isAnimated)) }}
+                {{ $urlWithoutFileName := printf "https://ucarecdn.com%s" $pathDir }}
+                {{ $params := "-/format/auto/-/quality/smart/" }}
+                <img loading="lazy" srcset="
+                {{ range $size := $sizes }}
+                    {{ printf "%s%s-/resize/%s %s" $urlWithoutFileName $params (printf "%sx/" $size) (printf "%sw," $size) }}
+                {{ end }}
+                " sizes="(min-width: 768px) 720px, 100vw"
+                src="{{ $fullUrl }}" alt="{{ $alt }}" style="max-height:600px; object-fit: contain;">
+            {{ else if (and $uploadCare $isAnimated $gif2Video) }}
+                {{ $urlWithoutFileName := printf "https://ucarecdn.com%s" $pathDir }}
+                {{ $params := "gif2video/-/format/webm/" }}
+                <video autoplay loop muted webkit-playsinline playsinline>
+                    <source src="{{ printf "%s%s-/format/webm/%s" $urlWithoutFileName $params $pathFile }}" type="video/webm"/>
+                </video>
+            {{ else }}
+                <img loading="lazy" src="{{ $fullUrl }}" alt="{{ $alt }}">
+            {{ end }}
+        {{ end }}
+        {{ if $addLink }}
+            </a>
+        {{ end }}
+        {{/*  Display Caption  */}}
+        {{ if (and .caption (not .isHome)) }}
+            <figcaption>{{ .caption | markdownify}}</figcaption>
+        {{ end }}
+</figure>

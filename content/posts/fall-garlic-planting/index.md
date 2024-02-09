@@ -8,7 +8,7 @@ plants = ["garlic"]
 
 [cover]
 relative = false
-image = "garlic-cloves.jpg"
+image = "https://ucarecdn.com/6d38de04-bacc-4553-8ee6-29e2985d098f/garlic-cloves.jpg"
 caption = ""
 alt = "A hand arranging garlic cloves on the soil surface"
 +++
@@ -34,7 +34,7 @@ To plant garlic you’ll want to separate the bulbs into individual cloves, leav
 
 How deep to plant your garlic is also a topic with some conflicting advice. It depends on where you live, your soil type, and whether you plan to add a layer of mulch on top. In very cold climates gardeners may plant garlic up to 4” deep to protect it from winter chill, but in less extreme regions 2-3” is sufficient. If you’re planting into a heavier clay soil you may not want to plant your garlic as deeply so the cloves don’t rot over winter. Gardeners often mulch their garlic to help protect it from temperature extremes in winter- if you’re going to be applying a thick layer of mulch you won’t need to plant your garlic quite as deep.
 
-![A gloved hand covering a garlic clove with soil](planting-garlic.jpg)
+![A gloved hand covering a garlic clove with soil](https://ucarecdn.com/f33944ec-df16-402e-9d25-a7fd67b33f79/planting-garlic.jpg)
 
 While you can grow garlic in containers, in colder regions you’ll need to take steps to prevent it from taking damage from deep freezing. Consider using extra mulch in and around the container and shelter the container or bring it into a cold garage where it won’t be exposed to extreme temperatures.
 
@@ -42,4 +42,4 @@ Once you have your garlic planted, avoid watering it (unless you’re experienci
 
 If you haven’t grown garlic before, it might seem like a pain in the *neck* 🙂. But growing garlic is totally worthwhile even if it means you have to go out on a chilly, windy day and dig around in cold wet soil! You’ll be amply rewarded with your garlic harvest next year…you might even be able to skip buying garlic from the store completely!
 
-![Several newly-harvested garlic plants laid out on the grass](garlic-harvest.jpg)
+![Several newly-harvested garlic plants laid out on the grass](https://ucarecdn.com/45b82b57-2cbb-4c66-8206-7c846cfa15ea/garlic-harvest.jpg)

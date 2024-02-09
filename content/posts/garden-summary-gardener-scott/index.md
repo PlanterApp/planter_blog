@@ -8,7 +8,7 @@ author = "Peter Keefe"
 
 [cover]
 relative = true
-image = "snapshot1-1-.jpg"
+image = "https://ucarecdn.com/2c3bc70d-bf56-4b8c-af27-a94ca5a6d63c/snapshot1-1-.jpg"
 caption = "From left-to-right: [Gardener Scott](https://www.youtube.com/@GardenerScott), [Erin Thomson](https://blog.planter.garden/author/erin-thomson/), and [Peter Keefe](https://blog.planter.garden/author/peter-keefe/)"
 alt = "From left-to-right: Gardener Scott, Erin Thomson, and Peter Keefe"
 +++
@@ -24,11 +24,11 @@ So, what is the Garden Summary exactly?
 
 As passionate gardeners ourselves, we understand the challenges of planning and managing a garden. To make this easier, we wanted a way to view key details about your garden quickly and easily in Planter.
 
-![Screenshot showing how to access the Garden Summary view.](screenshot-2023-06-06-at-4.09.15-pm.png "You can find the new Garden Summary by tapping the ⋮ symbol while viewing any garden.")
+![Screenshot showing how to access the Garden Summary view.](https://ucarecdn.com/5a36e17f-553b-4d09-954a-6df5404e5562/screenshot-2023-06-06-at-4.09.15-pm.png "You can find the new Garden Summary by tapping the ⋮ symbol while viewing any garden.")
 
 ### Plant Quantity Breakdown
 
-![Screenshot of the Garden Summary plant quantity view.](screenshot-2023-06-06-at-4.10.59-pm.png "The Garden Summary shows exactly how many of each plant you've got in a bed, and breaks it down by variety.")
+![Screenshot of the Garden Summary plant quantity view.](https://ucarecdn.com/894519d6-40e5-4cfe-ad76-8b9c8aa750c2/screenshot-2023-06-06-at-4.10.59-pm.png "The Garden Summary shows exactly how many of each plant you've got in a bed, and breaks it down by variety.")
 
 Ever found yourself in a nursery, scratching your head, wondering how many plants or seeds to buy? Worry no more! With the summary view, we provide you with the exact quantity of each plant and variety in your garden bed. It takes the guesswork out of your shopping list, making sure you get just the right number of plants to thrive in your garden.
 
@@ -40,7 +40,7 @@ In addition to plant quantities, the Garden Summary shows all of your garden’s
 
 *(Exporting is a [Premium feature](https://info.planter.garden/account/premium-subscription/))*
 
-![The downloaded Garden Summary PDF.](screenshot-2023-06-06-at-4.57.38-pm.png "Sometimes you just need your plan on physical paper, and that's okay 🖨️.")
+![The downloaded Garden Summary PDF.](https://ucarecdn.com/c4d5f670-1411-4a4b-a2e1-997da7f3e83c/screenshot-2023-06-06-at-4.57.38-pm.png "Sometimes you just need your plan on physical paper, and that's okay 🖨️.")
 
 We know how important it is to have your garden plan easily accessible. That's why we've included the ability to export your Garden Summary to PDF or CSV format. You can print it, save it on your device, or share it with friends and fellow gardeners. 
 

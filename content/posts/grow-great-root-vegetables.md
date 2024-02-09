@@ -8,7 +8,7 @@ title = "Grow Great Root Vegetables"
 [cover]
 alt = "Bunches of red beets and yellow carrots"
 caption = "Colorful carrot and beet harvest"
-image = "/uploads/carrots-and-beets.jpg"
+image = "https://ucarecdn.com/acd3a8fc-4839-4f3e-ab71-d977abbe844a/carrots-and-beets.jpg"
 
 +++
 Vegetables that are grown mainly for their roots, such as carrots, beets, radishes, and turnips, are some of the most rewarding crops to grow. Since the root is hidden underground, you never quite know what to expect come harvest time!
@@ -31,7 +31,7 @@ Root crops are cool weather crops, generally planted in spring or in late summer
 
 Root crops can tolerate part shade, but they do best in a full-sun location. Proper plant spacing is important for root crops. Check [Planter](https://planter.garden/) to determine the proper square-foot spacing for the crops you are planting:
 
-![Screenshot of beets square-foot spacing in Planter](/uploads/beets-screenshot.jpg)
+![Screenshot of beets square-foot spacing in Planter](https://ucarecdn.com/60fc2038-105a-437c-8afa-a057889125df/beets-screenshot.jpg)
 
 Root crops do not compete well with weeds especially when they are just sprouting. Ensure the planting area is clear of weeds and keep up with weeding. The seeds need consistent moisture to germinate, which can be challenging when sowing outdoors. Water the area to be planted prior to seeding and keep it damp. You can cover the planting area to hold in moisture, but be sure to remove the cover as soon as the seeds sprout!
 
@@ -39,7 +39,7 @@ As the crops grow they still need consistent, adequate watering. If the soil dri
 
 ### Harvesting Root Crops
 
-![Freshly harvested carrots resting on the ground](/uploads/carrot-harvest.jpg)
+![Freshly harvested carrots resting on the ground](https://ucarecdn.com/e2816511-74b8-46a1-9450-d692b9dc2769/carrot-harvest.jpg)
 
 Knowing when to harvest root crops can be a bit of a mystery since the roots are underground. The main way to know when the crop is ready to harvest is to keep track of the days to maturity (listed on the seed packet). When enough time has passed for the plants to reach maturity, pull out a few testers to check if they are a harvestable size. With some types of root crops you can spot the top part of the root poking out of the soil, which hints at how big the root is.
 

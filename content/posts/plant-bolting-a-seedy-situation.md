@@ -8,7 +8,7 @@ title = "Plant Bolting: A Seedy Situation"
 [cover]
 alt = "A radish plant starting to bolt"
 caption = "A radish plant starting to bolt"
-image = "/uploads/bolting-radish.jpg"
+image = "https://ucarecdn.com/78485eb6-219d-48e8-8db3-57187be9c18d/bolting-radish.jpg"
 
 +++
 The first time your hear a gardener use the word ‘bolting’ in the same sentence as ‘plants’ it can be a bit of a head-scratcher (_...are they running away?_) In the gardening world, bolting refers to a non-fruiting plant that has started to produce flowers and seeds- also known as ‘going to seed’. Gardeners often see bolting as a bad thing, but it doesn’t have to be!
@@ -37,7 +37,7 @@ Not convinced about those radish pods? Still want to grow fresh lettuce mid-seas
 * Ensure the plant has sufficient moisture and nutrients. A stressed plant will tend to hasten flowering and seed production.
 * Regular harvesting of the outer (oldest) leaves of leafy vegetables and herbs can help encourage the plant to keep producing new leaves. Some leafy crops can be harvested by hand but for a delicate job you may want to use fine-tipped [pruning shears](https://www.amazon.com/s?k=pruning+shears).
 
-![](/uploads/harvest-lettuce.jpg)
+![](https://ucarecdn.com/17dc416e-175b-43b5-8920-7881a78d6e70/harvest-lettuce.jpg)
 
 * For some plants, such as basil, snipping off flower stalks as soon as they appear can encourage the plant to keep on growing leaves. For others, like lettuce, unfortunately this will have little effect as the leaves will already be turning bitter.
 * [Succession planting](https://blog.planter.garden/posts/succession-planting-for-nonstop-harvests/) can help to ensure consistent harvests of plants that have not yet bolted.

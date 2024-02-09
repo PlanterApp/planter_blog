@@ -8,7 +8,7 @@ author = "Peter Keefe"
 
 [cover]
 relative = true
-image = "sphagnum_divinum_158671021.jpg"
+image = "https://ucarecdn.com/97a68e74-4ef3-40ef-92b2-11c64d0f5372/sphagnum_divinum_158671021.jpg"
 alt = "Green shovel in garden soil"
 caption = "Live sphagnum moss. Marcel Hospers, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 +++
@@ -20,7 +20,7 @@ But first, what is peat and where does it come from?
 
 **Peat** is partially decomposed organic matter that forms in wetlands. It is made up of mosses, sedges (think tall grasses), and other plants that have died and accumulated over time. Peat is a dark, brown or black material that is often used as a soil amendment.
 
-![Sphagnum moss and peat moss](pxl_20230324_125155265.jpg "Sphagnum moss (left) and peat moss (right)")
+![Sphagnum moss and peat moss](https://ucarecdn.com/da540376-b540-4c63-8e76-496dfabeb733/pxl_20230324_125155265.jpg "Sphagnum moss (left) and peat moss (right)")
 
 To make things confusing, there is also **sphagnum moss**. Adding to the confusion, sometimes peat moss is referred to as sphagnum peat moss 🤯. Both sphagnum moss and peat moss begin life the same way, from the same plant. Sphagnum moss is simply the living top layer of moss from peatlands. It is then dried out and sold without much more processing. On the other hand, peat moss is sourced from the lower, dead layers. It is then ground up into finer particles and is typically sold in compressed bags.\
 \
@@ -32,7 +32,7 @@ Not quite! It depends ***where*** your peat comes from. Most of the bad rap for 
 
 ## Coconut Coir 🥥
 
-![Coconut coir next to a compressed block of coconut coir.](pxl_20230324_125551519.jpg "Coconut coir next to a compressed block of coconut coir")
+![Coconut coir next to a compressed block of coconut coir.](https://ucarecdn.com/d3db8635-07db-4565-82f4-8177c79ca80e/pxl_20230324_125551519.jpg "Coconut coir next to a compressed block of coconut coir")
 
 Coconut coir has been touted as a sustainable alternative to peat moss. It is a byproduct made from the husks of coconuts. Like peat, coconut coir is also a good soil amendment, as it is absorbent and helps to retain water. However, coconut coir is also not without its environmental impact. The production of coconut coir can be energy-intensive. Additionally, the transportation of coconut coir from the tropics to your doorstep can also have a significant environmental impact.
 
@@ -47,6 +47,6 @@ Here are some tips for using peat moss and coconut coir in your garden:
 
 ## Which to choose?
 
-![Cute kitten gif with caption "So many choices..."](choices.gif)
+![Cute kitten gif with caption "So many choices..."](https://ucarecdn.com/7669436c-a0c2-44e0-9c2c-65f76e58b341/choices.gif)
 
 So, is coconut coir really a better alternative to peat moss? The answer is complicated. Both coconut coir and peat moss have some environmental drawbacks, but both are great for starting seeds or as a soil amendment. Ultimately, the answer depends on your situation, including where your peat comes from and the availability of peat and coir in your local area.

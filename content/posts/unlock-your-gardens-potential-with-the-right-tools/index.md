@@ -9,7 +9,7 @@ series = ["Garden Tools"]
 [cover]
 relative = true
 linkFullImages = true
-image = "screenshot-2023-03-14-at-6.48.58-pm.png"
+image = "https://ucarecdn.com/dcf02173-1d23-4d41-add6-d31d2cdcbc34/screenshot-2023-03-14-at-6.48.58-pm.png"
 +++
 Are you looking to restock your gardening equipment? Maybe you’re starting up new and looking for the tools for the job you've planned on Planter? Or perhaps, you’re looking for gifts for a loved one who gardens? Well look no further! There’s a large variety of tools that could go to good use in your planting space; it all just depends on what you need done! So...
 
@@ -33,7 +33,7 @@ You might have used a leaf rake before in your yard or garden, but there’s als
 
 On the other hand, we have bow rakes! These rakes are more heavy-duty, and are very useful if you need to clear rocks from your soil or aerate and smooth over the top layer.
 
-![](screenshot-2023-03-13-at-4.44.01-pm.png)
+![](https://ucarecdn.com/af5eb2c7-8444-4144-843a-e31f8210ec04/screenshot-2023-03-13-at-4.44.01-pm.png)
 
 ### G﻿arden Hoes
 
@@ -51,7 +51,7 @@ Hand cultivators are to rakes as trowels are to spades! This digging fork is use
 
 If you have some stubborn weeds that bounce back from pulling or cutting, try out a hand weeder! Push it under the soil, under the roots of weeds, and lever the whole plant out! It’s great for dealing with weeds like dandelions, which have pretty frustrating root systems to deal with.
 
-![](weed-removal-paving-stones-weed-control-service-hand-glove-removing-weed-garden-pathway.jpg)
+![](https://ucarecdn.com/95860f4e-bd17-4a27-aa70-d5a65ebf39a5/weed-removal-paving-stones-weed-control-service-hand-glove-removing-weed-garden-pathway.jpg)
 
 ### P﻿runing Shears
 
@@ -77,7 +77,7 @@ A good hose is indispensable, if you have more plants than a couple trips with a
 
 Some hoses are made to be laid out in your garden, too; these are called soaker hoses, and act like sprinklers. Lay them out around your garden amongst your crops, and they’ll slowly and steadily release water through their porous material to keep your soil moist!
 
-![](pexels-photo-2134798.jpeg)
+![](https://ucarecdn.com/5ae66e46-8435-4c84-a2c6-2850d2f27163/pexels-photo-2134798.jpeg)
 
 ## S﻿till looking for more?
 

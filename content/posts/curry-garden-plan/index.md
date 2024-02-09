@@ -10,7 +10,7 @@ tags = ["Planning"]
 
 [cover]
 relative = false
-image = "curry-ingredients-plan.jpg"
+image = "https://ucarecdn.com/a1da8a83-7d7f-464d-a946-a65fa06bac4d/curry-ingredients-plan.jpg"
 caption = ""
 alt = "A plate with a curry dish surrounded by fresh vegetables and a tablet showing the Planter app"
 +++
@@ -29,7 +29,7 @@ Our sample curry garden base plan starts with a standard 4' x 8' garden in [Plan
 * Tomatoes
 * Onions
 
-![Screenshot of a curry garden plan in Planter](curry-garden.jpg)
+![Screenshot of a curry garden plan in Planter](https://ucarecdn.com/57faef8f-8836-4044-bc48-4482ccbf9f15/curry-garden.jpg)
 
 Garlic and cooking onions were placed on the outside because they are slow growers and need to be harvested by pulling or forking them out of the soil. Two hot pepper plants might not seem like a lot, but they’ll likely be prolific enough to provide your family with ample chili harvests (of course if you’re major spice lovers feel free to add more!) While cilantro is associated with cuisines from some of the hotter parts of the world, it actually can’t take the heat all that well and has a tendency to [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/). Because of this, you might want to plan to plant your cilantro in [successions](https://blog.planter.garden/posts/succession-planting-for-nonstop-harvests/).
 
@@ -41,7 +41,7 @@ If you happen to have some more space to play with in your garden, consider bran
 
 ## Thai curry garden plan
 
-![A bowl of green curry with basil and chiles on top surrounded by fresh curry ingredients](green-curry.jpg)
+![A bowl of green curry with basil and chiles on top surrounded by fresh curry ingredients](https://ucarecdn.com/8d814e2d-b0b3-41d6-a8de-e9c2b73931ca/green-curry.jpg)
 
 Thai food is vibrant and features an array of different veggies. To prepare some tasty Thai dishes, the following plants were added to the base plan:
 
@@ -54,7 +54,7 @@ Thai food is vibrant and features an array of different veggies. To prepare some
 * Peanuts
 * Dwarf lime
 
-![Screenshot of a Thai curry garden plan in Planter](thai-curry-garden.jpg)
+![Screenshot of a Thai curry garden plan in Planter](thai-https://ucarecdn.com/57faef8f-8836-4044-bc48-4482ccbf9f15/curry-garden.jpg)
 
 The Thai curry garden plan incorporates most of the plants from the base curry garden plan and adds on from there. The serrano chiles were swapped for Thai chiles, and more garlic and onions were added. Lemongrass is a staple ingredient in many Thai dishes- its included in a container so it can be started early indoors and easily transitioned outside. Mint was also added in a container to prevent it from spreading and taking over the entire garden! Basil plays more nicely so it can be incorporated right into the garden bed. If possible, try to find Thai varieties of mint and basil for a more authentic flavor. 
 
@@ -62,7 +62,7 @@ For something slightly more adventurous peanuts and a dwarf lime were added to t
 
 ## Indian curry garden plan
 
-![A bowl of Indian curry with a cilantro leaf on top surrounded by Indian curry ingredients](indian-curry.jpg)
+![A bowl of Indian curry with a cilantro leaf on top surrounded by Indian curry ingredients](https://ucarecdn.com/454cd062-6ffc-40a7-ad7d-6292a274c4d0/indian-curry.jpg)
 
 The Indian curry garden plan also works off the same base curry garden plan, but includes some unique ingredients favored in Indian cooking:
 
@@ -74,7 +74,7 @@ The Indian curry garden plan also works off the same base curry garden plan, but
 * Mustard
 * Spinach
 
-![A screenshot of an Indian curry garden plan in Planter](indian-curry-garden.jpg)
+![A screenshot of an Indian curry garden plan in Planter](indian-https://ucarecdn.com/57faef8f-8836-4044-bc48-4482ccbf9f15/curry-garden.jpg)
 
 Turmeric is a plant that spreads and grows by rhizomes, similar to ginger. Since turmeric isn’t available in Planter (yet!) one workaround is to create a custom variety of ginger and name it turmeric (turmeric isn't technically a ginger variety but this is just a quick fix). Like ginger, turmeric is grown in pots so it can be started well in advance and moved around in the garden to capture the perfect balance of sun and shade.
 

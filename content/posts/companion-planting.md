@@ -9,7 +9,7 @@ title = "Feature Launch:  Enhanced Companion Planting Relationships"
 [cover]
 alt = "Lettuce and green onions growing together"
 caption = "Lettuce and green onions growing together"
-image = "/uploads/lettuce_onions.jpg"
+image = "https://ucarecdn.com/9b0040b4-6de0-4ed6-813e-b252a82f2d86/lettuce_onions.jpg"
 
 +++
 While snow has been flying outside the Planter team has been hunkered down inside working on the latest Planter feature updates…and we are very excited to launch **enhanced companion planting relationships** in Planter!
@@ -20,15 +20,15 @@ Install the latest version of Planter to start using the enhanced companion plan
 
 * Icons that show companion plant benefits and combative plant drawbacks at a glance
 
-  ![Screenshot of companion plant relationships icons](/uploads/tomato-companions.jpg)
+  ![Screenshot of companion plant relationships icons](https://ucarecdn.com/481da816-e17e-46cc-bc1e-4591ba988a13/tomato-companions.jpg)
 
    
 * Arrows to indicate which plant is offering a benefit or causing a problem (in some cases, it's both!)
 
-  ![Screenshot of companion plant directional arrows](/uploads/direction-arrows.jpg)
+  ![Screenshot of companion plant directional arrows](https://ucarecdn.com/c518ce01-5e8d-4819-8abf-e476708ea3d7/direction-arrows.jpg)
 * The rationale for why the plants are considered companions or combative, so you can decide which relationships are most important in your garden plan
 
-![Screenshot of companion plant rationales](/uploads/marigold-tomatoes.jpg)
+![Screenshot of companion plant rationales](https://ucarecdn.com/a340cdfe-b66d-4023-a5c9-836b0986d400/marigold-tomatoes.jpg)
 
 We’ve been diligently digging through companion planting resources to ensure the companion and combative plant relationships in Planter are as current and well-backed as possible. We’ll continue to update relationships as new information becomes available!
 
@@ -43,7 +43,7 @@ Opinions can be mixed on whether plants in the same family (e.g., brassicas, nig
 
 If you’re not planning on using companion planting in your garden you can now switch the companion planting indicators off. Just select the three dots in the upper-right of your garden then uncheck **Show companion info**:
 
-![Screenshot of the Show companion info checkbox](/uploads/companion-info-off.jpg)
+![Screenshot of the Show companion info checkbox](https://ucarecdn.com/abc703fc-e7b7-4239-9086-d886beedf6af/companion-info-off.jpg)
 
 We hope you find these updates handy! As always, if you have Planter feature requests you can log them and upvote existing requests in the [feature request list](https://planter.garden/requests). We regularly review this list to plan upcoming features.
 

@@ -8,7 +8,7 @@ author = "Jessalyn Krenicki"
 
 [cover]
 relative = true
-image = "biotechnology-woman-engineer-examining-plant-leaf-disease.jpg"
+image = "https://ucarecdn.com/2eb194b8-e20f-4d8e-8e13-bf07509312df/biotechnology-woman-engineer-examining-plant-leaf-disease.jpg"
 alt = "Person examining a plant's leaves."
 +++
 Hey there, gardeners! Have you been dealing with nutrient deficiencies in your garden? It's a common hurdle for gardeners to overcome, but don't worry- nutrients are something that is very manageable to resolve and maintain.
@@ -23,7 +23,7 @@ There's a lot of different nutrients that go into our growing plants, but let's 
 
 You might recognize these three from fertilizer labels! There's a reason that these are the big three; 
 
-![](smart-agriculture-iot-with-hand-planting-tree-background.jpg)
+![](https://ucarecdn.com/f1d53a3f-726c-4f0f-99bb-2fdd31818cd5/smart-agriculture-iot-with-hand-planting-tree-background.jpg)
 
 ### How do I know that my plants are nutrient deficient?
 
@@ -35,7 +35,7 @@ Now, how do you spot nutrient deficiencies? Thankfully, plants often are very go
 
 A soil test is the best way to know when and if your plants have a nutrient imbalance, so regular testing is a good habit for any gardener to get into! That way, you can notice changes before your plant even has to tell you. It's always best to test!
 
-![](pexels-syn-gor-10651660.jpg)
+![](https://ucarecdn.com/d26c5e44-0dc2-4094-a84f-370b8c797916/pexels-syn-gor-10651660.jpg)
 
 ### What do I do if my plants are nutrient deficient?
 
@@ -45,7 +45,7 @@ If you're hoping for some other soil amendment options to use, we covered those 
 
 Mulching is also a great long-term practice overall; it retains moisture in the soil, suppresses weeds, helps keep the roots a bit less cold in the winter, and (most importantly here) will slowly break down into nutrients!
 
-![](istock-1226575634.jpg)
+![](https://ucarecdn.com/5fc00ad5-3c9d-4d4d-98d0-a0b4437e4412/istock-1226575634.jpg)
 
 ### How can I avoid nutrient deficiency in my garden?
 
@@ -53,4 +53,4 @@ Many farmers practice crop rotation to avoid stripping an area of nutrients. If 
 
 Whether you plan to amend your soil to resolve your issues, or hope to prevent them by changing your gardening habits, we hope that this guide has made nutrient deficiencies a minor hurdle in your gardening adventure!
 
-![](farm-life-with-vegetables-high-angle.jpg)
+![](https://ucarecdn.com/69a9b993-3a7a-46ed-9daf-70fb2e127c8e/farm-life-with-vegetables-high-angle.jpg)

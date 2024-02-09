@@ -9,7 +9,7 @@ title = "Fall Garden Chores"
 [cover]
 alt = "A raised bed garden in the fall"
 caption = "A raised bed garden in the fall"
-image = "/uploads/fall-garden.jpg"
+image = "https://ucarecdn.com/3ec260b0-357d-4bb4-81be-5d8d176c13df/fall-garden.jpg"
 
 +++
 Don’t let shorter days and crisp fall weather deter you from getting out in the garden! There's almost as much to be done in the garden in fall as there is in spring. While gardening in the fall might not have the ‘new and shiny’ feeling that gardening in spring does, every garden chore you manage to get done in the fall will help make your garden even more successful next year!
@@ -18,7 +18,7 @@ Don’t let shorter days and crisp fall weather deter you from getting out in th
 
 It’s tempting to leave dead plants in the ground to be dealt with next spring. After all, isn't it good to provide shelter for all those overwintering critters? When it comes to the veggie garden, it's best to clear away all the dead and dying plant debris before winter as leaving it laying in the garden bed can harbor diseases and unwanted insects. Spent plants can be added to the [compost pile](https://blog.planter.garden/posts/compost-add-life-to-your-garden/), although you might want to exercise caution with diseased plants. If your compost pile doesn’t ‘heat up’ properly, the diseases won’t be killed off in the composting process and could spread to next year’s plants.
 
-![An image of a garden partially cleared out](/uploads/part-empty-garden.jpg)
+![An image of a garden partially cleared out](https://ucarecdn.com/458147ab-0455-4ee9-88a4-1f54b6ab66e3/part-empty-garden.jpg)
 
 ### Tackle those weeds
 
@@ -40,13 +40,13 @@ Fall is an excellent time to add some soil amendments, as it gives time for them
 
 Applying [mulch](https://blog.planter.garden/posts/mulching-a-must-for-your-garden/) to your garden in the fall helps to prevent soil erosion over the winter and provides food for the soil life that your garden needs to flourish. Plus, in the fall you’re likely to find lots of mulch readily available in the form of fallen tree leaves!
 
-![Kohlrabi plants mulched with leaves](/uploads/mulched-kohlrabi.jpg)
+![Kohlrabi plants mulched with leaves](https://ucarecdn.com/ac46704f-9c60-44b8-bdb6-22ba91603a2f/mulched-kohlrabi.jpg)
 
 ### Show your garden tools some love
 
 Your garden tools have served you well through the whole growing season- fall is an opportune time to show them some love. Wash, disinfect, and dry tools thoroughly. Sharpen any tools that need to be sharpening and apply [oil](https://www.amazon.com/s?k=3-in-ONE+oil) to tools with moving parts. Store your tools in a clean, dry place where they’ll be ready to go for the spring!
 
-![Garden hand tools on a bench](/uploads/garden-tools2.jpg)
+![Garden hand tools on a bench](https://ucarecdn.com/11072fe2-668d-45b1-a522-7f825fcb47f6/garden-tools2.jpg)
 
 ### Plan and build for next year's garden
 

@@ -9,7 +9,7 @@ title = "Postseason Gardening Inspiration"
 [cover]
 alt = "Leafy greens in a garden bed dusted with snow"
 caption = "Leafy greens dusted with snow"
-image = "/uploads/snow-on-greens.jpg"
+image = "https://ucarecdn.com/46d42abe-3bc3-437b-af63-da450c80c6d9/snow-on-greens.jpg"
 
 +++
 When the growing season draws to a close, it can be a bit dreary to think about not being able to garden for several months. Although outdoor growing might be on the downswing, that doesn’t mean you have to completely give up on gardening until next year. There are plenty of ways to keep the garden passion alive through the frosty weather! So don’t spend the winter months staring longingly at your garden through the window… Grab a cup of hot cocoa and read on for ideas to keep the growing going postseason!
@@ -22,7 +22,7 @@ Before calling it quits on your garden, consider using some [season-extension te
 
 While you might be able to grow some veggies and herbs indoors by placing them by a south-facing windowsill, edible plants can struggle to get enough light indoors without the help of [grow lights](https://www.amazon.com/Barrina-Lights-Spectrum-Sunlight-Equivalent/dp/B0814L4XPL/). Compact plants such as lettuce, herbs, green onions, and microgreens are all great options for growing under lights. Plants that tend to grow larger _can_ be grown under lights, but they are more challenging due to the space that’s needed. While grow lights can feel like a big investment, they are also useful for starting seeds indoors so in the long run you can save money by growing your own seedlings for the garden! And if you just don’t feel like messing around with having dirt indoors, you might want to consider a [tabletop hydroponic growing system](https://www.amazon.com/s?k=aerogarden).
 
-![A small cilantro seedling in a pot with lettuce in the background](/uploads/cilantro-sprout.jpg)
+![A small cilantro seedling in a pot with lettuce in the background](https://ucarecdn.com/be590f51-36f0-49ec-90ce-7b21a4a6b2bb/cilantro-sprout.jpg)
 
 ### Care for your overwintered plants
 
@@ -32,7 +32,7 @@ If you decided to bring any of your plants indoors for the winter, they will nee
 
 Winter is a good time to play around with starting plants that typically won't grow in your climate. Try growing a pineapple from a pineapple top, a mini citrus tree in a pot, or have a go at sprouting an avocado pit! While it might be a struggle to grow these plants to a point where they will ultimately produce a harvest, it can be a fun project to start when the weather is feeling anything but tropical!
 
-![Pineapple plants in plastic pots](/uploads/pinapple-plants.jpg)
+![Pineapple plants in plastic pots](https://ucarecdn.com/2b2d1322-a8c0-44f0-8ac4-ed410494671e/pinapple-plants.jpg)
 
 ### Try growing mushrooms with a kit
 
@@ -42,7 +42,7 @@ Since it can be tricky to give plants the light and space they need to grow indo
 
 Before ordering seeds for next season, take stock of the seeds you already have and organize them for the upcoming season. [Plastic boxes with dividers](https://www.amazon.com/s?k=plastic+greeting+card+organizer) work well for organizing your seeds into categories. Be aware that seeds can start to lose viability over time so you might start to see a decline in germination if they’ve been sitting around for several years. If you’re unsure whether the seed is still viable, try sprouting a few to confirm. To maximize the life of your seeds in storage, keep them in a cool, dry place away from light.
 
-![Seed packets on a table](/uploads/seed-collection.jpg)
+![Seed packets on a table](https://ucarecdn.com/02152587-cae6-4568-b845-007cc14f01a8/seed-collection.jpg)
 
 ### Read a great garden book
 

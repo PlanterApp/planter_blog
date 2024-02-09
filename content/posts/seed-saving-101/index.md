@@ -7,7 +7,7 @@ author = "Erin Thomson"
 
 [cover]
 relative = false
-image = "seed-saving.png"
+image = "https://ucarecdn.com/7f78a62a-405b-4b52-9c43-a6141da84e3f/seed-saving.png"
 alt = "Brown paper seed packets with seeds coming out onto soil and the text 'seed saving 101'"
 +++
 Have you ever wondered if it's possible to save seeds from your plants, instead of buying new seeds every year? With a bit of knowledge you can absolutely save seeds to grow next year! While seed saving can be a complex topic, don’t let that deter you from attempting to save seeds to use in your own garden. Read on to learn the basics of seed saving, so you can get started with saving your own seeds!
@@ -44,13 +44,13 @@ Once your seeds are harvested and completely dry (emphasis on *completely*; they
 
 **Tomatoes:** saving seeds from tomatoes can seem daunting but its not too tricky. To save seeds from tomatoes first cut them in pieces so you can scoop out the gel along with the seeds. It's recommended to ferment your tomato seeds for the best longevity and germination. To do this, scoop the gel and seeds into a glass container then add enough water to cover the seeds. Put a piece of paper towel on the container and secure it with an elastic band. Leave the seed mixture in a warm place (ideally not within smelling distance!) for about two weeks. After this time, dump the mixture into a fine mesh sieve and rinse the gunk off the seeds with running water. Spread the seeds out on a paper plate to dry completely, then store them in a container.
 
-![A glass container covered with a paper towel containing tomato seeds and water](tomato-seeds.jpg)
+![A glass container covered with a paper towel containing tomato seeds and water](https://ucarecdn.com/17e68a33-197d-492b-8a6b-b7c19c8671dc/tomato-seeds.jpg)
 
 **Peppers:** saving seeds from peppers couldn't be easier- just cut the pepper open and there are infinite seeds inside! Remove the seeds from the inner membrane and leave them on a paper plate to dry completely before storing. Be aware that if you grow hot peppers and mild peppers close to each other, there is a small chance that you could end up with a mixed variety. If some unexpected heat could pose a problem for you and your family, be sure to follow minimum isolation distances between pepper varieties so you don’t end up with a spicy surprise!
 
 **Radish:** radish is another crop that readily goes to seed. If you are concerned about cross-pollination in your radishes, you may want to sow different varieties at different times. To save radish seeds, allow the pods to become large, brown, and dry on the plant. You can then pick or cut the pods off the plant. To get to the seeds inside you’ll need to crack the seed pods open and shake, rub or pick the seeds out. This isn't the most efficient task in the world, but it's a good project to tackle while watching some gardening videos on YouTube 🙂. The dried pods can be a bit prickly so you may want to protect your hands if they are sensitive.
 
-![A white plate with radish seed pods and radish seeds](radish-seeds.jpg)
+![A white plate with radish seed pods and radish seeds](https://ucarecdn.com/1cef6243-3d83-4345-86c4-ef276bafdda8/radish-seeds.jpg)
 
 **Lettuce:** when your lettuce bolts it can be quite disappointing- but if you let the process continue your lettuce plants will make beautiful flower stalks and eventually seeds. If you are worried about your lettuce varieties cross-pollinating, you can use a fine mesh bag or row cover to isolate the flower stalk. The seeds are ready when the flowers turn white and wispy (similar to what a dandelion would do). You can pick the seeds off of the flower heads and then fan them to blow away the flower whisps.
 

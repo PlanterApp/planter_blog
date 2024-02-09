@@ -136,3 +136,7 @@ collections:
 imaging:
   exif:
     disableLatLong: true
+
+services:
+  disqus:
+    shortname: planterblog

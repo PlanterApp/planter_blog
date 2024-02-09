@@ -4,6 +4,7 @@ date = 2023-02-19T05:00:00Z
 draft = false
 override_position = false
 plants = []
+noComments = true
 title = "Apps that Every Gardener Needs to Know About"
 
 [cover]
@@ -18,11 +19,11 @@ Gardening is one of the oldest hobbies in the world, and it's always been a very
 
 {{< rating 4.5 >}}
 
-![](images/planter_preview.gif "Planning a garden in Planter.")
+![](https://ucarecdn.com/a91877c5-58a1-47f5-a0be-fbb0ff44b5b5/planter_preview.gif "Planning a garden in Planter.")
 
 This garden planner app helps you arrange your garden and learn how to grow veggies. With its intuitive drag-and-drop interface, you can arrange your veggie garden in minutes. One of our favorite features is that it highlights companion and combative plant information right there, with green (companion) or red (combative) circles. Planter uses the square foot gardening technique for easy spacing, but everything about plants, including spacing, is customizable. It has over 80 fruits and vegetables, but you can always add a custom plant if your favorite isn’t included. On top of that, it has thousands of seed varieties so you can differentiate between your jalapeño and bell peppers.
 
-![](images/planter_calendar.webp "The details page for onions, showing the growing calendar and the Quick Info section.")
+![](https://ucarecdn.com/ff0dd80a-2748-41c0-a83d-819e68c7b2e3/planter_calendar.webp "The details page for onions, showing the growing calendar and the Quick Info section.")
 
 The app also contains a gardening schedule for planting or transplanting times. With Planter, you'll know exactly when to start seeds indoors, transplant seedlings, or start seeds outdoors in your garden.
 
@@ -32,7 +33,7 @@ The app also contains a gardening schedule for planting or transplanting times. 
 
 {{< rating 4.5 >}}
 
-![](images/LeafSnap.webp "The LeafSnap app.")
+![](https://ucarecdn.com/afd1a8a7-cbc6-45b6-a968-06555adc4bc1/LeafSnap.webp "The LeafSnap app.")
 
 A plant identification app that uses visual recognition software to identify trees and plants in seconds. The app has a vast database of plants, including over 90% of all known species. You can take a photo of a plant, and the app will identify the species, provide detailed information about the plant, and even suggest similar-looking plants.
 
@@ -44,7 +45,7 @@ The app also has indoor houseplant care information, so once you know what you'v
 
 {{< rating 4.7 >}}
 
-![](images/PictureThis.webp "Identifying a rose in the PictureThis app.")
+![](https://ucarecdn.com/4e31e08f-0488-4bf5-ab15-a607e80a752e/PictureThis.webp "Identifying a rose in the PictureThis app.")
 
 Another plant identification app that uses AI to recognize and identify plants, flowers, and trees. You can take a photo of a plant, and the app will provide detailed information about the species, including its name, description, and care tips.
 
@@ -54,7 +55,7 @@ Another plant identification app that uses AI to recognize and identify plants, 
 
 {{< rating 4.4 >}}
 
-![](images/planta.webp "The Planta app.")
+![](https://ucarecdn.com/192cd4b2-3fac-4a82-b942-6a68cd116430/planta.webp "The Planta app.")
 
 An indoor plant care app that provides customized care instructions, watering reminders, and identification features. The app features a vast database of over 20,000 plants and provides personalized care advice based on your plant's specific needs. The app also has a plant identification feature that allows you to take a photo of a plant and receive information about the species, care tips, and potential problems.
 
@@ -64,7 +65,7 @@ An indoor plant care app that provides customized care instructions, watering re
 
 {{< rating 4.6 >}}
 
-![](images/moongarden.webp "The moon calendar feature in the Moon and Garden app.")
+![](https://ucarecdn.com/30b892bf-0a66-4a06-9b15-3990d1e67eac/moongarden.webp "The moon calendar feature in the Moon and Garden app.")
 
 Taking a different approach, this gardening app offers gardening advice according to the lunar cycle. The app provides a lunar calendar that shows the best dates for sowing, pruning, and harvesting based on the moon's phases. The app also provides a list of plants that are favorable to each lunar phase and includes tips on gardening techniques such as composting, irrigation, and pest control. There is a also a nice community feature to ask and answer questions.
 
@@ -74,7 +75,7 @@ Taking a different approach, this gardening app offers gardening advice accordin
 
 {{< rating 4.3 >}}
 
-![](images/plantix.webp "Identifying a pest in the Plantix app.")
+![](https://ucarecdn.com/26b4494d-26e7-4417-911f-7a79a70aac84/plantix.webp "Identifying a pest in the Plantix app.")
 
 A plant disease identification app that uses machine learning and image recognition to identify and diagnose plant health problems. The app has a database of over 90 plant diseases and pests and can diagnose a problem by analyzing a photo of the affected plant. The app also provides treatment recommendations and prevention tips to help you maintain healthy plants. Plantix focuses on the most common food crops and farmers, so it doesn't contain every veggie a home gardener might grow, but it's great for common veggies.
 

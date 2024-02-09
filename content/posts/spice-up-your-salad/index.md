@@ -10,7 +10,7 @@ series = ["Plant Picks"]
 
 [cover]
 relative = true
-image = "salad-greens.png"
+image = "https://ucarecdn.com/924553b9-5cf3-45b0-afb0-ede8851fa761/salad-greens.png"
 caption = ""
 alt = "A bowl of mixed salad greens with the words \"Spice up your Salad\" over top"
 +++
@@ -20,13 +20,13 @@ The greens we’ll cover in this article should be seeded quite densely to be gr
 
 ### Arugula
 
-![Arugula leaves on a white background](arugula.jpg)
+![Arugula leaves on a white background](https://ucarecdn.com/527af12a-a794-48bb-b545-dd9d3a4d1156/arugula.jpg)
 
 Also known as rocket or rucola, arugula is a delicate leafy green that packs a peppery punch. If you don’t mind salad with a kick you can use arugula as the sole green, but it also makes a great addition to mesclun mix where its spiciness is balanced out with lettuce and milder greens. Or, skip the salad and sprinkle it on top of homemade pizza or sandwiches for a gourmet touch! Arugula can tend to [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/) easily so be sure to keep it well-watered to avoid drought stress, and consider sowing in regular successions to be able to continue harvesting throughout the season.
 
 ### Mustard
 
-![Mustard leaves on a white background](mustard.jpg)
+![Mustard leaves on a white background](https://ucarecdn.com/374eaf52-4cf2-48c1-a758-5bb912908891/mustard.jpg)
 
 Mustard packs a good amount of spice- similar to arugula but arguably a notch more intense, and with a flavor all its own. Mustard greens are not necessarily green- there are red varieties available such as ‘Red Giant‘ that add a pop of color as well as flavor. Mustard leaves have unique crispy-juicy stems and serrated or savoyed leaves that add a really interesting texture to salad mixes. Mustard can be a bit intense as a sole salad green but if you’re needing a change from salad entirely it’s also excellent in stir-fries and soups.
 
@@ -34,25 +34,25 @@ Mustard packs a good amount of spice- similar to arugula but arguably a notch mo
 
 ### Baby kale
 
-![Kale leaves on a white background](kale.jpg)
+![Kale leaves on a white background](https://ucarecdn.com/cc28af64-c273-44d9-9b2d-64d164ff33fa/kale.jpg)
 
 Kale is often grown for full-sized leaves that can be turned into kale chips, chopped salads, and green smoothies. But if you sow kale seeds densely and cut off the leaves while they are young and tender you have ‘baby kale’ which is a wonderful salad green. Baby kale has the same strong flavor that fully mature kale does, but the texture is much softer so the leaves are pleasant to eat whole in salads without needing to chop them down first. Also, if you cease cutting the baby kale leaves and thin out the plants, the remaining plants can grow into fully mature-sized kale so you can harvest larger leaves (kale doesn’t tend to [bolt](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/) as easily as some of the other greens in the list).
 
 ### Baby chard (and beet) greens
 
-![Chard leaves on a white background](chard.jpg)
+![Chard leaves on a white background](https://ucarecdn.com/e3f4fc90-427d-44cc-9f09-9275a01e197a/chard.jpg)
 
 Chard and beets are related plants that have very similar greens. Chard is often grown for full-sized leaves, while beets are often grown for their sugary roots- but they can both be seeded densely and grown for salad greens. Like beet roots, beet greens (they can often be purple-red in color) have an ‘earthy’ undertone to their flavor that may not appeal to everyone. Chard has a more neutral spinach-like flavor and the colorful stems and bright-green leaves are visually striking. Both can add a nice depth of flavor and pop of color to a salad mix.
 
 ### Endive/escarole
 
-![Endive leaf on a white background](endive.jpg)
+![Endive leaf on a white background](https://ucarecdn.com/c3ef69ca-4937-48fc-ace0-28225e4679b1/endive.jpg)
 
 While endive and escarole can look like little lettuces, they are actually members of a unique chicory sub-group of plants (genus *Cichorium*). These greens are most commonly described as bitter- if you’re not a fan of bitter flavors they might not agree with you. Endive and escarole is typically blanched when growing- that is the growing stem is blocked from receiving sunlight to maintain a white color and a milder flavor. They can be used as the sole green in a salad, but the strong bitter flavor often needs to be balanced out by adding plenty of sweet, salty, and/or acidic ingredients. They can also be grilled first which adds a depth of flavor that works really well with the bitterness.
 
 ### Bonus: Nasturtiums
 
-![A colorful salad with nasturtiums](nasturtiums.jpg)
+![A colorful salad with nasturtiums](https://ucarecdn.com/4f771bcd-c84e-40e6-a3e7-260ca5d7b926/nasturtiums.jpg)
 
 
 

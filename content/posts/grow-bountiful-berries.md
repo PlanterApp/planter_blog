@@ -8,7 +8,7 @@ title = "Grow Bountiful Berries"
 [cover]
 alt = "Ripening strawberries and flowers on vines"
 caption = "Ripening strawberries and flowers"
-image = "/uploads/strawberries.jpg"
+image = "https://ucarecdn.com/fc1fa311-98be-4e95-8788-a3dbc1464d70/strawberries.jpg"
 
 +++
 Adding a berry patch to your garden isn’t a quick win. It can take up to several years’ for the plants to start producing fruit. But with a bit of work and patience, you can enjoy sweet, delicious berries fresh from the garden!
@@ -30,7 +30,7 @@ Since berries are perennials, make sure the variety you chose is hardy in your [
 
 With raspberries and blackberries, there are erect, semi-erect, and trailing varieties, referring to how the canes grow. Trailing varieties need to be trellised where erect varieties need minimal support, if any. There are summer-bearing and fall-bearing (also known as everbearing) varieties. Summer-bearing produce one crop of fruit in the summer, where fall-bearing can produce one or two crops from summer to early fall. With raspberries there is color to consider, primarily red, purple, and black. Red raspberries have special knack for spreading, so you may want to look into compact, container-friendly varieties. There are even “thornless” varieties for pain-free harvesting!
 
-![Ripening blackberries on a stem](/uploads/blackberries.jpg)
+![Ripening blackberries on a stem](https://ucarecdn.com/f9db6607-934f-48e3-98e4-5d3a19807dde/blackberries.jpg)
 
 Strawberries varieties can also be grouped into a few types: everbearing, June-bearing, and day-neutral- again this mainly refers to when they produce fruit during the season. Everbearing and day-neutral varieties do not produce as many runners as June-bearing, which may be a benefit if you want to control how much your strawberries spread.
 
@@ -50,9 +50,9 @@ Apply a generous layer of mulch around the base of the plant after planting.
 
 Once your berries are planted, the hard part is done! Check [Planter](https://planter.garden/) for all the details you need to care for your berry plants:
 
-![Screenshot of Quick Info for Strawberries in Planter](/uploads/strawberry-quick-info.jpg)
+![Screenshot of Quick Info for Strawberries in Planter](https://ucarecdn.com/d633e560-3e05-4c8c-897f-9f6428abceb6/strawberry-quick-info.jpg)
 
-![Screenshot of strawberry Feeding instructions in Planter](/uploads/strawberry-feeding.jpg)
+![Screenshot of strawberry Feeding instructions in Planter](https://ucarecdn.com/b959a4d1-4303-4039-9bce-b3a507d1eef3/strawberry-feeding.jpg)
 
 Add some compost and mulch to the base of your berry plants each year. For blueberries, continue with acidifying treatments, if needed. As your plants grow, you may need to protect them from hungry birds and other critters in your area.
 

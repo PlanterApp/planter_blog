@@ -6,7 +6,7 @@ title = "Fertilizer: Beyond the Bag"
 [cover]
 alt = "Soil with fertilizer granules"
 caption = "Soil with fertilizer granules"
-image = "/uploads/soil-with-fertilizer.jpg"
+image = "https://ucarecdn.com/b8f9c0b0-245a-4b04-bfb5-c855ee901d7b/soil-with-fertilizer.jpg"
 
 +++
 As plants grow, they use nutrients from the soil which can eventually become depleted if they are not replenished. Since we usually harvest our veggie garden produce rather than letting the plants decompose back into the soil, soil nutrients can dwindle over time. Fertilizer adds soil nutrients that are lacking so that new plants can grow. You might only think of fertilizer as the little granules that come in bags from the garden center, but there are many different options to add nutrients to your soil!
@@ -23,7 +23,7 @@ Organic fertilizer is more than just one product you can buy - there are many or
 * [**Fish emulsion:**](https://www.amazon.com/s?k=fish+emulsion) fish emulsion is a relatively fast-acting liquid organic fertilizer concentrate made from fish byproducts. Brace yourself before using fish emulsion...it does have a fishy smell!
 * **Compost:** Compost is mostly used to add organic matter to the soil, but it does contain nutrients that plants need. Compost doesn’t typically have high concentrations of nutrients, so you may still need to supplement with another fertilizer.
 
-![Hands holding dark soil and compost](/uploads/soils-in-hands.jpg)
+![Hands holding dark soil and compost](https://ucarecdn.com/5414b09a-37cd-4078-a10a-14daad332a2c/soils-in-hands.jpg)
 
 Because organic fertilizers have nutrients in their natural state, they need to be broken down by soil microbes before they are available for plants to use. This process can take some time compared to a synthetic fertilizer.
 
@@ -39,7 +39,7 @@ Granular fertilizers are dry, small granules (sometimes powder-like). They can b
 
 Water-soluble fertilizer is dissolved into water and applied with a watering can or using a hose attachment. Water-soluble fertilizer is a more direct method of delivering nutrients that can start to work faster than granular fertilizers. Using a water-soluble fertilizer can work to give your plants a quick boost when they are in need.
 
-![A watering can watering plants in a garden](/uploads/watering-can.jpg)
+![A watering can watering plants in a garden](https://ucarecdn.com/f1fe645a-56df-4af6-b95e-712d210a0144/watering-can.jpg)
 
 ### So, Which Fertilizer is Best?
 

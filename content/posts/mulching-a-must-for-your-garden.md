@@ -6,7 +6,7 @@ title = "Mulching: A Must for Your Garden"
 [cover]
 alt = ""
 caption = "A gardener spreading mulch"
-image = "/uploads/digging-in-mulch.jpg"
+image = "https://ucarecdn.com/9906f070-866c-4df7-946a-870d1cc8d822/digging-in-mulch.jpg"
 
 +++
 Soil is one of the most precious resources in the garden. Building healthy soil is key to healthy plants, and an important step in building healthy soil is to use mulch. Mulch is a layer of material placed on top of the soil to protect it. While mulching your vegetable garden is a must-do, the materials can vary based on your local growing conditions and what’s readily available.
@@ -35,7 +35,7 @@ Mulch materials commonly used in vegetable gardening include:
 
 **Leaves:** leaves are a great resource readily available to gardeners in areas with lots of deciduous trees. Ask around in the fall, and you will likely be able to secure a season’s worth of free mulch from your neighbors! Shred dry leaves using a lawn mower so they do not blow away and apply them in a thick layer. Some gardeners compost the leaves down into ‘leaf mold’ and use that as mulch, for added soil life benefits and to keep them from blowing around.
 
-![](/uploads/lettuce-in-leaves.jpg)
+![](https://ucarecdn.com/630e7e51-8ea7-4da4-9776-fb57e9d75f58/lettuce-in-leaves.jpg)
 
 **Wood chips:** wood chips make a good garden mulch that helps feed soil life, especially fungi, as they break down. Wood chip mulches used in a veggie garden must be entirely natural; do not use dyed wood chip mulches or wood that has been chemically treated. Some gardeners worry that wood chips will acidify their soil or release natural chemicals that inhibit plant growth, but generally this is a non-issue. Wood chip mulches can ‘rob’ nitrogen from the soil as they break down, but this effect is minimal and concentrated near the soil surface. Wood chip mulch will need to be moved out of the planting area when planting veggies, and you can apply nitrogen-rich fertilizer to counteract any nitrogen loss.
 
@@ -43,7 +43,7 @@ Mulch materials commonly used in vegetable gardening include:
 
 **Straw:** many gardeners prefer to use straw as a mulch material. It is best to use straw instead of hay. Hay tends to have seed heads which can germinate and grow grasses in your garden, but straw should be mostly free of seed heads. As with grass clippings, when you source your straw be sure no herbicides or pesticides have been used, and apply it in a thick layer.
 
-![](/uploads/cabbage-in-straw.jpg)
+![](https://ucarecdn.com/6f853a54-c523-4b83-9b5c-0376b691e42d/cabbage-in-straw.jpg)
 
 **Compost:** not only is compost an excellent soil amendment, it can also be used as a mulch. Compost can be a good mulch option if you are struggling with pests, where other types of organic mulches may create a more pest-friendly habitat. Compost breaks down relatively quickly, and will need topping-up a few times during the growing season.
 

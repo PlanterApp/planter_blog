@@ -1,0 +1,9 @@
+{{ with .cxt}}
+    {{ if (and .Params.cover.image (not $.isHidden)) }}
+        {{ $alt := .Params.cover.alt}}
+        {{ $responsiveImages := .Params.cover.responsiveImages }}
+        {{ $src := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
+        {{ $srcUrl := .Params.cover.image }}
+        {{ partial "image.html" (dict "context" . "class" "entry-cover" "alt" $alt "caption" (.Params.cover.caption) "src" $src "responsiveImages" $responsiveImages "srcUrl" $srcUrl "isHome" ($.IsHome)) "linkFullImages" site.Params.linkFullImages}}
+    {{- end }}
+{{- end -}}

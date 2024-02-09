@@ -9,7 +9,7 @@ title = "Growing a Salsa Garden"
 [cover]
 alt = "Salsa veggies next to a bowl of fresh salsa."
 caption = "Salsa created from my garden!"
-image = "/uploads/pxl_20220902_141546313-mp.jpg"
+image = "https://ucarecdn.com/34613891-866a-4a12-ba43-2adca8491752/pxl_20220902_141546313-mp.jpg"
 
 +++
 One of my favorite things about summer is enjoying fresh salsa from the garden. It's sweet, spicy, and best of all...fresh, so it tastes better than store-bought salsa and lasts longer in the fridge (if I don't eat it first!). This year, I wanted to maximize my chances of successfully harvesting every major component to make fresh salsa, so I dedicated a good portion of my veggie plot as a "salsa garden". I'll go over my process, what went well, mistakes I made along the way, and the end result (spoiler: it's fresh salsa! 😋).
@@ -23,27 +23,27 @@ Valuable lesson learned: even with bagged soil, it's still worthwhile to get the
 ### Starting the Seeds
 
 In the past I've done pretty well starting my tomato plants from seed, so I decided to go that route again. I chose the classic [Amish Paste](https://seedsnsuch.com/products/amish-paste-tomato-seeds?ref=planter&utm_source=affiliate) tomato variety. This year, I also decided to grow peppers from seed! I chose two great varieties, [King Arthur Hybrid Bell Peppers](https://seedsnsuch.com/products/king-arthur-hybrid-bell-pepper-seeds?ref=planter&utm_source=affiliate) and [Garden Salsa Hybrid Hot Peppers](https://seedsnsuch.com/products/garden-salsa-hybrid-hot-pepper-seeds?ref=planter&utm_source=affiliate).  
-![](/uploads/2_058aa936-8d96-43ef-9f1b-623eb1ae78bc_1390x1112.webp "[Garden Salsa Hybrid Hot Peppers](https://seedsnsuch.com/products/garden-salsa-hybrid-hot-pepper-seeds?ref=planter&utm_source=affiliate)")
+![](https://ucarecdn.com/808f669d-4923-45be-b205-c96442a39b37/2_058aa936-8d96-43ef-9f1b-623eb1ae78bc_1390x1112.webp "[Garden Salsa Hybrid Hot Peppers](https://seedsnsuch.com/products/garden-salsa-hybrid-hot-pepper-seeds?ref=planter&utm_source=affiliate)")
 
-![](/uploads/2_2639b7b8-1fb5-4714-a8c1-33c208d2473c_2400x1920.webp "[King Arthur Hybrid Bell Peppers](https://seedsnsuch.com/products/king-arthur-hybrid-bell-pepper-seeds?ref=planter&utm_source=affiliate)")
+![](https://ucarecdn.com/7e20e0ad-a933-4b1b-9ff5-4fb938cea947/2_2639b7b8-1fb5-4714-a8c1-33c208d2473c_2400x1920.webp "[King Arthur Hybrid Bell Peppers](https://seedsnsuch.com/products/king-arthur-hybrid-bell-pepper-seeds?ref=planter&utm_source=affiliate)")
 
 I started the tomato and pepper seeds on my workbench with a red-blue grow light. I put about 3 seeds in each container, assuming some of them wouldn't germinate.
 
-![Seed growing station.](/uploads/pxl_20220219_203214629.jpg "My seed growing station. Pardon the mess 🛠")
+![Seed growing station.](https://ucarecdn.com/a18a7036-a5f6-49c2-bb70-16a93aac024b/pxl_20220219_203214629.jpg "My seed growing station. Pardon the mess 🛠")
 
 After a few weeks, seedlings emerge!  
-![Tomato seedlings emerging from the soil.](/uploads/pxl_20210222_132523734.jpg "Tomato seedlings emerging from the soil.")
+![Tomato seedlings emerging from the soil.](https://ucarecdn.com/775fdab8-6b61-4cca-8a0a-546d198a5562/pxl_20210222_132523734.jpg "Tomato seedlings emerging from the soil.")
 
 5 weeks after sowing, I realize that I started the seeds way too early...again (I can't resist the gardening itch in the middle of winter 😅). At this stage there's still more than 2 months until I can safely transplant them.  
-![](/uploads/pxl_20220324_134001524-mp.jpg)
+![](https://ucarecdn.com/d7291011-af19-438f-a1fc-65a21fb37d4b/pxl_20220324_134001524-mp.jpg)
 
 6 weeks after sowing, I started moving the tomatoes into gallon jug containers to encourage better root growth:
 
-![](/uploads/pxl_20220401_001050144-mp.jpg "Yes, I moved the tomatoes into a kiddie pool! I drilled holes in the gallon jugs to allow for [bottom-watering](https://blog.planter.garden/posts/the-ups-and-downs-of-bottom-watering/) by simply adding water to the pool.")
+![](https://ucarecdn.com/18519b68-3044-4abd-8dc2-3f6a6a4283be/pxl_20220401_001050144-mp.jpg "Yes, I moved the tomatoes into a kiddie pool! I drilled holes in the gallon jugs to allow for [bottom-watering](https://blog.planter.garden/posts/the-ups-and-downs-of-bottom-watering/) by simply adding water to the pool.")
 
 8 weeks after sowing, just before transplanting. The tomatoes had gotten so large I had to use their cages to keep them from falling over. I put them on a cart and wheeled them inside the basement door when it got too cold:
 
-![](/uploads/pxl_20220423_211920695-mp-1.jpg "My overgrown tomatoes on their cart. Peppers in the background.")
+![](https://ucarecdn.com/ae5c3f54-537d-4668-8d68-8fb74ea04d7c/pxl_20220423_211920695-mp-1.jpg "My overgrown tomatoes on their cart. Peppers in the background.")
 
 On the plus side, the peppers grew really well throughout this entire process. I did transplant them into larger containers mid-way through, but they never grew "leggy" as I feared.
 
@@ -51,31 +51,31 @@ On the plus side, the peppers grew really well throughout this entire process. I
 
 While the tomatoes and peppers were growing inside, it was time to plant the onions outside. Onions are fairly resistant to frost, so it's safe to plant them before your frost date. I like to use starter onions from [Dixondale Farms](https://dixondalefarms.com/ "Dixondale Farms"). Starter onions look like green onions and give your crop a head-start, which is very useful for growers like me in colder climates. This year I chose Walla Walla, Red River, and Highlander onions. Using [Planter's useful spacing info](https://planter.garden/plants/onions), I started by putting 4 onions in each square foot. But rules are meant to be broken, and after realizing I received several dozen extra onions I managed to fit about 6 onions per square.
 
-![](/uploads/pxl_20210312_213228876.jpg "Onions just after planting, in 2021 (I forgot to take a photo this year)")
+![](https://ucarecdn.com/af8b4978-9c36-4034-873e-890d05ed475b/pxl_20210312_213228876.jpg "Onions just after planting, in 2021 (I forgot to take a photo this year)")
 
 ### In the garden, finally!
 
 Once the chance of frost was mostly gone, it was time to transplant the tomatoes and peppers into their final spots in the garden! I planted corn, beans, and squash (aka the "Three Sisters") next to the tomatoes. The idea is that the squash will cover the ground, keeping weeds at bay. And the corn and tomato cages will act as a trellis for the beans. In the end, all the beans and squash did was provide snacks for the rabbits 🐰.
 
-![](/uploads/tomatoes.webp "The tomatoes a few weeks after transplanting")
+![](https://ucarecdn.com/3d417856-9346-47cd-b252-6379e82fe5a6/tomatoes.webp "The tomatoes a few weeks after transplanting")
 
 I intercropped the peppers with the onions, since they're good companion plants.
 
-![](/uploads/pxl_20220525_161004442-mp.jpg "Intercropping the peppers and onions")
+![](https://ucarecdn.com/e9b2c45d-de88-4196-a2a6-8380bc6e3b2a/pxl_20220525_161004442-mp.jpg "Intercropping the peppers and onions")
 
 Intercropping also reduces weeds, since the onions shade out much of the ground.
 
-![](/uploads/weeding_onion_peppers.webp "Weeding the onion and pepper bed was pretty easy throughout the season.")
+![](https://ucarecdn.com/e33e822e-5922-44f0-9180-d55ccdeded3f/weeding_onion_peppers.webp "Weeding the onion and pepper bed was pretty easy throughout the season.")
 
 ### Harvest time!
 
 I was able to make a good deal of fresh salsa from the garden this year! The limiting factor, surprisingly, were the tomatoes. They just weren't as productive as I had hoped. I did get a decent amount of tomatoes from them, but nowhere near the 2020 yield. My guess is that they were too lanky and overgrown when they were first transplanted. Starting the seeds later in the spring would have resulted in better-supported, healthier plants. 
 
-![](/uploads/pxl_20220927_184424090-mp.jpg "About 1/3 of the onion harvest, pretty good!")  
+![](https://ucarecdn.com/4590c7bd-1d13-4fb4-8a57-af6f02688f88/pxl_20220927_184424090-mp.jpg "About 1/3 of the onion harvest, pretty good!")  
   
 In contrast, the peppers continue to produce heaps of delicious sweet and spicy peppers. Likewise, the onions that were in the pepper bed did really well! I harvested them in mid-August after their stems started falling over. I then laid down some straw to keep the weeds at bay. Once the onions were gone, the peppers received a bit more sunlight which is probably why they're doing so well now. However, the onions in the raised garden bed with the poor-quality soil did not do well. I'm hoping to rejuvenate the soil in that bed this fall.
 
-![](/uploads/pxl_20220811_124438136-mp.jpg)  
+![](https://ucarecdn.com/4b887830-44f9-4dca-879f-91130cb46bea/pxl_20220811_124438136-mp.jpg)  
   
 I also tried to grow cilantro from seed in the garden, but it didn't germinate. Later in the summer I tried growing some indoors and it germinated without a problem, which I then transplanted into the garden.
 
@@ -90,7 +90,7 @@ I hope you enjoyed reading about my salsa garden adventure! Last but not least, 
 
 ### Peter's Fresh Salsa
 
-![](/uploads/pxl_20220902_140602807-mp.jpg)
+![](https://ucarecdn.com/982f330a-5c6f-47f6-b6ca-052401374728/pxl_20220902_140602807-mp.jpg)
 
 #### Ingredients
 

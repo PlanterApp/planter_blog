@@ -6,7 +6,7 @@ title = "No-Till Gardening: Save Your Soil!"
 [cover]
 alt = "A garden shovel digging into the ground"
 caption = "Digging the garden - is it really needed?"
-image = "/uploads/shovel-in-dirt.jpg"
+image = "https://ucarecdn.com/4f881baf-2333-4b34-afc2-9cb8acbd15d2/shovel-in-dirt.jpg"
 
 +++
 Gardening typically involves a lot of effort to manipulate the soil - rototilling, digging, cultivating, raking. Conventional thinking is that churning up the soil gives plants a more favorable environment to grow in; by loosening it, improving drainage, and tilling in compost and green manures. But what if all this work was not necessary and was actually degrading the soil? That’s where no-till gardening comes in.
@@ -21,7 +21,7 @@ With organisms doing all this crucial work in the soil, it only makes sense to d
 
 ### What are the Benefits of No-Till Gardening?
 
-![Hands holding soil](/uploads/soil-in-hands.jpg)
+![Hands holding soil](https://ucarecdn.com/4ef3fbf7-9dd1-4077-a3af-359556d420d1/soil-in-hands.jpg)
 
 Doing away with tilling and digging eliminates most of the backbreaking gardening work! If that isn’t enough to convince you, there are many added perks with no-till gardening:
 

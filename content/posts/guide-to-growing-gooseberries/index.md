@@ -10,7 +10,7 @@ tags = ["Southern Hemisphere", "Australia "]
 
 [cover]
 relative = false
-image = "cover2.jpg"
+image = "https://ucarecdn.com/4aa72cd1-ad0c-454d-9d7a-6bedba4db9a8/cover2.jpg"
 alt = "An image displaying three unripe Gooseberry fruits - they are spherical and pale yellow, with the husks of dead flowers still clinging to the bottom of the fruits. "
 +++
 
@@ -24,7 +24,7 @@ The Gooseberry plant is a small, stiff-stemmed plant native to Europe, and is of
 
 The Gooseberry plant is a small, thorny plant that provides pink flowers during blossoming season. It can grow up to 1.5m (5 feet) tall, and has edible fruit. These fruit are ovular and green.
 
-![An image displaying a Gooseberry bush - It has small rough green leaves with three segments, and multiple ovular fruits that have thin white lines running down their skin.](gooseberry1.jpg)
+![An image displaying a Gooseberry bush - It has small rough green leaves with three segments, and multiple ovular fruits that have thin white lines running down their skin.](https://ucarecdn.com/79d1e88c-d569-45b3-9a18-f3a019aa8e18/gooseberry1.jpg)
 
 ### **Finding seeds**
 
@@ -54,7 +54,7 @@ Germination takes roughly 2-6 weeks, and is characterized by the formation of ne
 
 The plants should grow and mature over the following 90-120 days. As stated prior, it is recommended you plant these plants at the start of the cold season, so that they have the time needed to grow and mature before producing fruit throughout Spring.
 
-![A close up image of some Gooseberry fruit. They are ovular in shape, and have white veins running across their surface. They have a fine layer of prickle across the surface.](goose.jpg "Ripe gooseberries. [Source](https://commons.wikimedia.org/wiki/File:Stachelbeeren.jpg)")
+![A close up image of some Gooseberry fruit. They are ovular in shape, and have white veins running across their surface. They have a fine layer of prickle across the surface.](https://ucarecdn.com/fe85bd84-c273-4612-82ad-1462853209c5/goose.jpg "Ripe gooseberries. [Source](https://commons.wikimedia.org/wiki/File:Stachelbeeren.jpg)")
 
 ### **Knowing when they’re ripe**
 

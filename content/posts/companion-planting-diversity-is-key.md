@@ -6,7 +6,7 @@ title = "Companion Planting: Diversity is Key"
 [cover]
 alt = "Garden with a variety of plants"
 caption = "Garden with a variety of plants"
-image = "/uploads/garden-with-flowers.jpg"
+image = "https://ucarecdn.com/7014a945-9c1c-4d0f-b382-f38f08982188/garden-with-flowers.jpg"
 
 +++
 It’s safe to say that gardeners have many different opinions on the topic of companion planting. While opinions around companion planting vary, it’s generally accepted that growing diverse plants offers many benefits in the garden. Read on to learn more about companion planting and how to introduce companion planting in your garden.
@@ -21,7 +21,7 @@ There has been some scientific research to validate which plant pairings have pr
 
 ### What are the Benefits of Companion Planting?
 
-![Ladybug on a leaf](/uploads/ladybug-on-leaf.jpg)
+![Ladybug on a leaf](https://ucarecdn.com/bafdc9f4-f1cd-4196-a6af-500cdc14aebf/ladybug-on-leaf.jpg)
 
 Companion planting offers many potential benefits in the garden, such as:
 
@@ -37,7 +37,7 @@ Companion planting offers many potential benefits in the garden, such as:
 
 Companion planting may seem daunting, but it doesn't have to be. Refer to the Companion Plants and Combative Plants listed in [Planter](https://planter.garden/) to get started:
 
-![Screenshot of shallots companion plants and combative plants in Planter](/uploads/shallots-screenshot.jpg)
+![Screenshot of shallots companion plants and combative plants in Planter](https://ucarecdn.com/77cf234b-7d55-4b0c-865c-2d8888b8b178/shallots-screenshot.jpg)
 
 To take companion planting a step further, think about the unique conditions in your garden- space, sunlight, pests, and diseases- when choosing companion plants. If you don’t have trouble with aphids, no need to add plants to repel aphids!
 

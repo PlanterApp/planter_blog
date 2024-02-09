@@ -8,7 +8,7 @@ title = "Coloring Your Clothes (and Food!) with Ingredients Straight from Your G
 [cover]
 alt = ""
 caption = ""
-image = "/uploads/fruit-g56cc97972_1920.jpg"
+image = "https://ucarecdn.com/e7d53c47-ccda-4b44-b947-016da1fa1935/fruit-g56cc97972_1920.jpg"
 
 +++
 ### **Why Go Natural with your Colors?**
@@ -37,7 +37,7 @@ Brown: coffee, tea, cocoa
 
 Black: Activated charcoal (not exactly a garden product, but still a good natural dye!)
 
-![](/uploads/detox-g209c6bc67_1920.jpg)
+![](https://ucarecdn.com/668538b9-f827-4bbd-85c1-ee4e8f5be9b8/detox-g209c6bc67_1920.jpg)
 
 #### **Some Things to Keep In Mind:**
 
@@ -55,7 +55,7 @@ When using plant products for dying, it’s recommended that you use an equal we
 
 To dye your fabrics, start by washing them; wet clothing will take the dye more easily, and be easier to twist for tie-dye. Tie the clothes if you’d like, before soaking them in your vat of dye and leaving it overnight for best results. Wash out the colored clothes with cold water, untie them, and hang them out to dry.
 
-![](/uploads/pexels-teona-swift-6851137.jpg)
+![](https://ucarecdn.com/3af05c93-9ef8-472a-ab0f-4b65651ded52/pexels-teona-swift-6851137.jpg)
 
 Make sure to wash dyed fabrics with cold water to keep them looking vibrant.If you're dissatisfied with the dying results, warm washes with strong detergent should get the fabric back to fresh and new!
 
@@ -67,7 +67,7 @@ You can make powdered ingredients out of your fruits or vegetables by freeze-dyi
 
 The liquid method can be done by juicing your produce, pureeing and straining, or steeping some in water, depending on the ingredient choice. You will have to reduce the liquid by cooking it down to make as concentrated a color as possible, typically down to a fraction of a cup.
 
-![](/uploads/pexels-kevin-malik-9016516.jpg)
+![](https://ucarecdn.com/dea330ed-d63d-443b-8301-3b11726c6262/pexels-kevin-malik-9016516.jpg)
 
 Once the colorings are made, you can use them in whatever you please! Add slowly and in small amounts to ensure the desired color and vibrance, just like any other food dyes. Icings and frostings are a good use for these, as well as baked goods, though the heat may affect the color. You can also use them as edible paints!
 

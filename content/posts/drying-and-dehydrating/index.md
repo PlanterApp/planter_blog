@@ -8,7 +8,7 @@ author = "Jessalyn Krenicki"
 
 [cover]
 relative = false
-image = "different-dried-fruits-nuts.jpg"
+image = "https://ucarecdn.com/479fb440-2d0a-467f-a430-08258d7715d4/different-dried-fruits-nuts.jpg"
 +++
 \[intro]
 

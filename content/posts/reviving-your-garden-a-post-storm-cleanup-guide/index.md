@@ -8,7 +8,7 @@ author = "Jessalyn Krenicki"
 
 [cover]
 relative = true
-image = "storm-rain-drips-down-from-roof.jpg"
+image = "https://ucarecdn.com/1e33a9e9-21db-4f4e-ba38-fddbaed003eb/storm-rain-drips-down-from-roof.jpg"
 alt = "Rain dripping from the roof in a storm"
 +++
 This growing guide was planned and written before Hurricane Hillary had formed; our thoughts go out to those impacted in California, Idaho, and Oregon. Please stay safe out there!

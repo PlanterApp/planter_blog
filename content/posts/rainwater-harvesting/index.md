@@ -8,7 +8,7 @@ author = "Erin Thomson"
 
 [cover]
 relative = true
-image = "rain-hand.jpg"
+image = "https://ucarecdn.com/1c2beece-8a39-4fcf-8d4d-71a98ba39f44/rain-hand.jpg"
 alt = "Raindrops being caught in an open hand"
 +++
 Summertime often brings feast-or-famine rain patterns that can be frustrating for us gardeners. For weeks there’s not a drop of rain to be had and then a month’s worth of rain gushes down in a few days. Rather than just hooking up to the tap every time you need to water your veggies, you might want to consider harvesting rainwater to use in the garden. Rainwater harvesting can be beneficial for your plants, your wallet, and your local water supply- but before you install a rain barrel there are some important considerations to bear in mind.
@@ -40,7 +40,7 @@ There are several precautions that you should consider taking if you do choose t
 * Do not harvest produce immediately after watering
 * Most importantly, always wash garden produce thoroughly before eating it!
 
-![A hose watering the soil beside a lettuce plant](hose-watering-lettuce.jpg)
+![A hose watering the soil beside a lettuce plant](https://ucarecdn.com/3890c0a5-528c-40cb-9ed1-dff06529141a/hose-watering-lettuce.jpg)
 
 If you decide not to use rainwater on your edible plants, it’s still worth installing a rain barrel to water your ornamental plants.
 
@@ -52,7 +52,7 @@ Then you’ll need to select a barrel. There are many different sizes and styles
 
 There are many different ways to install a rain barrel but it will typically involve cutting (and potentially re-supporting) the downspout then attaching a flexible or rigid pipe that directs the water into the top of the barrel. Consult online video tutorials to find step-by-step instructions that are specific to the type of downspout and barrel you have. Be sure to have a clear plan and all the necessary materials before starting- you won’t want to leave the project half-finished then have a rainstorm hit!
 
-![A rain barrel on a patio beside a garlic patch](rain-barrel.jpg)
+![A rain barrel on a patio beside a garlic patch](https://ucarecdn.com/104acc1f-2200-4cd3-88fc-a4c994fc07e9/rain-barrel.jpg)
 
 Rain barrels work with gravity; the more full the barrel is the more quickly water will flow from the spigot at the bottom. The higher up the barrel the higher the flow rate will be- and the easier it will be to get a watering can under the spigot. Use concrete blocks or wood to build a strong, solid platform to raise the barrel up, or buy a ready-made rain barrel stand. Using a rain barrel pump can help to get more water pressure from the barrel especially when the water level is low.
 

@@ -10,7 +10,7 @@ tags = []
 
 [cover]
 relative = false
-image = "feverfew.jpg"
+image = "https://ucarecdn.com/b5d09e7c-32cc-46b8-bdff-07026f0e2894/feverfew.jpg"
 alt = "Feverfew and calendula in bloom"
 +++
 Have you ever wanted to know more about herbs but weren't sure where to start? Maybe you're thinking you have to be enrolled at a school of wizardry to learn. Or maybe you have to be a medieval monk to have an apothecary garden. Not at all! The interest in herbalism is growing quickly. Many countries around the world use plants as a form of complementary medicine. There’s no better time than now to start your herbal garden.
@@ -38,7 +38,7 @@ You already know that we use culinary herbs, like rosemary, to add flavor to foo
 
   ![]()
 
-![A honey bee visiting a lavender flower](lavenderbee.jpg)
+![A honey bee visiting a lavender flower](https://ucarecdn.com/5ff31a71-3bba-4561-bc4c-af5fe09427d3/lavenderbee.jpg)
 
 ### How do I choose?
 
@@ -50,7 +50,7 @@ If you’re ready to add herbs to your space, you might be thinking about where 
 * Do you want to [plan a tea garden](https://blog.planter.garden/posts/tea-garden-plan/)?
 * Do you want to grow enough herbs to keep a well-stocked home apothecary?
 
-![Dried herbs](driedherbs.jpg)
+![Dried herbs](https://ucarecdn.com/a6adacd6-1415-4271-b9b9-72e635e2cfe9/driedherbs.jpg)
 
 Plants like rosemary, thyme, and sage are good beginner herbs and they tend to be available at most nurseries and garden centers. They are also pretty easygoing. If you’re beyond the beginner herbs, chamomile, yarrow, parsley, and several types of mint are easy to find. For the more unusual herbs you might have to get them from a specialty shop or online. A quick internet search can point you to some medicinal herb companies.
 
@@ -58,6 +58,6 @@ Plants like rosemary, thyme, and sage are good beginner herbs and they tend to b
 
 Cold-hardy herbs like parsley, bay leaf, winter savory, and some types of rosemary can be grown and harvested in the winter. They can be left outside as long as they have soil with good drainage. If you live in an area with very cold winters, look for varieties that are best for your growing zone. For some, growing herbs indoors is a better choice. Thyme, garden sage, and mint are easy to grow inside. You can often find potted basil at the grocery store too, even in the winter. You might have to supplement with a grow light during the darkest part of the year. Growing herbs indoors during the winter is a great way to pass the time while you dream about spring. 
 
-![Potted herbs enjoying a sunny windowsill ](indoorpots.jpg)
+![Potted herbs enjoying a sunny windowsill ](https://ucarecdn.com/f7b2b4c9-2acd-4be6-9e46-5365cdc857ec/indoorpots.jpg)
 
 No matter what size garden you're working with, be sure to include herbs in your garden plan in [Planter. ](https://planter.garden/)

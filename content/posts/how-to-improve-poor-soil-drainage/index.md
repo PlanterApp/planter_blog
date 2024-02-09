@@ -8,14 +8,14 @@ author = "Jessalyn Krenicki"
 
 [cover]
 relative = true
-image = "compost-still-life-concept.jpg"
+image = "https://ucarecdn.com/ac50b1b7-80dc-4975-b5ae-4d0b12aeca8f/compost-still-life-concept.jpg"
 alt = "Gardener holding soil in gloved hands, over a bucket of soil."
 +++
 Have you noticed that your plants have been struggling in your soil? Maybe when you water your garden, it doesn't seem to soak in, or your plants leaves seem sad and limp despite the rain? Your garden might be having issues with water drainage! But never fear- 
 
 ### What is the main cause of poor soil drainage?
 
-![](close-up-seeder-attached-tractor-field.jpg)
+![](https://ucarecdn.com/e6ec55d8-726e-486c-8ab8-e40b1db670f9/close-up-seeder-attached-tractor-field.jpg)
 
 **Compaction!** The weight of machinery, vehicles, garden equipment, and people pushes the particles of soil together tightly, reducing the spaces of air in the soil. Clay-heavy soils are particularly prone to this, because clay particles compact together easily due to their size.
 
@@ -23,7 +23,7 @@ Plant roots need air as well as water to thrive. If there's not enough spaces in
 
 ### How to test soil drainage:
 
-![](man-digging-hole-with-shovel-plant-tree.jpg)
+![](https://ucarecdn.com/1d96989b-7a2e-48e1-b80c-e6eba97eab3f/man-digging-hole-with-shovel-plant-tree.jpg)
 
 * Dig a hole 12 inches deep and 12 inches in diameter.
 * Fill it all the way up with water so that the soil can be well saturated; the next day, fill the hole all the way up again with water.
@@ -32,7 +32,7 @@ Plant roots need air as well as water to thrive. If there's not enough spaces in
 
 ### Options for fixing poor draining soil: 
 
-![](gardener-mulching-spring-garden-with-pine-wood-chips-mulch-pouring-it-out-bag-man-puts-bark-around-plants.jpg)
+![](https://ucarecdn.com/f7d7246d-4c8d-49c6-9fe9-dc351c474e20/gardener-mulching-spring-garden-with-pine-wood-chips-mulch-pouring-it-out-bag-man-puts-bark-around-plants.jpg)
 
 #### Additives!
 
@@ -40,7 +40,7 @@ Plant roots need air as well as water to thrive. If there's not enough spaces in
 
   * A good rule of thumb for this is to spread around a two inch layer of organic matter over your soil, and work it in about six inches deep with a spade or till. Over-tilling will make your problem worse, and may have caused the issue in the first place.
 
-![](close-up-ground-texture-detail.jpg)
+![](https://ucarecdn.com/80b62539-78f3-4de1-88dc-4de927c80723/close-up-ground-texture-detail.jpg)
 
 * Perlite or Vermiculite: these are two kinds of volcanic rock that will help break up soil and absorb water well. Sand can also help in a similar way, but not recommended (tricky) 
 * Sand is very fine, and while it might break up soil clods in large amounts, it can also just fill the few spaces there are in the clay-heavy soil and slow drainage further.
@@ -51,7 +51,7 @@ Loosen and aerate heavy and compacted soils with a garden fork. Push the fork in
 
 #### Plant in raised beds instead of directly in the ground!
 
-![](beds-with-cultivated-vegetables-rustic-vegetable-garden.jpg)
+![](https://ucarecdn.com/df64b62c-3ede-47c3-a4dd-33135a49605c/beds-with-cultivated-vegetables-rustic-vegetable-garden.jpg)
 
  
 
@@ -63,7 +63,7 @@ The organic matter content in a raised bed containing garden soil, should be 25%
 
 #### Prevent the soil from compacting in the future
 
-![](long-shot-agricultural-field.jpg)
+![](https://ucarecdn.com/14c1f46f-28bd-4874-8bcb-d02b5aa5029b/long-shot-agricultural-field.jpg)
 
  
 

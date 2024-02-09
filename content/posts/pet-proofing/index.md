@@ -9,7 +9,7 @@ plants = ["rosemary"]
 
 [cover]
 relative = true
-image = "front-view-beagle-dog-lying-grass-with-sticking-out-tongue.jpg"
+image = "https://ucarecdn.com/bf700eeb-3b0e-4861-b63b-809eaef143cb/front-view-beagle-dog-lying-grass-with-sticking-out-tongue.jpg"
 alt = "Dog laying in the lawn"
 +++
 Many families have both plant babies and fur babies- but sometimes, these two responsibilities can clash. Are you having trouble keeping your pets out of your garden? Between fencing, various additives, or even embracing the chaos, there’s lots of ways to handle such an issue. Read on to see some of our recommendations!
@@ -22,7 +22,7 @@ On the other side, pets, especially dogs and cats, can unintentionally cause dam
 
 By implementing some preventative measures, you can make sure to protect your pets and your hobby!
 
-![](contented-rabbit-happily-munching-fresh-greens-ai-generated.jpg)
+![](https://ucarecdn.com/e4739387-fb68-4776-be75-b85a4187c8b7/contented-rabbit-happily-munching-fresh-greens-ai-generated.jpg)
 
 ### 3 Great Ways to Pet-Proof Your Garden
 
@@ -40,7 +40,7 @@ This can deter animals like bunnies, too, which may wander in with the intent of
 
 Plants like rosemary or peppers deter some animals like dogs; Coffee grounds keeps cats away
 
-![](whats-down-here-high-angle-shot-adorable-young-jack-russell-digging-hole-ground-outside.jpg)
+![](https://ucarecdn.com/1590075e-4db6-4811-b7be-d955d8524d7f/whats-down-here-high-angle-shot-adorable-young-jack-russell-digging-hole-ground-outside.jpg)
 
 ### What if I want a Pet-*Friendly* Garden?
 
@@ -64,7 +64,7 @@ With your pets roaming in the outdoors, they may pick up some unwanted hitchhike
 
 This one's pretty simple, but large, sturdy plants will hold up well against animals passing around them. Bushes or vines on trellises are some great options that will resist being knocked over or crushed underfoot. 
 
-![](cat-garden-with-flowers.jpg)
+![](https://ucarecdn.com/0af1d391-0a0f-4311-8e2a-fc3223b29415/cat-garden-with-flowers.jpg)
 
 \
 In conclusion, pet-proofing your garden is essential to ensure the safety and well-being of both your pets and your plants. By implementing a few preventative measures, you can create a harmonious environment where your fur babies can coexist with your plant babies. Installing a wall or fence, using raised beds, and utilizing odorous deterrents are effective ways to keep pets out of your garden. However, if you want to create a pet-friendly garden, it's important to still have some boundaries in place to protect your pets from potential hazards. Creating a designated play area, avoiding pet-toxic plants and chemicals, and using wood chip mulch to deter ticks are additional steps you can take to make your garden safe and enjoyable for your pets. Remember, with proper planning and consideration, you can strike a balance between your love for gardening and your love for your furry friends.

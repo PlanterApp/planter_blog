@@ -8,7 +8,7 @@ author = "The Planter Team"
 
 [cover]
 relative = true
-image = "giveaway.jpg"
+image = "https://ucarecdn.com/ce49a5f3-7d90-4247-94d3-79a121296aaf/giveaway.jpg"
 alt = "Giveaway promo image"
 +++
 ### Spring is here!
@@ -21,7 +21,7 @@ Still haven't planted anything? Check out our recent Growing Guides about [when 
 
 Share a photo for a chance to win a **lifetime subscription** to Planter **AND** a **Planter t-shirt** 🤩🪴.
 
-![](image.png "The snazzy Planter t-shirt up for grabs. Also available in green (but without the plant icons since they blend into the green).")
+![](https://ucarecdn.com/2e3e5e18-42a8-43b0-b860-9dcb966c2d4c/image.png "The snazzy Planter t-shirt up for grabs. Also available in green (but without the plant icons since they blend into the green).")
 
 ### How to Enter:
 

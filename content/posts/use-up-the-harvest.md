@@ -9,7 +9,7 @@ title = "Use It or Lose It: What to Do with a Veggie Glut"
 [cover]
 alt = "A bountiful harvest of squash, tomatoes, and peppers"
 caption = "A bountiful harvest of squash, tomatoes, and peppers"
-image = "/uploads/bountiful-harvest.jpg"
+image = "https://ucarecdn.com/c168d1fa-a555-4ee4-9c7f-d5ffa00a3a44/bountiful-harvest.jpg"
 
 +++
 Early in the growing season, finding one ripe tomato or pepper feels like finding a precious gem. As the season carries on it can get to a point where it’s hard to keep up with everything your plants produce (...I’m looking at you, zucchini). But if you stop harvesting, your plants might stop producing or you could end up with veggies going bad right on the plant. As gardeners we sometimes need to get a bit resourceful to find ways to use up an extra-abundant harvest!
@@ -26,13 +26,13 @@ While canning is an excellent way to preserve huge amounts of produce long past 
 
 Freezing is one of the best ways to store many different types of veggies. Wash and chop up greens such as kale and spinach, before portioning them into plastic bags and freezing them to easily throw into recipes as needed. Peppers also freeze remarkably well- smaller peppers such as serranos, cayennes and jalapenos can be frozen whole, then pulled out and cut up while they are still semi-frozen. For larger peppers you may want to cut them into strips or chunks first before freezing as this is easier than trying to remove the seeds and cores as they thaw out. Some veggies such as broccoli, beans and peas are best blanched in boiling water before being frozen on baking sheets then stored in freezer bags. Others, such as zucchini and squash, are best grated or cubed up before portioning into freezer bags, so you can easily defrost and cook with them (zucchini bread, anyone?)
 
-![Zucchini being grated into a bowl](/uploads/grated-zucchini.jpg)
+![Zucchini being grated into a bowl](https://ucarecdn.com/dc695d27-30fb-4a98-b183-297d6b565384/grated-zucchini.jpg)
 
 Drying and dehydrating are relatively hands-off ways to store produce for the long haul. Even if you don't have a [dehydrator](https://www.amazon.com/s?k=dehydrator) kicking around in your kitchen, you can still preserve plenty of things just by air-drying- especially for herbs and spices. Wash your herbs if needed, then pat dry and leave them on [drying racks](https://www.amazon.com/s?k=herb+drying) or bunch them and hang them to dry in a place where they will get plenty of airflow. You can also use your oven at low temperature as a dehydrator- look for recipes specific to the veggies you want to dehydrate.
 
 Pickling and fermenting are also both great options for preserving veggies. There are lots of ‘refrigerator pickle’ and ‘quick pickle’ recipes for all kinds of different veggies- cucumbers, radishes, carrots, jalapenos, and beets, just to name a few. So long as you follow a [reliable recipe](https://www.amazon.com/s?k=quick+pickle+recipes), refrigerator pickles will keep for quite some time in the fridge even though they haven’t gone through the canning process. And while [fermentation](https://www.amazon.com/s?k=fermentation+recipes) can get a bit technical, try easing into it with a super-basic sauerkraut recipe.
 
-![Pickled radishes in a glass container](/uploads/pickled-radishes.jpg)
+![Pickled radishes in a glass container](https://ucarecdn.com/21c129e7-07b6-49c4-8f05-1d8242fc7522/pickled-radishes.jpg)
 
 ### Other use-it-up ideas
 

@@ -8,7 +8,7 @@ author = "Jessalyn Krenicki"
 
 [cover]
 relative = true
-image = "man-plating-ground-small-tree.jpg"
+image = "https://ucarecdn.com/249183dc-5528-4b84-aa15-ae529c2bba71/man-plating-ground-small-tree.jpg"
 alt = "Gardener comparing tree to hole"
 +++
 Are you looking to take a bigger step in gardening? Planting a tree or a shrub can be a long-term commitment, but it can be a great way to expand your gardening horizons. Once planted and mature, though, your new plant (or plants) will offer up harvests for years to come and bring environmental benefits as well. Read on for tips on how to best plant trees and shrubs on your lands!
@@ -21,13 +21,13 @@ Plant in hand, it's important to choose the right time to start it. The best tim
 
 **Make sure you know what is under the ground before digging!** There may be underground utilities that you do not want to bother. If you live in the US, you can call 811; that's our national call-before-you-dig number.
 
-![](pexels-zen-chung-5528999.jpg)
+![](https://ucarecdn.com/d26d657e-4328-4eef-b49a-2f448a85e367/pexels-zen-chung-5528999.jpg)
 
 ### The Plant for You
 
 Make sure to research the type of plant you’re hoping to grow. Fruiting plants may need to be planted in pairs, if they are not self-fertilizing, but some varieties don’t need a partner in order to produce fruit. Depending on the area you have for it as well, you may prefer a dwarf variety, or if you're hoping to plant some sun-sensitive plants in a few years you might be looking for a large tree to provide shade.
 
-![](people-operating-heavy-duty-leaf-blower.jpg)
+![](https://ucarecdn.com/55497dea-289a-4157-8a75-2236b1549310/people-operating-heavy-duty-leaf-blower.jpg)
 
 ### Now We Prepare!
 
@@ -38,7 +38,7 @@ It's important to prepare the planting area to avoid transplant shock, which can
 * If the tree or shrub roots have a covering of some kind, make sure to remove it! It can restrict root growth very severely if you leave that on.
 * Carefully shake off excess dirt from the plant, and if there's any circling roots you can carefully straighten them out. Plants container-grown are particularly prone to becoming rootbound, so be sure to pay special attention to such plants.
 
-![](compost-still-life-concept-1-.jpg)
+![](https://ucarecdn.com/56614c02-6481-4897-9aff-e0cc47dd7bd6/compost-still-life-concept-1-.jpg)
 
 ### Time to Plant
 
@@ -49,7 +49,7 @@ It's important to prepare the planting area to avoid transplant shock, which can
 * You shouldn't fertilize at this point- a newly transplanted plant may have damaged roots, which can be burned by fertilizer. Similarly, adding anything but the soil you dug out to the hole as you fill it in can cause drainage problems.
 * If you need to stake, a 3-stake system is ideal! However, unstaked plants will develop stronger root systems and trunks to support themselves, so think carefully whether your new addition needs it!
 
-![](planting-trees-as-part-reforestation-process.jpg)
+![](https://ucarecdn.com/c2f2ef06-be96-4251-acf9-34ff1252d6be/planting-trees-as-part-reforestation-process.jpg)
 
 ### Maintaining Your New Addition
 
@@ -57,6 +57,6 @@ It's important to prepare the planting area to avoid transplant shock, which can
 * Mulch is a great addition for these plants- a couple inches of bark mulch can help to stop too much water from evaporating, control weed growth, and insulate the soil.
 * Monitor your plant. While there may not be a lot of growth up top (which is exactly what we want), the leaves will still tell you plenty about the plant's water needs, which is the most important thing to watch for after transplanting. If leaves are going brown or crispy and start to fall off, increase the watering; if leaves are limp or yellow, decrease the watering.
 
-![](environmental-conservation-garden-children.jpg)
+![](https://ucarecdn.com/0a7939bc-9265-419e-b349-87c6a216d401/environmental-conservation-garden-children.jpg)
 
 Remember, planting trees and shrubs is a long-term commitment. Ensure your leafy companions thrive by providing proper care and maintenance. Keep a close eye on their growth, water them regularly, and give them a trim as needed. By following these essential tree and shrub care practices, your green beauties will flourish and bring beauty to your garden for years to come. Happy planting!

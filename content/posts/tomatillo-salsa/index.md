@@ -9,7 +9,7 @@ tags = ["Recipe"]
 
 [cover]
 relative = false
-image = "pxl_20230921_221127362.webp"
+image = "https://ucarecdn.com/389af668-287a-4864-8e44-88bdc9610b2e/pxl_20230921_221127362.webp"
 caption = "Fresh tomatillo salsa!"
 +++
 ### Growing Tomatillos
@@ -18,7 +18,7 @@ I tried growing tomatillos for the first time this year, and boy, did I get a bu
 \
 The tomatillo plants took off FAST. By mid-summer, they were a pollinator's dream:
 
-![](/uploads/videos/tomatillo_flowers_cropped.webp "Bees going crazy for all the tomatillo flowers 🌼")
+![](https://ucarecdn.com/48e15987-686f-4f57-9e7a-385bdf819c79/tomatillo_flowers_cropped.webp "Bees going crazy for all the tomatillo flowers 🌼")
 
 Here's a video of what my tomatillo plants looked like in August:
 
@@ -45,23 +45,23 @@ If you've ever had Moe's green tomatillo salsa, this is it!
 
 Start by husking your tomatillos. Unlike tomatoes, you don't need to cut out the area around the stem or core them or anything like that. Just husk them. If this is your first time dealing with tomatillos, you'll quickly notice how sticky they are. Just run them under some water to get rid of that stickiness.
 
-![](PXL_20230918_225453724.webp "First, husk your tomatillos and wash off the stickiness.")
+![](https://ucarecdn.com/87672451-3f2a-4cbe-b23f-cc296358597d/PXL_20230918_225453724.webp "First, husk your tomatillos and wash off the stickiness.")
 
 Then, slice each tomatillo in half and place them cut-side-down on a foil-lined baking sheet or broiler pan. Broil on high for about 6 minutes.
 
-![](PXL_20230918_224116617.webp)
+![](https://ucarecdn.com/2f06dae6-0464-45e3-b137-88944500a8b8/PXL_20230918_224116617.webp)
 
-![](PXL_20230918_225137518.webp)
+![](https://ucarecdn.com/2eb39f30-f14b-4c6e-96a4-1e571586a576/PXL_20230918_225137518.webp)
 
 Optionally drain any extra liquid. Then toss the tomatillos in a food processor with all the other ingredients.
 
-![](PXL_20230918_235345535.webp)
+![](https://ucarecdn.com/9007b907-9a9c-422f-92be-571f485722f8/PXL_20230918_235345535.webp)
 
-![](PXL_20230918_235938166.webp)
+![](https://ucarecdn.com/595bb0fc-afc7-4131-8bc0-23ef45282aba/PXL_20230918_235938166.webp)
 
 Chop it all up and you're done. Enjoy! 
 
-![](tomatillo_dip.gif)
+![](https://ucarecdn.com/6b8b76b2-8e96-41af-9629-4aeca8ff1813/tomatillo_dip.gif)
 
 **"But I don't want to turn on my oven"**
 

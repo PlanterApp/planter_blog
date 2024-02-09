@@ -8,7 +8,7 @@ title = "The Ups and Downs of Bottom Watering"
 [cover]
 alt = ""
 caption = ""
-image = "/uploads/pxl_20220630_153141141-mp_2.jpg"
+image = "https://ucarecdn.com/7e819f1f-0a90-462c-967f-27d568ea197b/pxl_20220630_153141141-mp_2.jpg"
 
 +++
 Looking for some ways to change up your watering routine? Having troubles with root rot in your container plants or seedling trays? The way that you’re watering could be part of the problem - and we have just the alternative! Bottom watering is a highly recommended practice that may be just the change you need.

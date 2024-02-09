@@ -10,7 +10,7 @@ tags = ["Southern Hemisphere", "Australia "]
 
 [cover]
 relative = false
-image = "banana.jpg"
+image = "https://ucarecdn.com/ed94f054-59d7-4a86-a53d-ee834c573fcf/banana.jpg"
 alt = "A picture of ripe bananas cut up on a chopping board. The skins are yellow and the fruit a soft cream."
 +++
 
@@ -22,7 +22,7 @@ The Banana plant is a tropical and subtropical plant that has up to 83 variation
 
 
 
-![An image displaying a banana plant - it has a large flower and two bunches of bananas hanging down, along with very large leaves. The bananas are unripe and green.](banana2.jpg)
+![An image displaying a banana plant - it has a large flower and two bunches of bananas hanging down, along with very large leaves. The bananas are unripe and green.](https://ucarecdn.com/3234eafb-ff4d-4374-9705-870a86e19ed7/banana2.jpg)
 
  
 
@@ -66,7 +66,7 @@ Banana plants begin to flower when the plant is about 9 months old, however it c
 
 
 
-![An image of a banana tree with one bunch of unripe green bananas and a large dark purple flower](bananas-and-flower.jpg)
+![An image of a banana tree with one bunch of unripe green bananas and a large dark purple flower](https://ucarecdn.com/5105bb08-6e4f-4065-af20-46f0f5d61e50/bananas-and-flower.jpg)
 
 The final stage is fruit production – this tends to take three months from the flowers for the fruit to mature. The fruit grows in large bunches. Banana plants can produce over 200 fruit in one season!
 

@@ -7,7 +7,7 @@ author = "Erin Thomson"
 
 [cover]
 relative = true
-image = "worker-with-vegetables.jpg"
+image = "https://ucarecdn.com/182feddd-acf2-4db5-a4cb-9508cf5a0ad7/worker-with-vegetables.jpg"
 alt = "A worker's gloved hands holding a box of vegetables"
 caption = "A worker with a colorful veggie harvest"
 +++
@@ -34,7 +34,7 @@ Once you have a general idea of how you'd like to incorporate gardening into you
 
 ...Just to name a few! As a starting point, think about what type of gardening you enjoy most as a hobby, and look for a related speciality. If there’s more than one specialization that appeals, try to connect with people in the industry who can give you a better sense of the work involved (more on this in the next section!)
 
-![A greenhouse worker surrounded by plants holding a computer](greenhouse-computer.jpg)
+![A greenhouse worker surrounded by plants holding a computer](https://ucarecdn.com/7cb57743-35fa-4c94-af94-6d4715acab7e/greenhouse-computer.jpg)
 
 **Research and reach out:**
 
@@ -52,4 +52,4 @@ When pulling together your resume and cover letter, think of all the gardening s
 
 If you’re passionate about gardening, incorporating gardening into your work can be rewarding and fulfilling. Make sure you have realistic expectations of what the work entails and the qualifications required. Build a network of contacts in your field who can help guide you and connect you with potential opportunities. Above all, don’t be afraid to go for it!  You might just land a job you love.  🌱❤️
 
-![A smiling greenhouse worker holding a head of lettuce, with other workers working in the background](worker-with-lettuce.jpg)
+![A smiling greenhouse worker holding a head of lettuce, with other workers working in the background](https://ucarecdn.com/c287e099-1f60-4c3a-8391-8bc66857b46f/worker-with-lettuce.jpg)
