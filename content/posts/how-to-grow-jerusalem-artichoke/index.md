@@ -8,7 +8,7 @@ plants = ["Sunflower", "Jerusalem Artichoke"]
 
 [cover]
 relative = false
-image = "jerusalem-artichoke-tubers-freshly-harvested-root-2023-11-27-05-29-55-utc.jpg"
+image = "https://ucarecdn.com/13cac3e1-1a91-458f-87ea-2a4ca264324c/jerusalem-artichoke-tubers-freshly-harvested-root-2023-11-27-05-29-55-utc.jpg"
 +++
 ## **What is Jerusalem artichoke?**
 
@@ -20,7 +20,7 @@ The first step to growing Jerusalem artichoke begins by finding some of those sw
 
 If buying tubers isn't your bag there is another way to get them, its free, but you’ll need a bit of luck. Some folks view Jerusalem artichoke as something of a weed, so if you happen to come across other like-minded gardening folks and mention your interest in growing some, they may just point you in the direction of some tubers you can have for free. I procured some tubers this way last spring and the deal was what I dug up, I got to keep. So make sure to ask around because who doesn’t love free?
 
-![](jerusalem-artichoke-tubers-in-hands-sunroot-sunc-2023-11-27-05-14-07-utc.jpg)
+![](https://ucarecdn.com/9f04ae96-e792-42bd-8e47-9cf4c3e092da/jerusalem-artichoke-tubers-in-hands-sunroot-sunc-2023-11-27-05-14-07-utc.jpg)
 
 ### **Where and When Jerusalem Artichoke Should Be Planted**
 
@@ -34,7 +34,7 @@ Jerusalem artichoke is versatile in the sense that your tubers won’t come out 
 
 Jerusalem artichoke isn’t bothered by much, but If you live anywhere where beetle larva or grubs are an issue, growing plants that produce tubers can be a real challenge because those little grubs love delicious tubers just as much as you do! These grubs would shake you down and take the food right out of your mouth if they could. The good news is that there’s an easy, organic, and natural fix for this: beneficial nematodes. 
 
-![](the-grub-larva-eats-potatoes-selective-focus-2023-11-27-05-05-34-utc.jpg)
+![](https://ucarecdn.com/c1f01678-beae-4d23-b384-673542887c1c/the-grub-larva-eats-potatoes-selective-focus-2023-11-27-05-05-34-utc.jpg)
 
 Beneficial nematodes are little soil bound predators that feed on specific insect eggs and grubs. This makes them a tuber’s best friend in the garden. Most companies that offer beneficial nematodes sell them as a powder and their application is almost always the same. The instructions on the package will provide you with the water to powder mixing ratio you will need to follow and simply spray or otherwise evenly apply that mixture to your garden beds where your tubers are growing. The mixture only needs to be applied when the plants begin to flower because shortly after this is when the plants begin to form tubers. 
 
@@ -46,7 +46,7 @@ Getting those little tubers out of the ground is similar to digging up potatoes,
 
 As you start to look over your gold and purple bounty, you may begin to notice that there are often small “baby tubers” that aren’t really worth saving for the dinner plate. These little nickel-sized-nuggets are the perfect seed tubers for next year. While larger tubers will produce larger plants earlier, it has been my observation that larger seed tubers have little to do with how productive that plant will be at the end of the next season. 
 
-![](jerusalem-artichokes-sachet-and-kitchen-knife-on-2023-11-27-05-10-00-utc.jpg)
+![](https://ucarecdn.com/d0d9d817-98af-498a-984e-3ad6603ccdbf/jerusalem-artichokes-sachet-and-kitchen-knife-on-2023-11-27-05-10-00-utc.jpg)
 
 As you start to look over your gold and purple bounty, you may begin to notice that there are often small “baby tubers” that aren’t really worth saving for the dinner plate. These little nickel-sized-nuggets are the perfect seed tubers for next year. While larger tubers will produce larger plants earlier, it has been my observation that larger seed tubers have little to do with how productive that plant will be at the end of the next season. 
 
@@ -56,7 +56,7 @@ Once your seed tubers are identified, simply put them back into the ground where
 
 While this guide could have ended at harvest, I think it’s really important to understand how Jerusalem artichoke is best cooked and what it tastes like because after all isn't that what vegetable gardening is all about? For taste, most tubers I have tried don't differ much from one variety to next and are usually nutty, sweet, and have a touch of earthy. Like most niche foods, it’s something you really have to try for yourself to gauge whether you will like them. 
 
-![](jerusalem-artichoke-vegetable-autumn-soup-2023-11-27-05-06-38-utc.jpg)
+![](https://ucarecdn.com/b9064dc5-fc9f-4a4d-ae77-4a4c3e7667e4/jerusalem-artichoke-vegetable-autumn-soup-2023-11-27-05-06-38-utc.jpg)
 
 The best recipes I have tried involve sautéing or roasting the tubers and serving them as a side, but they also go well in soups. While fresh, the texture is similar to a water chestnut and when cooked/sautéed the tubers become softer like a potato. However, if your plan is to use them as a replacement for potatoes, sadly they don’t have that buttery smooth “meat” that readily takes on the flavor of any seasoning paired with it like potatoes do. Jerusalem artichoke has its own unique flavor and texture and stands out in recipes where it is the main event. 
 

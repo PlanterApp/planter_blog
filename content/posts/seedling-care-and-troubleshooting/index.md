@@ -8,7 +8,7 @@ series = ["Seed starting"]
 
 [cover]
 relative = true
-image = "tomato-seedlings.jpg"
+image = "https://ucarecdn.com/61adbf6d-f1f2-4b82-ac85-3b8bbaee182a/tomato-seedlings.jpg"
 alt = "Four tomato seedlings in pots by a windowsill"
 caption = "Healthy tomato seedlings growing in pots"
 +++
@@ -23,7 +23,7 @@ Seeds typically need warm, moist conditions for germination and most veggie plan
 
 How much to water your seedlings and when depends on many factors such as: how well your seed starting mix holds water, the type of containers you use, and how dry your house is. Check your seedlings often- multiple times a day- and as soon as the soil starts to appear a bit dry water them right away. While you never want the growing medium to go bone dry, you may not have to be as meticulous with misting and watering as when germinating seeds. Also, if you were using a humidity dome for germinating your seeds, be sure to remove it once they germinate. Many gardeners prefer to [bottom water](https://blog.planter.garden/posts/the-ups-and-downs-of-bottom-watering/) their seedlings, but no matter how you water them, be sure your containers have drainage and don't let your seedlings sit in water. Over time you will develop a 'feel' for the right amount of water to give your seedlings.
 
-![Young seedlings in a tray with water on the leaves](seedlings-with-water.jpg)
+![Young seedlings in a tray with water on the leaves](https://ucarecdn.com/5ae60c2a-88bb-4a91-aef1-4ec30a513e54/seedlings-with-water.jpg)
 
 ### How to fertilize seedlings
 
@@ -35,7 +35,7 @@ Seeds and newly emerged seedlings do not need any fertilizer- they have all the 
 
 **Potting up** refers to moving seedlings into larger containers with more growing medium. Potting up gives seedlings room to continue growing so they don't become stunted in a too-small container. To know when to pot up your seedlings, regularly check the roots. As soon as you see roots starting to poke out of the bottom of the container it’s time to pot up. Select a larger container, fill it partway with potting mix, then gently extract the seedling from its existing container (soil and all) and put it in the larger container. Fill in any gaps with more potting mix then water well.
 
-![Young tomato seedlings in plastic containers](tomato-seedlings-pots.jpg)
+![Young tomato seedlings in plastic containers](https://ucarecdn.com/8d3ae934-5e63-4125-9f99-d9962be65c60/tomato-seedlings-pots.jpg)
 
 ### Common seedling problems and remedies
 
@@ -45,6 +45,6 @@ Seeds and newly emerged seedlings do not need any fertilizer- they have all the 
 
 **Leggy seedlings:** Leggy seedlings are weak seedlings that are stretched too thin. To prevent leggy seedlings, make sure they are placed close enough to a light source to receive ample light, and use a fan on a gentle setting to help strengthen the stems.
 
-![Leggy tomato seedlings in peat pots](leggy-tomatoes.jpg)
+![Leggy tomato seedlings in peat pots](https://ucarecdn.com/2b6d3722-b69f-4144-acb7-454b3a37d7be/leggy-tomatoes.jpg)
 
 Taking care of seedlings is not complicated, but it does require a bit of attentiveness. Keep a close eye on your seedlings to make sure they are not underwatered or overwatered, and that they have sufficient light and nutrients. Taking action as soon as you spot a problem can save your precious seedlings. You’ll be rewarded for your efforts  when they turn into healthy plants you can transplant into your garden!

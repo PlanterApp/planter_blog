@@ -6,7 +6,7 @@ title = "Succession Planting for Nonstop Harvests"
 [cover]
 alt = "A hand holding radishes with dirt on the roots"
 caption = "Fresh radish harvest"
-image = "/uploads/radishes-with-dirt.jpg"
+image = "https://ucarecdn.com/f3ee3a7d-484a-44f7-acbe-5e840964a998/radishes-with-dirt.jpg"
 
 +++
 For many gardeners, the gardening season starts with a big trip to the garden center and planting garden beds chock full of veggies, followed by watering and waiting for harvest time. However, to make the most of the growing season one of the most important techniques to master is succession planting.
@@ -27,7 +27,7 @@ There are four common succession planting techniques:
 
 ### Which Crops Can I Plant in Succession?
 
-![A hand holding carrots with dirt on the roots](/uploads/carrots-with-dirt.jpg)
+![A hand holding carrots with dirt on the roots](https://ucarecdn.com/6b1f5959-b45d-4aea-948b-ab267a175a9a/carrots-with-dirt.jpg)
 
 Which crops you can succession plant depends on the length of your growing season and on the succession planting technique you are using. Staggered planting is common with lettuce, radishes, legumes, kale, chard, beets, and carrots, to name a few.
 
@@ -45,7 +45,7 @@ In its simplest form, remove spent crops and plant season-appropriate crops in t
 
 Staggered planting is also straightforward, but requires saving space in the garden to have open spots to plant into every few weeks. [Planter](https://planter.garden/) can help you keep track of which spaces in your garden are still available for planting.
 
-![Screenshot of a garden with empty spaces in Planter](/uploads/screenshot-planting-space.jpg)
+![Screenshot of a garden with empty spaces in Planter](https://ucarecdn.com/1f608569-a560-4844-97fd-965f9b84f78f/screenshot-planting-space.jpg)
 
 Use the [Notes and Events](https://info.planter.garden/premium) premium features in [Planter](https://planter.garden/) to keep records of intercropped plantings and to track the exact days to maturity of different plant varieties.
 

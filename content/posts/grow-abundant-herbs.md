@@ -9,7 +9,7 @@ series = ["Herbs"]
 [cover]
 alt = "Herb plants ready for planting"
 caption = ""
-image = "/uploads/herbs-in-pots.jpg"
+image = "https://ucarecdn.com/f29bec01-6815-4261-b135-7c504d22186c/herbs-in-pots.jpg"
 
 +++
 If you enjoy having flavorful ingredients for cooking, there is nothing better than growing your own fresh herbs. Growing herbs provides many rewards, with relatively little effort. Adding herbs to your garden is a great way to expand the range of recipes you can create from your garden’s produce!
@@ -28,7 +28,7 @@ Some herbs, such as mint, are perennials that can come back every year. Some per
 
 Perennial and self-seeding herbs can be an asset in your garden if they are planted in a convenient location. Be warned, though, that some of these herbs can take over your garden if they are not contained. Bear this in mind when choosing which herbs to plant and where to plant them.
 
-### ![](/uploads/mint.jpg)
+### ![](https://ucarecdn.com/0ce23880-4fc4-4de5-8d6e-d47d27744ea4/mint.jpg)
 
 ### How to Plant and Care for Herbs
 
@@ -44,6 +44,6 @@ When it comes to caring for herbs often less is more. Many herbs do not like to 
 
 When your herbs are ready to harvest, don’t be afraid to give them a haircut! Herbs thrive with a regular trim; it helps them be more productive. Just don’t cut away more than one third of the plant at once. Check out the harvesting and storage tips in [Planter](https://planter.garden/) to get the most out of your herbs:
 
-![](/uploads/thyme-screenshot.jpg)
+![](https://ucarecdn.com/8b0e66fe-36c0-40a1-a29d-bcb816e455e5/thyme-screenshot.jpg)
 
 Include your favorite herbs in your garden, and enjoy harvesting the freshest possible herbs right outside your door!

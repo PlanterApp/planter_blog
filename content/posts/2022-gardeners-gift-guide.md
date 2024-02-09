@@ -12,13 +12,13 @@ override_position = false
 [cover]
 alt = "A holiday gift with a red bow surrounded by greenery"
 caption = ""
-image = "/uploads/xmas-gift.jpg"
+image = "https://ucarecdn.com/7349c312-6f58-4b6d-ab8b-073e1028d960/xmas-gift.jpg"
 +++
 Looking for the perfect holiday gifts for the gardeners in your life? Or maybe you’re looking for some neat gardening gear to put on your own wish list (no judgment…us too!) Whoever you’re shopping for, our 2022 Gardeners' Gift Guide has something for every gardener!
 
 ### Seeding Square
 
-![Seeding Square product image](/uploads/seeding-square.jpg)
+![Seeding Square product image](https://ucarecdn.com/6c63144d-13cd-4708-9032-3058b2223aa6/seeding-square.jpg)
 
 Translate your garden plan from Planter into your garden with the handy [Seeding Square](https://www.amazon.com/Seeding-Square-Perfectly-Vegetables-Conserves/dp/B00US8ESWK?ref_=ast_sto_dp)! This nifty square has color-coded holes to help you sow the seeds of your favorite plants following recommended per-square-foot spacings. The graduated dibber helps to ensure your seeds are planted at the right depth, too.
 
@@ -42,13 +42,13 @@ If your giftee is just starting out with gardening, snap up a handy garden tool 
 
 ### Indoor Hydroponic Garden
 
-![Indoor hydroponic garden](/uploads/aerogarden-harvest-indoor-garden-with-led-lights-01.jpeg)
+![Indoor hydroponic garden](https://ucarecdn.com/858b93b9-5f62-4ed7-8e37-d3d868e4ad6f/aerogarden-harvest-indoor-garden-with-led-lights-01.jpeg)
 
 How do you scratch that gardening itch during the winter? Move the garden indoors, of course! [AeroGarden Hydroponic Gardens](https://www.amazon.com/stores/AeroGarden/page/1C957391-DD17-4684-B4E7-94CFD437E4B2?ref_=ast_bln) are easy to use and will provide fresh herbs, lettuce, or even cherry tomatoes year-round!
 
 ### Mini Greenhouse
 
-![Mini greenhouse](/uploads/Mini-greenhouse.jpg)
+![Mini greenhouse](https://ucarecdn.com/896c7649-c101-4016-baa8-1e9039297f64/Mini-greenhouse.jpg)
 
 [Mini greenhouses](https://www.amazon.com/s?k=mini+greenhouse) are great for protecting tender seedlings and plants from harsh winds, driving rain, and chilly-ish weather, or for an indoor seed-starting setup. For outdoor use, be sure to weigh the mini greenhouse down (or otherwise secure it to the ground or a fence) and use extra fastenings to hold down the shelves.
 
@@ -76,7 +76,7 @@ This compact [soil sieve](https://www.amazon.com/Tierra-Garden-GP104-Galvanized-
 
 ### Kneeling Pad
 
-![A gardener kneeling on a kneeling pad](/uploads/Gardener-kneeling.jpg)
+![A gardener kneeling on a kneeling pad](https://ucarecdn.com/71c96fc3-fb0c-4a0d-8237-65ad8075a23b/Gardener-kneeling.jpg)
 
 A comfortable [kneeling pad](https://www.amazon.com/s?k=kneeling+pad) is a must-have for gardeners. Having a kneeling pad helps tackle long weeding, seeding, and transplanting sessions without getting scraped up knees. Gardeners who have trouble kneeling may prefer a [garden seat](https://www.amazon.com/s?k=garden+seat) instead.
 
@@ -92,7 +92,7 @@ A hand care gift basket is a thoughtful gift for gardeners. Include some [garden
 
 ### Planter Premium Subscription
 
-![Screenshot of a customized garden in Planter](/uploads/customized-garden.jpg)
+![Screenshot of a customized garden in Planter](https://ucarecdn.com/c86081ae-3fac-4525-ad51-9871ba3f403b/customized-garden.jpg)
 
 If your recipient doesn’t already have a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/), why not get them a gift card for the App Store or Google Play so they can subscribe! They’ll be able to plan unlimited gardens, use the [Planter web app](https://planter.garden/gardens), customize their garden and more!
 

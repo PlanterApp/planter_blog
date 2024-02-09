@@ -40,13 +40,13 @@ Fall is an excellent time to add some soil amendments, as it gives time for them
 
 Applying [mulch](https://blog.planter.garden/posts/mulching-a-must-for-your-garden/) to your garden in the fall helps to prevent soil erosion over the winter and provides food for the soil life that your garden needs to flourish. Plus, in the fall you’re likely to find lots of mulch readily available in the form of fallen tree leaves!
 
-![Kohlrabi plants mulched with leaves](/uploads/mulched-kohlrabi.jpg)
+![Kohlrabi plants mulched with leaves](https://ucarecdn.com/ac46704f-9c60-44b8-bdb6-22ba91603a2f/mulched-kohlrabi.jpg)
 
 ### Show your garden tools some love
 
 Your garden tools have served you well through the whole growing season- fall is an opportune time to show them some love. Wash, disinfect, and dry tools thoroughly. Sharpen any tools that need to be sharpening and apply [oil](https://www.amazon.com/s?k=3-in-ONE+oil) to tools with moving parts. Store your tools in a clean, dry place where they’ll be ready to go for the spring!
 
-![Garden hand tools on a bench](/uploads/garden-tools2.jpg)
+![Garden hand tools on a bench](https://ucarecdn.com/11072fe2-668d-45b1-a522-7f825fcb47f6/garden-tools2.jpg)
 
 ### Plan and build for next year's garden
 

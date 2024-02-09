@@ -8,7 +8,7 @@ title = "Season Extension: Keep the Growing Going!"
 [cover]
 alt = "Plants growing under row cover"
 caption = "Plants protected with row cover"
-image = "/uploads/garden-hoops.jpg"
+image = "https://ucarecdn.com/460010a6-dd8c-4170-8009-c9fab78aeee1/garden-hoops.jpg"
 
 +++
 It’s hard to believe that the hot summer weather is already starting to give way to cooler fall days! [Fall can be a super-productive time in the garden](https://blog.planter.garden/posts/don-t-forget-your-fall-garden/), but even the most cold-hardy plants can use a bit of help to survive once the temperatures really start to drop. Don’t just give up on your plants as soon as the cold weather hits; use season extension techniques to keep on growing!
@@ -21,7 +21,7 @@ You might wonder whether it's worth the time and expense to extend the growing s
 
 ### Garden cloches
 
-![Plants under plastic containers](/uploads/garden-cloches.jpg)
+![Plants under plastic containers](https://ucarecdn.com/ca880435-2c51-47a4-86ed-fe0548df75a6/garden-cloches.jpg)
 
 A garden cloche is typically a container that fits over top of a plant to protect it. Plastic or glass cloches can help trap heat and protect plants from cold, drying winds. [Cloches](https://www.amazon.com/s?k=plastic+garden+cloche) can be purchased in a range of styles and sizes - just be sure to choose one that is designed to protect plants from the cold. Due to their smaller size cloches do not protect well in extremely cold weather but they will help guard against milder frosts.
 
@@ -31,7 +31,7 @@ Regardless of whether you are buying or DIYing your cloches, be sure the cloche 
 
 ### Row cover
 
-![Garden row cover suspended over hoops](/uploads/row-cover.jpg)
+![Garden row cover suspended over hoops](https://ucarecdn.com/c772ad04-f46f-40f2-81c2-46ca1b853ba4/row-cover.jpg)
 
 Row cover is a woven fabric (or sometimes plastic) that goes over rows of plants to help protect them from chilly temperatures. Like cloches, row cover does not protect well against deep cold but it does offer a few degrees of frost protection. [Row cover](https://www.amazon.com/s?k=garden+row+cover) is often sold in large sizes, so you may need to cut it down to the size you need for your garden. Row cover can be suspended above your plants with [garden hoops](https://www.amazon.com/s?k=garden+hoops), or lightweight floating row cover can be draped directly on top of your plants without the need for a support structure. Fabric garden row cover doesn’t need to be removed during the day as it is designed to let sunlight and water through. Some gardeners leave row cover on all season long to protect crops from insects and extreme weather.
 
@@ -41,7 +41,7 @@ To secure row cover to the ground, use stones, bricks, soil, or other heavy obje
 
 ### Cold frames
 
-![An open cold frame with plants inside](/uploads/cold-frame.jpg)
+![An open cold frame with plants inside](https://ucarecdn.com/b6929952-bac9-45ed-aa46-304747080881/cold-frame.jpg)
 
 While cold frames require a bit of engineering, they will protect your plants in _very_ cold temperatures. In some climates it's even possible to keep growing through winter with a cold frame! To build a cold frame you can buy a [cold frame kit](https://www.amazon.com/s?k=cold+frame), or, if you are handy, use recycled materials such as plastic sheeting, old windows, and doors to make your own. A quick search will turn up plenty of results for DIY cold frame projects.
 

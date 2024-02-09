@@ -8,7 +8,7 @@ title = "Grow Super Squash"
 [cover]
 alt = ""
 caption = "Zucchini plant with flowers and fruits"
-image = "/uploads/zucchini-flower.jpg"
+image = "https://ucarecdn.com/edbb4007-3115-49cb-9d19-922e1057a633/zucchini-flower.jpg"
 
 +++
 Squash plants are some of the most prolific producers in the garden. If you garden in a small space, you might be hesitant to plant squash; they can be large plants with a tendency to sprawl. But don’t despair! There are bush and container squash varieties that are more compact but still produce loads of squash.
@@ -25,7 +25,7 @@ Some types of squash, such as chayote, take a long time to mature and can be a c
 
 Check out the squash varieties in [Planter](https://planter.garden/) to find plants that suit your taste and your garden!
 
-![](/uploads/squash-screenshot.jpg)
+![](https://ucarecdn.com/77192a22-e740-4a4c-b73f-094dad358402/squash-screenshot.jpg)
 
 ### How to Grow Squash
 
@@ -35,7 +35,7 @@ If you plan to grow squash in containers, choose a container that will be large 
 
 [Planter](https://planter.garden/) has all the detailed information you need to grow various types of squash successfully! Pay special attention to the many pests and diseases that can afflict squash. Click on each of the cards to learn about prevention, identification, and control techniques.
 
-![](/uploads/squash-pests-screenshot.jpg)
+![](https://ucarecdn.com/7897afce-929a-4fd3-87ae-87202913a9eb/squash-pests-screenshot.jpg)
 
 You can stave off disease issues by pruning your squash plants. Remove old, diseased, and dying leaves, and ensure there is good airflow through the plant. Despite your best efforts, there comes a point as the plants age where production slows and they start to die back. If you have enough time left in your growing season, you can replant (better yet, have transplants at the ready) to keep the harvests going.
 
@@ -51,7 +51,7 @@ Summer squash should be harvested when the fruits have reached the expected size
 
 Winter squash should be harvested once the skin has had a chance to toughen up, which happens after the squash reaches full size. Test this by pressing a fingernail into the skin - it should not puncture easily. Keep at least a 2-inch piece of stem attached to the squash - this is important for the longevity of the squash in storage.
 
-![](/uploads/acorn-squash.jpg)
+![](https://ucarecdn.com/0d1e9971-5f77-4236-a2b7-ebb12a4edb76/acorn-squash.jpg)
 
 Winter squash should be cured before being stored. Use a dry towel to wipe any dirt off the squash then leave them in a sunny, dry area for 10-14 days before storing in a cool, dry spot. Depending on the type of squash, they can keep anywhere from several weeks to several months.
 

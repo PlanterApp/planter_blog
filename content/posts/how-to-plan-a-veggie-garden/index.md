@@ -8,7 +8,7 @@ author = "Erin Thomson"
 [cover]
 relative = true
 linkFullImages = true
-image = "veggie-garden.jpg"
+image = "https://ucarecdn.com/6200526e-326c-495d-a2dd-bcb329029b3f/veggie-garden.jpg"
 alt = "Swiss chard and other plants in a veggie garden"
 caption = "A productive veggie garden starts with a plan!"
 +++
@@ -21,7 +21,7 @@ To create a garden plan the first step is to understand how much garden space yo
 1. Look up the address on Google Maps
 2. Hover over the “Layers” tile in the lower-left corner then click ‘Satellite’
 
-![Screenshot of Google maps layers menu with Satellite highlighted](google-layers.png)
+![Screenshot of Google maps layers menu with Satellite highlighted](https://ucarecdn.com/83461211-f334-4d0c-b1d1-7d0e2036fb50/google-layers.png)
 
 3. Use the **+** button in the lower right corner to zoom in as much as possible
 4. Right click on one corner of your garden space then select ‘Measure distance’
@@ -38,9 +38,9 @@ Once you know how much space you’re working with, you can start planning where
 
 Plug your garden measurements into [Planter](https://planter.garden/) to start visualizing your garden bed layout. For the best performance, we suggest creating one garden to plan your garden layout then creating separate gardens for each bed to add plants.
 
-![Screenshot of the Create new garden window in Planter](garden-setup.jpg)
+![Screenshot of the Create new garden window in Planter](https://ucarecdn.com/b287b43f-2fda-4928-bc3c-aa6199b4b7fe/garden-setup.jpg)
 
-![Screenshot of a garden bed layout in Planter](garden-layout.jpg)
+![Screenshot of a garden bed layout in Planter](https://ucarecdn.com/4ebdda78-6713-4f83-b22a-e3ccb34f91b4/garden-layout.jpg)
 
 *(Garden customizations and the ability to create multiple gardens are [Premium features](https://info.planter.garden/account/premium-subscription/))*
 
@@ -62,6 +62,6 @@ Now that you’ve planned your garden bed layout it's time for the fun part– p
 
 If you haven’t created your garden plan for this year yet, now is the time! A successful garden starts with a solid garden plan, and [Planter](https://planter.garden/) makes garden *planning* as fun as *planting*!
 
-![Screenshot of a garden bed plan in Planter](garden-bed-1.jpg)
+![Screenshot of a garden bed plan in Planter](https://ucarecdn.com/c93e60fc-74d5-44c1-9532-73f83746a6e8/garden-bed-1.jpg)
 
 {{< affiliate >}}

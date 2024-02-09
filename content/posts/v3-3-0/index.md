@@ -8,7 +8,7 @@ author = "Peter Keefe"
 
 [cover]
 relative = false
-image = "/uploads/rotating_watermelon_opt.gif"
+image = "https://ucarecdn.com/f52846fb-f905-4f82-ac04-2e7c2dc2a764/rotating_watermelon_opt.gif"
 alt = "Rotating watermelon icon"
 +++
 We've been hard at work improving Planter with some of your [most requested features](https://planter.garden/requests). Near the top of the feature request list was the [ability to rotate 1x2 square plants](https://planter.garden/requests/id5kRLEZHtJoWiIYMeYM), such as squash, watermelon, and pumpkin. We're happy to announce that this is now possible!
@@ -17,7 +17,7 @@ We've been hard at work improving Planter with some of your [most requested feat
 
 ## New Plant Actions Pop-Up
 
-![Screenshot showing the new user interface.](rotate_watermelon_screenshot.gif "Rotating a 1x2 watermelon using the new actions that appear upon tapping on a plant.")
+![Screenshot showing the new user interface.](https://ucarecdn.com/e5d2e01f-534d-4a98-b942-7515a4a56add/rotate_watermelon_screenshot.gif "Rotating a 1x2 watermelon using the new actions that appear upon tapping on a plant.")
 
 When we were thinking about where to put the rotate button, we wanted it to be somewhere easily accessible. We also wanted to improve the deletion mechanism, since it's tricky to drag large plants like tomatoes and squash onto the trash icon. You might say we wanted to sow two seeds in one square (another highly-requested feature that we're working on 😉). In version 3.3.0, simply tap on any plant and a variety of actions will appear:
 
@@ -37,7 +37,7 @@ Copy and paste the plant, as many times as you want. This is a [less-requested f
 
 ### Compost!
 
-![Compost puppet.](compost.gif)
+![Compost puppet.](https://ucarecdn.com/f85d969a-78a1-4159-82c2-d878e5ec5ada/compost.gif)
 
 Big thanks to Laurie R. who suggested this idea. Why have a trash can when it's a gardening app, it should be a compost bin! This button will remove the plant so that you don't need to drag and drop it onto the old delete icon. But you can still drag and drop it to remove it! This is just another way to do the same thing. 
 
@@ -53,7 +53,7 @@ No, we didn't add Instagram filters (although that is an interesting thought exp
 * Season ([feature request](https://planter.garden/requests/l9kiWrDNu1TnewOHEpat))
 * Sun ([feature request](https://planter.garden/requests/snqWbvXuzWlDmi1PaFYO))
 
-![Screenshot showing the new filters in the app.](screenshot_20230426-164413.png "All the new filters in the app!")
+![Screenshot showing the new filters in the app.](https://ucarecdn.com/c1a6f574-e5e1-4d26-865e-57f1177ba4ba/screenshot_20230426-164413.png "All the new filters in the app!")
 
 These filters will be very useful during the early spring or when deciding what to plant for a fall garden. Also, gardeners in extremely hot or cold climates can use these to help them judge what will do well in their area.
 

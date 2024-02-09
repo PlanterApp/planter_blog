@@ -8,7 +8,7 @@ title = "Garden Weeds: Stem the Spread"
 [cover]
 alt = "Dandelion head with seeds"
 caption = "Dandelion head with seeds"
-image = "/uploads/dandelion.jpg"
+image = "https://ucarecdn.com/9f4f5f30-707b-49ca-af13-516fed5eee06/dandelion.jpg"
 
 +++
 Weeds are something that every gardener deals with. If you don’t enjoy weeding (like _many_ gardeners), it can be a challenge to contend with weeds. But weeding doesn’t have to be an all-out struggle; there are smart strategies you can use to keep garden weeds in check.
@@ -33,7 +33,7 @@ Maintain the areas around your garden beds. If you have grassy or weedy areas ar
 
 When preparing your garden for planting, be sure to remove all weeds either by hand-weeding or by cultivating (scratching) the soil surface with a [garden hoe.](https://www.amazon.com/s?k=garden+hoe) It’s much easier to weed an empty garden bed than one filled with delicate seedlings and transplants. Avoid deep tilling though; this can cause more weeds to sprout as the seeds get churned up. Some gardeners leave weed remains in their beds, but if you are dealing with major weed pressure it may be best to remove and [hot compost](https://blog.planter.garden/posts/compost-add-life-to-your-garden/) them so that any seeds and roots die.
 
-![A yellow garden hoe in the soil](/uploads/garden-hoe.jpg)
+![A yellow garden hoe in the soil](https://ucarecdn.com/93154672-33fa-45c7-b4bd-c241b89038fc/garden-hoe.jpg)
 
 Try to keep your soil as healthy and fertile as possible by adding organic matter such as compost (put all those composted weeds to work!) Healthy soil won’t stop weeds outright, but it will make them easier to pull and give your plants a fighting chance. And be sure to cover your soil with [mulch](https://blog.planter.garden/posts/mulching-a-must-for-your-garden/) to suppress (or kill) weeds.
 
@@ -51,7 +51,7 @@ For weeds away
 
 Persistence is the key to keeping weeding manageable. Use the [Notes and Events](https://info.planter.garden/premium/#notes-and-events) Premium features in [Planter](https://planter.garden/) to keep track of which garden areas have been weeded and which are due for maintenance!
 
-![Screenshot of an event for weeding in Planter](/uploads/weed-event.jpg)
+![Screenshot of an event for weeding in Planter](https://ucarecdn.com/79e619c1-22c9-47fd-82eb-b9a095f47153/weed-event.jpg)
 
 Weeds can wreak havoc in the garden, but it is possible to manage them. Take steps to prevent weeds from proliferating, and weeding your garden will be only an occasional, painless task!
 

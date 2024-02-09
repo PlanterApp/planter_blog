@@ -9,7 +9,7 @@ title = "A Beginner's Guide to Canning!"
 [cover]
 alt = ""
 caption = ""
-image = "/uploads/jam-g62c8aadd6_1920.jpg"
+image = "https://ucarecdn.com/270992ea-0fff-4528-95fe-4ff9b9e2c31e/jam-g62c8aadd6_1920.jpg"
 
 +++
 The gardener’s true bane: after months of hard work, your well-earned gains have to be used quickly at risk of spoiling. Why not spite winter and preserve your fruits and vegetables for the season? Canning is a wonderfully rewarding routine for the end of the season to continue to enjoy your produce past its time!

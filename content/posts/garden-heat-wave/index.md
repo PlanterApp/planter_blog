@@ -8,7 +8,7 @@ author = "Erin Thomson"
 
 [cover]
 relative = true
-image = "garden-with-sprinkler.webp"
+image = "https://ucarecdn.com/2d862221-df44-4152-99f9-2af373c2fdb2/garden-with-sprinkler.webp"
 alt = "A sprinkler watering a veggie garden with a rainbow effect in the mist"
 +++
 While some areas (like my own) have been experiencing an unusually cool, wet growing season this year, many gardeners are in the midst of heatwaves and drought. Heat waves can be one of the most frustrating things to deal with as a gardener. You can be doing everything right- ensuring your plants are off to a good start, keeping them pruned, trellised, and weeded, but once extreme heat hits gardening can become a battle for survival. The good news is there are many techniques we can use to help our plants cope with a heat wave.
@@ -19,13 +19,13 @@ One of the best things we can do as gardeners to help our gardens manage through
 
 Warm-season crops generally grow better at higher temperatures, but even they have their limits. If you live in a particularly hot climate and tend to experience extreme high temperatures, you will want to research your plant and variety carefully to make sure you are growing plants that are adapted to your local conditions. Use [notes and events](https://info.planter.garden/notes-and-events/how-to/) in Planter to keep track of which varieties are performing well in the heat versus which are struggling, and reach out to experienced gardeners in your area for variety recommendations for upcoming years.
 
-![](hot-pepper-plant.webp)
+![](https://ucarecdn.com/e887ca44-1384-4058-b594-65a10bf4cdfa/hot-pepper-plant.webp)
 
 And while that’s all well and good, what’s a gardener to do when the plants are already in the ground and the high temperatures are rolling in?
 
 The most important thing we can do to give our plants a helping hand is to make sure they have consistent access to water. Unfortunately watering is much harder to keep up with in the heat as the plant uses up more water and water evaporates faster from the soil. You might need to water every day, or in some cases even multiple times a day to keep the ground moist (don’t go overboard though!) Container plants will be especially prone to drying out- you may even want to consider putting them in a kiddie pool and filling it with a few inches of water if you’re not home to water them midday. While early morning is recommended as the best time to water, when it comes to surviving the heat you’ll need to give your plants water whenever they need it. Don’t believe myths that you can’t water in the middle of the day. If your plants are in dire need of water as long as you provide ample cool water they will appreciate the drink (don’t use hot water that sat in the hose outside all day!) While you may need to water more often during a heat wave and drought, you still want to make sure you are watering deeply to encourage your plant roots to go down deep to find water. Use [notes and events](https://info.planter.garden/notes-and-events/how-to/) to keep track of watering if you’re prone to forgetting which garden areas received water when, and for more info on deciding when and how much to water check out [Watering: More than a Garden Chore](https://blog.planter.garden/posts/watering-more-than-a-garden-chore/).
 
-![A watering can watering cilantro plants](watering-cilantro.webp)
+![A watering can watering cilantro plants](https://ucarecdn.com/6f028e78-4525-4a26-93df-d86f5f888311/watering-cilantro.webp)
 
 Another key to combating the heat is to make sure your gardens have been [mulched](https://blog.planter.garden/posts/mulching-a-must-for-your-garden/) to keep the soil cool and to help keep water from evaporating as much as possible. Not only will mulch help your plants stay cool, but it also helps to keep weeds at bay. And while you may not feel like weeding in the heat, weeds do steal precious moisture and nutrients from your plants when they need it most. So get out there in the early morning or evening when the sun is less intense and try to reign in any weeds.
 

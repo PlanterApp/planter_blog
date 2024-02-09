@@ -12,7 +12,7 @@ override_position = false
 [cover]
 alt = "Seedlings under a purple grow light"
 caption = "Seedlings under a grow light"
-image = "/uploads/seedlings_grow_lights-copy.png"
+image = "https://ucarecdn.com/1ecf7bd7-c5cd-42a7-996b-2dce51ec4197/seedlings_grow_lights-copy.png"
 +++
 
 Starting veggie seedlings indoors is a great way to get a head start on the gardening season and relieve that “gardening itch” that many of us get in the winter. One of the most important things a seedling needs is the right amount of light. However, chances are your average house window isn’t bright enough and you’ll need to supplement the light with a grow light. But if you’ve shopped for grow lights recently, you may have been overwhelmed by all the different options. We’re going to break down the best options for home gardeners that will best suit your seed-starting needs.
@@ -31,15 +31,15 @@ There are a few other lighting technologies that are typically used in commercia
 
 Okay, time for some science!
 
-![](/uploads/science-neil-degrasse-tyson.gif)
+![](https://ucarecdn.com/5140fb1c-66cf-47b1-aaec-94fc8426e9bf/science-neil-degrasse-tyson.gif)
 
 ## Grow Light Color, AKA “Spectrum”
 
-![The electromagnetic spectrum is the entire range  of  wavelengths of electromagnetic radiation. A longer wavelength is associated with lower energy and a shorter wavelength is associated with higher energy. The types of radiation on the spectrum, from longest wavelength to shortest, are: radio, microwave, infrared, visible, ultraviolet, X-ray, and gamma ray. Visible light is composed of different colors, each having a different wavelength and energy level.  The colors, from longest wavelength to shortest, are: red, orange, yellow, green, blue, indigo, and violet.](/uploads/spectrum1.png "The electromagnetic spectrum and the portion that is visible light. Image modified from [Electromagnetic spectrum](https://commons.wikimedia.org/wiki/File:EM_Spectrum_Properties_edit.svg), by Inductiveload ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)), and [EM spectrum](https://commons.wikimedia.org/wiki/File:EM_spectrum.svg), by Philip Ronan ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)). The modified image is licensed under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license")
+![The electromagnetic spectrum is the entire range  of  wavelengths of electromagnetic radiation. A longer wavelength is associated with lower energy and a shorter wavelength is associated with higher energy. The types of radiation on the spectrum, from longest wavelength to shortest, are: radio, microwave, infrared, visible, ultraviolet, X-ray, and gamma ray. Visible light is composed of different colors, each having a different wavelength and energy level.  The colors, from longest wavelength to shortest, are: red, orange, yellow, green, blue, indigo, and violet.](https://ucarecdn.com/81100ebb-6083-486f-99a7-1497376c25e4/spectrum1.png "The electromagnetic spectrum and the portion that is visible light. Image modified from [Electromagnetic spectrum](https://commons.wikimedia.org/wiki/File:EM_Spectrum_Properties_edit.svg), by Inductiveload ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)), and [EM spectrum](https://commons.wikimedia.org/wiki/File:EM_spectrum.svg), by Philip Ronan ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)). The modified image is licensed under a [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license")
 
 More important than the type of grow light is the color and intensity of the light that it produces. Plants use light in the photosynthetically active spectrum between 400 (violet) and 700 (red) nanometers. However, not all of that spectrum is used equally. Typically, plants use more blue-green light when they are seedlings and more red light later, when they begin to flower and produce fruit or seeds. Because of this, plants appear green/yellow because they reflect light in those wavelengths. Hence, many grow lights on the market try to mimic these wavelengths and are a mixture of blue and red, often appearing purple when combined.
 
-![](/uploads/photosynthesis_spectrum.png "Optimal absorption of light occurs at different wavelengths for different pigments. Image modified from [The light-dependent reactions of photosynthesis: Figure 4](http://cnx.org/contents/f829b3bd-472d-4885-a0a4-6fea3252e2b2@11/The-Light-Dependent-Reactions-), by OpenStax College, Biology ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))")
+![](https://ucarecdn.com/c9772a57-b306-490c-8243-960fdcce0bf6/photosynthesis_spectrum.png "Optimal absorption of light occurs at different wavelengths for different pigments. Image modified from [The light-dependent reactions of photosynthesis: Figure 4](http://cnx.org/contents/f829b3bd-472d-4885-a0a4-6fea3252e2b2@11/The-Light-Dependent-Reactions-), by OpenStax College, Biology ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))")
 
 For fluorescents and some LEDs, spectrum is often labeled as the color temperature or K (Kelvin). A higher color temperature, such as 6500K, is best for starting seeds. Many LED fixtures include a variety of colors, so instead of a Kelvin number you may see a spectrum graph, similar to the one above.
 
@@ -47,7 +47,7 @@ When deciding between the “purple” and “full spectrum” grow lights, one 
 
 ## Grow Light Intensity
 
-![Lightbulbs hanging on wires with one swinging](/uploads/pexels-rodolfo-clix-1036936.jpg)
+![Lightbulbs hanging on wires with one swinging](https://ucarecdn.com/6761ddf0-5ea9-467b-87e6-ee8007119813/pexels-rodolfo-clix-1036936.jpg)
 
 When buying grow lights, in general, more light intensity is better. Every light on the market has a watt measurement, which is the amount of energy that the unit uses.
 

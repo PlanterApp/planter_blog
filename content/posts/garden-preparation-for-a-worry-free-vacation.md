@@ -7,7 +7,7 @@ title = "Garden Preparation for a Worry-Free Vacation"
 [cover]
 alt = "A garden in the sun"
 caption = "A garden in the sun"
-image = "/uploads/garden-in-sun.jpg"
+image = "https://ucarecdn.com/a3291fcf-f148-4ccf-aa64-75f8e60279e1/garden-in-sun.jpg"
 
 +++
 Heading off on vacation? Don’t forget about your garden in your vacation planning! Planning for your garden’s care while you’re away will help ensure your plants stay healthy and keep on producing.
@@ -20,7 +20,7 @@ Vacation travel often happens during the summer months when there are more likel
 
 Summer is also the start of peak harvesting season. If you leave your garden without being harvested regularly, some crops may go to waste (unless you can find creative ways to use monster-size zucchini…) and the plants’ production may start to slow due to not being harvested. If your plants are starting to produce, you’ll also want to think about how to get on top of harvesting while you're gone.
 
-![Vegetables lined up on the edge of a garden bed](/uploads/garden-harvest.jpg)
+![Vegetables lined up on the edge of a garden bed](https://ucarecdn.com/cd0ea969-2589-4806-96c8-210225c20c4b/garden-harvest.jpg)
 
 Another consideration is how vulnerable your plants are. Newly planted transplants and young emerging seedlings need more consistent moisture compared to well-established plants. Also, container plants are especially prone to drying out completely on hot days. If you have vulnerable plants, they will likely need some extra care to make it through.
 
@@ -40,6 +40,6 @@ If you don’t have anyone nearby who you can entrust your garden care to, there
 
 Plan for your garden while you’re gone so you can _enjoy_ the hot sunny weather, rather than wondering if your plants are burning up!
 
-![](/uploads/beachfront-view.jpg)
+![](https://ucarecdn.com/3dfbb455-b5e2-4627-89a0-dfa2ce55f437/beachfront-view.jpg)
 
 {{< affiliate >}}

@@ -9,7 +9,7 @@ series = ["Herbs"]
 
 [cover]
 relative = false
-image = "herb-garden.jpg"
+image = "https://ucarecdn.com/40f49f1d-ce5b-46c5-9468-c35eca4153ae/herb-garden.jpg"
 alt = "Various herb plants in a raised wooden garden bed"
 +++
 The peppers are done. The tomatoes, long-gone. But your herb garden is still chugging along into the depths of fall. The first night that a hard frost rolls in you might find yourself half-frantically wondering “what should I do with my herbs?” Because herb plants are diverse, there’s different techniques you can use either to save the plants or to salvage a final harvest!
@@ -22,25 +22,25 @@ You might also be tempted to hack back your perennial herbs to harvest as much a
 
 Harvesting your herbs is probably the simplest approach (other than doing nothing), but you'll likely end up with a glut of herbs to use up. Try drying your excess herbs or chopping them up and freezing them in ice cube trays topped off with water or oil.
 
-![A hand holding harvested sage with a sage plant in the background](sage-harvest.jpg)
+![A hand holding harvested sage with a sage plant in the background](https://ucarecdn.com/95ac2df1-a00f-491f-9356-f2c2659ba144/sage-harvest.jpg)
 
 ### Save herb seeds
 
 If your herb plants have formed mature seed heads, take advantage and save seeds for next season! Dill, cilantro, and parsley are all examples of herbs that are fairly easy to save seed from. To save seeds from your herbs, be sure the seed pods on the plant are fully mature- they should be light brown, not green. Cut off the seed heads and allow them to fully dry out before storing them (this can take up to a couple weeks). Remove the fully dry seeds from the heads, then store them in paper sachets, airtight containers, or plastic baggies and label them with the plant/variety and the year. If you’re interested in learning more about seed saving, be sure to check out [Seed Saving 101](https://blog.planter.garden/posts/seed-saving-101/).
 
-![Parsley seed in a labelled plastic baggie placed beside parsley seed heads](parsley-seed.jpg)
+![Parsley seed in a labelled plastic baggie placed beside parsley seed heads](https://ucarecdn.com/d7b38284-a1a8-40bb-a958-0acbab2704a2/parsley-seed.jpg)
 
 ### Cover your herbs
 
 Herbs can be surprisingly cold-hardy, with some notable exceptions such as basil. If you cover your herbs with [row cover](https://www.amazon.com/s?k=row+cover+frost+protection) or clear plastic sheeting you can potentially keep harvesting them into winter. Annuals can still die off if temperatures drop too low, but covering them offers a few degrees of frost protection that can let you keep harvesting them just that little bit longer. Perennials often keep their leaves through winter- so long as they are accessible under the cover and you have the willingness to get out there, they can potentially be lightly harvested through winter. Even if you don’t intend to harvest them in winter, covering your perennial herbs, along with applying a thick layer of [organic mulch](https://blog.planter.garden/posts/mulching-a-must-for-your-garden/), can help increase their chance of survival. For information on protecting plants from the cold check out [Season Extension Techniques: Keep the Growing Going!](https://blog.planter.garden/posts/season-extension/)
 
-![Herb plants underneath plastic covering](herbs-covered.jpg)
+![Herb plants underneath plastic covering](https://ucarecdn.com/c3a90040-c1bc-479c-a278-e1ea402dc28c/herbs-covered.jpg)
 
 ### Bring herbs indoors
 
 If your herbs are growing in containers you might be able to easily transition them indoors. In fact, it may be best to bring them indoors as even hardy perennial herbs may not survive freezing temperatures outside in a container. If you do bring your container herbs inside, check the plants thoroughly for pests and consider refreshing the soil to avoid bringing in unwanted houseguests. Otherwise, you can take cuttings from your herbs and root them in water (this works well with basil, oregano, rosemary, sage, and thyme to name a few). Herbs prefer full sunlight so to grow them indoors you’ll want to consider using [grow lights](https://www.amazon.com/s?k=grow+lights) to keep them as healthy as possible. If your herb cuttings fail to take root all is not lost- just start new herbs from seed as a fun indoor winter project!
 
-![Basil, rosemary, and thyme plants beside a window indoors](indoor-herbs.jpg)
+![Basil, rosemary, and thyme plants beside a window indoors](https://ucarecdn.com/5ea5cf5e-1a19-4b58-bfb3-245080cb7880/indoor-herbs.jpg)
 
 ### Do nothing
 

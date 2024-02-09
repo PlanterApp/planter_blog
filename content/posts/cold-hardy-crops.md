@@ -8,7 +8,7 @@ title = "Cold-Hardy Crops"
 [cover]
 alt = "Chives and lettuce in a spring garden"
 caption = "Chives and lettuce in a spring garden"
-image = "/uploads/chives-and-lettuce.jpg"
+image = "https://ucarecdn.com/08b86a3e-088e-4d08-955d-ae76cfaf88f0/chives-and-lettuce.jpg"
 
 +++
 As the last remains of snow melt away and temperatures gradually warm up, gardeners start dreaming of putting in the first crops of the season. While we often look forward to planting summer crops like tomatoes, cucumbers, and peppers, the early spring can be a season of great abundance and should not be overlooked!
@@ -23,7 +23,7 @@ Examples of hardy crops include: kale, spinach, garlic, chives, and parsley.
 
 Use [Planter](https://planter.garden/) to identify cool season plants that are Tolerant or Semi-Tolerant to frost! Select a plant and refer to the Season and Frost cards under Quick Info:
 
-![Screenshot of frost tolerance information in Planter](/uploads/quick-info-screenshot.jpg)
+![Screenshot of frost tolerance information in Planter](https://ucarecdn.com/5d6a7254-f1f9-4d39-a8a3-559c54ff90cd/quick-info-screenshot.jpg)
 
 Note that cold-hardy crops are not to be confused with _cole crops_. Cole crops are members of the brassica family specifically- and while they do love the cold - they are just one family out of many that happen to enjoy cold weather.
 

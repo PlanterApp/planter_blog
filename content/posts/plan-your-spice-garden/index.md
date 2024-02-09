@@ -10,7 +10,7 @@ tags = ["planning"]
 
 [cover]
 relative = false
-image = "spices-herbs-large-assortment-spices-indian-cuisine-wooden-table-top-view-free-space-text.jpg"
+image = "https://ucarecdn.com/58d837a6-7da8-4c92-84c6-e4c8b3e30ca6/spices-herbs-large-assortment-spices-indian-cuisine-wooden-table-top-view-free-space-text.jpg"
 +++
 ### What Exactly are Spices?
 
@@ -22,7 +22,7 @@ This time, we're growing a plan centered around spices! This plan is pretty pepp
 
 If you're ever looking to grow a spice that isn't present in Planter, you can add custom plants through the app, or as a premium desktop member! [You can find more information about that by clicking here!](https://info.planter.garden/plant-information/create-plants/)
 
-![](screenshot-2023-12-23-at-4.04.40-pm.png)
+![](https://ucarecdn.com/51e331cc-2643-4e38-8e33-749bc2dec8af/screenshot-2023-12-23-at-4.04.40-pm.png)
 
 Companion/Combative Info
 
@@ -38,7 +38,7 @@ The seed of the cilantro plant, which is also used as an herb! These seeds are o
 
 When your plant bolts, let it dry out, and then the coriander should be easy to shake from the seed head!
 
-![](coriander-seeds.jpg)
+![](https://ucarecdn.com/409572be-ec82-43e9-950b-9e9e4f6ece07/coriander-seeds.jpg)
 
 #### Fennel
 
@@ -46,13 +46,13 @@ Fennel is used usually as a root veggie, but you can also grow it for the seeds 
 
 Raw fennel seeds have a fresh licorice flavor, but bringing heat to the table sparks brand new flavors. When they're cooked, the seeds offer a more sweet and caramelized flavor. These work well as an interesting sweetener for soups, broths, or oils; all you have to do is simmer them in the dish and strain. When ground, they can be a great rub on meats, particularly pork or lamb.
 
-![](anise-seeds-texture-background-top-view.jpg)
+![](https://ucarecdn.com/4feefceb-7c0f-4413-818b-95198845e213/anise-seeds-texture-background-top-view.jpg)
 
 #### Ginger
 
 Ginger, like many on this list, is a strong and showy participant in dishes! You have to be very careful about how much you use, but its warm flavor compliments many sweet or savory dishes. Try it ground in baked dishes like cookies gingerbread, add it to broth for a delicious ginger noodle soup, or add it to marinades for fish or chicken. No matter how it's used, it will often take the show due to its strong and bright sweetness. My personal favorite salad dressing is made of carrot and ginger, and is a staple in most hibachi restaurants. This root can also be candied for an explosively spicy-sweet treat!
 
-![](assortment-ginger-wooden-board.jpg)
+![](https://ucarecdn.com/437a3282-7d0a-484b-b3cd-94d57e974a56/assortment-ginger-wooden-board.jpg)
 
 #### Peppers
 
@@ -60,7 +60,7 @@ Chili peppers and the like can be considered a spice! When dried, their spicines
 
 Paprika and Cayenne are both made from powdered, dried peppers. However, their levels of spicy are leagues apart. Paprika is made with mild peppers like bells, and isn't very flavorful by itself, but when smoked it can be a great pairing to tomatoes or meat. On the other hand, Cayenne uses much hotter peppers, and should be used MUCH more sparingly, with care not to touch your face or eyes!
 
-![](red-peppers-oil.jpg)
+![](https://ucarecdn.com/f3e2900f-12ee-44a2-8088-ef836e03bfcb/red-peppers-oil.jpg)
 
 #### Mustard seed
 
@@ -68,13 +68,13 @@ Did you know- mustard seed is the largest selling spice in the world? It's inclu
 
 You can grind up the seeds with vinegar or oil to make your own mustard (the condiment), or you can roast the seeds to bring out earthier flavors and rub them into chicken or fish! It's also key in pickling, and an essential ingredient in relish. 
 
-![](closeup-mustard-flowers.jpg)
+![](https://ucarecdn.com/25713819-435b-4e55-a820-69eef732e5d6/closeup-mustard-flowers.jpg)
 
 #### Garlic
 
 Fresh or dried, powdered or minced or crushed, garlic is a very hearty powerful spice great in curry or most savory dishes. This spice is, dare I say, as useful as salt or pepper. After all, what *can't* you use garlic in? It's a staple in italian cuisine, incredible on any kind meat, and it's even good raw in salsa. Something I've seen done before that I really want to try is roasting the cloves (which makes them really sweet) and then spreading them on toast. The only downfall of this pice is its strength- it's very easy to go overboard.
 
-![](fresh-raw-garlic-ready-cook.jpg)
+![](https://ucarecdn.com/256ebb5d-a7ee-4ee7-97a1-8067c5060345/fresh-raw-garlic-ready-cook.jpg)
 
 #### Rosemary
 
@@ -82,19 +82,19 @@ Rosemary is sort of a grey area- while you typically use the leaves, like an her
 
 You can make a rosemary butter that flavors steak, or rub it into rich meats like lamb... or you can bake it into bread (focassia is the popular choice) or even gnocchi. It pairs well with cheese, too, or lemonade. Its warm flavor and smell can add a new dimension to many different dishes, so don't be afraid to make use of it!
 
-![](closeup-shot-delicious-duck-breast-fillet-frying-pan.jpg)
+![](https://ucarecdn.com/20ea6a7d-a40e-42d4-a408-6eefacff8d24/closeup-shot-delicious-duck-breast-fillet-frying-pan.jpg)
 
 #### Lavender
 
 Lavender is typically used an herb, but you can use the flowers, buds, or seeds as a spice! Seeds can be steeped in tea, or you can steep them in milk for lavender ice cream. The buds and flowers can be very powerful when dried, and their floral flavor naturally pairs well with sweet flavors and baked goods; however, lavender isn't a one-trick-pony! When paired with other herbs and spices, they can revolutionize tomato sauces or roasted potatoes.
 
-![](bee-on-lavender.jpg)
+![](https://ucarecdn.com/c1118ff1-14fb-4d38-9d8f-7e61be203e2b/bee-on-lavender.jpg)
 
 #### Dill
 
 These seeds are a key ingredient in an important process- Pickling! But that's not their only use. Unlike the leaves, dill seeds are enhanced by heat. Toasting these bundles of goodness brings out their flavor and aroma, and they make a good substitute for caraway in breads. Alongside spices like pepper, onion, and garlic, ground dill seed also makes a great rub for pork or steak!
 
-![](umbrellas-dill-fennel-with-seeds-white-wall.jpg)
+![](https://ucarecdn.com/e5892d1e-5e91-4d50-95ff-d5bdcd6286f3/umbrellas-dill-fennel-with-seeds-white-wall.jpg)
 
 ### In Conclusion...
 

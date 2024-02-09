@@ -23,7 +23,7 @@ Buying seedlings from the garden center is an option if you don’t want to star
 
 Another benefit of starting seeds indoors is being able to control the environment and tend the plants more easily. Seeds that are direct sown outdoors are exposed to potential inclement weather and pests right away. It's easier to micro-manage sensitive seedlings indoors versus having them exposed in the garden.
 
-![Seedlings in peat pots](peat-pot-seedlings.webp)
+![Seedlings in peat pots](https://ucarecdn.com/227c782f-6f56-4d56-993d-a53f50659109/peat-pot-seedlings.webp)
 
 ### How to know which seeds to start indoors
 
@@ -37,15 +37,15 @@ The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/)
 
 **Broccoli** should be started inside then transplanted (direct sowing outside is not recommended)
 
-![Screenshot of the broccoli growing calendar in Planter](broccoli-calendar.webp)
+![Screenshot of the broccoli growing calendar in Planter](https://ucarecdn.com/97ef8820-3036-45b1-8183-559c7da0b4e3/broccoli-calendar.webp)
 
 **Lettuce** can be started indoors then transplanted, or direct-sown outside
 
-![Screenshot of the lettuce growing calendar in Planter](lettuce-calendar.webp)
+![Screenshot of the lettuce growing calendar in Planter](https://ucarecdn.com/e5d9030c-9321-431b-a7c1-7591c5f4217b/lettuce-calendar.webp)
 
 **Radishes** should be direct sown outside (starting indoors is not recommended)
 
-![Screenshot of the radish growing calendar in Planter](radishes-calendar.webp)
+![Screenshot of the radish growing calendar in Planter](https://ucarecdn.com/65f23706-1595-40c4-9905-066ac0c4134b/radishes-calendar.webp)
 
 ### When to start seeds indoors
 
@@ -71,6 +71,6 @@ Starting seeds indoors involves a few basic steps:
 
 As the seedlings grow you’ll need to continue watering and start fertilizing them. You might also need to ‘thin them out’ and ‘pot them up’. We’ll cover seedling care and troubleshooting in an upcoming post!
 
-![Cucumber seedlings in small pots](cucumber-seedlings.webp)
+![Cucumber seedlings in small pots](https://ucarecdn.com/60cbaa68-22bd-46fd-95bb-ba4802a2bd4c/cucumber-seedlings.webp)
 
 Having the ability to start seeds indoors will take your garden to the next level! It might seem intimidating, but over time you’ll hone in on a seed-starting approach that works for you. The time and investment is more than worth it to kick-start your gardening season!

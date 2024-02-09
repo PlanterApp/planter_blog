@@ -6,7 +6,7 @@ title = "What is Square Foot Gardening?"
 [cover]
 alt = "Square foot garden with wooden dividers."
 caption = "Square foot gardening in raised beds."
-image = "/uploads/square-foot-gardening-by-planting-flowers-herbs-and-news-photo-584618354-1532960706-1.webp"
+image = "https://ucarecdn.com/d5beee8f-43cc-41fa-9435-0098054f5b02/square-foot-gardening-by-planting-flowers-herbs-and-news-photo-584618354-1532960706-1.webp"
 
 +++
 They look beautiful and organized, but what exactly are square foot gardens, and should you build one? Square foot gardening is rapidly growing in popularity, and for good reason! It's also the gardening method that [Planter](https://planter.garden) is best suited for.
@@ -19,11 +19,11 @@ Square foot gardening typically utilizes raised beds, although you can use the m
 
 ### Creating a square foot garden
 
-![Raised garden bed without soil.](/uploads/garden_bed_empty.webp "Raised garden bed without soil.")
+![Raised garden bed without soil.](https://ucarecdn.com/76a8d1ff-3cf0-4af5-8e86-0224f3ac6618/garden_bed_empty.webp "Raised garden bed without soil.")
 
 First, create a small garden bed, typically 4 feet wide and anywhere from 4 to 8 feet long. You don't want to go any wider than 4 feet, otherwise, it may become difficult to reach the plants in the middle of the garden bed. Depth is up to you, typically 6 - 12 inches.
 
-![Raised garden bed filled with soil.](/uploads/garden_bed_soil.webp "Raised garden bed filled with soil.")
+![Raised garden bed filled with soil.](https://ucarecdn.com/ada157cc-5729-4d9f-976c-db5ea5b8835d/garden_bed_soil.webp "Raised garden bed filled with soil.")
 
 Next, fill the bed with soil mixed with compost or pre-made raised garden bed mix.
 

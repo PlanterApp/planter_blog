@@ -12,7 +12,7 @@ override_position = false
 [cover]
 alt = "My seedling heat mat, a seedling tray, seeds, and an Android figurine with air plants."
 caption = "Getting ready to start some seeds!"
-image = "/uploads/pxl_20230204_150317675.jpg"
+image = "https://ucarecdn.com/08c56a86-242a-4cfb-b4ee-da1723f3ebe4/pxl_20230204_150317675.jpg"
 +++
 
 I don’t know about you, but I’m dreaming of warmer spring weather and getting back out in the garden! To satisfy that “gardening itch” that comes every winter, I like to dig out my seed starting supplies and grow tomatoes, peppers, and a few other veggies. Our last post focused on grow lights, which are arguably the most important piece of equipment for starting seeds. However, some seeds may not even germinate to see that light if you don’t keep them at the right temperature. So today, we’re going all-in on heat mats. 🔥

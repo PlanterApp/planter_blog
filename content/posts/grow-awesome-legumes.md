@@ -8,7 +8,7 @@ title = "Grow Awesome Legumes"
 [cover]
 alt = ""
 caption = "Fresh garden peas"
-image = "/uploads/pea-pods.jpg"
+image = "https://ucarecdn.com/fd337250-d2a4-4362-b8e4-738dcc6ae6bb/pea-pods.jpg"
 
 +++
 Legumes such as peas and beans are some of the easiest and most rewarding plants to grow. They are relatively low-maintenance, and just a few plants can produce a bumper crop! While their care is straightforward, there are a few tips to keep in mind to grow legumes successfully.
@@ -24,7 +24,7 @@ With beans, there are ‘snap beans’ or ‘string beans’ which is what we wo
 One of the advantages of growing your own beans and peas is there are so many unique varieties available. Check [Planter](https://planter.garden/) to find some neat varieties to add to your garden!
 
   
-![](/uploads/beans-screenshot.jpg)
+![](https://ucarecdn.com/b074def0-fc09-45bf-94d5-4e2afe70d7e3/beans-screenshot.jpg)
 
 ### How to Grow Legumes
 
@@ -36,7 +36,7 @@ To trellis, you can use sturdy wood or bamboo sticks arranged in triangular shap
 
 Refer to [Planter](https://planter.garden/) for detailed information on growing peas and beans:
 
-![](/uploads/peas-screenshot.jpg)
+![](https://ucarecdn.com/98581edf-51a8-4679-99ee-8d137c84336c/peas-screenshot.jpg)
 
 You may find you need to protect your tender peas and beans from hungry critters such as rabbits - chicken wire shaped into a fence or cage can serve this purpose. If you are struggling to direct-sow peas and beans, it is possible to give them a head start indoors and carefully transplant them outside.
 
@@ -48,6 +48,6 @@ Harvest the peas and beans that are at their prime regularly to keep the plants 
 
 Peas are best enjoyed as soon as possible after harvest (nothing quite compares to a freshly picked pea!) Beans can cause an upset stomach if eaten raw in large quantities, so they are generally cooked before eating.
 
-![](/uploads/green-beans.jpg)
+![](https://ucarecdn.com/8be8150f-3044-476f-804e-75beb1e2eaac/green-beans.jpg)
 
 Try your hand at growing peas and beans, for a garden-fresh flavor that just can’t be found in stores!

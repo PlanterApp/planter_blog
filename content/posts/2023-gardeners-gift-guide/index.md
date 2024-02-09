@@ -8,7 +8,7 @@ series = ["Gift guides"]
 
 [cover]
 relative = false
-image = "christmas-gifts.jpg"
+image = "https://ucarecdn.com/dfb81bee-7038-4ef6-b238-efc8cf3d9eed/christmas-gifts.jpg"
 alt = "Presents wrapped in gold and red paper tied with red and green bows, placed beside greenery and candy canes"
 +++
 All we want for Christmas is…gardening gear! And we’ve rounded up our top gardening gift picks for 2023. From seed starting to produce preservation, we’ve got gift-giving inspiration for every gardener!
@@ -75,7 +75,7 @@ For a gardener that’s new to seed starting or working with limited space, thes
 
 ### Planter Premium Subscription
 
-![Screenshot of a customized garden plan in Planter](customized-garden.jpg)
+![Screenshot of a customized garden plan in Planter](https://ucarecdn.com/426c1fe7-1123-4c36-8c17-0c6505d7d3db/customized-garden.jpg)
 
 And of course, if your recipient doesn’t already have a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/), why not get them a gift card for the App Store or Google Play so they can subscribe! They’ll be able to plan unlimited gardens, use the [Planter web app](https://planter.garden/gardens), customize their garden and more!
 

@@ -9,7 +9,7 @@ plants = ["Garlic", "Leeks", "Shallots", "Chives", "Onions"]
 
 [cover]
 relative = true
-image = "white-onion.jpg"
+image = "https://ucarecdn.com/50d6d195-a6b4-4533-9708-02f5ad3daa46/white-onion.jpg"
 alt = "White bulbing onions growing in the garden"
 caption = "White bulbing onions growing in the garden"
 +++
@@ -33,7 +33,7 @@ Onions can be planted outdoors before your last frost date, once the soil is wor
 
 Onions are ready to harvest once the leaves start to flop over. Pull the onions out of the ground, snip off the leaves and roots, gently wipe off any surface dirt, and allow them to dry for two weeks before storing.
 
-![Onion plant in the ground with the leaves flopped over](onion-leaves-flopped.jpg)
+![Onion plant in the ground with the leaves flopped over](https://ucarecdn.com/0838c094-eca0-4976-ad63-409a0bef4170/onion-leaves-flopped.jpg)
 
 ### Chives
 
@@ -41,7 +41,7 @@ If you’re looking for the easiest allium to grow, be sure to plant some chives
 
 Chives are best planted in spring, as they flourish in cooler temperatures- you may find their growth stalls in the summer only to come back again in fall. They like loose, well draining soil and while they are drought-tolerant, they do best with consistent moisture. To harvest chives, simply use [garden snips](https://www.amazon.com/s?k=garden+snips) to trim off some leaves near the base of the plant. Chives have a mild onion flavor- similar to green onion but more delicate. Later in spring chives will produce beautiful flower blooms- these are edible too and have the same subtle onion-y flavor!
 
-![Chive plants with small flower buds](flowering-chives.jpg)
+![Chive plants with small flower buds](https://ucarecdn.com/52349486-94e4-4d97-96a8-081804625887/flowering-chives.jpg)
 
 ### Leeks
 
@@ -49,7 +49,7 @@ Leeks tend to be an expensive gourmet ingredient, but you can grow them in your 
 
 One thing to keep in mind is leeks can take a very long time to grow- be sure to plant them with enough time to mature and plan your garden space accordingly.
 
-![Freshly harvested leeks in a box](leeks.jpg)
+![Freshly harvested leeks in a box](https://ucarecdn.com/4699e09a-553f-412e-b84d-ca4e0f25babe/leeks.jpg)
 
 ### Garlic
 
@@ -57,13 +57,13 @@ If you enjoy cooking with garlic it is absolutely worthwhile to add garlic to yo
 
 When planting garlic be sure to separate the bulbs into individual cloves, but leave the papery skins on each clove. Plant with the pointed end up/flat end down. How deep to plant your garlic depends on where you live - in colder climates it can be beneficial to plant your garlic up to 4” deep to protect it from winter chill, but in less extreme climates 2-3” is sufficient. Garlic can also be mulched to help protect it over the winter- if using mulch you may not need to plant quite as deep.
 
-![A hand holding a garlic bulb ready for planting](planting-garlic.jpg)
+![A hand holding a garlic bulb ready for planting](https://ucarecdn.com/f6ec59df-1711-48f8-bf81-76b3dc84778e/planting-garlic.jpg)
 
 Garlic will emerge and start to grow in springtime. Hardneck garlic will shoot up a curly stem with a flower bud on top called a ‘scape’. Garlic scapes should be removed when they start to curl, to allow the plant to focus energy on bulb development. Garlic scapes are delicious and can be used in any recipe that calls for garlic!
 
 Garlic is ready to harvest once several of its leaves start to wither and die. In some cases garlic can be pulled directly from the soil and in other cases a pitchfork might be in order! Cut off the leaves and roots, gently wipe off any surface dirt, and allow them to dry for two weeks before storing.
 
-![A pair of hands using shears to snip off garlic stems](garlic-harvest.jpg)
+![A pair of hands using shears to snip off garlic stems](https://ucarecdn.com/17876956-8a30-41f8-9424-04a765a98085/garlic-harvest.jpg)
 
 While tomatoes, peppers, and other summer favorites often take center stage in the garden, be sure to save space for alliums- they're the ultimate low effort, high reward crop!
 

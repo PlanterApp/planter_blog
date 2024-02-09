@@ -8,7 +8,7 @@ series = ["Garden Tools"]
 
 [cover]
 relative = true
-image = "man-watering-flower-seedlings.jpg"
+image = "https://ucarecdn.com/fc4f950d-54b5-4630-b59b-ea306f1ff7e7/man-watering-flower-seedlings.jpg"
 alt = "Gardener uses a hose with a gardening wand to water his potted plants."
 caption = " "
 +++
@@ -26,7 +26,7 @@ Much like large pruning shears, these are good for cutting thicker stems or thin
 
 Pruning saws fit a niche between handsaws and loppers: they’re good for cleaning up some trees or woody bushes, but sacrifice precision, and don’t quite cut through large woods quite as easily as a handsaw might. For your garden variety landscaping (pun intended), it may do the trick!
 
-![](pexels-susana.png)
+![](https://ucarecdn.com/90cc3bfd-8eea-427d-bd94-94b92db24cd0/pexels-susana.png)
 
 ### Edger
 
@@ -40,31 +40,31 @@ An edger is pretty simple; it has a wide and squat shovel-like blade, and it’s
 
 Hori-hori knives are a fairly new edition to the western gardening scene, but its versatility has made it a popular addition to many a gardener's toolkit! This small, flat, polished blade resembles something between a trowel and a knife, and can be used for either function; it’s great for use as a small trowel for digging, or as a knife for cutting roots or weeds, making harvesting a breeze!
 
-![](closeup-tourists-hands-sharpening-stick-with-knife-concept-travel-extreme-survival.jpg)
+![](https://ucarecdn.com/a5f131c5-3b46-4713-989a-52390a3ee5a7/closeup-tourists-hands-sharpening-stick-with-knife-concept-travel-extreme-survival.jpg)
 
 ### Kneelers
 
 This one’s in the name! There are a couple of types of kneelers; the most common type is a thick foam piece that supports your knees when you're getting down into the dirt of your garden. Some are collapsible stools, made lightweight but sturdy for use in the garden for sitting or kneeling on! It could make a good tool table too, if you’re not afraid of staining the knees of your pants.
 
-![](kneeler.jpeg)
+![](https://ucarecdn.com/d0339f61-c473-44b8-9b94-5d9de92cbe7c/kneeler.jpeg)
 
 ### Watering Wands
 
 Watering wands, used in conjunction with a good long hose, can make watering hanging pots or flower boxes easy! They’re similar to a shower head, which makes them great for reaching higher-up plants.
 
-![](screenshot-2023-03-17-at-6.20.05-pm.png)
+![](https://ucarecdn.com/97b51a27-ba86-4578-89ac-02fbc9ca001b/screenshot-2023-03-17-at-6.20.05-pm.png)
 
 ### Soil Monitors
 
 This handy soil sensor is great if you’re growing less hardy vegetables! Depending on what kind you get, these can give all sorts of information such as the pH of the soil, how moist the soil is, or how many hours of sunlight that it’s getting!
 
-![](soil-meter-with-fertile-loam-cultivation.jpg)
+![](https://ucarecdn.com/090aedad-5a05-48bb-915b-4b35d9f2c26b/soil-meter-with-fertile-loam-cultivation.jpg)
 
 ### Soil Blocker
 
 Used to create seed blocks, these tools are becoming more popular due to their reduction in waste! Soil blockers reduce the waste caused by fragile plastic seed trays, by making any tray a receptacle for seeding blocks.
 
-![](screenshot-2023-03-17-at-6.22.54-pm.png)
+![](https://ucarecdn.com/7a8bf368-7bd8-44a5-90b4-e4b8d093352a/screenshot-2023-03-17-at-6.22.54-pm.png)
 
 ### Flamethrower
 

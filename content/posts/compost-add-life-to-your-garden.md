@@ -7,7 +7,7 @@ title = "Compost: Add Life to Your Garden!"
 [cover]
 alt = "A gardener's hands planting seedlings in dark brown soil"
 caption = "Seedlings in healthy soil"
-image = "/uploads/seedlings-and-soil.jpg"
+image = "https://ucarecdn.com/ac744546-e749-487e-9fe5-17a56acb3db6/seedlings-and-soil.jpg"
 
 +++
 Compost is about the best (and cheapest) way to improve the health of your garden soil. It improves soil structure and adds nutrients and microbes that are vital for plant growth. Making your own compost is a great way to transform scraps into garden gold!
@@ -23,7 +23,7 @@ Compost benefits your garden soil in many ways:
 
 ### How To Compost
 
-![An open compost bin with vegetables in a pile](/uploads/compost-bin.jpg)
+![An open compost bin with vegetables in a pile](https://ucarecdn.com/3e4e3dac-018c-45ad-8c64-ff390d2b8cb1/compost-bin.jpg)
 
 Composting can be as easy as throwing organic materials into a pile and waiting for them to break down. Passive composting, also known as ‘cold composting’ does work, but it can take a very long time to turn raw materials into usable compost.
 
@@ -41,7 +41,7 @@ Be aware that decomposition slows down dramatically in cold weather. Some decomp
 
 When it comes to compost heap containment, there are a number of options available. An uncontained pile that is properly managed can still get ‘hot’ although it can be unsightly. A wooden or chicken wire enclosure can help contain the pile but be sure that there is easy access to turn the pile. Many gardeners use a three-bin system, where compost piles are moved from one bin to the next as they break down. There are also [compost tumblers](https://www.amazon.com/s?k=compost+tumbler) that take the work out of turning the pile, however they can be pricey and may not generate compost any faster than a properly maintained bin.
 
-![A dual-chamber compost tumbler](/uploads/compost-tumbler.jpg)
+![A dual-chamber compost tumbler](https://ucarecdn.com/bc093f40-78d1-4fff-ad01-c6fb4203997b/compost-tumbler.jpg)
 
 If you are interested in composting indoors, check out bokashi composting (using ‘bokashi bran’ - bacteria and yeasts) or vermicomposting (using worms). They are both great options to be able to compost year-round.
 

@@ -7,7 +7,7 @@ author = "Erin Thomson"
 
 [cover]
 relative = false
-image = "magnifying-glass-bean-plant.jpg"
+image = "https://ucarecdn.com/e55a5ef1-7e7a-4634-b6d7-bd610c19bdc1/magnifying-glass-bean-plant.jpg"
 caption = ""
 alt = "Hand holding a magnifying glass in front of a bean plant leaf"
 +++
@@ -15,13 +15,13 @@ In some ways growing a fall garden can be easier than a summer garden. Extremes 
 
 ### Squirrels
 
-![ A grey squirrel eating an apple in grass](squirrel-eating-apple.jpg)
+![ A grey squirrel eating an apple in grass](https://ucarecdn.com/f0976945-a9c7-4397-8c35-c19813346e8a/squirrel-eating-apple.jpg)
 
 Squirrels become extra active garden thieves in fall as they’re on a mission to store food for winter. While they’re well-known for smuggling nuts, seeds, and fruits, squirrels will also nibble on many fruiting crops and can dig around and damage newly planted seeds and seedlings. There might be some level of squirrel damage that is tolerable but if you tend to take heavy harvest losses from squirrels you’ll need to take action. There are edible-garden safe [repellent sprays](https://www.amazon.com/Bonide-REPELS-ALL-Animal-Repellent-Sprayer/dp/B07JZ4LJYR/) available that can keep squirrels at bay. You can also try sprinkling cayenne pepper around your plants and in your bird feeder (if you have one) as the spice will deter squirrels- just be sure not to dust it directly on a plant you’re about to eat! If all else fails, you might need to resort to building a squirrel-proof enclosure out of sturdy chicken wire- for inspiration check out this post on building a [rabbit (/squirrel) proof fence](https://blog.planter.garden/posts/garden-fence/).
 
 ### Slugs
 
-![A slug crawling up the edge of a garden pot](slug-on-pot.jpg)
+![A slug crawling up the edge of a garden pot](https://ucarecdn.com/3cd9e8f1-7dc4-48da-bcc1-ffb618fd14be/slug-on-pot.jpg)
 
 Slugs are a garden pest that can make a season-round appearance, however they prefer damp, cool conditions - so fall (and spring…and wet summers) are prime time for slugs. Slugs like to hide in the shade of plants and debris during the day and come out to feed at night. Because of this, one of the best ways to control slugs in the garden is to remove potential hiding spots- clear away excess mulch, remove plant debris, and stay on top of pruning. To go on the anti-slug offensive you can either get out there at night with a flashlight to handpick slugs off plants, or leave a trap of damp boards or newspaper and remove any slugs hiding underneath in the morning.
 
@@ -31,7 +31,7 @@ While there are many types of cutworms that can be active at other times of the 
 
 ### Grubs
 
-![Several white grubs on the soil surface](white-grubs.jpg)
+![Several white grubs on the soil surface](https://ucarecdn.com/8bccd8db-31d3-49fa-9b7b-502e4eaf4bd1/white-grubs.jpg)
 
 Grubs are usually thought of as a lawn pest, but did you know they can also attack your veggie garden? Grubs are the larvae of several insects such as Japanese beetles and June bugs, which can be equally destructive in their adult form. Grubs tend to be most active in spring and fall whereas beetles tend to be more active in summer. Grubs usually feed on plant roots, resulting in stunted growth and death, although they can feed above ground as well. If you’re seeing birds or animals digging in specific parts of your garden as well as struggling plants, you might have a grub infestation. Before treating for grubs, dig up a test patch in the area to see if several grubs are present. If there is a significant grub population, consider applying beneficial nematodes or Bacillus thuringiensis products designed for grub control (just double check that any product you select is safe for use in veggie gardens).
 

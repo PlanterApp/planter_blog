@@ -8,7 +8,7 @@ author = "Erin Thomson"
 
 [cover]
 relative = true
-image = "hands-with-pepper-plant.jpg"
+image = "https://ucarecdn.com/f22a26c1-90ed-4809-aa9b-418bc9d3a1a4/hands-with-pepper-plant.jpg"
 caption = ""
 alt = "A pair of hands holding an unripe pepper on the plant"
 +++
@@ -24,7 +24,7 @@ If you’ve concluded that your plants are growing too slow and it's not just ga
 
 Weather conditions play a huge role in speeding up or slowing down plant growth. The impact of the weather depends on the plant, and on how consistent the weather pattern has been. For example, in my area the summer has been unusually cool, overcast, and rainy from July onwards. Some of the plants are loving it- the lettuce has never looked nicer for this time of year! But as for the tomatoes and peppers, the fruits have been slower to ripen than usual (although the plants are lush and green). In June, we had an intense heatwave and drought coupled with wildfire smoke that put just about every young, tender plant into survival mode and significantly slowed their growth. It’s important to talk with avid gardeners in your local area to understand the impact of the year’s weather on your plants. If everyone is experiencing unusually slow growth it's more likely that the weather is the main culprit rather than a deficiency in your garden.
 
-![A small tomato plant with a small green tomato](green-tomato.jpg)
+![A small tomato plant with a small green tomato](https://ucarecdn.com/7faba031-70d8-46d7-9a9b-b95b300ada81/green-tomato.jpg)
 
 While you can’t control the weather, there are things you can do to help your plants adapt to weather conditions:
 
@@ -39,7 +39,7 @@ Another reason why your plants might be growing slower-than-expected is because 
 
 If you’ve already been fertilizing regularly, it is unlikely that a lack of nutrients is causing slow plant growth. Problems with soil pH can prevent the plant from accessing nutrients even if they are available, which then causes stunted growth. If your soil pH is either too acidic or too alkaline, it will be difficult to remedy this mid-season. Be sure to get a pH test done so you can apply amendments ahead of the upcoming season. And if you are struggling with clay or sandy soil conditions, be sure to add compost to improve the soil for optimal plant growth.
 
-![A pepper plant in poor soil with discolored leaves](pepper-plant-poor-soil.jpg)
+![A pepper plant in poor soil with discolored leaves](https://ucarecdn.com/ea281e83-c2d1-4007-8845-4668693d2dda/pepper-plant-poor-soil.jpg)
 
 ### Inconsistent watering
 
@@ -53,7 +53,7 @@ Most vegetable plants require full sun to grow as quickly as possible. While the
 
 Often the first obvious signs of pests or diseases are lesions, spotting, or holes in the leaves, but if your plant is growing slowly it might be worth a closer look to see if there is a pest or disease problem that went undetected. Pest and disease issues can sometimes be a secondary effect of the weather conditions or of nutrient deficiencies leading to weakened plants. While the specific course of treatment depends on the exact pest or disease, following proper plant spacing and pruning to improve airflow are two good ways to keep potential problems at bay. And if you know your plants are afflicted, sometimes the best course of action is to remove them and plant something new rather than waiting on that one last tomato or cucumber to ripen. It's a good idea to rotate locations to help reduce pest and disease pressure on new plantings.
 
-![A zucchini plant with powdery mildew on the leaves](powdery-mildew.jpg)
+![A zucchini plant with powdery mildew on the leaves](https://ucarecdn.com/c9b13f36-43e1-4478-b2eb-8882e9d45e1a/powdery-mildew.jpg)
 
 And last but not least, weeds are a very common culprit behind slow plant growth. While a small weed here or there isn’t an issue, if your plants are being choked out with weeds they may not be getting the water, nutrients, and sunlight they need to thrive. For more info on how to manage weeds in the garden check out [Garden Weeds: Stem the Spread](https://blog.planter.garden/posts/garden-weeds-stem-the-spread/).
 

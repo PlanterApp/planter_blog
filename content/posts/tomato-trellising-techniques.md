@@ -8,7 +8,7 @@ title = "Tomato Trellising Techniques"
 [cover]
 alt = "Tomato plants supported by a trellis"
 caption = "Tomato plants supported by a trellis"
-image = "/uploads/tomato-in-trellis.jpg"
+image = "https://ucarecdn.com/332b6d38-f99e-4f3c-9937-4617a6090d1b/tomato-in-trellis.jpg"
 
 +++
 The taste of a sun-ripened tomato fresh from the garden can’t be beat. But tomato plants need a little extra support to perform at their best. Many types of tomatoes benefit from trellising- adding structural support to help them grow upright instead of sprawling out.
@@ -39,15 +39,15 @@ There are many different ways to provide support for your tomato plants. Some of
 
 [**Tomato cages**](https://www.amazon.com/s?k=tomato+cage) while technically not a trellis, tomato cages are probably _the_ most well-known tomato support structures. Basic tomato cages found at big-box stores can sometimes be a bit flimsy and might not provide much support for plants that are heavily laden with fruit. Shorter cages also won’t work well for indeterminate tomatoes that want to climb- they’ll need an extra-tall cage. Cages can still be a good option, especially if you look for ones that are sturdily built (or, build your own!)
 
-![Tomato plant in a cage](/uploads/tomato-in-cage.jpg)
+![Tomato plant in a cage](https://ucarecdn.com/aa6f1300-e9c4-49f7-a139-4e965b9dd8ec/tomato-in-cage.jpg)
 
 **Florida weave** (or **basket weave**) trellising involves setting up tall, sturdy posts at either end of the tomato bed (and at regular intervals between the tomato plants if your bed is long), then using [twine](https://www.amazon.com/s?k=garden+twine) to enclose the plants along both sides. The twine is looped around each of the posts and pulled tight to ensure the plants won’t flop to either side. This technique is mostly used for determinate tomatoes that will only grow so high, but it can be used for indeterminate tomatoes by constructing a tall trellis and cutting off the top of the growing stem once the plants reach the height of the trellis.
 
-![Tomato plants in a Florida weave trellis](/uploads/tomato-weave.jpg)
+![Tomato plants in a Florida weave trellis](https://ucarecdn.com/7f6fd4f1-5f41-4734-bebf-856739b5dd99/tomato-weave.jpg)
 
 **String (overhead) trellising** is a technique where individual tomato plants are wrapped around a piece of [twine](https://www.amazon.com/s?k=garden+twine) as they grow, with the twine being suspended from a tall support structure above. This method is generally used for indeterminate tomatoes that will keep on growing vertically. If the plants do reach the top of the trellis they can then be ‘lowered and leaned’ by adding some slack to the strings and moving them over to the side gradually, so the plants can keep on growing by leaning more and more to the side.
 
-![Tomato plants in a string trellis](/uploads/tomatoes-with-string.jpg)
+![Tomato plants in a string trellis](https://ucarecdn.com/22b9a8e7-693f-4ccb-b5ac-4ed7be4a7b37/tomatoes-with-string.jpg)
 
 There are many variations on these techniques as well as some truly creative DIY trellis builds! So long as your tomato plants are lifted up off the ground and supported, feel free to try different options and use materials that are most readily available for you. Just be sure the structure is strong enough to withstand windy weather…and the weight of all those delicious ripening tomatoes getting ready to be harvested!
 

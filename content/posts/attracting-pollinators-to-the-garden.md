@@ -8,7 +8,7 @@ title = "Attracting Pollinators to the Garden"
 [cover]
 alt = "Bee with pollen on an echinacea flower"
 caption = "Bee with pollen on an echinacea flower"
-image = "/uploads/bee-on-echinacea.jpg"
+image = "https://ucarecdn.com/86378be1-35a7-400f-bd3c-3a2166886032/bee-on-echinacea.jpg"
 
 +++
 Many types of plants depend on pollinators such as bees, butterflies, and hummingbirds to pollinate their flowers so they can produce fruit and seeds. To get the best harvests possible, there are steps we can take as gardeners to encourage more pollinators to visit our garden.
@@ -27,7 +27,7 @@ Some types of fruit trees and shrubs are ‘self-unfruitful’ which means they 
 
 ### How to attract pollinators
 
-![Colorful wildflowers](/uploads/flower-meadow.jpg)
+![Colorful wildflowers](https://ucarecdn.com/ba7f3350-83ef-4a5b-9733-9f2cb87c037c/flower-meadow.jpg)
 
 Pollinators may not be there when we need them if we don’t make a safe and inviting space in the garden for them.
 
@@ -39,8 +39,8 @@ When planting flowers to attract pollinators, consider incorporating them direct
 
 [Planter](https://planter.garden/) has several types of flowers and flowering herbs listed and will tell you which vegetable plants pair well with them! If there is a type or variety missing, you can submit a request in Settings in [Planter](https://planter.garden/) to have it added.
 
-![Screenshot of nasturtium plant description in Planter](/uploads/nastursiums-screenshot.jpg)
+![Screenshot of nasturtium plant description in Planter](https://ucarecdn.com/8a18db1e-6263-4ee6-af43-06b598e856c4/nastursiums-screenshot.jpg)
 
-![Screenshot of nasturtium companion plants in Planter](/uploads/nastursiums-screenshot2.jpg)
+![Screenshot of nasturtium companion plants in Planter](https://ucarecdn.com/ca7ae0b2-ec36-414a-9997-4567106159be/nastursiums-screenshot2.jpg)
 
 Attracting pollinators to your garden is a win-win. Help support pollinator populations and they will take care of the hard work of pollinating for you!

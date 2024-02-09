@@ -10,7 +10,7 @@ series = ["Plant Picks"]
 
 [cover]
 relative = true
-image = "lettuce-garden.jpg"
+image = "https://ucarecdn.com/2bbb821d-fafb-48f4-ac3a-fee83e85f0d8/lettuce-garden.jpg"
 alt = "Lettuce plants in a row in a garden receiving partial sun"
 +++
 One of the things we first learn as gardeners is how important it is to select a full sun location for a veggie garden. Unfortunately, many of us don’t have the luxury of having an extra large yard with all-day sun exposure. Even if you’re lucky enough to have a sun-drenched backyard, you might have underutilized partially shaded areas of your yard that you wish you could grow food in. The good news is…you can in fact grow some vegetables in part shade!
@@ -33,7 +33,7 @@ Lettuce and other leafy greens such as spinach, chard, and arugula are star perf
 
 **Radishes**
 
-![Radish plants in a garden](radishes.jpg)
+![Radish plants in a garden](https://ucarecdn.com/73b8bcb5-e0ce-4692-91f7-888492f4575d/radishes.jpg)
 
 By now you might be noticing a theme with shady-garden plant picks: they tend to be green and leafy. Radishes can add a nice burst of color to an otherwise monotone shady salad garden. Radishes can still form nice-sized roots when grown in part shade- although it might take longer than usual for the bulbs to form. Be careful not to use too much high-nitrogen fertilizer where you plant radishes, as this will stimulate them to form lush leafy tops and tiny roots. If this does happen all is not lost- radish greens are edible too!
 
@@ -65,7 +65,7 @@ While your yard might be submerged in shade, perhaps there’s a sunny spot on a
 
 If your house is in the middle of the deep woods your best bet for getting a sizable garden harvest could be to rent a plot at your local community garden. Community garden plots are typically very inexpensive to rent for an entire season and will let you grow sun-loving veggies much more successfully. If you garden in a community plot be sure to set reminders to water your garden when the weather's hot and dry, as you won’t be able to check the state of your plants as easily as in a backyard garden.
 
-![Vegetable plants in a raised bed in a community garden plot](community-garden.jpg)
+![Vegetable plants in a raised bed in a community garden plot](https://ucarecdn.com/cba53d8f-cb1f-4775-a3ff-e4cfc95527ab/community-garden.jpg)
 
 **Garden with neighbors and friends**
 

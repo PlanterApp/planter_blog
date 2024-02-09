@@ -8,7 +8,7 @@ title = "What's Wrong With My Plant?"
 [cover]
 alt = "Leaf miner damage in beet leaves"
 caption = "Leaf miner damage in beet leaves"
-image = "/uploads/leaf-miner-damage.jpg"
+image = "https://ucarecdn.com/b10e6216-52f5-4d5f-baa6-5df71d5fe3ae/leaf-miner-damage.jpg"
 
 +++
 If you have plants in your garden that are struggling, you are not alone. Even experienced gardeners have challenges in the garden. Being able to quickly identify and troubleshoot plant problems is an important gardening skill. The first step is to observe- spend a few minutes walking through your garden every day to look for signs of trouble:
@@ -31,7 +31,7 @@ While plant leaves naturally come in many variations of green, if they start to 
 
 **Brown leaves** are commonly a sign of underwatering (or, over watering…again!), or over fertilizing. Bump up your watering if you think the plant is thirsty, or to help flush away excess fertilizer. Diseases can cause leaf browning, too. If it's unlikely that the leaf browning is water or fertilizer related, look for unusual spots or patterns on the leaves and research the markings to help identify the disease and treatment options.
 
-![Brown blueberry leaves](/uploads/brown-leaves.jpg)
+![Brown blueberry leaves](https://ucarecdn.com/10c9baee-d2d9-4eff-a4c3-7c7bdf80d710/brown-leaves.jpg)
 
 **Purple leaves** can often be a sign of a phosphorus deficiency - in this case, apply a fertilizer containing phosphorus.
 
@@ -45,12 +45,12 @@ Inspect the plant thoroughly for insects- oftentimes they will be clinging onto 
 
 Another technique if you can’t catch the offender in the act is to look at the damage pattern. Curled or puckered leaves are often a sign of aphids, whereas trails being chewed through leaves are a telltale sign of leaf miners. If you wake up every morning to find new holes in your plants that were not there the day before, the culprit is likely slugs who come out at night. And if your plants are regularly being mowed down, it could be rabbits having a munch.
 
-![Puckered leaves](/uploads/mottled-leaves.jpg)  
-![Mottled leaves underside with aphids](/uploads/aphids-on-leaf.jpg)
+![Puckered leaves](https://ucarecdn.com/49a2dde2-ee24-452d-8a42-348aa3ef00f8/mottled-leaves.jpg)  
+![Mottled leaves underside with aphids](https://ucarecdn.com/d2cf1ed1-f93e-4f45-be20-a7f18a2832bf/aphids-on-leaf.jpg)
 
 It often takes some research and process of elimination to figure out what’s ailing your plants. You won’t always be certain about what’s wrong, but you can still try non-invasive treatments to see if they help. Use the [Notes and Events](https://info.planter.garden/premium/#notes-and-events) premium features in [Planter](https://planter.garden/) to keep track of your observations, which treatments you try, and the results:
 
-![Screenshot of a Note in Planter](/uploads/tomato-note-screenshot.jpg)
+![Screenshot of a Note in Planter](https://ucarecdn.com/41eb31b5-6dd4-469c-a2b9-e7087d4e7d31/tomato-note-screenshot.jpg)
 
 Every garden has its problems, but don’t let them shake your gardening confidence. Keep your garden going strong by keeping an eye out for trouble, and above all else keep on planting!
 

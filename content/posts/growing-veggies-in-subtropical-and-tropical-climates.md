@@ -12,7 +12,7 @@ override_position = false
 [cover]
 alt = "Tropical bird on a plant."
 caption = ""
-image = "/uploads/pexels-jean-van-der-meulen-1581101.jpg"
+image = "https://ucarecdn.com/e685d372-7194-40fc-bb1d-09973bc839f0/pexels-jean-van-der-meulen-1581101.jpg"
 +++
 Are you starting a veggie garden in a subtropical or tropical climate? These regions offer a unique set of conditions for growing veggies, and it's important to understand the differences between the two and choose the right plants for your area.
 
@@ -20,7 +20,7 @@ Are you starting a veggie garden in a subtropical or tropical climate? These reg
 
 First, let's define the key differences between subtropical and tropical climates. Subtropical regions have mild winters, and the temperature typically doesn't go below freezing. On the other hand, tropical regions have warm temperatures year-round and usually high humidity. The main difference between these two climates is the temperature; subtropical climates have a cooler winter period, while tropical climates are consistently warm. While many subtropical climates are humid and wet, they can also be dry and arid, such as the southwest United States.
 
-![Global map of climate zones including polar/subpolar, temperate, subtropical, and tropical zones.](/uploads/climate_zones.webp "Climate Zones. Source: Meteoblue")
+![Global map of climate zones including polar/subpolar, temperate, subtropical, and tropical zones.](https://ucarecdn.com/c738189c-21e1-49a2-9cae-2f2f4d86950f/climate_zones.webp "Climate Zones. Source: Meteoblue")
 
 ### What to grow
 
@@ -39,7 +39,7 @@ When it comes to gardening in subtropical and tropical climates, it's all about 
 * [Tomatoes](https://planter.garden/plants/tomatoes) - choose heat-tolerant varieties or cherry tomatoes, which are hardier than bigger varieties
 * [Watermelon](https://planter.garden/plants/watermelon)
 
-![Cherry tomatoes in a garden](/uploads/pexels-markus-spiske-965740.jpg "Cherry tomatoes are hardier and more heat-tolerant than larger varieties.")
+![Cherry tomatoes in a garden](https://ucarecdn.com/1a0602f0-937f-47fa-bf2c-ff5a07d6b983/pexels-markus-spiske-965740.jpg "Cherry tomatoes are hardier and more heat-tolerant than larger varieties.")
 
 These veggies thrive in warm weather and can give you a constant supply of fresh produce.
 
@@ -51,7 +51,7 @@ For tropical climates, many of the same veggies can be grown, but it is essentia
 
 Now, let's talk about the veggies you should avoid. Cool-weather crops like broccoli, cauliflower, and cabbage will have a tough time in tropical climates, but can be grown during the cool season in subtropical regions. You can see whether a plant is a warm or cool weather crop in Planter's [quick info section](https://info.planter.garden/plant-information/how-to-grow/#quick-infoo).
 
-![Lettuce bolting](/uploads/starr_081031-0394_lactuca_sativa.jpg "Lettuce is prone to bolting in warm weather. Consider growing this during the winter in subtropical climates.")
+![Lettuce bolting](https://ucarecdn.com/e81d0f05-6efd-4bdc-8d72-ba36189dc11c/starr_081031-0394_lactuca_sativa.jpg "Lettuce is prone to bolting in warm weather. Consider growing this during the winter in subtropical climates.")
 
 Root veggies like carrots, beets, and radishes might also struggle because the soil can get too warm to successfully germinate the seeds.
 
@@ -81,7 +81,7 @@ Some crops are so well-suited to these climates that you can grow them year roun
 
 ### Pests and diseases
 
-![Two cute little ladybugs on a seedling.](/uploads/ladybug.jpeg "Not all bugs are bad! Ladybugs are natural predators of aphids.")
+![Two cute little ladybugs on a seedling.](https://ucarecdn.com/0e5a9cb1-9f2b-4d0a-9014-152f3097d2af/ladybug.jpeg "Not all bugs are bad! Ladybugs are natural predators of aphids.")
 
 Another thing to keep in mind is pest and disease control. In sub-tropical and tropical climates, pests and diseases can be an even bigger hassle. To control pests, you can use natural methods such as [companion planting](https://blog.planter.garden/posts/companion-planting-diversity-is-key/) and using [beneficial insects](https://blog.planter.garden/posts/16-of-your-garden-s-local-pest-hunters/). Diseases can be controlled through proper watering, good air circulation, and avoiding overcrowding.
 

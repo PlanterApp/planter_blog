@@ -7,7 +7,7 @@ title = "Is This My Plant? A Guide to Identifying What's a Weed and What's a See
 [cover]
 alt = ""
 caption = ""
-image = "/uploads/broccoliseedlingblog.jpg"
+image = "https://ucarecdn.com/929ebd09-2015-4677-a4b9-37b59cdee77c/broccoliseedlingblog.jpg"
 
 +++
 Weeds. They’re pesky and hard to manage, but crucial to deal with to have a successful garden. We put in so much work weeding our gardens, so making sure that we are actually removing weeds seems like the obvious but important step. Have you ever wondered whether you’ve confused a newly planted seedling with a weed? Spotting whether the plant in your garden was the one you intentionally planted is an important tool for gardeners to have. In order to improve your weed vs. seedling identification skills, we will look at strategies for keeping track of the plants you grew and characteristics of some weed species and common plant seedlings.
@@ -16,8 +16,8 @@ Weeds. They’re pesky and hard to manage, but crucial to deal with to have a su
 
 The one nearly foolproof method of knowing if the little plant in your garden is a seedling or a weed is to grow a small quantity of seeds in a separate container to see what the seedling should look like [\[4\]](https://www.growveg.com/guides/6-ways-to-tell-seedlings-from-weedlings/). Compare it to the seedlings in your garden, and weed out the rest. Another good habit is to use markers where you plant your seeds to know at least an approximate location of where they are [\[4\]](https://www.growveg.com/guides/6-ways-to-tell-seedlings-from-weedlings/). Additionally, cotyledons, or the first leaves to grow on a seedling, can be confusing to identify, as they often don’t look like the adult leaves on the plant [\[2\]](https://www.gardeningknowhow.com/garden-how-to/propagation/seeds/how-to-tell-seedlings-from-weeds.htm). This means that waiting for plants to develop their true leaves can make them much more recognizable, and thus you’ll be less likely to confuse them for weeds. It may take a few weeks for plants to develop true leaves [\[5\]](https://www.almanac.com/content/vegetable-seedling-pictures-and-identification). Below are pictures of a sunflower cotyledon and an older sunflower seedling; notice how its true leaves appear much more recognizable than the young leaves. This just emphasizes the importance of avoiding weeding plants that are young, because they could be your plant, just at a very immature stage.
 
-![sunflower seedling](/uploads/sunflowerseedlingblog.jpg "Sunflower Seedling")
-![sunflower big seedling](/uploads/sunflowerblog.jpg "Sunflower Big Seedling")
+![sunflower seedling](https://ucarecdn.com/e4b08bcf-4e77-42fd-8409-c1b5ec2f64d1/sunflowerseedlingblog.jpg "Sunflower Seedling")
+![sunflower big seedling](https://ucarecdn.com/b72221e5-6f7e-4be1-84b8-29c82a7abcac/sunflowerblog.jpg "Sunflower Big Seedling")
 
 ### Seedling Identification
 
@@ -26,32 +26,32 @@ It is a good habit to know what some of your common garden seedlings look like[ 
 **Beans**
 
 Bean seedlings will have 2 heart-shaped leaves making them easier to identify against other weeds [\[5\]](https://www.almanac.com/content/vegetable-seedling-pictures-and-identification).
-![bean seedling](/uploads/beanseedlingblog.jpg "Bean Seedling")
+![bean seedling](https://ucarecdn.com/03fb5209-b70e-4f27-9111-c4e96c53a095/beanseedlingblog.jpg "Bean Seedling")
 
 **Broccoli/Cauliflower**
 
 Broccoli and cauliflower are distinguished by their kidney-shaped first leaves, only later developing leaves that more closely resemble those on mature plants [\[5\]](https://www.almanac.com/content/vegetable-seedling-pictures-and-identification).
-![cauliflower seedling](/uploads/cauliflowerseedlingblog.jpg "Cauliflower Seedling")
+![cauliflower seedling](https://ucarecdn.com/e358e65f-0f3e-4994-8070-1e9a5c502ef4/cauliflowerseedlingblog.jpg "Cauliflower Seedling")
 
 **Carrots**
 
 Carrots can look like grass at first, so letting cotyledons grow can help with identification [\[5\]](https://www.almanac.com/content/vegetable-seedling-pictures-and-identification). Maturing leaves will start to look like herbs, such as cilantro, as pictured below. A key way to identify that your carrots are actually carrots, is to rub their leaves with your fingers and smell. If you can smell the carrot, you’re in luck, otherwise it’s likely to be some kind of weed [\[7\]](https://bustlingnest.com/identify-carrot-sprouts/#:\~:text=Smell%20the%20Leaves,or%20weed%20leaves%20will%20not.).
-![carrot seedling](/uploads/carrotseedlingblog.jpg "Carrot Seedling")
+![carrot seedling](https://ucarecdn.com/87c023fb-9005-4ef8-803a-b1337a075726/carrotseedlingblog.jpg "Carrot Seedling")
 
 **Cucumbers**
 
 Maturing cucumbers will show an oval seed coming out from where the leaves meet. As they grow they will develop triangular lobed leaves as pictured [\[5\]](https://www.almanac.com/content/vegetable-seedling-pictures-and-identification). They also have fuzzy leaves and stems.
-![cucumber seedling](/uploads/cucumberseedlingblog.jpg "Cucumber Seedling")
+![cucumber seedling](https://ucarecdn.com/d02428c7-688d-46a8-8361-5561ab8c01cd/cucumberseedlingblog.jpg "Cucumber Seedling")
 
 **Lettuce**
 
 Lettuce seedlings will vary in appearance based on variety, however they characteristically have no central stem and are colored bright green [\[6\]](https://www.plantsnap.com/blog/vegetable-plants/).
-![lettuce seedling](/uploads/lettuceseedlingblog.jpg "Lettuce Seedling")
+![lettuce seedling](https://ucarecdn.com/7b954284-cc3b-4dbc-ab28-68e5c09afd00/lettuceseedlingblog.jpg "Lettuce Seedling")
 
 **Tomatoes**
 
 The “toothed” leaves of tomatoes develop quickly so wait to see if your plant develops leaves that are similar to those of an adult tomato plant [\[6\]](https://www.plantsnap.com/blog/vegetable-plants/).
-![tomato seedling](/uploads/tomatoseedlings.jpg "Tomato Seedling")
+![tomato seedling](https://ucarecdn.com/3ec1970e-f414-4ede-86b5-f28e5d8eba30/tomatoseedlings.jpg "Tomato Seedling")
 
 ### Common Weeds
 
@@ -60,31 +60,31 @@ Now that we’ve gone through some important practices when it comes to seedling
 **Dandelions**
 
 This weed has a lengthy taproot and a bright yellow flower that eventually turns into a fluffy sphere of seeds that are dispersed in the wind [\[1\]](https://www.bhg.com/gardening/pests/insects-diseases-weeds/types-of-weeds/ "https://www.bhg.com/gardening/pests/insects-diseases-weeds/types-of-weeds/").
-![dandelion](/uploads/dandelionblog.jpg "Dandelion")
+![dandelion](https://ucarecdn.com/6ef78a51-749b-4c00-a0d3-30c8aaa70ae6/dandelionblog.jpg "Dandelion")
 
 **White Clover**
 
-Clovers have 3 leaves and a round white flower that emerges [\[1\]](https://www.bhg.com/gardening/pests/insects-diseases-weeds/types-of-weeds/). ![Clover](/uploads/cloverblog.jpg "Clover")
+Clovers have 3 leaves and a round white flower that emerges [\[1\]](https://www.bhg.com/gardening/pests/insects-diseases-weeds/types-of-weeds/). ![Clover](https://ucarecdn.com/0a231333-233b-4920-ab90-ab1645c12726/cloverblog.jpg "Clover")
 
 **Nutsedge**
 
 This weed is identifiable with its grass-looking structure and extremely fast growing properties. It can be pulled out by hand [\[1\]](https://www.bhg.com/gardening/pests/insects-diseases-weeds/types-of-weeds/).
-![nutsedge](/uploads/nustedgeblog.jpg "Nutsedge")
+![nutsedge](https://ucarecdn.com/d1724997-280e-4019-8215-f7cfb9424048/nustedgeblog.jpg "Nutsedge")
 
 **Creeping Charlie**
 
 Named for its “creeping” movements, this weed has small purple flowers and can be a nuisance in the garden [\[1\]](https://www.bhg.com/gardening/pests/insects-diseases-weeds/types-of-weeds/).
-![creeping charlie](/uploads/creepingcharlieblog.jpg "Creeping Charlie")
+![creeping charlie](https://ucarecdn.com/d72169f0-9be4-445f-a647-e8be8ad0a86a/creepingcharlieblog.jpg "Creeping Charlie")
 
 **Mugwort**
 
 Mugwort, while resembling certain herbs, has dark upper leaves, with the bottom of its leaves being lighter, much like chrysanthemum leaves [\[3\]](https://www.gardeningknowhow.com/plant-problems/weeds/getting-rid-of-mugwort.htm).
-![mugwort](/uploads/mugwortblog.jpg "Mugwort")
+![mugwort](https://ucarecdn.com/7293976e-4f98-4507-9706-5c37bba8ccad/mugwortblog.jpg "Mugwort")
 
 **Plantain**
 
 This weed is characterized by large oval leaves low to the ground and is pictured below [\[1\]](https://www.bhg.com/gardening/pests/insects-diseases-weeds/types-of-weeds/). While it is an edible weed, it is invasive and an annoyance in the garden if you aren’t looking to eat it [\[8\]](https://www.wildedible.com/wild-food-guide/plantain).
-![plantain](/uploads/plantainblog.jpg "Plantain")
+![plantain](https://ucarecdn.com/d5a2b12f-ad82-4121-8a53-a9f8a6c2fe4a/plantainblog.jpg "Plantain")
 
 ### Takeaways
 

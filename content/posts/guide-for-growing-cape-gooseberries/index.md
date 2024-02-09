@@ -10,7 +10,7 @@ weight = ""
 
 [cover]
 relative = false
-image = "gooseberry4.jpg"
+image = "https://ucarecdn.com/884565cf-41cb-4eba-bf73-1c54efa64748/gooseberry4.jpg"
 alt = "An image of a Cape Gooseberry, its protective shell peeled back. The berry is a lovely golden colour, and perfectly round."
 +++
 
@@ -52,17 +52,17 @@ Germination takes roughly 2-6 weeks, and is characterised by the formation of ne
 
 The plants should grow and mature over the following 90-120 days. As stated prior, its recommended you plant these plants at the start of the cold season, so that they have the time needed to grow and mature before producing fruit throughout Spring.
 
-![An image depicting a Cape Gooseberry bush. The leaves are pale green, and much like that of a tomato. It has a few unripe berries on the stems, all encased in a green papery shell.](gooseberry3.webp)
+![An image depicting a Cape Gooseberry bush. The leaves are pale green, and much like that of a tomato. It has a few unripe berries on the stems, all encased in a green papery shell.](https://ucarecdn.com/c9c1b01b-14eb-4bf4-bdc8-90d5b8bacba3/gooseberry3.webp)
 
 Cape Gooseberries are self-pollinating but the flowers are yellow with dark drown inner patterns.
 
-![An image displaying the Cape Gooseberry fower - it is a pale yellow, and only one petal. The inside of the flower has brown spots. ](gooseberry2.jpg)
+![An image displaying the Cape Gooseberry fower - it is a pale yellow, and only one petal. The inside of the flower has brown spots. ](https://ucarecdn.com/17a2c3bb-402a-41fb-b9d3-209e76a87dff/gooseberry2.jpg)
 
 ### **Knowing when the berries are ripe**
 
 It’s reasonably simple to tell if a Cape Gooseberry is ripe! The outer casing of the fruit tends to go from green to yellow as the fruit inside ripens. However, if you’re still unsure, you can always open the casing and have a look at the fruit inside – this will cause no harm to the fruit, just make it slightly more vulnerable to predators. The fruit, if ripe, should be a yellow or red colour. If it’s still green, leave it for a bit more time.
 
-![An image displaying many Cape Gooseberries, along with a few shells. The berries are bright gold and round.](cape1.jpg)
+![An image displaying many Cape Gooseberries, along with a few shells. The berries are bright gold and round.](https://ucarecdn.com/f4afd924-861b-422f-a444-0c1bf0cb99d0/cape1.jpg)
 
 ### **Harvesting seeds for next time**
 
