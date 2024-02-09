@@ -19,7 +19,7 @@ Instead of leaving the past season’s dead plant matter in the garden, you can 
 
 Another important task to take care of is sanitizing your garden tools before wintertime. This is a great measure to take because garden tools and pots can often carry pathogens.
 
-![](/uploads/garden-tools.jpg)
+![](https://ucarecdn.com/11072fe2-668d-45b1-a522-7f825fcb47f6/garden-tools2.jpg)
 
 Fall is a great time to get your soil tested. Most regions have some type of Extension office that can help point you in the right direction. Testing your soil in the fall ensures you have enough time to develop and implement a soil nutrition plan (if necessary) for next year’s growing season.
 

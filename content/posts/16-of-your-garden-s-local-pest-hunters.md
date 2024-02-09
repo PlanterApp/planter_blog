@@ -25,7 +25,7 @@ While this post focuses on the beneficial insects that eat pests, if you’re lo
 
 1. Ladybugs
 
-![](/uploads/ladybug.jpeg)
+![](https://ucarecdn.com/0e5a9cb1-9f2b-4d0a-9014-152f3097d2af/ladybug.jpeg)
 
 Ladybugs are incredibly good at controlling small pests like aphids and soft bodied insects like caterpillars or thrips! They won’t harm your plants as larvae, as they eat pests throughout their life cycle rather than plant matter. Ladybugs can be attracted by dill, yarrow, fennel, tansy, and dandelions.
 

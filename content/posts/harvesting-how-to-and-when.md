@@ -49,7 +49,7 @@ There are two main approaches to harvesting lettuce. With lettuce varieties that
 
 The other harvesting technique that can be used for lettuce is called ‘cut-and-come-again’, where only some leaves are removed from the plant at a time, leaving most of the plant intact to keep growing. Cut-and-come-again harvesting is typically used with “loose leaf” lettuce varieties. Cut-and-come-again harvesting can be done by cutting or plucking the lower (oldest) leaves off as close as possible to the stem, leaving the upper (newer) leaves intact. It’s also possible to slice leaves off by cutting across the top few inches of the plant. While slicing crosswise is faster than removing individual leaves, it can be easy to sever the growing stem- stunting or killing the plant.
 
-![A hand harvesting lettuce](/uploads/harvest-lettuce.jpg)
+![A hand harvesting lettuce](https://ucarecdn.com/17dc416e-175b-43b5-8920-7881a78d6e70/harvest-lettuce.jpg)
 
 With either technique, be on the lookout for [bolting](https://blog.planter.garden/posts/plant-bolting-a-seedy-situation/) which can cause your lettuce plants to turn unappetizingly bitter.
 

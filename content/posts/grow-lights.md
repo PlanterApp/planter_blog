@@ -17,7 +17,7 @@ image = "https://ucarecdn.com/1ecf7bd7-c5cd-42a7-996b-2dce51ec4197/seedlings_gro
 
 Starting veggie seedlings indoors is a great way to get a head start on the gardening season and relieve that “gardening itch” that many of us get in the winter. One of the most important things a seedling needs is the right amount of light. However, chances are your average house window isn’t bright enough and you’ll need to supplement the light with a grow light. But if you’ve shopped for grow lights recently, you may have been overwhelmed by all the different options. We’re going to break down the best options for home gardeners that will best suit your seed-starting needs.
 
-![Tomato and pepper plants.](/uploads/pxl_20220324_134001524-mp.jpg "My seed starting station in 2022. Also, my workbench 🛠!")
+![Tomato and pepper plants.](https://ucarecdn.com/d7291011-af19-438f-a1fc-65a21fb37d4b/pxl_20220324_134001524-mp.jpg "My seed starting station in 2022. Also, my workbench 🛠!")
 
 ## Grow Light Types
 
