@@ -1,17 +1,31 @@
 {{- $cover := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
-{{ $coverUrl := printf "%s%s" "https://blog.planter.garden" (print (.Params.cover.image)) }}
+
+{{ $coverUrl := .Params.cover.image }}
+{{- $size := "480" }}
 {{- if $cover }}
   {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
   {{- if hugo.IsExtended -}}
     {{- $processableFormats = $processableFormats | append "webp" -}}
   {{- end -}}
-  {{- $size := "480" }}
   {{- $prod := (hugo.IsProduction | or (eq .Page.Site.Params.env "production")) }}
   {{- if (and $cover (in $processableFormats $cover.MediaType.SubType) (eq $prod true)) }}
     {{- if (ge $cover.Width $size) -}}
       {{ $coverUrl = (($cover.Resize (printf "%sx webp" $size)).Permalink) -}}
     {{ end }}
   {{- end -}}
+{{- else }}
+  {{ $fullUrl := $coverUrl }}
+  {{ $parsedUrl := urls.Parse $fullUrl }}
+  {{ $path := path.Split ($parsedUrl.Path) }}
+  {{ $pathDir := $path.Dir }}
+  {{ $pathFile := $path.File }}
+  {{ $pathExt := path.Ext $path}}
+  {{ $uploadCare := strings.Contains $fullUrl "ucarecdn.com" }}
+  {{ $urlWithoutFileName := printf "https://ucarecdn.com%s" $pathDir }}
+  {{ $params := "-/format/auto/-/quality/smart/" }}
+  {{ if $uploadCare }}
+    {{ $coverUrl = printf "%s%s-/resize/%s/%s" $urlWithoutFileName $params (printf "%sx" $size) $pathFile }}
+  {{ end }}
 {{- end }}
 {{- $content := .Plain | truncate 500 | jsonify }}
 

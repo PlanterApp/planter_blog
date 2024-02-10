@@ -45,7 +45,7 @@
                 {{ $params := "-/format/auto/-/quality/smart/" }}
                 <img loading="lazy" srcset="
                 {{ range $size := $sizes }}
-                    {{ printf "%s%s-/resize/%s %s" $urlWithoutFileName $params (printf "%sx/" $size) (printf "%sw," $size) }}
+                    {{ printf "%s%s-/resize/%s/%s %s" $urlWithoutFileName $params (printf "%sx" $size) $pathFile (printf "%sw," $size) }}
                 {{ end }}
                 " sizes="(min-width: 768px) 720px, 100vw"
                 src="{{ $fullUrl }}" alt="{{ $alt }}" style="max-height:600px; object-fit: contain;">
