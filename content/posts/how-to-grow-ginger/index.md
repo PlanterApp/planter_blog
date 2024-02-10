@@ -7,14 +7,13 @@ author = "Samantha Togstad"
 
 [cover]
 relative = false
+image = "https://ucarecdn.com/a0621049-8bc7-434f-a182-84c9eb79a35d/20231111_085638.jpg"
 +++
 Known for its warm and spicy flavor, ginger is a very popular spice and herb. It’s native to Asia, but it has been enjoyed all over the world for a very long time. It’s a tropical plant that loves heat and humidity, growing conditions that many of us don’t have, especially in the northern hemisphere. Despite that, it is fairly easy to grow, even for those of us in the colder climates. 
 
 ### About Ginger 
 
 *Zingiber officinale*, or ginger, can be grown as a perennial in zones 9 and above. In the colder zones, it can be grown as an annual. It takes around 8-10 months for a plant to mature enough for a good harvest. Unless you live in an area that is warm for most of the year, starting ginger indoors in a container in January or February is the way to go. 
-
-
 
 ### Where to Find a Ginger Start
 
@@ -28,15 +27,13 @@ Soaking ginger in water before planting isn’t totally necessary, but it might 
 
 If you have temperatures that are consistently above 60 at night, you can start ginger out in the garden, in an area with some dappled shade and moist and rich soil. 
 
-
-
 ### Growing Indoors
 
 Ginger plants grow outwards rather than deep, so if you plan on keeping your ginger in a container, choose one that is wide, with good drainage. Place your ginger rhizome on the surface of a rich potting mix, with the “eyes” facing upward. You can bury it in the soil about an inch down, or you can gently firm it on the surface, topping it off with soil but leaving the eyes exposed. Either way works, leaving the eyes exposed might result in faster sprouting. Water your newly planted ginger. Use a heated seedling mat to help encourage sprouting. Keep it somewhere warm and out of direct sunlight. Heated greenhouses are a perfect place for ginger, but as long as they are kept warm they will do well in the house. 
 
-
-
 It can take a few weeks to see any shoots or roots from your ginger. If you left your eyes exposed to the light , start covering them up with soil once the form shoots. 
+
+![](https://ucarecdn.com/0fcded0d-06ba-4c00-8999-67f3b591d831/IMG-20230301-WA0001.jpg)
 
 ### Mimic a Tropical Habitat
 
@@ -50,10 +47,6 @@ You must keep ginger protected in your home or greenhouse until outside temperat
 
 You can harvest pieces of ginger any time you want, but if you want the whole rhizome then the best time is in the fall and before the frost returns. You can harvest the whole rhizome or you can leave at least 2 inches with at least 2 eyes and return it to a container and continue growing it indoors over the winter. Store your ginger in the refrigerator. 
 
-
-
 Ginger is so versatile in the kitchen and can be used for sweet or savory dishes. In traditional medicine, ginger is used to take the edge off of nausea, improve digestion, promote good circulation, and many studies show it has anti-cancer potential.  
-
-
 
 Sure, it’s easier to go to your grocery store and pick up ginger any time you want. But there’s something special about making gingerbread cookies in December, from fresh ginger that you started nearly a year before. If you have the extra time and a little bit of space I think it’s worth trying out at least once!
