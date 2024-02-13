@@ -59,4 +59,6 @@ Ginger is so versatile in the kitchen and can be used for sweet or savory dishes
 
 Sure, it’s easy to go to your grocery store and pick up ginger any time you want it, but there’s something special about making gingerbread cookies in December, from fresh ginger that you started nearly a year before. If you have the extra time and a little bit of space I think it’s worth trying out at least once!
 
+![The Planter app has information on how to grow ginger](https://ucarecdn.com/d1552521-7d00-4ab1-b8d9-b7ec27e20e6f/Screenshot (14).png "You can find more helpful tips in the Planter app")
+
 *For educational purposes only and not to be considered medical advice. Please refer to your health care provider before using herbs.*
