@@ -55,8 +55,12 @@ You must keep ginger protected in your home or greenhouse until outside temperat
 
 You can harvest pieces of ginger any time you want, but if you want the whole rhizome then the best time is in the fall, before the frost returns. You can harvest the whole rhizome or you can leave at least 2 inches with at least 2 eyes and return it to a container and continue growing it indoors over the winter. Store your ginger in the refrigerator. 
 
+![The Planter app has information on how to grow ginger](https://ucarecdn.com/77c98354-1da2-4f81-ac37-d4e83e666614/Screenshot (15).png "You can find more helpful growing tips in the Planter app")
+
 Ginger is so versatile in the kitchen and can be used for sweet or savory dishes. In traditional medicine, ginger is used to take the edge off of[ nausea,](https://pubmed.ncbi.nlm.nih.gov/25912592/) improve [digestion](https://www.hopkinsmedicine.org/health/wellness-and-prevention/ginger-benefits#:~:text=Ginger%20is%20not%20just%20delicious,Nausea%20relief.), promote good [circulation](https://juniperpublishers.com/ctbeb/pdf/CTBEB.MS.ID.555985.pdf), and many studies show it has [anti-cancer](https://juniperpublishers.com/ctbeb/pdf/CTBEB.MS.ID.555985.pdf) potential.  
 
 Sure, it’s easy to go to your grocery store and pick up ginger any time you want it, but there’s something special about making gingerbread cookies in December, from fresh ginger that you started nearly a year before. If you have the extra time and a little bit of space I think it’s worth trying out at least once!
+
+
 
 *For educational purposes only and not to be considered medical advice. Please refer to your health care provider before using herbs.*
