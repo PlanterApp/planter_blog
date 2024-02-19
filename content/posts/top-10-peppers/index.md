@@ -67,11 +67,23 @@ What poblano peppers lack in heat, they more than make up in flavor. Especially 
 
 ## Serrano
 
+![Green and red serrano peppers on a wooden background](https://ucarecdn.com/a1baa5ff-499a-4d63-b67b-cb6602034963/Serranos.jpg)
+
 ## Corno di Toro
 
-## Thai peppers
+![A red corno di toro pepper on a slate cutting board](https://ucarecdn.com/0ec28b3c-5b57-4a4b-ab47-997c64fa6c2b/Corno-di-toro-pepper.jpg)
+
+## Thai chilies
+
+![](https://ucarecdn.com/ac0bcbf7-00ce-4e94-aa82-6ea42e083c32/Thai-chilies.jpg)
+
+
+
+
 
 ## Wax peppers (hot and mild)
+
+![Light green peppers on a white background](https://ucarecdn.com/3786652c-3f83-4be4-b9e2-5466215da6cd/Wax-pepper.jpg)
 
 
 
