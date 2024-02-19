@@ -69,7 +69,9 @@ What poblano peppers lack in heat, they more than make up in flavor. Especially 
 
 ## Corno di Toro
 
-## Thai pepper
+## Thai peppers
+
+## Wax peppers (hot and mild)
 
 Looking for the perfect icon for your custom pepper varieties? Now it’s easier than ever with icons grouped by plant! Select one of the 34 existing pepper icons that most closely matches your custom pepper. Not sure how to create custom varieties in Planter? Check out [this how-to doc](https://info.planter.garden/plant-information/custom-varieties/) for step-by-step instructions.
 
