@@ -73,6 +73,10 @@ What poblano peppers lack in heat, they more than make up in flavor. Especially 
 
 ## Wax peppers (hot and mild)
 
-Looking for the perfect icon for your custom pepper varieties? Now it’s easier than ever with icons grouped by plant! Select one of the 34 existing pepper icons that most closely matches your custom pepper. Not sure how to create custom varieties in Planter? Check out [this how-to doc](https://info.planter.garden/plant-information/custom-varieties/) for step-by-step instructions.
 
-![](https://ucarecdn.com/94a4b77c-7d52-4a9b-9199-83deae0d7f01/Pepper-icons.jpg)
+
+If you're on the hunt for the perfect pepper icons for your custom pepper varieties in Planter, it's easier than ever to find them with icons grouped by plant! Select one of the 34 existing pepper icons that most closely matches your custom pepper. (If you're not sure how to create custom varieties, check out [this how-to doc](https://info.planter.garden/plant-information/custom-varieties/) for step-by-step instructions.)
+
+![Screenshot of pepper icons in Planter](https://ucarecdn.com/94a4b77c-7d52-4a9b-9199-83deae0d7f01/Pepper-icons.jpg)
+
+*For educational purposes only and not to be considered medical advice. Please refer to your health care provider before using plants medicinally.*
