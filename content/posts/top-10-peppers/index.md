@@ -11,7 +11,7 @@ relative = false
 image = "https://ucarecdn.com/368f809b-1db4-4036-8563-9cb9cc43b8a8/Pepper-picks.png"
 alt = "Colorful peppers on a red background with the text \"Our Top 10 Pepper Picks\""
 +++
-As you're planning your garden in Planter, you've likely included some pepper plants in the mix. While many gardeners opt to grow the classic bells, there are many pepper options available that might be more productive and even easier to grow!  On top of that, experimenting with different pepper varieties - spicy or mild - opens up way more culinary possibilities. So as you're thinking about which peppers to grow this year, we hope you'll take inspiration from our Top 10 Pepper Picks list to add some new varieties to your garden!
+As you're planning your garden in [Planter](https://planter.garden/gardens), you've likely included some pepper plants in the mix. While many gardeners opt to grow the classic bells, there are many pepper options available that might be more productive and even easier to grow!  On top of that, experimenting with different pepper varieties - spicy or mild - opens up way more culinary possibilities. So as you're thinking about which peppers to grow this year, we hope you'll take inspiration from our Top 10 Pepper Picks list to add some new varieties to your garden!
 
 ## Jalapeño
 
