@@ -55,7 +55,7 @@ Do you love the flavor of habanero peppers but can’t take the spice? Try growi
 
 *Recommended by Samantha* 
 
-The easy-going cayenne is my pepper of choice. Hotter than jalapenos, and less spicy than habaneros, cayenne sits in the middle, with medium heat, and a lot of flavor. These bushy plants usually produce a lot of peppers which are perfect for drying.  You can dry and grind up cayenne and use it to flavor just about any food.  Like all hot peppers, cayenne is full of capsaicin, the component that gives peppers their heat. If you are looking to add more medicinal plants to your garden, cayenne is a great addition. Cayenne has been used as an herb by Native Americans for many years.  Studies show that the capsaicin in cayenne may help soothe aches, enhance heart health, and more. So, if you want more capsaicin in your diet without a super intense burn, try growing some cayenne! 
+The easy-going cayenne is my pepper of choice. Hotter than jalapenos, and less spicy than habaneros, cayenne sits in the middle, with medium heat, and a lot of flavor. These bushy plants usually produce a lot of peppers which are perfect for drying.  You can dry and grind up cayenne and use it to flavor just about any food.  Like all hot peppers, cayenne is full of capsaicin, the component that gives peppers their heat. If you are looking to add more medicinal plants to your garden, cayenne is a great addition. Cayenne has been used as an herb by Native Americans for many years.  Studies show that the capsaicin in cayenne may help [soothe aches](https://pubmed.ncbi.nlm.nih.gov/35857438/), [enhance heart health](https://www.jacc.org/doi/abs/10.1016/j.jacc.2019.08.1071), and more. So, if you want more capsaicin in your diet without a super intense burn, try growing some cayenne! 
 
 ## Ancho (Poblano) Peppers
 
@@ -65,4 +65,12 @@ The easy-going cayenne is my pepper of choice. Hotter than jalapenos, and less s
 
 What poblano peppers lack in heat, they more than make up in flavor. Especially when roasted in a cast iron skillet. The smoky taste adds dimension to your weeknight dishes. When used fresh they are referred to as poblano peppers but once dried they are referred to as ancho peppers. Poblano peppers thrive in warm weather and love full sun. Provide consistent watering, keeping the soil moist but not waterlogged. Harvest poblanos when they turn dark green and glossy. They usually mature in 60-80 days after transplanting.
 
-Looking for the perfect icon for your custom pepper varieties? Now it’s easier than ever with icons grouped by plant! Select one of the 34 existing pepper icons that most closely matches your custom pepper. Not sure how to create custom varieties in Planter? Check out this how-to doc for step-by-step instructions.
+## Serrano
+
+## Corno di Toro
+
+## Thai pepper
+
+Looking for the perfect icon for your custom pepper varieties? Now it’s easier than ever with icons grouped by plant! Select one of the 34 existing pepper icons that most closely matches your custom pepper. Not sure how to create custom varieties in Planter? Check out [this how-to doc](https://info.planter.garden/plant-information/custom-varieties/) for step-by-step instructions.
+
+![](https://ucarecdn.com/94a4b77c-7d52-4a9b-9199-83deae0d7f01/Pepper-icons.jpg)
