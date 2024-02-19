@@ -57,7 +57,7 @@ Do you love the flavor of habanero peppers but can’t take the spice? Try growi
 
 The easy-going cayenne is my pepper of choice. Hotter than jalapenos, and less spicy than habaneros, cayenne sits in the middle, with medium heat, and a lot of flavor. These bushy plants usually produce a lot of peppers which are perfect for drying.  You can dry and grind up cayenne and use it to flavor just about any food.  Like all hot peppers, cayenne is full of capsaicin, the component that gives peppers their heat. If you are looking to add more medicinal plants to your garden, cayenne is a great addition. Cayenne has been used as an herb by Native Americans for many years.  Studies show that the capsaicin in cayenne may help [soothe aches](https://pubmed.ncbi.nlm.nih.gov/35857438/), [enhance heart health](https://www.jacc.org/doi/abs/10.1016/j.jacc.2019.08.1071), and more. So, if you want more capsaicin in your diet without a super intense burn, try growing some cayenne! 
 
-## Poblano Peppers
+## Poblano (Ancho) Peppers
 
 ![Green poblano peppers on a burlap background](https://ucarecdn.com/3736f8bc-2c2a-490a-bd7e-f98f0c4f363d/Poblano.jpg)
 
