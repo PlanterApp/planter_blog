@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Our Top 10 Pepper Variety Picks!"
+title = "Our Top 10 Pepper Picks!"
 slug = "top-10-peppers"
 date = 2024-02-19T19:24:11.583Z
 author = "The Planter Team"
@@ -57,6 +57,8 @@ Do you love the flavor of habanero peppers but can’t take the spice? Try growi
 
 *Recommended by Erin*
 
+Corno di toro peppers, also known as 'cowhorn' peppers, are sweet peppers with a pointed, horn-like shape. Their sweet flavor is similar to a bell pepper but unique in it's own right- perhaps more concentrated. They tend to be more productive than bell peppers and produce well in cooler climates. They have study skins - although not so tough that you need to take them off - that make them perfect for grilling and stuffing. They can also be eaten fresh and in salads like a bell pepper. There are different cultivars depending on whether you're looking for red, yellow, or orange peppers- growing all three makes for an eye-catching mix!
+
 
 
 ## Cayenne
@@ -72,6 +74,8 @@ The easy-going cayenne is my pepper of choice. Hotter than jalapenos, and less s
 ![](https://ucarecdn.com/ac0bcbf7-00ce-4e94-aa82-6ea42e083c32/Thai-chilies.jpg)
 
 *Recommended by Erin*
+
+Thai chili peppers are not one single variety of chili - as we might think from seeing them in the grocery store! While there are many varieties of Thai chilies, in general when we think of Thai chilies we're referring to a tiny chili pod with a fruity flavor and a substantial spicy punch! If you enjoy Asian-style cooking with a kick these are a must in the garden. One or two plants should easily be enough to provide a family with ample chiles for using fresh, freezing, or processing into chili sauce. The plants are compact and low-maintenance (and did we mention prolific?) which makes them excellent candidates for container-growing and overwintering!
 
 
 
@@ -89,13 +93,15 @@ What poblano peppers lack in heat, they more than make up in flavor. Especially 
 
 *Recommended by Erin*
 
-
+Serranos might be slightly-lesser-known than jalapenos but they are favored in Mexican dishes because of their consistent heat levels. While serranos are hotter than jalapenos, jalapenos can pack an extra-hot punch every once in a while that can throw a surprising element into your dishes if you're not expecting it! In the kitchen you can use serranos in virtually any dish where you would consider using a jalapeno- typically Mexican dishes. If you're looking for the bright, green flavor of a serrano but a less intense heat you can remove the seeds and membranes. Serranos like jalapenos are prolific plants so probably a few will do you unless your family are real spice-heads. 
 
 ## Wax peppers (hot and mild)
 
 ![Light green peppers on a white background](https://ucarecdn.com/3786652c-3f83-4be4-b9e2-5466215da6cd/Wax-pepper.jpg)
 
 *Recommended by Erin*
+
+
 
 
 
