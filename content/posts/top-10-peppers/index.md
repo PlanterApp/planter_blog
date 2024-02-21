@@ -85,7 +85,7 @@ What poblano peppers lack in heat, they more than make up in flavor. Especially 
 
 *Recommended by Erin*
 
-Serranos might be slightly-lesser-known than jalapeños but they are favored in Mexican dishes because of their bright 'green' flavor and consistent heat levels. While serranos are hotter than jalapeños, jalapeños can pack an extra-hot punch every once in a while that can throw a surprise into your dishes if you're not expecting it! In the kitchen you can use serranos in virtually any dish where you would consider using a jalapeño. If you're looking for the flavor of a serrano but a less intense heat level you could remove some or all of the seed membranes. Serranos like jalapeños are prolific plants so probably a few will do unless your family are real spice-heads!
+Serranos might be slightly-lesser-known than jalapeños but they are favored in Mexican dishes because of their bright 'green' flavor and consistent heat levels. While serranos are hotter than jalapeños, jalapeños can pack an extra-hot punch every once in a while that can throw a surprise into your dishes if you're not expecting it! In the kitchen you can use serranos in virtually any dish where you would consider using a jalapeño. If you're looking for the flavor of a serrano but a less intense heat level you could remove some or all of the seed membranes. Serrano plants produce plenty of fruits so probably a few will do unless your family are real spice-heads!
 
 ## Hungarian wax peppers
 
