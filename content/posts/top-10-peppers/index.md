@@ -31,7 +31,7 @@ You might not have come across [lunchbox peppers](https://www.johnnyseeds.com/ve
 
 ## Shishito
 
-![Green shishito peppers and one red shishito pepper in a white bowl on a wooden background](https://ucarecdn.com/189c1af9-e01a-44bb-8dba-87436cf2bb8f/Shishito.png)
+![Green shishito peppers and one red shishito pepper in a white bowl on a wooden background](https://ucarecdn.com/189c1af9-e01a-44bb-8dba-87436cf2bb8f/Shishito.png "A bowl of shishito peppers, which are typically harvested green but can turn red ([source](https://www.flickr.com/photos/karenandbrademerson/29142839162/))[](https://www.flickr.com/photos/karenandbrademerson/29142839162/)")
 
 *Recommended by Peter*
 
