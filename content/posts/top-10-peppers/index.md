@@ -71,7 +71,7 @@ The easy-going cayenne is my pepper of choice. Hotter than jalapenos, and less s
 
 Thai chili peppers are not one single variety of chili, but in general when we refer to Thai chilies we're referring to a small chili pod with a fruity flavor and a substantial spicy punch! If you enjoy Asian-style cooking with a kick these are a must in the garden. One or two plants should easily be enough to provide a family with ample chiles for using fresh, freezing, or processing into chili sauce. The plants are compact and low-maintenance (and did we mention prolific?) which makes them excellent candidates for container-growing and overwintering!
 
-## Poblano (Ancho) Peppers
+## Poblano (Ancho)
 
 ![Green poblano peppers on a burlap background](https://ucarecdn.com/3736f8bc-2c2a-490a-bd7e-f98f0c4f363d/Poblano.jpg)
 
@@ -87,7 +87,7 @@ What poblano peppers lack in heat, they more than make up in flavor. Especially 
 
 Serranos might be slightly-lesser-known than jalapeños but they are favored in Mexican dishes because of their bright 'green' flavor and consistent heat levels. While serranos are hotter than jalapeños, jalapeños can pack an extra-hot punch every once in a while that can throw a surprise into your dishes if you're not expecting it! In the kitchen you can use serranos in virtually any dish where you would consider using a jalapeño. If you're looking for the flavor of a serrano but a less intense heat level you could remove some or all of the seed membranes. Serrano plants produce plenty of fruits so probably a few will do unless your family are real spice-heads!
 
-## Hungarian wax peppers
+## Hungarian wax
 
 ![Light green peppers on a white background](https://ucarecdn.com/3786652c-3f83-4be4-b9e2-5466215da6cd/Wax-pepper.jpg)
 
