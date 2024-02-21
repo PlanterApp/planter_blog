@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "How to Grow Ginger"
 slug = "how-to-grow-ginger"
-date = 2024-02-13T17:05:18.157Z
+date = 2024-02-21T16:38:43.038Z
 author = "Samantha Togstad"
 plants = ["Ginger"]
 series = ["Herbs"]
@@ -16,13 +16,13 @@ Known for its warm and spicy flavor, ginger is a very popular spice and herb. It
 
 ### About Ginger
 
-*Zingiber officinale*, or ginger, can be grown as a perennial in zones 9 and above. In the colder zones, it can be grown as an annual. It can take over a year of growing for a ginger rhizome to be considered mature.  The ginger we can buy at the grocery store is mature and has a thick skin which allows it to be stored for months.  If you start growing ginger at home in late winter or early spring, you will be able to harvest "baby" ginger in about 4-6 months time.  Baby ginger does not store for long because it has a very thin skin, but the thin skin means it is very tender and you can slice right through it. 
+*Zingiber officinale*, or ginger, can be grown as a perennial in zones 9 and above. In the colder zones, it can be grown as an annual. It can take over a year of growing for a ginger rhizome to be considered mature.  The ginger we buy at the grocery store is mature and has a thick skin which allows it to be stored for months.  If you start growing ginger at home in late winter or early spring, you will be able to harvest "baby" ginger in about 4-6 months time.  Baby ginger does not store for long because it has a very thin skin, but the thin skin means it is very tender and you can slice right through it. 
 
 ### Where to Find a Ginger Start
 
 Ginger is grown from a rhizome instead of a seed. Some farms offer “seed pieces” or “mother” ginger for sale. Most ginger farms sell rhizomes that are certified organic and disease-free. You can also use ginger you find at the grocery store. It’s not too common, but store-bought ginger has a small chance of carrying fungus and disease. Sometimes conventionally grown, store-bought ginger is treated with an inhibitor to control early sprouting. Choosing organically grown ginger minimizes the risk of problems with sprouting and disease.
 
-Choose a rhizome that feels firm (no squishy, bruised, or moldy ones). Look for ginger with a lot of big “eyes”. This is where the leaves will sprout from. 
+Choose a rhizome that feels firm (no squishy, bruised, or moldy ones). Look for ginger with a few big “eyes”. This is where the sprouts will come from. 
 
 ![Ginger rhizome with eyes ](https://ucarecdn.com/67131324-9c2d-4c07-b83f-19bf275c7ea4/Gingereyes-1.jpg "These knobs are the eyes")
 
