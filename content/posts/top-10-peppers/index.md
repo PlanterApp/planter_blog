@@ -45,7 +45,7 @@ If you like to live on the wild side, these peppers are for you; they are the Ru
 
 Do you love the flavor of habanero peppers but can’t take the spice? Try growing habanada peppers, which supposedly offer the delicious flavor of habanero peppers without the zing. I’m growing these for the first time this year and will report back if they live up to the hype!
 
-## Corno di Toro
+## Corno di toro
 
 ![A red corno di toro pepper on a slate cutting board](https://ucarecdn.com/0ec28b3c-5b57-4a4b-ab47-997c64fa6c2b/Corno-di-toro-pepper.jpg)
 
