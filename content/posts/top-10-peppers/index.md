@@ -27,7 +27,7 @@ Jalapeños are a classic pepper pick, but for good reason! They are versatile in
 
 *Recommended by Erin*
 
-You might not have come across [lunchbox peppers](https://www.johnnyseeds.com/vegetables/peppers/sweet-peppers/lunchbox-pepper-mix-organic-snack-pepper-seed-3515G.html) in the grocery store before but once you taste them you’ll be hooked! These tiny little sweet peppers are perfect for fresh snacking and veggie trays, although they can be cooked as well. The compact plants will be packed with oodles of peppers- so you’ll have plenty to eat in the garden harvest. While the green lunchbox peppers are edible, it's worthwhile to leave them ripen fully to red, orange, and yellow for the best sweet flavor. Johnny's does note- and we can confirm- that the red ones will be noticeably smaller than their yellow and orange counterparts (although all are equally delicious!)
+You might not have come across [lunchbox peppers](https://www.johnnyseeds.com/vegetables/peppers/sweet-peppers/lunchbox-pepper-mix-organic-snack-pepper-seed-3515G.html) in the grocery store before but once you taste them you’ll be hooked! These tiny little sweet peppers are perfect for fresh snacking and veggie trays, although they can be cooked as well. The compact plants will be packed with oodles of peppers- so you’ll have plenty to ~~eat in the garden~~ harvest. While the green lunchbox peppers are edible, it's worthwhile to leave them ripen fully to red, orange, and yellow for the best sweet flavor. Johnny's does note- and we can confirm- that the red ones will be noticeably smaller than their yellow and orange counterparts (although all are equally delicious!)
 
 ## Shishito
 
