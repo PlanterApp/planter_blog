@@ -11,7 +11,7 @@ relative = false
 image = "https://ucarecdn.com/368f809b-1db4-4036-8563-9cb9cc43b8a8/Pepper-picks.png"
 alt = "Colorful peppers on a red background with the text \"Our Top 10 Pepper Picks\""
 +++
-As you're planning your garden in [Planter](https://planter.garden/gardens), you've likely included some pepper plants in the mix. While many gardeners opt to grow the classic bells, there's a plethora of pepper options available that might be more productive and even easier to grow!  On top of that, experimenting with different pepper varieties - spicy or mild - opens up more culinary possibilities. So as you're thinking about which peppers to grow this year, we hope you'll take inspiration from our Top 10 Pepper Picks to add some new pepper varieties to your garden!
+As you're planning your garden in [Planter](https://planter.garden/gardens), you've likely included some pepper plants in the mix. While many gardeners opt to grow the classic bells, there's a plethora of pepper options available that might be more productive and even easier to grow!  On top of that, experimenting with different pepper varieties - spicy or mild - opens up more culinary possibilities. So as you're thinking about which peppers to grow this year, we hope you'll take inspiration from our **Top 10 Pepper Picks** to add some new pepper varieties to your garden!
 
 ## Jalapeño
 
@@ -27,7 +27,7 @@ Jalapeños are a classic pepper pick, but for good reason! They are versatile in
 
 *Recommended by Erin*
 
-You might not have come across [lunchbox peppers](https://www.johnnyseeds.com/vegetables/peppers/sweet-peppers/lunchbox-pepper-mix-organic-snack-pepper-seed-3515G.html) in the grocery store before but once you taste them you’ll be hooked! These tiny little sweet peppers are perfect for fresh snacking and veggie trays, although they can be cooked as well. The compact plants will be packed with oodles of peppers- so you’ll have plenty to eat in the garden harvest. While the green lunchbox peppers are edible, it's worthwhile to leave at least some of them ripen fully to red, orange, and yellow for the best sweet flavor. Johnny's does note- and we can confirm- that the red ones will be noticeably smaller than their yellow and orange counterparts (although all are equally delicious!)
+You might not have come across [lunchbox peppers](https://www.johnnyseeds.com/vegetables/peppers/sweet-peppers/lunchbox-pepper-mix-organic-snack-pepper-seed-3515G.html) in the grocery store before but once you taste them you’ll be hooked! These tiny little sweet peppers are perfect for fresh snacking and veggie trays, although they can be cooked as well. The compact plants will be packed with oodles of peppers- so you’ll have plenty to eat in the garden harvest. While the green lunchbox peppers are edible, it's worthwhile to leave them ripen fully to red, orange, and yellow for the best sweet flavor. Johnny's does note- and we can confirm- that the red ones will be noticeably smaller than their yellow and orange counterparts (although all are equally delicious!)
 
 ## Shishito
 
@@ -61,6 +61,8 @@ Corno di toro peppers, also known as 'cowhorn' peppers, are sweet peppers with a
 
 The easy-going cayenne is my pepper of choice. Hotter than jalapenos, and less spicy than habaneros, cayenne sits in the middle, with medium heat, and a lot of flavor. These bushy plants usually produce a lot of peppers which are perfect for drying.  You can dry and grind up cayenne and use it to flavor just about any food.  Like all hot peppers, cayenne is full of capsaicin, the component that gives peppers their heat. If you are looking to add more medicinal plants to your garden, cayenne is a great addition. Cayenne has been used as an herb by Native Americans for many years.  Studies show that the capsaicin in cayenne may help [soothe aches](https://pubmed.ncbi.nlm.nih.gov/35857438/), [enhance heart health](https://www.jacc.org/doi/abs/10.1016/j.jacc.2019.08.1071), and more. So, if you want more capsaicin in your diet without a super intense burn, try growing some cayenne!
 
+*For educational purposes only and not to be considered medical advice. Please refer to your health care provider before using plants medicinally.*
+
 ## Thai chilies
 
 ![](https://ucarecdn.com/ac0bcbf7-00ce-4e94-aa82-6ea42e083c32/Thai-chilies.jpg)
@@ -83,7 +85,7 @@ What poblano peppers lack in heat, they more than make up in flavor. Especially 
 
 *Recommended by Erin*
 
-Serranos might be slightly-lesser-known than jalapeños but they are favored in Mexican dishes because of their bright 'green' flavor and consistent heat levels. While serranos are hotter than jalapeños, jalapeños can pack an extra-hot punch every once in a while that can throw a surprise into your dishes if you're not expecting it! In the kitchen you can use serranos in virtually any dish where you would consider using a jalapeño- typically Mexican dishes. If you're looking for the flavor of a serrano but a less intense heat level you could remove some or all of the seed membranes. Serranos like jalapeños are prolific plants so probably a few will do unless your family are real spice-heads!
+Serranos might be slightly-lesser-known than jalapeños but they are favored in Mexican dishes because of their bright 'green' flavor and consistent heat levels. While serranos are hotter than jalapeños, jalapeños can pack an extra-hot punch every once in a while that can throw a surprise into your dishes if you're not expecting it! In the kitchen you can use serranos in virtually any dish where you would consider using a jalapeño. If you're looking for the flavor of a serrano but a less intense heat level you could remove some or all of the seed membranes. Serranos like jalapeños are prolific plants so probably a few will do unless your family are real spice-heads!
 
 ## Hungarian wax peppers
 
@@ -91,10 +93,8 @@ Serranos might be slightly-lesser-known than jalapeños but they are favored in 
 
 *Recommended by Erin*
 
-Hungarian wax peppers are versatile, moderately-spicey peppers (although they do have a relatively wide range of heat levels). Wax peppers are often confused with banana peppers as they have a similar appearance, but banana peppers are milder and slightly more stout. Wax peppers start off as a pale yellow color then change to orange and red as they mature. It is common to harvest them once the fruits are fully sized but still pale yellow, but they can also be harvested at the orange and red stage. They can be used to add a spicy kick to many cooked and fresh dishes but my favorite way to prepare them is to pickle them and add them to sandwiches, pizzas, and salads.
+Hungarian wax peppers are versatile, moderately-spicy peppers (although they do have a relatively wide range of heat levels). Wax peppers are often confused with banana peppers as they have a similar appearance, but banana peppers are milder and slightly more stout. Wax peppers start off as a pale yellow color then change to orange and red as they mature. It is common to harvest them once the fruits are fully sized but still pale yellow, but they can also be harvested at the orange and red stage. They can be used to add a spicy kick to many cooked and fresh dishes but my favorite way to prepare them is to pickle them and add them to sandwiches, pizzas, and salads.
 
 If you're branching out from these pepper picks and adding your own custom pepper varieties, you'll find it  easier than ever to find variety icons grouped by plant! Select one of the 34 existing pepper icons that most closely matches your custom pepper. (If you're not sure how to create custom varieties, check out [this how-to doc](https://info.planter.garden/plant-information/custom-varieties/) for step-by-step instructions.)
 
 ![Screenshot of pepper icons in Planter](https://ucarecdn.com/94a4b77c-7d52-4a9b-9199-83deae0d7f01/Pepper-icons.jpg)
-
-*For educational purposes only and not to be considered medical advice. Please refer to your health care provider before using plants medicinally.*
