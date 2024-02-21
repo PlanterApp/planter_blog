@@ -11,7 +11,7 @@ relative = false
 image = "https://ucarecdn.com/368f809b-1db4-4036-8563-9cb9cc43b8a8/Pepper-picks.png"
 alt = "Colorful peppers on a red background with the text \"Our Top 10 Pepper Picks\""
 +++
-As you're planning your garden in [Planter](https://planter.garden/gardens), you've likely included some pepper plants in the mix. While many gardeners opt to grow the classic bells, there are many pepper options available that might be more productive and even easier to grow!  On top of that, experimenting with different pepper varieties - spicy or mild - opens up way more culinary possibilities. So as you're thinking about which peppers to grow this year, we hope you'll take inspiration from our Top 10 Pepper Picks list to add some new pepper varieties to your garden!
+As you're planning your garden in [Planter](https://planter.garden/gardens), you've likely included some pepper plants in the mix. While many gardeners opt to grow the classic bells, there's a plethora of pepper options available that might be more productive and even easier to grow!  On top of that, experimenting with different pepper varieties - spicy or mild - opens up more culinary possibilities. So as you're thinking about which peppers to grow this year, we hope you'll take inspiration from our Top 10 Pepper Picks to add some new pepper varieties to your garden!
 
 ## Jalapeño
 
@@ -19,9 +19,7 @@ As you're planning your garden in [Planter](https://planter.garden/gardens), you
 
 *Recommended by Erin*
 
-Jalapeños are a classic pepper pick, but for good reason! They are versatile in the kitchen- adding a spicy kick to Mexican-style dishes- but the plants are also super-easy to grow and \*extremely\* prolific! Just a few plants should provide you with plenty of peppers. And if you find yourself overrun with pepper harvests, no sweat- jalapeños are delicious when pickled and can also be pre-chopped and frozen. I’ve had good luck growing the Jedi cultivar from Johnny’s but there are many good seed options out there!
-
-
+Jalapeños are a classic pepper pick, but for good reason! They are versatile in the kitchen- adding a spicy kick to Mexican-style dishes- and the plants are super-easy to grow and \*extremely\* prolific! Just a few plants should provide you with plenty of peppers. And if you find yourself overrun with pepper harvests, no sweat- jalapeños are delicious when pickled and can also be pre-chopped and frozen. I’ve had good luck growing the [Jedi cultivar from Johnny’s](https://www.johnnyseeds.com/vegetables/peppers/hot-peppers/jedi-treated-f1-jalapeno-pepper-seed-3528T.html) but there are many good seed options out there!
 
 ## Lunchbox
 
@@ -29,9 +27,7 @@ Jalapeños are a classic pepper pick, but for good reason! They are versatile in
 
 *Recommended by Erin*
 
-You might not have come across lunchbox peppers in the grocery store before but once you taste them you’ll be hooked! These tiny little sweet peppers are perfect for fresh snacking and veggie trays, although they can be cooked as well. The compact plants will be packed with oodles of peppers- so you’ll have plenty to eat in the garden harvest. While the green snack peppers are edible, it's worthwhile to leave at least some of them ripen fully to red, orange, and yellow for the best sweet flavor.
-
-
+You might not have come across [lunchbox peppers](https://www.johnnyseeds.com/vegetables/peppers/sweet-peppers/lunchbox-pepper-mix-organic-snack-pepper-seed-3515G.html) in the grocery store before but once you taste them you’ll be hooked! These tiny little sweet peppers are perfect for fresh snacking and veggie trays, although they can be cooked as well. The compact plants will be packed with oodles of peppers- so you’ll have plenty to eat in the garden harvest. While the green lunchbox peppers are edible, it's worthwhile to leave at least some of them ripen fully to red, orange, and yellow for the best sweet flavor. Johnny's does note- and we can confirm- that the red ones will be noticeably smaller than their yellow and orange counterparts (although all are equally delicious!)
 
 ## Shishito
 
@@ -40,8 +36,6 @@ You might not have come across lunchbox peppers in the grocery store before but 
 *Recommended by Peter*
 
 If you like to live on the wild side, these peppers are for you; they are the Russian roulette of peppers. Nine out of ten are perfectly mild, then BAM, you’re hit with spice. I didn’t know this when I first grew them and only found out after offering some to my partner, who does not like spicy food. What are the chances that the one she ate would be the spicy one 😅! These peppers are delicious snacking peppers or are great grilled. When I grew them in 2021, they were extremely abundant and although very delicious, I couldn’t keep up. One or two plants should yield plenty for the average family.
-
-
 
 ## Habanada
 
@@ -57,9 +51,7 @@ Do you love the flavor of habanero peppers but can’t take the spice? Try growi
 
 *Recommended by Erin*
 
-Corno di toro peppers, also known as 'cowhorn' peppers, are sweet peppers with a pointed, horn-like shape. Their sweet flavor is similar to a bell pepper but unique in it's own right- perhaps more concentrated. They tend to be more productive than bell peppers and produce well in cooler climates. They have study skins - although not so tough that you need to take them off - that make them perfect for grilling and stuffing. They can also be eaten fresh and in salads like a bell pepper. There are different cultivars depending on whether you're looking for red, yellow, or orange peppers- growing all three makes for an eye-catching mix!
-
-
+Corno di toro peppers, also known as 'cowhorn' peppers, are sweet peppers with a pointed, horn-like shape. Their sweet flavor is similar to a bell pepper but unique in it's own right- perhaps more concentrated. They can be more productive than bell peppers and produce well in cooler climates. They have study skins - although not so tough that you need to take them off - that make them perfect for grilling and stuffing. They can also be eaten fresh and in salads like a bell pepper.
 
 ## Cayenne
 
@@ -75,9 +67,7 @@ The easy-going cayenne is my pepper of choice. Hotter than jalapenos, and less s
 
 *Recommended by Erin*
 
-Thai chili peppers are not one single variety of chili - as we might think from seeing them in the grocery store! While there are many varieties of Thai chilies, in general when we think of Thai chilies we're referring to a tiny chili pod with a fruity flavor and a substantial spicy punch! If you enjoy Asian-style cooking with a kick these are a must in the garden. One or two plants should easily be enough to provide a family with ample chiles for using fresh, freezing, or processing into chili sauce. The plants are compact and low-maintenance (and did we mention prolific?) which makes them excellent candidates for container-growing and overwintering!
-
-
+Thai chili peppers are not one single variety of chili, but in general when we refer to Thai chilies we're referring to a small chili pod with a fruity flavor and a substantial spicy punch! If you enjoy Asian-style cooking with a kick these are a must in the garden. One or two plants should easily be enough to provide a family with ample chiles for using fresh, freezing, or processing into chili sauce. The plants are compact and low-maintenance (and did we mention prolific?) which makes them excellent candidates for container-growing and overwintering!
 
 ## Poblano (Ancho) Peppers
 
@@ -93,19 +83,17 @@ What poblano peppers lack in heat, they more than make up in flavor. Especially 
 
 *Recommended by Erin*
 
-Serranos might be slightly-lesser-known than jalapenos but they are favored in Mexican dishes because of their consistent heat levels. While serranos are hotter than jalapenos, jalapenos can pack an extra-hot punch every once in a while that can throw a surprising element into your dishes if you're not expecting it! In the kitchen you can use serranos in virtually any dish where you would consider using a jalapeno- typically Mexican dishes. If you're looking for the bright, green flavor of a serrano but a less intense heat you can remove the seeds and membranes. Serranos like jalapenos are prolific plants so probably a few will do you unless your family are real spice-heads. 
+Serranos might be slightly-lesser-known than jalapeños but they are favored in Mexican dishes because of their bright 'green' flavor and consistent heat levels. While serranos are hotter than jalapeños, jalapeños can pack an extra-hot punch every once in a while that can throw a surprise into your dishes if you're not expecting it! In the kitchen you can use serranos in virtually any dish where you would consider using a jalapeño- typically Mexican dishes. If you're looking for the flavor of a serrano but a less intense heat level you could remove some or all of the seed membranes. Serranos like jalapeños are prolific plants so probably a few will do unless your family are real spice-heads!
 
-## Wax peppers (hot and mild)
+## Hungarian wax peppers
 
 ![Light green peppers on a white background](https://ucarecdn.com/3786652c-3f83-4be4-b9e2-5466215da6cd/Wax-pepper.jpg)
 
 *Recommended by Erin*
 
+Hungarian wax peppers are versatile, moderately-spicey peppers (although they do have a relatively wide range of heat levels). Wax peppers are often confused with banana peppers as they have a similar appearance, but banana peppers are milder and slightly more stout. Wax peppers start off as a pale yellow color then change to orange and red as they mature. It is common to harvest them once the fruits are fully sized but still pale yellow, but they can also be harvested at the orange and red stage. They can be used to add a spicy kick to many cooked and fresh dishes but my favorite way to prepare them is to pickle them and add them to sandwiches, pizzas, and salads.
 
-
-
-
-If you're on the hunt for the perfect pepper icons for your custom pepper varieties in Planter, it's easier than ever to find them with icons grouped by plant! Select one of the 34 existing pepper icons that most closely matches your custom pepper. (If you're not sure how to create custom varieties, check out [this how-to doc](https://info.planter.garden/plant-information/custom-varieties/) for step-by-step instructions.)
+If you're branching out from these pepper picks and adding your own custom pepper varieties, you'll find it  easier than ever to find variety icons grouped by plant! Select one of the 34 existing pepper icons that most closely matches your custom pepper. (If you're not sure how to create custom varieties, check out [this how-to doc](https://info.planter.garden/plant-information/custom-varieties/) for step-by-step instructions.)
 
 ![Screenshot of pepper icons in Planter](https://ucarecdn.com/94a4b77c-7d52-4a9b-9199-83deae0d7f01/Pepper-icons.jpg)
 
