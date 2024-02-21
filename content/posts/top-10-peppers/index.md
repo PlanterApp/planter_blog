@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Our Top 10 Pepper Picks!"
 slug = "top-10-peppers"
-date = 2024-02-19T19:24:11.583Z
+date = 2024-02-21T01:54:35.966Z
 author = "The Planter Team"
 series = ["Plant picks"]
 
