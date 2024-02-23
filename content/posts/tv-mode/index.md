@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Feature Launch: TV Mode"
+title = "Feature Launch: TV Mode 📺"
 slug = "tv-mode"
 date = 2024-04-01T04:00:00.000Z
 author = "Peter Keefe"
@@ -13,6 +13,8 @@ alt = "An old tv set with a gardening program on. The host is surrounded by vegg
 ## Cultivate Nostalgic Vibes with Planter's New TV Mode!
 
 Gear up for a gardening experience that's both familiar and fresh with Planter's exciting new feature: **TV Mode!** Immerse yourself in a wave of vintage charm as your app transforms into a classic television interface, complete with a unique visual and auditory twist.
+
+![](https://ucarecdn.com/9d524bff-5ff9-4d7f-8130-37b120950ea4/tvmode.gif "TV Mode!")
 
 **Step back in time:** Remember the warm glow of an old-school TV? TV Mode brings that nostalgic aesthetic to your fingertips. Imagine crisp veggies displayed with a touch of fuzzy charm and even a subtle static hum to set the mood. It's a delightful nod to the bygone era, offering a unique way to interact with your garden planning.
 
