@@ -2,7 +2,7 @@
 draft = false
 title = "Our Top 10 Pepper Picks!"
 slug = "top-10-peppers"
-date = 2024-02-21T01:54:35.966Z
+date = 2024-02-20T13:00:00.000Z
 author = "The Planter Team"
 series = ["Plant picks"]
 
