@@ -4,7 +4,8 @@ title = "Our Top 10 Pepper Picks!"
 slug = "top-10-peppers"
 date = 2024-02-20T13:00:00.000Z
 author = "The Planter Team"
-series = ["Plant picks"]
+series = []
+tags = ["Plant picks"]
 
 [cover]
 relative = false
