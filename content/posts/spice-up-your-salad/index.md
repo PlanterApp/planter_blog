@@ -5,8 +5,8 @@ slug = "spice-up-your-salad"
 date = 2023-06-29T04:00:25.667Z
 author = "Erin Thomson"
 plants = ["Arugula", "Mustard", "Chard", "Beets", "Endive/escarole", "Kale", "Nasturtium"]
-series = ["Plant Picks"]
-
+series = []
+tags = ["Plant picks"]
 
 [cover]
 relative = true
