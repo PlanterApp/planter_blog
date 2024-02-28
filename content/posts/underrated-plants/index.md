@@ -5,8 +5,8 @@ slug = "underrated-plants"
 date = 2023-06-05T00:50:01.908Z
 author = "Erin Thomson"
 plants = ["Tomatillos", "Potatoes", "Spinach", "Turnip", "Squash", "Raspberries", "Rhubarb"]
-series = ["Plant Picks"]
-
+series = []
+tags = ["Plant picks"]
 
 [cover]
 relative = true
