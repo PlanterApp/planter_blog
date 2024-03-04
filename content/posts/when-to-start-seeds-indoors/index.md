@@ -25,8 +25,6 @@ In [Planter](https://planter.garden/gardens), the [Growing Calendar](https://inf
 
 While frost dates provide a good guide for frost-sensitive plants, what about plants that can handle colder temperatures? This becomes a bit more ambiguous as many gardeners sow cold-tolerant crops directly outdoors and as they can take a frost once they are established. If you’re planning to start frost-tolerant crops inside, start with Planter and your guide and talk to other local gardeners to see when they start that plant indoors. (Also note that some crops tend to fare better if sown directly outside- for these plants Planter will not show a “Start Inside” and “Transplant” window).
 
-![Lettuce and herb seedlings in peat pots in an outdoor plastic shelter](https://ucarecdn.com/819cd2c5-1037-46a8-b4b3-2764e540b795/Lettuce-and-herbs.jpg)
-
 ## The seed varieties you choose
 
 While there are general ‘rules of thumb’ we can use for when to start specific plants indoors, it also depends on the plant variety. Seed packets will usually state how early that particular variety should be started indoors- and this can vary pretty widely for different varieties of the same plant. This typically has to do with how long it can take that seed to germinate and how long it takes that particular plant to reach maturity and produce a harvest. For example, ‘Tiny Tim’ tomatoes are recommended to be started X weeks ahead of your last frost date…whereas beefsteaks…
@@ -41,8 +39,12 @@ A major consideration for how early to start seeds indoors comes down to how qui
 
 ![Tomato seedlings in a blue kiddie pool and pepper plants in a tray on a workbench](https://ucarecdn.com/0e5615e7-0467-4189-95e7-ca4e8f36d780/Indoor-seedlings.jpg "Be prepared to keep your seedlings healthy even as they grow bigger!")
 
-## How much work you want to do
+## Your goals and much work you want to do
 
-This is in some ways an extension of your growing space set-up.
+Your goals and the work you're willing to put in should weigh heavily on your decision for when to start seeds indoors. On one end of the spectrum, if you want a productive garden but don't have a lot of time or space to commit to seed starting, buying seedlings is likely a better bet than doing any seed starting indoors. On the other end of the spectrum if you're an advanced-level home gardener or you're planning on selling your seedlings and produce, you may want to get your plants growing as early as possible and can invest the time and money to make that happen. This goes hand-in-hand with your indoor growing space set-up- as your investment in your set-up should reflect the scale of seed starting you plan to do and the amount of time you plan to spend on it. As your plants grow you'll also need to spend more time watering them, fertilizing them, and managing any issues that might arise. Starting seeds indoors can require daily if not multiple-times-a-day monitoring- committing to this for six weeks is one thing but 10 or 12 weeks can start to get challenging.
+
+It also depends on how much work and investment you're willing to put in outdoors as well- if you have a plastic hoophouse or greenhouse you can plan on getting your plants out much earlier (or may even be able to move your 'indoor' seed starting outdoors). If you can protect your plants in case of a late frost you may be able to buy an additional week or two. But if you want to be able to set your plants out and not stress at all about the weather, you'll want to be much more conservative in when you start indoors.
+
+![Lettuce and herb seedlings in peat pots in an outdoor plastic shelter](https://ucarecdn.com/819cd2c5-1037-46a8-b4b3-2764e540b795/Lettuce-and-herbs.jpg)
 
 Every year that you start seeds indoors, you’ll gain valuable experience on what works and what doesn’t. How fast did your seedlings grow? How difficult was it to keep everything healthy indoors? Was there anything you wished you had started earlier or later? Be sure to keep track of this information using [notes and events](https://info.planter.garden/notes-and-events/how-to/) in [Planter](https://planter.garden/gardens) so you can confidently answer the question ‘When is the best time for *me* to start seeds indoors?’
