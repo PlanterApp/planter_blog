@@ -26,15 +26,9 @@ The Start Inside window in [Planter](https://planter.garden/gardens) is a range 
 
 ## The seed varieties you choose
 
-While there are general ‘rules of thumb’ we can follow for when to start specific plants indoors, it also depends on the plant variety. Seed packets will usually state how early that particular variety should be started indoors, and this can vary pretty widely for different varieties of the same plant. This has to do with how long it takes the seeds to germinate, how fast the plant grows to a size where it can be transplanted out, and how long it takes that variety to reach maturity and produce a harvest. As an example,
+While there are good 'rules of thumb' we can follow for when to start specific plants indoors, it can also depend on the plant variety. Seed packets will usually give specific instructions for when that particular variety should be started indoors and this can sometimes vary for different varieties of the same plant. This guidance has to do with how long it takes the seeds to germinate, how fast the plant grows to a size where it can be transplanted out, and how long it takes that variety to reach maturity and produce a harvest. As an example, some 'superhot' pepper varieties are slow to germinate and it's recommended to start them 2 weeks earlier than sweet pepper varieties.
 
-
-
-
-
-*While frost dates provide a good starting point for frost-sensitive plants, what about plants that can handle a frost? This is not as obvious as many gardeners choose to sow cold-tolerant crops directly outdoors, and they can handle some cold once established . If you’re planning to start frost-tolerant crops inside, start with Planter and your guide and talk to other local gardeners to see when they start that plant indoors. Note that for crops that are generally not recommended to be started indoors, planter will not show a Start Inside or Transplant window.*
-
-If your seed packet doesn’t have information on when to start the seeds indoors, you’ll want to do some research and connect with other local gardeners to see what their experience is with that variety (or at least a similar variety).
+The instructions on the seed packet will reflect how the plant is typically grown- whether started indoors or sown directly outside. If your seed packet doesn't have information on when to start the seed outdoors (or if you're using saved seeds) you'll want to do some research and connect with local gardeners to see whether its advisable to start that type of seed indoors and if so how early.
 
 ![Tomato seedlings in clear plastic containers beside a sunny window](https://ucarecdn.com/9125e5bc-200d-456b-ad97-fa6289c9c6ec/Tomato-seedlings.jpg)
 
