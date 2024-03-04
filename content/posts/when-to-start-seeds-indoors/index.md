@@ -22,7 +22,7 @@ In [Planter](https://planter.garden/gardens), the [Growing Calendar](https://inf
 
 ![A screenshot of the Growing Calendar in Planter for some allium plants](https://ucarecdn.com/4f683756-8706-4fae-b05c-aba91e1321da/Growing-calendar.jpg)
 
-The Start Inside window in [Planter](https://planter.garden/gardens) is a range and intended as a guideline. You'll still want to dial in your exact seed starting dates based on the factors we're looking at in this article.
+The Start Inside window in [Planter](https://planter.garden/gardens) is a range and can be used as a guideline. You'll still want to dial in your exact seed starting dates based on the factors we're looking at in this article.
 
 ## The seed varieties you choose
 
