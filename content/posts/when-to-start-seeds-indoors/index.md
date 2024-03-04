@@ -28,7 +28,7 @@ The Start Inside window in [Planter](https://planter.garden/gardens) is a range 
 
 While there are good 'rules of thumb' we can follow for when to start specific plants indoors, it can also depend on the plant variety. Seed packets will usually give specific instructions for when that particular variety should be started indoors and this can sometimes vary for different varieties of the same plant. This guidance has to do with how long it takes the seeds to germinate, how fast the plant grows to a size where it can be transplanted out, and how long it takes that variety to reach maturity and produce a harvest. As an example, some 'superhot' pepper varieties are slow to germinate and it's recommended to start them 2 weeks earlier than sweet pepper varieties.
 
-The instructions on the seed packet will reflect how the plant is typically grown- whether started indoors or sown directly outside. If your seed packet doesn't have information on when to start the seed outdoors (or if you're using saved seeds) you'll want to do some research and connect with local gardeners to see whether its advisable to start that type of seed indoors and if so how early.
+The instructions on the seed packet will reflect how the plant is typically grown- whether started indoors or sown directly outside. If your seed packet doesn't have information on when to start the seed indoors (or if you're using saved seeds) you'll want to do some research and connect with local gardeners to see whether its advisable to start that type of seed indoors and if so how early.
 
 ![Tomato seedlings in clear plastic containers beside a sunny window](https://ucarecdn.com/9125e5bc-200d-456b-ad97-fa6289c9c6ec/Tomato-seedlings.jpg)
 
