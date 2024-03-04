@@ -4,6 +4,7 @@ title = "When Can I Start Seeds Indoors?"
 slug = "when-to-start-seeds-indoors"
 date = 2024-02-28T21:55:19.819Z
 author = "Erin Thomson"
+series = ["Seed starting"]
 tags = ["Seed starting"]
 
 [cover]
