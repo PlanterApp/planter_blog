@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "When Can I Start Seeds Indoors?"
 slug = "when-to-start-seeds-indoors"
 date = 2024-02-28T21:55:19.819Z
@@ -16,7 +16,7 @@ Many of us gardeners start getting the urge to get something growing as the gard
 
 ## Frost dates and growing season length
 
-Your [local frost dates](https://info.planter.garden/growing-calendar/how-to-use/) are key drivers for when to start seeds indoors. Your **last frost date** in spring provides a rough indication of when it may be safe to start planting out frost-sensitive plants (which are commonly started indoors). Your **first frost date** in fall provides a rough indication of when your frost-sensitive plants may start dying back from the cold. Some frost-sensitive crops may need to be started early indoors to have enough time to mature and produce a harvest in your **growing season** (the time between the last frost date and first frost date).
+Your [local frost dates](https://info.planter.garden/growing-calendar/how-to-use/) are key drivers for when to start frost-sensitive seeds indoors. Your **last frost date** in spring provides a rough indication of when it may be safe to start planting out frost-sensitive plants (which are commonly started indoors). Your **first frost date** in fall provides a rough indication of when your frost-sensitive plants may start dying back from the cold. Some frost-sensitive crops may need to be started early indoors to have enough time to mature and produce a harvest in your **growing season** (the time between the last frost date and first frost date).
 
 In [Planter](https://planter.garden/gardens), the [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/) will show you the **Start Inside** window where you can start seeds indoors for various plants. The Start Inside window in Planter takes into account your [local frost dates](https://info.planter.garden/growing-calendar/how-to-use/) and common recommendations for how many weeks ahead that plant should be started indoors. It's important to know that its not necessarily safe to transplant outdoors exactly on your last frost date- for more detail on this check out [When Can I Plant Outdoors?](https://blog.planter.garden/posts/when-to-plant-outdoors/)
 
@@ -26,9 +26,9 @@ The Start Inside window in [Planter](https://planter.garden/gardens) is a range 
 
 ## The seed varieties you choose
 
-While there are good 'rules of thumb' we can follow for when to start specific plants indoors, it can also depend on the plant variety. Seed packets will usually give specific instructions for when that particular variety should be started indoors and this can sometimes vary for different varieties of the same plant. This guidance has to do with how long it takes the seeds to germinate, how fast the plant grows to a size where it can be transplanted out, and how long it takes that variety to reach maturity and produce a harvest. As an example, some 'superhot' pepper varieties are slow to germinate and it's recommended to start them 2 weeks earlier than sweet pepper varieties.
+While there are good 'rules of thumb' we can follow for when to start specific plants indoors, it can also depend on the plant variety. Seed packets will usually give specific instructions for when that particular variety should be started indoors and this can sometimes vary for different varieties of the same plant. This guidance has to do with how long it takes the seeds to germinate, how fast the plant grows to a size where it is sturdy enough to be transplanted out, and how long it takes that variety to reach maturity and produce a harvest. As an example, some 'superhot' pepper varieties are slow to germinate and it's often recommended to start them 2 weeks earlier than sweet peppers.
 
-The instructions on the seed packet will reflect how the plant is typically grown- whether started indoors or sown directly outside. If your seed packet doesn't have information on when to start the seed indoors (or if you're using saved seeds) you'll want to do some research and connect with local gardeners to see whether its advisable to start that type of seed indoors and if so how early.
+For cool-season crops it can be a bit tricky as the packet instructions for starting seeds indoors, if they're available, will be based around when you plan to transplant out- not your last frost date. How early you can transplant out depends on the plant's cold tolerance, the weather patterns, and whether you can protect it. If your seed packet doesn't have adequate information on how early you can start seeds indoors (or if you're using saved seeds), you'll want to do some research and connect with local gardeners to see whether its advisable to start that type of seed indoors and if so how early.
 
 ![Tomato seedlings in clear plastic containers beside a sunny window](https://ucarecdn.com/9125e5bc-200d-456b-ad97-fa6289c9c6ec/Tomato-seedlings.jpg)
 
