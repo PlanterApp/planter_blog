@@ -38,7 +38,7 @@ A major consideration for how early to start seeds indoors comes down to how qui
 
 ![Tomato seedlings in a blue kiddie pool and pepper plants in a tray on a workbench](https://ucarecdn.com/0e5615e7-0467-4189-95e7-ca4e8f36d780/Indoor-seedlings.jpg "You'll need both equipment and space to keep your seedlings healthy as they grow bigger!")
 
-## Your goals and much work you want to do
+## Your goals and how much work you want to do
 
 Your goals and the work you're willing to put in should weigh into your decision on when to start seeds indoors. On one end of the spectrum, if you want a productive garden but don't have a lot of time or space to commit to seed starting, buying seedlings is likely a better bet than doing any seed starting indoors. On the other end, if you're an advanced-level home gardener or you're planning on selling seedlings and produce, you may want to get your plants growing as early as possible and can invest the required time (and money) to make that happen. As your plants grow bigger you'll need to commit more time moving trays, adjusting lighting, potting up, watering, monitoring, and managing any issues that might arise. Maintaining a fertilizing schedule also starts to become a bigger task as your seedlings grow and need more nutrients.
 
