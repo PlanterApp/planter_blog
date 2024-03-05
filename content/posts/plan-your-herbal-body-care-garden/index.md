@@ -14,9 +14,7 @@ alt = "Dried flowers and herbs surrounding an herbal skin care product"
 +++
 A good herb garden has herbs that can be used in cooking and herbs that can be used in traditional medicine. A good herb garden also has herbs that you can use in body care. And luckily a lot of herbs work in the kitchen and the spa (or bathroom of course). Take a look at this Herbal Body Care Garden created in Planter: 
 
-![An herbal body care plan made with the Planter app](https://ucarecdn.com/37845d06-173f-439f-b376-8262f703e295/bodycare garden (1 of 1).jpg)
-
-
+![An herbal body care plan made with the Planter app]()
 
 ### Aloe
 
@@ -24,49 +22,31 @@ Aloe deserves  a top spot  in our herbal body care garden lineup.  Many of us re
 
 ![A closeup of an aloe vera plant](https://ucarecdn.com/78733d15-00f2-4e00-923e-857e4f99e6aa/jacqueline-brandwayn-oidp3mVNvVs-unsplash.jpg)
 
-
-
-
-
 ### Bee Balm
 
 Monarda, or bee balm, is a favorite for pollinators and hummingbirds, but it’s also an amazing plant for skin care.  Bee balm is known to smell a little “spicy” and that spiciness comes from its high thymol content.  Thymol has powerful antiseptic and antifungal properties, making bee balm a good choice when dealing with issues like build-up on the scalp or fungal infections of the skin. You can infuse apple cider vinegar for a clarifying scalp rinse.  You can make a strong tea, called an infusion, of bee balm and apply it as a compress to support blemish-prone skin. *Monarda didyma* (most commonly found at nurseries) and *Monarda fistulosa* are the types of bee balm to use as herbs.
 
 ![Closeup picture of a pink bee balm flower](https://ucarecdn.com/2a6cb771-42a2-4aab-a33f-e8578dd6068a/a-b-Xr0J-hYmh9c-unsplash.jpg)
 
-
-
 ### Calendula
 
-If I had to recommend just one herb for a body care garden, it would be calendula. In my opinion, *Calendula officinalis* is the king of the herbal skin care world. Calendula is famous for its anti-inflammatory effects on skin.  Today’s science is [studying](https://www.hmpgloballearningnetwork.com/site/wounds/article/9064#:~:text=The%20study%20found%20that%20cleaning,to%20using%20Calendula%20solution%20alone.) what traditional medicine has known for years, that use of calendula is associated with potentially faster recovery time for the skin.  Harvest the whole flower head, after any dew has dried, ideally mid-morning, and dry for later use. Calendula can take a long time to fully dry out, but a dehydrator can speed up the process. With your dried flowers you can make infused oils for bath salts, turn the oil into a soothing salve, use dried flowers in a bath tea, or you can make an infusion to use as a compress on irritated skin. Calendula is a very enthusiastic self-seeder, which I find delightful, but you might not. So keep deadheading your flowers to prevent an enormous amount going to seed. 
+If I had to recommend just one herb for a body care garden, it would be calendula. In my opinion, *Calendula officinalis* is the king of the herbal skin care world. Calendula is famous for its anti-inflammatory effects on skin.  Today’s science is [studying](https://www.hmpgloballearningnetwork.com/site/wounds/article/9064#:~:text=The%20study%20found%20that%20cleaning,to%20using%20Calendula%20solution%20alone.) what traditional medicine has known for years, that use of calendula is associated with potentially faster recovery time for injured skin.  Harvest the whole flower head, after any dew has dried, ideally mid-morning, and dry for later use. Calendula can take a long time to fully dry out, but a dehydrator can speed up the process. With your dried flowers you can make infused oils for bath salts, turn the oil into a soothing salve, use dried flowers in a bath tea, or you can make an infusion to use as a compress on irritated skin. Calendula is a very enthusiastic self-seeder, which I find delightful, but you might not. So keep deadheading your flowers to prevent an enormous amount going to seed. 
 
 ![A closeup picture of a calendula flower](https://ucarecdn.com/4da1ef37-f30e-41da-8da2-e8debbb2155e/DSC07121.JPG "I let calendula go wild and take over my garden")
-
-
 
 ### Chamomile
 
 The lovely little chamomile isn’t just for tea!  This mighty flower makes a perfect addition to a sleepy time bath tea blend. Make a strong infusion and add it to bath water. A cloth soaked in chamomile tea is a treat for sunburned skin. 
 
-
-
-
-
-
-
-###  Elderflower
+### Elderflower
 
 Since ancient times, people have been using *Sambucus* to enhance their beauty. The fragrant elderflower is full of [antioxidants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325840/#:~:text=Notably%2C%20the%20free%2Dradical%20scavenging,their%20antioxidant%20potency%20%5B27%5D.).  Antioxidants fight free radicals that can cause inflammation on the inside and outside of our bodies.  Use elderflower tea internally or externally to promote healthy skin.  Salves infused with elderflower are popular for baby diaper creams.  Those who practice traditional medicine will use elderflower in bath for children who have a fever.
 
-![A closeup view of an elderflower](https://ucarecdn.com/53a02e2e-0403-4a48-9656-d0ac81a5ce53/elder.jpg "Elderflowers have a delicate scent that fills the air when in bloom")
-
-
+![A closeup view of an elderflower]()
 
 ### Fennel
 
 Fennel seems more appropriately used in a spaghetti sauce, but surprisingly, fennel can be helpful in the pursuit of glowing skin.  Fennel seeds have a lot of antioxidants and have antiseptic properties.  Ground up fennel seeds can be mixed with honey or yogurt and turned into a wonderfully exfoliating face mask. **Gentle** exfoliation of the skin helps remove dead skin which is helpful for blemish-prone skin, maturing skin, and every skin type in between. With special emphasis on the word gentle.  Too much scrubbing can lead to irritation and redness, the exact opposite of what you want. 
-
-
 
 ### Lavender
 
@@ -74,13 +54,9 @@ Besides being an amazing plant for pollinators, lavender is fun to use in herbal
 
 ![An herbal salve made with lavender](https://ucarecdn.com/083d10e2-a33a-4437-bbe1-8c1726e68108/salve.jpg "Herbal salve made with homegrown lavender")
 
-
-
 ### Rosemary
 
 Rosemary is a very popular culinary herb so maybe you already have some in your garden. If not, you might want to add this multi-purpose plant!  Olive oil infused with dried rosemary makes a wonderful hair/scalp treatment (and marinade too but don't mix them up)! Rosemary has been used to help boost hair growth and [studies](https://www.medicalnewstoday.com/articles/319444) show this isn’t just an old wives’ tale.  Rosemary is a favorite for those with very oily skin too because it has a strong astringent effect. 
-
-
 
 ### Roses
 
@@ -93,8 +69,6 @@ Way back when, you could find the ancient Egyptians using roses to maintain thei
 In the herbal world, *Achillea millefolium*, or yarrow, has so many uses. Yarrow has been used as a styptic, meaning it can help control bleeding when used externally on wounds.  Yarrow can help tighten the skin because it is astringent. It has substances that are helpful in controlling fungus and bacteria. Yarrow is commonly found in herbal salves and wound washes. Dried yarrow can be powdered and added to clay and other powdered herbs for a DIY clarifying face mask. 
 
  A note of caution: while yarrow can beneficial for most skin, paradoxically, some people can experience contact dermatitis when in contact with it. If you’ve never used yarrow before, you might want to do a “patch test” to be safe. See below for more on the “patch test”. 
-
-
 
 This is just a short list of plants that can be used in body care.  There are also a lot of different ways you can use your plants. If you’re new to do-it-yourself skin care, I recommend learning how to make an infused oil.  Once you’ve learned that you can make things like salves, lip balms, lotions, body butter, and bath bombs/salts. Keep a lookout for future posts on what you can make with your herbal harvests. 
 
