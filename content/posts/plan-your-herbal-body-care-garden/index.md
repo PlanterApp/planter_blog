@@ -14,6 +14,8 @@ alt = "Dried flowers and herbs surrounding an herbal skin care product"
 +++
 A good herb garden has herbs that can be used in cooking and herbs that can be used as traditional medicine. A lot of these same herbs can also be used in the spa (or bathroom of course). Take a look at this Herbal Body Care Garden created in Planter: 
 
+![An herbal body care garden created in the Planter App](https://ucarecdn.com/cde8c7a6-4071-48bc-ab5f-bb62a84d0769/bodycare garden (1 of 1).jpg)
+
 ### Aloe
 
 Aloe deserves  a top spot  in our herbal body care garden lineup.  Many of us reach for aloe after getting too much sun. It’s great at soothing irritated and sun burned skin. The cooling gel offers some relief of the itchiness that follows a burn too. In the case of minor burns from touching something hot, aloe can be useful.  Aloe thrives in deserts and it’s perfect for gardens with arid conditions. If you don’t live in the desert, aloe is easy to grow in a container as a houseplant.  Aloe needs a lot of bright, but not necessarily direct, sunlight so it’s best to put it near a south facing window. Water an aloe about once a week, but make sure you let the soil dry out between waterings, and be careful not to overwater it, too much water can kill an aloe. Container-grown aloe can be moved outside in the summer. 
