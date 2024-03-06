@@ -12,9 +12,9 @@ relative = false
 image = "https://ucarecdn.com/0ff42eff-b1b3-4400-a848-08f7ef8637ae/priscilla-du-preez-ukZazKwQpec-unsplash.jpg"
 alt = "Dried flowers and herbs surrounding an herbal skin care product"
 +++
-A good herb garden has herbs that can be used in cooking and herbs that can be used in traditional medicine. A good herb garden also has herbs that you can use in body care. And luckily a lot of herbs work in the kitchen and the spa (or bathroom of course). Take a look at this Herbal Body Care Garden created in Planter: 
+A good herb garden has herbs that can be used in cooking and herbs that can be used as traditional medicine. A lot of these same herbs can also be used in the spa (or bathroom of course). Take a look at this Herbal Body Care Garden created in Planter: 
 
-![An herbal body care plan made with the Planter app]()
+![An herbal body care plan made with the Planter app](https://ucarecdn.com/f8a82c4e-2e44-4707-9a30-43412f36a62a/bodycare garden (1 of 1).jpg)
 
 ### Aloe
 
@@ -40,9 +40,9 @@ The lovely little chamomile isn’t just for tea!  This mighty flower makes a pe
 
 ### Elderflower
 
-Since ancient times, people have been using *Sambucus* to enhance their beauty. The fragrant elderflower is full of [antioxidants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325840/#:~:text=Notably%2C%20the%20free%2Dradical%20scavenging,their%20antioxidant%20potency%20%5B27%5D.).  Antioxidants fight free radicals that can cause inflammation on the inside and outside of our bodies.  Use elderflower tea internally or externally to promote healthy skin.  Salves infused with elderflower are popular for baby diaper creams.  Those who practice traditional medicine will use elderflower in bath for children who have a fever.
+Since ancient times, people have been using *Sambucus* to enhance their beauty. The fragrant elderflower is full of [antioxidants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325840/#:~:text=Notably%2C%20the%20free%2Dradical%20scavenging,their%20antioxidant%20potency%20%5B27%5D.).  Antioxidants fight free radicals that can cause inflammation on the inside and outside of our bodies.  Use elderflower tea internally or externally to promote healthy skin.  Salves infused with elderflower are popular for baby diaper creams.  Add some elderflower tea to lukewarm bathwater when you need to cool yourself down. 
 
-![A closeup view of an elderflower]()
+![A closeup view of an elderflower](https://ucarecdn.com/733d7fda-5012-4cef-b354-82763d7106cf/elder (1).jpg "Elderflowers are delicate and very fragrant")
 
 ### Fennel
 
