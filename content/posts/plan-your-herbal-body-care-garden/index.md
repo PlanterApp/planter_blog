@@ -9,8 +9,8 @@ series = ["Plan Your Garden"]
 
 [cover]
 relative = false
-image = "https://ucarecdn.com/0ff42eff-b1b3-4400-a848-08f7ef8637ae/priscilla-du-preez-ukZazKwQpec-unsplash.jpg"
-alt = "Dried flowers and herbs surrounding an herbal skin care product"
+image = "https://ucarecdn.com/93fc1fc5-2dae-4eca-a09c-b18aac5a0022/bodycare garden (1 of 1).jpg"
+alt = "Plan your herbal body care garden in the Planter App"
 +++
 A good herb garden has herbs that can be used in cooking and herbs that can be used as traditional medicine. A lot of these same herbs can also be used in the spa (or bathroom of course). Check out these herbs for some inspiration:
 
@@ -35,8 +35,6 @@ If I had to recommend just one herb for a body care garden, it would be calendul
 ### Chamomile
 
 The lovely little chamomile isn’t just for tea!  This mighty flower makes a perfect addition to a sleepy time bath tea blend. Make a strong infusion and add it to bath water. A cloth soaked in chamomile tea is a treat for sunburned skin. 
-
-![Plan an herbal garden in the Planter App](https://ucarecdn.com/4ca30ad0-ff06-4c42-9dc1-c688d6922644/bodycare garden (1 of 1).jpg "Plan an herbal body care garden with Planter")
 
 ### Elderflower
 
@@ -67,6 +65,8 @@ Way back when, you could find the ancient Egyptians using roses to maintain thei
 In the herbal world, *Achillea millefolium*, or yarrow, has so many uses. Yarrow has been used as a styptic, meaning it can help control bleeding when used externally on wounds.  Yarrow can help tighten the skin because it is astringent. It has substances that are helpful in controlling fungus and bacteria. Yarrow is commonly found in herbal salves and wound washes. Dried yarrow can be powdered and added to clay and other powdered herbs for a DIY clarifying face mask. 
 
  A note of caution: while yarrow can beneficial for most skin, paradoxically, some people can experience contact dermatitis when in contact with it. If you’ve never used yarrow before, you might want to do a “patch test” to be safe. See below for more on the “patch test”. 
+
+![](https://ucarecdn.com/7ac1ecce-289e-4b70-a725-bdfbb0c4e822/priscilla-du-preez-ukZazKwQpec-unsplash.jpg)
 
 This is just a short list of plants that can be used in body care.  There are also a lot of different ways you can use your plants. If you’re new to do-it-yourself skin care, I recommend learning how to make an infused oil.  Once you’ve learned that you can make things like salves, lip balms, lotions, body butter, and bath bombs/salts. Keep a lookout for future posts on what you can make with your herbal harvests. 
 
