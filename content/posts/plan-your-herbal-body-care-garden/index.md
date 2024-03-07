@@ -12,7 +12,7 @@ relative = false
 image = "https://ucarecdn.com/0ff42eff-b1b3-4400-a848-08f7ef8637ae/priscilla-du-preez-ukZazKwQpec-unsplash.jpg"
 alt = "Dried flowers and herbs surrounding an herbal skin care product"
 +++
-A good herb garden has herbs that can be used in cooking and herbs that can be used as traditional medicine. A lot of these same herbs can also be used in the spa (or bathroom of course). Take a look at this Herbal Body Care Garden created in Planter: 
+A good herb garden has herbs that can be used in cooking and herbs that can be used as traditional medicine. A lot of these same herbs can also be used in the spa (or bathroom of course). Check out these herbs for some inspiration:
 
 ### Aloe
 
@@ -28,13 +28,15 @@ Monarda, or bee balm, is a favorite for pollinators and hummingbirds, but it’s
 
 ### Calendula
 
-If I had to recommend just one herb for a body care garden, it would be calendula. In my opinion, *Calendula officinalis* is the king of the herbal skin care world. Calendula is famous for its anti-inflammatory effects on skin.  Today’s science is [studying](https://www.hmpgloballearningnetwork.com/site/wounds/article/9064#:~:text=The%20study%20found%20that%20cleaning,to%20using%20Calendula%20solution%20alone.) what traditional medicine has known for years, that use of calendula is associated with potentially faster recovery time for injured skin.  Harvest the whole flower head, after any dew has dried, ideally mid-morning, and dry for later use. Calendula can take a long time to fully dry out, but a dehydrator can speed up the process. With your dried flowers you can make infused oils for bath salts, turn the oil into a soothing salve, use dried flowers in a bath tea, or you can make an infusion to use as a compress on irritated skin. Calendula is a very enthusiastic self-seeder, which I find delightful, but you might not. So keep deadheading your flowers to prevent an enormous amount going to seed. 
+If I had to recommend just one herb for a body care garden, it would be calendula. In my opinion, *Calendula officinalis* is the leader of the herbal skin care world. Calendula is famous for its anti-inflammatory effects on skin.  Today’s science is [studying](https://www.hmpgloballearningnetwork.com/site/wounds/article/9064#:~:text=The%20study%20found%20that%20cleaning,to%20using%20Calendula%20solution%20alone.) what traditional medicine has known for years, that use of calendula is associated with potentially faster recovery time for injured skin.  Harvest the whole flower head, after any dew has dried, ideally mid-morning, and dry for later use. Calendula can take a long time to fully dry out, but a dehydrator can speed up the process. With your dried flowers you can make infused oils for bath salts, turn the oil into a soothing salve, use dried flowers in a bath tea, or you can make an infusion to use as a compress on irritated skin. Calendula is a very enthusiastic self-seeder, which I find delightful, but you might not. So keep deadheading your flowers to prevent an enormous amount going to seed. 
 
 ![A closeup picture of a calendula flower](https://ucarecdn.com/4da1ef37-f30e-41da-8da2-e8debbb2155e/DSC07121.JPG "I let calendula go wild and take over my garden")
 
 ### Chamomile
 
 The lovely little chamomile isn’t just for tea!  This mighty flower makes a perfect addition to a sleepy time bath tea blend. Make a strong infusion and add it to bath water. A cloth soaked in chamomile tea is a treat for sunburned skin. 
+
+![Plan an herbal garden in the Planter App](https://ucarecdn.com/4ca30ad0-ff06-4c42-9dc1-c688d6922644/bodycare garden (1 of 1).jpg "Plan an herbal body care garden with Planter")
 
 ### Elderflower
 
