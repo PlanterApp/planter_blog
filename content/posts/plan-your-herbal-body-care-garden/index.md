@@ -9,8 +9,8 @@ series = ["Plan Your Garden"]
 
 [cover]
 relative = false
-image = "https://ucarecdn.com/93fc1fc5-2dae-4eca-a09c-b18aac5a0022/bodycare garden (1 of 1).jpg"
-alt = "Plan your herbal body care garden in the Planter App"
+image = "https://ucarecdn.com/56b33a54-dce7-4c6e-898a-c49121f44a63/priscilla-du-preez-ukZazKwQpec-unsplash.jpg"
+alt = "Dried flowers and herb surround a skin care product"
 +++
 A good herb garden has herbs that can be used in cooking and herbs that can be used as traditional medicine. A lot of these same herbs can also be used in the spa (or bathroom of course). Check out these herbs for some inspiration:
 
@@ -66,7 +66,7 @@ In the herbal world, *Achillea millefolium*, or yarrow, has so many uses. Yarrow
 
  A note of caution: while yarrow can beneficial for most skin, paradoxically, some people can experience contact dermatitis when in contact with it. If you’ve never used yarrow before, you might want to do a “patch test” to be safe. See below for more on the “patch test”. 
 
-![](https://ucarecdn.com/7ac1ecce-289e-4b70-a725-bdfbb0c4e822/priscilla-du-preez-ukZazKwQpec-unsplash.jpg)
+![Create an herbal body care garden with the Planter App](https://ucarecdn.com/5866adb3-21ca-4b33-8772-88682cb381da/bodycare garden (1 of 1).jpg "A 4x8 herbal body care garden created with Planter")
 
 This is just a short list of plants that can be used in body care.  There are also a lot of different ways you can use your plants. If you’re new to do-it-yourself skin care, I recommend learning how to make an infused oil.  Once you’ve learned that you can make things like salves, lip balms, lotions, body butter, and bath bombs/salts. Keep a lookout for future posts on what you can make with your herbal harvests. 
 
