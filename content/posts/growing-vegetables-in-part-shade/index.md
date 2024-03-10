@@ -5,8 +5,8 @@ slug = "Growing-Vegetables-in-Part-Shade"
 date = 2023-06-26T04:00:00.000Z
 author = "Erin Thomson"
 plants = ["Lettuce", "Arugula", "Endive/escarole", "Spinach", "Kale", "Beets", "Chard", "Green onions", "Chives", "Broccoli", "Cabbage", "Cauliflower", "Collards", "Kohlrabi", "Mustard", "Bok choy", "Peas", "Cilantro", "Parsley", "Dill"]
-series = ["Plant Picks"]
-
+series = []
+tags = ["Plant picks"]
 
 [cover]
 relative = true
