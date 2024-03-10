@@ -42,7 +42,7 @@
             {{ end }}
             {{ if (and $uploadCare (not $isAnimated)) }}
                 {{ $urlWithoutFileName := printf "https://ucarecdn.com%s" $pathDir }}
-                {{ $params := "-/format/auto/-/quality/smart/" }}
+                {{ $params := "-/format/webp/-/quality/smart/" }}
                 <img loading="lazy" srcset="
                 {{ range $size := $sizes }}
                     {{ printf "%s%s-/resize/%s/%s %s" $urlWithoutFileName $params (printf "%sx" $size) $pathFile (printf "%sw," $size) }}

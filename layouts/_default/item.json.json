@@ -22,7 +22,7 @@
   {{ $pathExt := path.Ext $path}}
   {{ $uploadCare := strings.Contains $fullUrl "ucarecdn.com" }}
   {{ $urlWithoutFileName := printf "https://ucarecdn.com%s" $pathDir }}
-  {{ $params := "-/format/auto/-/quality/smart/" }}
+  {{ $params := "-/format/webp/-/quality/smart/" }}
   {{ if $uploadCare }}
     {{ $coverUrl = printf "%s%s-/resize/%s/%s" $urlWithoutFileName $params (printf "%sx" $size) $pathFile }}
   {{ end }}
