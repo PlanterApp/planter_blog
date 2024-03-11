@@ -38,7 +38,7 @@ The lovely little chamomile isn’t just for tea!  This mighty flower makes a pe
 
 ### Elderflower
 
-Since ancient times, people have been using *Sambucus* to enhance their beauty. The fragrant elderflower is full of [antioxidants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325840/#:~:text=Notably%2C%20the%20free%2Dradical%20scavenging,their%20antioxidant%20potency%20%5B27%5D.).  Antioxidants fight free radicals that can cause inflammation on the inside and outside of our bodies.  Use elderflower tea internally or externally to promote healthy skin.  Salves infused with elderflower are popular for baby diaper creams.  Add some elderflower tea to lukewarm bathwater when you need to cool yourself down. 
+Since ancient times, people have been using *Sambucus* to enhance their beauty. The fragrant elderflower is full of [antioxidants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325840/#:~:text=Notably%2C%20the%20free%2Dradical%20scavenging,their%20antioxidant%20potency%20%5B27%5D.).  Antioxidants fight free radicals that can cause inflammation on the inside and outside of our bodies.  Use elderflower tea internally or externally to promote healthy skin.  Salves infused with elderflower are popular for baby creams.  Add some elderflower tea to lukewarm bathwater when you need to cool yourself down. 
 
 ### Fennel
 
@@ -56,7 +56,7 @@ Rosemary is a very popular culinary herb so maybe you already have some in your 
 
 ### Roses
 
-Way back when, you could find the ancient Egyptians using roses to maintain their beauty. Roses are one of the most famous ingredients in natural based skin care.  Rose petals are soothing and have anti-inflammatory actions on the skin. Roses are suitable for all skin types. Rose water is a popular way to use the petals and you can make it at home. The power of the rose doesn’t end after the blooming season; rose hips, the fruit that forms after a bloom, are an excellent source of vitamin C. Vitamin C is essential for maintaining healthy skin. Vitamin C promotes collagen and fights free radicals. You can make rose hip jam or rose hip tea to reap the benefits of vitamin C. 
+Way back when, you could find the ancient Egyptians using roses to maintain their beauty. Roses are one of the most famous ingredients in natural based skin care.  Rose petals are soothing and have anti-inflammatory actions on the skin. Roses are suitable for all skin types. Rose water is a popular way to use the petals and you can make it at home. The power of the rose doesn’t end after the blooming season; rose hips, the fruit that forms after a bloom, are an excellent source of vitamin C. Vitamin C is essential for maintaining healthy skin. Vitamin C promotes collagen production and fights free radicals. You can make rose hip jam or rose hip tea to reap the benefits of vitamin C. 
 
 ![Rosehips in the fall ](https://ucarecdn.com/bc98a961-dcb8-40d2-84eb-d7018b120a50/DSC07656.JPG "Rosehips can be harvested in the fall")
 
@@ -66,6 +66,6 @@ In the herbal world, *Achillea millefolium*, or yarrow, has so many uses. Yarrow
 
  A note of caution: while yarrow can beneficial for most skin, paradoxically, some people can experience contact dermatitis when in contact with it. If you’ve never used yarrow before, you might want to do a “patch test” to be safe. See below for more on the “patch test”. 
 
-This is just a short list of plants that can be used in body care.  There are also a lot of different ways you can use your plants. If you’re new to do-it-yourself skin care, I recommend learning how to make an infused oil.  Once you’ve learned that you can make things like salves, lip balms, lotions, body butter, and bath bombs/salts. Keep a lookout for future posts on what you can make with your herbal harvests. 
+This is just a short list of plants that can be used in body care.  There are a lot of different ways you can use your plants. If you’re new to do-it-yourself skin care, I recommend learning how to make an infused oil.  Once you’ve learned that you can make things like salves, lip balms, lotions, body butter, and bath bombs/salts. Keep a lookout for future posts where I will explain how to create your own herbal products. 
 
 *Just like with food, there is always the potential to react to herbs. You can see if you might react to a new herb by doing a patch test on your skin before using an herbal product.  You can make a strong tea (infusion) of the herb and "paint" the tea somewhere that you would notice any redness or irritation, such as the inside of your wrist. Or you can rub the fresh herb on your skin to see if you have any irritation. If you have any reactions like redness, itchiness, or hives, then do not use that herb.  I wait 12-24 hours after a patch test to see if any sort of reaction shows up. This is not to be taken as medical advice. Refer to your health care practitioner before starting a new herbal regimen.*
