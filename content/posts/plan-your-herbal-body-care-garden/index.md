@@ -1,8 +1,8 @@
 +++
 draft = true
-title = "body care"
+title = "Plan Your Herbal Body Care Garden"
 slug = "plan-your-herbal-body-care-garden"
-date = 2024-03-04T21:32:47.698Z
+date = 2024-03-11T16:26:06.156Z
 author = "Samantha Togstad"
 plants = ["bee balm", "calendula", "chamomile", "elderberry", "fennel ", "lavender", "rosemary", "yarrow"]
 series = ["Plan Your Garden"]
@@ -10,7 +10,7 @@ series = ["Plan Your Garden"]
 [cover]
 relative = false
 image = "https://ucarecdn.com/56b33a54-dce7-4c6e-898a-c49121f44a63/priscilla-du-preez-ukZazKwQpec-unsplash.jpg"
-alt = "Dried flowers and herb surround a skin care product"
+alt = "Dried flowers and herbs surround a skin care product"
 +++
 A good herb garden has herbs that can be used in cooking and herbs that can be used as traditional medicine. A lot of these same herbs can also be used in the spa (or bathroom of course). Check out these herbs for some inspiration:
 
@@ -18,13 +18,19 @@ A good herb garden has herbs that can be used in cooking and herbs that can be u
 
 Aloe deserves  a top spot  in our herbal body care garden lineup.  Many of us reach for aloe after getting too much sun. It’s great at soothing irritated and sun burned skin. The cooling gel offers some relief of the itchiness that follows a burn too. In the case of minor burns from touching something hot, aloe can be useful.  Aloe thrives in deserts and it’s perfect for gardens with arid conditions. If you don’t live in the desert, aloe is easy to grow in a container as a houseplant.  Aloe needs a lot of bright, but not necessarily direct, sunlight so it’s best to put it near a south facing window. Water an aloe about once a week, but make sure you let the soil dry out between waterings, and be careful not to overwater it, too much water can kill an aloe. Container-grown aloe can be moved outside in the summer. 
 
+![A closeup of an aloe plant](https://ucarecdn.com/19de79eb-f223-4616-8584-cdc95735781f/jacqueline-brandwayn-oidp3mVNvVs-unsplash.jpg)
+
 ### Bee Balm
 
 Monarda, or bee balm, is a favorite for pollinators and hummingbirds, but it’s also an amazing plant for skin care.  Bee balm is known to smell a little “spicy” and that spiciness comes from its high thymol content.  Thymol has powerful antiseptic and antifungal properties, making bee balm a good choice when dealing with issues like build-up on the scalp or fungal infections of the skin. You can infuse apple cider vinegar for a clarifying scalp rinse.  You can make a strong tea, called an infusion, of bee balm and apply it as a compress to support blemish-prone skin. *Monarda didyma* (most commonly found at nurseries) and *Monarda fistulosa* are the types of bee balm to use as herbs.
 
+![A pink bee balm flower in bloom](https://ucarecdn.com/da034b12-0abd-49bc-9610-c93c49d224cf/a-b-Xr0J-hYmh9c-unsplash.jpg)
+
 ### Calendula
 
-If I had to recommend just one herb for a body care garden, it would be calendula. In my opinion, *Calendula officinalis* is the leader of the herbal skin care world. Calendula is famous for its anti-inflammatory effects on skin.  Today’s science is [studying](https://www.hmpgloballearningnetwork.com/site/wounds/article/9064#:~:text=The%20study%20found%20that%20cleaning,to%20using%20Calendula%20solution%20alone.) what traditional medicine has known for years, that use of calendula is associated with potentially faster recovery time for injured skin.  Harvest the whole flower head, after any dew has dried, ideally mid-morning, and dry for later use. Calendula can take a long time to fully dry out, but a dehydrator can speed up the process. With your dried flowers you can make infused oils for bath salts, turn the oil into a soothing salve, use dried flowers in a bath tea, or you can make an infusion to use as a compress on irritated skin. Calendula is a very enthusiastic self-seeder, which I find delightful, but you might not. So keep deadheading your flowers to prevent an enormous amount going to seed. 
+If I had to recommend just one herb for a body care garden, it would be calendula. In my opinion, *Calendula officinalis* is the leader of the herbal skin care world. Calendula is famous for its anti-inflammatory effects on skin.  Today’s science is [studying](https://www.hmpgloballearningnetwork.com/site/wounds/article/9064#:~:text=The%20study%20found%20that%20cleaning,to%20using%20Calendula%20solution%20alone.) what traditional medicine has known for years, that use of calendula is associated with a potentially faster recovery time for injured skin.  Harvest the whole flower head, after any dew has dried, ideally mid-morning, and dry for later use. Calendula can take a long time to fully dry out, but a dehydrator can speed up the process. With your dried flowers you can make infused oils for bath salts, turn the oil into a soothing salve, use dried flowers in a bath tea, or you can make an infusion to use as a compress on irritated skin. Calendula is a very enthusiastic self-seeder, which I find delightful, but you might not. So keep deadheading your flowers to prevent an enormous amount going to seed. 
+
+![An orange calendula flower in full bloom](https://ucarecdn.com/42755160-ba4f-4826-b7a2-33398d667bd3/DSC07121.jpg)
 
 ### Chamomile
 
@@ -42,6 +48,8 @@ Fennel seems more appropriately used in a spaghetti sauce, but surprisingly, fen
 
 Besides being an amazing plant for pollinators, lavender is fun to use in herbal body products. Most people love the smell of lavender so it can be dried and used in a lot of products you can make at home: soaps, lotions, body butter, salves, lip balms, infused oils, calming bath salts, bath teas, and more! The variety ‘Grosso’ is prized for its intense smell and it creates a lot of buds, so it’s a great choice for an herbal body care garden. 
 
+![Herbal lotion bars made with lavender](https://ucarecdn.com/00156227-66a1-4cbb-a987-6cd36d589e19/-/crop/1127x793/0,0/-/preview/IMG_20220120_191544_619.jpg "Lavender lotion bars")
+
 ### Rosemary
 
 Rosemary is a very popular culinary herb so maybe you already have some in your garden. If not, you might want to add this multi-purpose plant!  Olive oil infused with dried rosemary makes a wonderful hair/scalp treatment (and marinade too but don't mix them up)! Rosemary has been used to help boost hair growth and [studies](https://www.medicalnewstoday.com/articles/319444) show this isn’t just an old wives’ tale.  Rosemary is a favorite for those with very oily skin too because it has a strong astringent effect. 
@@ -49,6 +57,8 @@ Rosemary is a very popular culinary herb so maybe you already have some in your 
 ### Roses
 
 Way back when, you could find the ancient Egyptians using roses to maintain their beauty. Roses are one of the most famous ingredients in natural based skin care.  Rose petals are soothing and have anti-inflammatory actions on the skin. Roses are suitable for all skin types. Rose water is a popular way to use the petals and you can make it at home. The power of the rose doesn’t end after the blooming season; rose hips, the fruit that forms after a bloom, are an excellent source of vitamin C. Vitamin C is essential for maintaining healthy skin. Vitamin C promotes collagen and fights free radicals. You can make rose hip jam or rose hip tea to reap the benefits of vitamin C. 
+
+![Rosehips in the fall ](https://ucarecdn.com/bc98a961-dcb8-40d2-84eb-d7018b120a50/DSC07656.JPG "Rosehips can be harvested in the fall")
 
 ### Yarrow
 
