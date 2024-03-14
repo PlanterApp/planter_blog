@@ -2,15 +2,15 @@
 draft = true
 title = "Plan Your Herbal Body Care Garden"
 slug = "plan-your-herbal-body-care-garden"
-date = 2024-03-11T16:26:06.156Z
+date = 2024-03-14T16:36:33.832Z
 author = "Samantha Togstad"
 plants = ["bee balm", "calendula", "chamomile", "elderberry", "fennel ", "lavender", "rosemary", "yarrow"]
 series = ["Plan Your Garden"]
 
 [cover]
 relative = false
-image = "https://ucarecdn.com/56b33a54-dce7-4c6e-898a-c49121f44a63/priscilla-du-preez-ukZazKwQpec-unsplash.jpg"
-alt = "Dried flowers and herbs surround a skin care product"
+image = "https://ucarecdn.com/a8d0be97-dcf2-482c-8a38-1a7c35110e94/Untitled design.jpg"
+alt = "An herbal body care garden plan on the Planter App surrounded by herbal skin care products"
 +++
 A good herb garden has herbs that can be used in cooking and herbs that can be used as traditional medicine. A lot of these same herbs can also be used in the spa (or bathroom of course). Check out these herbs for some inspiration:
 
