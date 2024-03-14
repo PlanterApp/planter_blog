@@ -22,7 +22,7 @@ Aloe deserves  a top spot  in our herbal body care garden lineup.  Many of us re
 
 ### Bee Balm
 
-Monarda, or bee balm, is a favorite for pollinators and hummingbirds, but it’s also an amazing plant for skin care.  Bee balm is known to smell a little “spicy” and that spiciness comes from its high thymol content.  Thymol has powerful antiseptic and antifungal properties, making bee balm a good choice when dealing with issues like build-up on the scalp or fungal infections of the skin. You can infuse apple cider vinegar for a clarifying scalp rinse.  You can make a strong tea, called an infusion, of bee balm and apply it as a compress to support blemish-prone skin. *Monarda didyma* (most commonly found at nurseries) and *Monarda fistulosa* are the types of bee balm to use as herbs.
+Monarda, or bee balm, is a favorite for pollinators and hummingbirds, but it’s also an amazing plant for skin care.  Bee balm is known to smell a little “spicy” and that spiciness comes from its high thymol content.  Thymol has powerful antiseptic and antifungal properties, making bee balm a good choice when dealing with issues like build-up on the scalp or fungal infections of the skin. You can infuse apple cider vinegar with bee balm for a clarifying scalp rinse.  You can make a strong tea, called an infusion, of bee balm and apply it as a compress to support blemish-prone skin. *Monarda didyma* (most commonly found at nurseries) and *Monarda fistulosa* are the types of bee balm to use as herbs.
 
 ![A pink bee balm flower in bloom](https://ucarecdn.com/da034b12-0abd-49bc-9610-c93c49d224cf/a-b-Xr0J-hYmh9c-unsplash.jpg)
 
@@ -34,7 +34,7 @@ If I had to recommend just one herb for a body care garden, it would be calendul
 
 ### Chamomile
 
-The lovely little chamomile isn’t just for tea!  This mighty flower makes a perfect addition to a sleepy time bath tea blend. Make a strong infusion and add it to bath water. A cloth soaked in chamomile tea is a treat for sunburned skin. 
+The lovely little chamomile isn’t just for tea!  This mighty flower makes a perfect addition to a sleepy time bath tea blend. Make a strong infusion and add it to bathwater. A cloth soaked in chamomile tea is a treat for sunburned skin. 
 
 ### Elderflower
 
@@ -42,11 +42,11 @@ Since ancient times, people have been using *Sambucus* to enhance their beauty. 
 
 ### Fennel
 
-Fennel seems more appropriately used in a spaghetti sauce, but surprisingly, fennel can be helpful in the pursuit of glowing skin.  Fennel seeds have a lot of antioxidants and have antiseptic properties.  Ground up fennel seeds can be mixed with honey or yogurt and turned into a wonderfully exfoliating face mask. **Gentle** exfoliation of the skin helps remove dead skin which is helpful for blemish-prone skin, maturing skin, and every skin type in between. With special emphasis on the word gentle.  Too much scrubbing can lead to irritation and redness, the exact opposite of what you want. 
+Fennel seems more appropriately used in a spaghetti sauce, but surprisingly, fennel can be helpful in the pursuit of glowing skin.  Fennel seeds have a lot of antioxidants and have antiseptic properties.  Ground up fennel seeds can be mixed with honey or yogurt and turned into a wonderfully exfoliating face mask. **Gentle** exfoliation removes dead skin which is helpful if you're prone to breakouts. With special emphasis on the word gentle.  Too much scrubbing can lead to irritation and redness, the exact opposite of what you want. 
 
 ### Lavender
 
-Besides being an amazing plant for pollinators, lavender is fun to use in herbal body products. Most people love the smell of lavender so it can be dried and used in a lot of products you can make at home: soaps, lotions, body butter, salves, lip balms, infused oils, calming bath salts, bath teas, and more! The variety ‘Grosso’ is prized for its intense smell and it creates a lot of buds, so it’s a great choice for an herbal body care garden. 
+Besides being an amazing plant for pollinators, lavender is fun to use in herbal body products. A lot of us love the smell of lavender and it can be dried and used to scent products you can make at home: soaps, lotions, body butter, salves, lip balms, infused oils, calming bath salts, bath teas, and more! The variety ‘Grosso’ is prized for its intense smell and it creates a lot of buds, so it’s a great choice for an herbal body care garden. 
 
 ![Herbal lotion bars made with lavender](https://ucarecdn.com/00156227-66a1-4cbb-a987-6cd36d589e19/-/crop/1127x793/0,0/-/preview/IMG_20220120_191544_619.jpg "Lavender lotion bars")
 
@@ -56,13 +56,13 @@ Rosemary is a very popular culinary herb so maybe you already have some in your 
 
 ### Roses
 
-Way back when, you could find the ancient Egyptians using roses to maintain their beauty. Roses are one of the most famous ingredients in natural based skin care.  Rose petals are soothing and have anti-inflammatory actions on the skin. Roses are suitable for all skin types. Rose water is a popular way to use the petals and you can make it at home. The power of the rose doesn’t end after the blooming season; rose hips, the fruit that forms after a bloom, are an excellent source of vitamin C. Vitamin C is essential for maintaining healthy skin. Vitamin C promotes collagen production and fights free radicals. You can make rose hip jam or rose hip tea to reap the benefits of vitamin C. 
+Way back when, you could find the ancient Egyptians using roses to maintain their beauty. Roses are one of the most famous ingredients in natural based skin care.  Rose petals are soothing and have anti-inflammatory actions on the skin. Roses are suitable for all skin types. Rose water is a popular way to use the petals and you can make it at home. The power of the rose doesn’t end after the blooming season; rosehips, the fruit that forms after a bloom, are an excellent source of vitamin C. Vitamin C is essential for maintaining healthy skin. Vitamin C promotes collagen production and fights free radicals. You can make rosehip jam or rosehip tea to reap the benefits of vitamin C. 
 
 ![Rosehips in the fall ](https://ucarecdn.com/bc98a961-dcb8-40d2-84eb-d7018b120a50/DSC07656.JPG "Rosehips can be harvested in the fall")
 
 ### Yarrow
 
-In the herbal world, *Achillea millefolium*, or yarrow, has so many uses. Yarrow has been used as a styptic, meaning it can help control bleeding when used externally on wounds.  Yarrow can help tighten the skin because it is astringent. It has substances that are helpful in controlling fungus and bacteria. Yarrow is commonly found in herbal salves and wound washes. Dried yarrow can be powdered and added to clay and other powdered herbs for a DIY clarifying face mask. 
+In the herbal world, *Achillea millefolium*, or yarrow, has a lot of uses. Yarrow has been used as a styptic, meaning it can help control bleeding when used externally on wounds.  Yarrow can help tighten the skin because it is astringent. It has substances that are helpful in controlling fungus and bacteria. Yarrow is used a lot in herbal salves and wound washes. Dried yarrow can be powdered and added to clay and other powdered herbs for a DIY clarifying face mask. 
 
  A note of caution: while yarrow can beneficial for most skin, paradoxically, some people can experience contact dermatitis when in contact with it. If you’ve never used yarrow before, you might want to do a “patch test” to be safe. See below for more on the “patch test”. 
 
