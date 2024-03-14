@@ -9,10 +9,12 @@ series = ["Plan Your Garden"]
 
 [cover]
 relative = false
-image = "https://ucarecdn.com/a8d0be97-dcf2-482c-8a38-1a7c35110e94/Untitled design.jpg"
+image = "https://ucarecdn.com/35ca0994-a35c-4a0d-8275-1c64c5d582fe/priscilla-du-preez-ukZazKwQpec-unsplash.jpg"
 alt = "An herbal body care garden plan on the Planter App surrounded by herbal skin care products"
 +++
 A good herb garden has herbs that can be used in cooking and herbs that can be used as traditional medicine. A lot of these same herbs can also be used in the spa (or bathroom of course). Check out these herbs for some inspiration:
+
+![](https://ucarecdn.com/2f602ac4-cec7-4535-9033-d99e4927f14e/Untitled design.jpg)
 
 ### Aloe
 
