@@ -142,7 +142,7 @@ const image = {
 
     return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption>${title}</figcaption></figure>`;
   },
-  pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
+  pattern: /^!\[(.*)\]\(\<*(.*?)\>*(\s"(.*)")?\)$/,
   fields: [
     {
       label: 'Image',
