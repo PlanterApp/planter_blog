@@ -32,7 +32,7 @@
             {{ $parsedUrl := urls.Parse $fullUrl }}
             {{ $path := path.Split ($parsedUrl.Path) }}
             {{ $pathDir := $path.Dir }}
-            {{ $pathFile := $path.File }}
+            {{ $pathFile := replaceRE `\s` "%20" $path.File }}
             {{ $pathExt := path.Ext $path}}
             {{ $uploadCare := strings.Contains $fullUrl "ucarecdn.com" }}
             {{ $isAnimated := eq $pathExt ".gif" }}
