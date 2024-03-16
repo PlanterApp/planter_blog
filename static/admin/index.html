@@ -130,7 +130,7 @@ const image = {
       title: match[4],
     },
   toBlock: ({ alt, image, title }) => {
-    imageUrl = encodeURIComponent(image.trim());
+    imageUrl = image.replace(/ /g, "%20");
     return `![${alt || ''}](${imageUrl || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`;
   },
   // eslint-disable-next-line react/display-name
