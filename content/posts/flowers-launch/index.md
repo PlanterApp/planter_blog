@@ -15,7 +15,7 @@ Greeting fellow gardeners!
 You've [asked for it](https://planter.garden/requests/4ceDKBnMKejh5Epov3EM) and we've listened. Today, we're excited to announce that we’re rolling out flowers in Planter!
 
 ![A screenshot of the Planter app showing the flowers category.](https://ucarecdn.com/c5bda9b5-1ac9-4982-80c3-8e031103389e/Screenshot 2024-03-15 at 10.13.52 AM.png "Some of the new flowers in Planter 🌼")
-
+ 
 My name is Pam, and I’m one of the newest members of the Planter team. I’ve been adding flowers to Planter over the last few months, and I'm thrilled to finally share them with you!
 
 A little about myself- I’ve gardened my entire adult life, always perennial/herbaceous beds and vegetables when my kids were growing up. Four years ago, I saw a YouTube gardener’s cut flower beds and immediately decided I needed to be a cut flower farmer. Two years ago, I retired from the University of Connecticut Extension System as a 4-H Educator and dove headlong into growing my [flower farm](https://winterbeegarden.com/).
