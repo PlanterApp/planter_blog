@@ -10,15 +10,13 @@ relative = false
 image = "https://ucarecdn.com/6c100f1f-eba3-4373-b7f1-c31604cda5cb/Compost-garden.jpg"
 caption = "A black bucket with food scraps spilling out onto a garden bed with a pitchfork and chard plant beside it"
 +++
-Most gardeners know that it's a good idea to add compost to your garden. Compost helps improve soil structure, provides food for beneficial critters in the soil, and is a good, slow-release source of nutrients. But the tricky part is that the word 'compost' is a catch-all for many types of decomposed organic materials. Compost conjures up the image of a homemade compost pile with kitchen scraps and yard waste but there is also bagged big-box compost products, animal composts, municipal compost, and some speciality types of compost. It's enough to make your head spin! So as a gardener how do you know which type of compost is right for your garden? The first step is to know what you want to achieve by using compost.
-
-(For more information on the basics of why we use compost in the garden and how to compost check out [Compost: Add Life to Your Garden)](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
+Most gardeners know that it's a good idea to add compost to your garden. Compost helps improve soil structure, provides food for beneficial critters in the soil, and is a good slow-release source of nutrients that plants need. The tricky part about 'compost' is it's a catch-all term for many types of decomposed organic materials. Compost usually conjures up the image of a homemade compost pile with kitchen scraps and yard clippings, but there are also bagged composts, animal manure-based composts, municipal compost, and some speciality types of compost. It's enough to make your head spin! So as a gardener how do you know which type of compost is best for your garden? The first step is to know what you want to achieve when adding compost.[](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
 
 ## Ways to use compost in the garden
 
-There are a few key reasons why you may want to add compost to your garden:
+There are a few key reasons to add compost to your garden:
 
-It adds organic matter (humus) that improves the soil structure. Sandy soils tend to drain water too quickly and leach nutrients and clay can become water-logged. Compost helps the soil hold onto the optimal amount of moisture for plants. It provides food for beneficial organisms, such as earthworms, that work to improve the health of your soil and it also contains beneficial bacteria and fungi that help your plants to uptake water and nutrients.
+Compost adds organic matter (humus) that improves the soil structure. Sandy soils tend to drain water too quickly and leach nutrients and clay can become water-logged. Compost helps the soil hold onto the optimal amount of moisture for plants. It provides food for beneficial organisms, such as earthworms, that work to improve the health of your soil and it also contains beneficial bacteria and fungi that help your plants to uptake water and nutrients.
 
 It contains key nutrients that plants need to grow. Fully broken-down compost does not have high concentrations of nutrients, but the nutrients it does contain are released gradually so your plants can uptake them over time. Compost can also be a good source of trace nutrients that your plants need.
 
@@ -30,7 +28,7 @@ Depending on which of these benefits you are aiming for, you'll want to choose y
 
 Now that we know the ways we can use compost to improve our garden, let's delve into some common types of compost available and their uses:
 
-**Manure composts (including store-bought bagged compost)**
+**Manure composts (including store-bought bagged manure)**
 
 **Mushroom compost**
 
@@ -40,9 +38,11 @@ Now that we know the ways we can use compost to improve our garden, let's delve 
 
 ![A garden shovel holding compost surrounded by leaves](https://ucarecdn.com/306722b4-de74-4c8c-97e1-35bf61bf65e7/Leaf-compost.jpg)
 
-**Municipal compost**
+**Municipal and commercial compost**
 
 **Home compost**
+
+If you're new to composting and want to learn how to compost check out [Compost: Add Life to Your Garden](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
 
 ![Three compost bins made with different materials side-by-side with a garden fork in the foreground and a hedge in the background](https://ucarecdn.com/45d916c3-82f1-4c36-8335-fb5a10b5ba49/Home-compost-bins.jpg)
 
