@@ -10,17 +10,25 @@ relative = false
 image = "https://ucarecdn.com/6c100f1f-eba3-4373-b7f1-c31604cda5cb/Compost-garden.jpg"
 caption = "A black bucket with food scraps spilling out onto a garden bed with a pitchfork and chard plant beside it"
 +++
-Intro/what is compost
+Most gardeners know that it's a good idea to add compost to your garden. Compost helps improve soil structure, provides food for beneficial critters in the soil, and is a good, slow-release source of nutrients. But the tricky part is that the word 'compost' is a catch-all for many types of decomposed organic materials. Compost conjures up the image of a homemade compost pile with kitchen scraps and yard waste but there is also bagged big-box compost products, animal composts, municipal compost, and some speciality types of compost. It's enough to make your head spin! So as a gardener how do you know which type of compost is right for your garden? The first step is to know what you want to achieve by using compost.
+
+(For more information on the basics of why we use compost in the garden and how to compost check out [Compost: Add Life to Your Garden)](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
 
 ## Ways to use compost in the garden
 
-As a nutrient source
+There are a few key reasons why you may want to add compost to your garden:
 
-As a soil amendment
+It adds organic matter (humus) that improves the soil structure. Sandy soils tend to drain water too quickly and leach nutrients and clay can become water-logged. Compost helps the soil hold onto the optimal amount of moisture for plants. It provides food for beneficial organisms, such as earthworms, that work to improve the health of your soil and it also contains beneficial bacteria and fungi that help your plants to uptake water and nutrients.
 
-As a mulch
+It contains key nutrients that plants need to grow. Fully broken-down compost does not have high concentrations of nutrients, but the nutrients it does contain are released gradually so your plants can uptake them over time. Compost can also be a good source of trace nutrients that your plants need.
+
+Compost also makes a great mulch which can help your garden soil retain moisture and, when applied thick enough, can help to suppress weeds.
+
+Depending on which of these benefits you are aiming for, you'll want to choose your compost accordingly. For example if you're using compost as a nutrient source, you'll likely want to look for composted animal manures that will have higher nutrient concentrations. On the flip side if you're looking to apply compost as a mulch, because you're going to put on a large quantity (4" layer or more) you'll likely be leaning towards a municipal or homemade compost which contains high levels of organic matter but is not as nutritionally 'strong' as an animal manure.
 
 ## Types of Compost
+
+Now that we know the ways we can use compost to improve our garden, let's delve into some common types of compost available and their uses:
 
 **Manure composts (including store-bought bagged compost)**
 
@@ -35,6 +43,8 @@ As a mulch
 **Home compost**
 
 ## Things to watch out for when buying compost
+
+Unfortunately, sometimes adding compost to your garden can do more harm than good. Here are some things to watch out for when purchasing compost to ensure it won't harm your garden:
 
 **Unfinished compost**
 
