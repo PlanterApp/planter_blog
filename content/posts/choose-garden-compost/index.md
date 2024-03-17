@@ -38,9 +38,13 @@ Now that we know the ways we can use compost to improve our garden, let's delve 
 
 **Leaf mold**
 
+![A garden shovel holding compost surrounded by leaves](https://ucarecdn.com/306722b4-de74-4c8c-97e1-35bf61bf65e7/Leaf-compost.jpg)
+
 **Municipal compost**
 
 **Home compost**
+
+![Three compost bins made with different materials side-by-side with a garden fork in the foreground and a hedge in the background](https://ucarecdn.com/45d916c3-82f1-4c36-8335-fb5a10b5ba49/Home-compost-bins.jpg)
 
 ## Things to watch out for when buying compost
 
