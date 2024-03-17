@@ -16,11 +16,15 @@ You've [asked for it](https://planter.garden/requests/4ceDKBnMKejh5Epov3EM) and 
 
 ![A screenshot of the Planter app showing the new flowers in the Plants page.](https://ucarecdn.com/f950c09a-4d5c-42f7-a326-e18469cd9b97/Screenshot%202024-03-15%20at%2010.13.52 AM.png "Some of the new flowers in Planter 🌼")
 
+### About Me
+
 My name is Pam, and I’m one of the newest members of the Planter team. I’ve been adding flowers to Planter over the last few months, and I'm thrilled to finally share them with you!
 
 A little about myself- I’ve gardened my entire adult life, always perennial/herbaceous beds and vegetables when my kids were growing up. Four years ago, I saw a YouTube gardener’s cut flower beds and immediately decided I needed to be a cut flower farmer. Two years ago, I retired from the University of Connecticut Extension System as a 4-H Educator and dove headlong into growing my [flower farm](https://winterbeegarden.com/).
 
 Now I get to create my own Planter flower garden plans, and you can too! 
+
+### Flowers in Planter!
 
 Today we're adding over 3 dozen new flowers to the app. Until now we've only had edible flowers (such as Sunflowers) or common companion flowers (such as Marigolds). Now, we're adding flowers with an emphasis on cut-flowers and flowers that are great for pollinators.
 
