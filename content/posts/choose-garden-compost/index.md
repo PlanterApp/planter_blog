@@ -10,34 +10,36 @@ relative = false
 image = "https://ucarecdn.com/6c100f1f-eba3-4373-b7f1-c31604cda5cb/Compost-garden.jpg"
 caption = "A black bucket with food scraps spilling out onto a garden bed with a pitchfork and chard plant beside it"
 +++
-What is compost?
+Intro/what is compost
 
+## Ways to use compost in the garden
 
+As a nutrient source
 
-How does compost get used in the garden?
+As a soil amendment
 
+As a mulch
 
+## Types of Compost
 
-Types of compost
+**Manure composts (including store-bought bagged compost)**
 
-Animal composts
+**Mushroom compost**
 
-Mushroom compost
+**Vermicompost**
 
-Vermicast
+**Leaf mold**
 
-Municipal compost
+**Municipal compost**
 
-Home compost
+**Home compost**
 
+## Things to watch out for when buying compost
 
+**Unfinished compost**
 
-Things to watch out for
+**Weed seeds and disease**
 
-Unfinished compost
+**Persistent herbicides**
 
-Weed seeds and disease
-
-Persistent herbicides
-
-Mulchy compost
+**Mulchy compost**
