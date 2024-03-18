@@ -4,7 +4,7 @@ title = "Pam Gray"
 slug = "Pam Gray"
 
 [cover]
-image = "https://ucarecdn.com/d4e2d0ab-b53f-4888-91df-443172e83087/-/crop/490x686/199,0/-/preview/pam.webp"
+image = "https://ucarecdn.com/82d0dcea-87c7-4394-8ca2-525491fd77d3/me with cosmos.jpg"
 +++
 Hi 👋. I'm Pam and I’ve been adding flowers to Planter!
 
