@@ -47,7 +47,7 @@ Vermicompost, or vermicast, is not really a compost but a byproduct of the worms
 
 ### Leaf mold
 
-Leaf mold sounds like a kind of fungus or disease, but its really just decomposed dry leaves that gardeners collect in fall and compost down. Leaf mold is not especially nutrient rich but it is high in organic matter, as such it can be useful as a soil amendment or can be used in bulk as a mulch-type compost on top of your garden bed. Since dry leaves are abundant and readily available its inexpensive to use in large quantities too.
+Leaf mold sounds like a kind of fungus or disease, but it's just decomposed dry leaves that gardeners collect in fall and compost down. Leaf mold is not especially nutrient rich but it is high in organic matter, as such it can be useful as a soil amendment or can be used as a mulching compost on top of your garden beds. Since dry leaves are abundant and readily available it's inexpensive to produce leaf mold in large quantities.
 
 ![A garden shovel holding compost surrounded by leaves](https://ucarecdn.com/306722b4-de74-4c8c-97e1-35bf61bf65e7/Leaf-compost.jpg)
 
@@ -57,7 +57,7 @@ Municipal and commercial composts are typically available in bulk and are relati
 
 ### Home compost
 
-Composting at home is an easy an inexpensive way to have a compost source for your garden. Home compost is typically lower in nutrients than manure-based composts, however it is a great source of organic matter for your soil. Homemade compost can also be used as a deep mulch however depending on the size of your property and how much input material you're able to collect it may be challenging to produce enough compost to deeply mulch your best. For more information the basics of composting and on how to compost at home compost check out [Compost: Add Life to Your Garden](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
+Composting at home is an easy an inexpensive way to have a compost source for your garden. Home compost is typically lower in nutrients than manure-based composts, however it's a great source of organic matter for your soil. Homemade compost can also be used as a deep mulch however depending on the size of your property and how much input material you're able to collect it may be challenging to produce in large enough quantities. For more information the basics of composting and on how to compost at home check out [Compost: Add Life to Your Garden](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
 
 ![Three compost bins made with different materials side-by-side with a garden fork in the foreground and a hedge in the background](https://ucarecdn.com/45d916c3-82f1-4c36-8335-fb5a10b5ba49/Home-compost-bins.jpg)
 
