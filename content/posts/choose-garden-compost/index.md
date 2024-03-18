@@ -8,7 +8,8 @@ author = "Erin Thomson"
 [cover]
 relative = false
 image = "https://ucarecdn.com/6c100f1f-eba3-4373-b7f1-c31604cda5cb/Compost-garden.jpg"
-caption = "A black bucket with food scraps spilling out onto a garden bed with a pitchfork and chard plant beside it"
+caption = ""
+alt = "A black bucket with food scraps spilling out onto a garden bed with a pitchfork and chard plant beside it"
 +++
 Most gardeners know that it's a good idea to add compost to your garden. Compost helps improve soil structure, provides food for beneficial critters in the soil, and is a good slow-release source of nutrients that plants need. The tricky part about 'compost' is it's a catch-all term for many types of decomposed organic materials. Compost usually conjures up the image of a homemade compost pile with kitchen scraps and yard clippings, but there are also bagged composts, animal manure-based composts, municipal compost, and some speciality types of compost. It's enough to make your head spin! So as a gardener how do you know which type of compost is best for your garden? The first step is to know what you want to achieve when adding compost.[](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
 
