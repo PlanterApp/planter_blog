@@ -20,6 +20,8 @@ You've [asked for it](https://planter.garden/requests/4ceDKBnMKejh5Epov3EM) and 
 
 My name is Pam, and I’m one of the newest members of the Planter team. I’ve been adding flowers to Planter over the last few months, and I'm thrilled to finally share them with you!
 
+![](https://ucarecdn.com/0ef30ba6-a96a-4743-942c-27f3f82f86cb/me%20with%20cosmos.jpg)
+
 A little about myself- I’ve gardened my entire adult life, always perennial/herbaceous beds and vegetables when my kids were growing up. Four years ago, I saw a YouTube gardener’s cut flower beds and immediately decided I needed to be a cut flower farmer. Two years ago, I retired from the University of Connecticut Extension System as a 4-H Educator and dove headlong into growing my [flower farm](https://winterbeegarden.com/).
 
 Now I get to create my own Planter flower garden plans, and you can too! 
