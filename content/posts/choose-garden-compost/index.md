@@ -73,7 +73,7 @@ Unfinished compost poses a risk to your garden because if the composting process
 
 ### Weed seeds and disease
 
-Both homemade compost and manure-based composts may contain weed seeds or plant pathogens if they have not been composted correctly such that the compost 'heats up' and kills them. For your homemade compost if you're not confident that you're able to manage your pile such that it will heat up (to x degrees) you may want to avoid putting weeds with seed heads or diseased plant material in. For commercial bulk compost, inquire about the composting process to ensure you will not get compost full of weed seeds.
+Both homemade compost and manure-based composts may contain weed seeds or plant pathogens if they have not been composted correctly such that the compost 'heats up' and kills them. For your homemade compost if you're not confident that you're able to manage your pile such that it will heat up (to at least 130°F) you may want to avoid putting weeds with seed heads or diseased plant material in. For commercial bulk compost, inquire about the composting process to ensure you will not get compost full of weed seeds.
 
 ### Persistent herbicides
 
