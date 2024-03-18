@@ -24,7 +24,7 @@
   {{ $urlWithoutFileName := printf "https://ucarecdn.com%s" $pathDir }}
   {{ $params := "-/format/webp/-/quality/smart/" }}
   {{ if $uploadCare }}
-    {{ $coverUrl = printf "%s%s-/resize/%s/%s" $urlWithoutFileName $params (printf "%sx" $size) $pathFile }}
+    {{ $coverUrl = printf "%s%s-/resize/%s/" $urlWithoutFileName $params (printf "%sx" $size) }}
   {{ end }}
 {{- end }}
 {{- $content := .Plain | truncate 500 | jsonify }}
