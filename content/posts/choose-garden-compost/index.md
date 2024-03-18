@@ -19,7 +19,7 @@ There are a few key reasons to add compost to your garden:
 
 Compost adds organic matter (humus) that improves the structure of both sandy soils and clay soils. It also provides food for beneficial organisms, such as earthworms, that work to improve the health of your soil.
 
-Compost also can contain key nutrients that plants need to grow. The amount of nutrients contained in the compost depends on the materials used to make it- most types of compost contain relatively low nutrient concentrations. Compost releases nutrients gradually over time
+Compost also can contain key nutrients that plants need to grow. The amount of nutrients contained in the compost depends on the materials used to make it- many types of compost contain relatively low nutrient concentrations.
 
 Compost also makes a great mulch which can help your soil retain moisture and, when applied in a layer several inches thick, can help to suppress weeds.
 
