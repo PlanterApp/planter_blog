@@ -29,7 +29,7 @@ Depending on which of these benefits you're aiming for, you'll want to choose a 
 
 ## Types of Compost
 
-Keeping in mind the various ways we can use compost to improve our garden soil, let's delve into some commonly available types of compost and their uses:
+Keeping in mind the various ways we can use compost in the garden, let's delve into some commonly available types of compost and their uses:
 
 ### Manure-based composts (including bagged manure)
 
