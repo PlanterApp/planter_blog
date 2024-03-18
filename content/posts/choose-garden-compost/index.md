@@ -23,7 +23,9 @@ Compost also can contain key nutrients that plants need to grow. The amount of n
 
 Compost also makes a great mulch which can help your soil retain moisture and, when applied in a layer several inches thick, can help to suppress weeds.
 
-Depending on which of these benefits you're aiming for, you'll want to choose a compost (or combination of composts) accordingly. For example if you're using compost as a nutrient source, you'll likely want to look for composted animal manures that have higher nutrient concentrations. On the flip side if you're planning to apply compost as a mulch, you'll likely use a municipal or homemade compost which contains high levels of organic matter but is not as nutrient dense as animal manures.
+Depending on which of these benefits you're aiming for, you'll want to choose a compost (or combination of composts) accordingly. For example if you're using compost as a nutrient source, you'll likely want to look for composted animal manures that have higher nutrient concentrations. On the flip side if you're planning to apply compost as a mulch, you'll might choose a municipal or homemade compost which contains high levels of organic matter but is lighter on nutrients.
+
+![A pair of hands holding rich dark brown garden soil with soil in the background](https://ucarecdn.com/7fe54792-0d51-499a-bf9b-980f7c00b709/Hands-with-soil.jpg)
 
 ## Types of Compost
 
@@ -39,11 +41,11 @@ Manure-based composts can be sold in bulk (see 'commercial compost' below) or in
 
 ### Mushroom compost
 
-Mushroom compost is a type of commercial compost that consists of the leftover growing material from mushroom farms. It is a combination of aged manure, straw, and gypsum. Mushroom compost, like straight manure-based compost, is good source of both organic matter and some nutrients. You may find mushroom compost sold as a bagged product or available in bulk from a mushroom farm. There is some concern about 'high salts' in mushroom compost, however this is a myth. If you have access to mushroom compost it is a good soil amendment.
+Mushroom compost is a type of commercial compost that consists of growing material from mushroom farms. It is typically a combination of aged manure, straw, and gypsum. Mushroom compost is good source of both organic matter and some nutrients. You can find mushroom compost sold as a bagged product or available in bulk from a mushroom farm. If you have access to mushroom compost it is a good soil amendment or mulch.
 
 ### Vermicompost
 
-Vermicompost, or vermicast, is not really a compost but a byproduct of the worms' digestive process. Vermicompost typically comes in smaller quantities as a bagged product and is relatively pricey compared to other types of compost. However it has a higher nutrient concentration and as such can be incorporated as a nutritious (yet gentle) amendment in particular for seed starting and container gardening.
+Vermicompost, or worm castings, is not technically a compost but a byproduct of the worms' digestive process as they digest organic materials. Vermicompost typically comes in smaller quantities as a bagged product and can be pricey compared to other types of compost (unless you make your own). It may not be sensible to use as a soil amendment in large quantities, but can useful in smaller areas, containers, and added to seed starting mix for a boost of organic matter and a light dose of nutrients.
 
 ### Leaf mold
 
@@ -51,27 +53,27 @@ Leaf mold sounds like a kind of fungus or disease, but it's just decomposed dry 
 
 ![A garden shovel holding compost surrounded by leaves](https://ucarecdn.com/306722b4-de74-4c8c-97e1-35bf61bf65e7/Leaf-compost.jpg)
 
-### Municipal and commercial compost
+### Municipal and commercial bulk compost
 
-Municipal and commercial composts are typically available in bulk and are relatively inexpensive, or in the case of municipal compost often free. Municipal compost is typically the result of local 'green bin' programs where kitchen scraps and yard waste are broken down at high temperatures that will destroy weed seeds and pathogens. In this way it is somewhat similar to homemade compost. Commercial compost on the other hand can be from a number of sources, often having manure as one of the components, and the decomposition process may be highly sophisticated or not depending on the supplier. Municipal compost is generally relatively low in nutrients but can be used to improve soil structure or makes an excellent mulch when applied thickly. Nutrient levels in commercial compost will vary depending on the source materials. In either case for peace of mind you may want to ask for the test results as large-scale producers will regularly test their compost to ensure it is free of contaminants and to asses nutrient levels, and don't be afraid to ask questions to avoid getting a harmful compost (more on this in the next section).
+Municipal compost is generally produced by collecting kitchen scraps and/or yard waste from the local community and decomposing it at a high temperature to destroy weed seeds and pathogens.  Commercial bulk compost on the other hand can come from a number of sources, often with manure as one of the components, and the decomposition process can vary depending on the supplier. Municipal compost is generally relatively low in nutrients and can be used to improve soil structure or as a mulch. Nutrient levels in commercial compost will vary depending on the source materials- be sure to ask questions about the inputs, the nutrient analysis, and composting process before applying it to your garden.
 
 ### Home compost
 
-Composting at home is an easy an inexpensive way to have a compost source for your garden. Home compost is typically lower in nutrients than manure-based composts, however it's a great source of organic matter for your soil. Homemade compost can also be used as a deep mulch however depending on the size of your property and how much input material you're able to collect it may be challenging to produce in large enough quantities. For more information the basics of composting and on how to compost at home check out [Compost: Add Life to Your Garden](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
+Composting at home is an easy an inexpensive way to have a compost source for your garden. Home compost is typically lower in nutrients than manure-based composts, however it's a great source of organic matter to incorporate into your soil. Homemade compost can also be used as a deep mulch however depending on the size of your property and how much input material you're able to collect it may be challenging to produce in large enough quantities. For more information the basics of composting and on how to compost at home check out [Compost: Add Life to Your Garden](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
 
 ![Three compost bins made with different materials side-by-side with a garden fork in the foreground and a hedge in the background](https://ucarecdn.com/45d916c3-82f1-4c36-8335-fb5a10b5ba49/Home-compost-bins.jpg)
 
 ## Things to watch out for when buying compost
 
-Unfortunately, sometimes adding compost to your garden can do more harm than good. Here are some things to watch out for when purchasing compost to ensure it won't harm your garden:
+Unfortunately, sometimes adding compost to your garden can do more harm than good. Here are some things to watch out for when purchasing compost:
 
 ### Unfinished compost
 
-Unfinished compost poses a risk to your garden because if the composting process has not fully completed it can actually 'lock up' nutrients that your plants need and as a result can cause deficiencies. Additionally if the compost generates heat while it is breaking down this heat can actually harm your plants as well. Unfinished compost is generally a higher risk for newly germinated plants and seedlings, and is also more detrimental when it is incorporated into the soil versus sprinkled on top. If you're making your own compost at home be sure to check that the compost is ready - it should be dark brown, smell 'earthy', and should not have many large un-composted 'chunks'. For commercial compost be sure to ask questions about their composting process so you can satisfy yourself that you are getting a well-aged compost product. Bagged compost and municipal compost should be fully broken down so you don't need to worry.
+Unfinished compost poses a risk to your garden because if the composting process has not fully completed it can 'lock up' nutrients that your plants need and cause deficiencies. Also as the compost generates heat while it breaks down this heat can harm your plants. If you're making your own compost at home be sure that the compost is ready before using it - it should be dark brown, smell 'earthy', and should not have large un-composted pieces of material. Bagged compost and municipal compost is typically fully broken down so you don't need to worry. For commercial bulk compost, be sure to ask questions about their process so you can satisfy yourself that you are getting compost that is ready to be used. 
 
 ### Weed seeds and disease
 
-Both homemade compost and manure-based composts may contain weed seeds or plant pathogens if they have not been composted correctly such that the compost 'heats up' and kills them. For your homemade compost if you're not confident that you're able to manage your pile such that it will heat up (to x degrees) you may want to avoid putting weeds with seed heads or diseased plant material in. For commercial compost be sure to inquire about their process to ensure you will not get a compost full of weed seeds.
+Both homemade compost and manure-based composts may contain weed seeds or plant pathogens if they have not been composted correctly such that the compost 'heats up' and kills them. For your homemade compost if you're not confident that you're able to manage your pile such that it will heat up (to x degrees) you may want to avoid putting weeds with seed heads or diseased plant material in. For commercial bulk compost, inquire about the composting process to ensure you will not get compost full of weed seeds.
 
 ### Persistent herbicides
 
@@ -79,6 +81,6 @@ There has been a lot of talk lately of gardeners receiving composts containing a
 
 ### Mulchy compost
 
-Mulchy compost is a variation on unfinished compost, but it is worth mentioning separately. There are some commercial compost producers who will add shredded wood chips to their compost product - often mixed with manure. While the compost may be aged enough so the manure is fully decomposed and won't burn your plants, there may still be significant quantities of wood chips in the mix that have not yet broken down. This product is often intended to be used as a mulch on flower beds or in landscaping, but if it is applied to the soil surface and subsequently incorporated into the soil it can lock up nitrogen and cause nutrient deficiencies. Again it's important to ask questions of your compost supplier, and possibly run a test if the material you receive seems to contain a lot of woody material.
+There are some commercial bulk compost producers who add shredded wood chips to their compost product. While this compost may be aged enough so the manure is decomposed, there may still be significant quantities of wood chips in the mix that have not fully broken down. This product is often intended to be used as a mulch on flower beds or in landscaping, but if it's applied to a veggie garden and subsequently incorporated into the soil it may lock up nitrogen and cause nutrient deficiencies. Again it's important to ask questions of your compost supplier, and test the compost if you have concerns.
 
-The next time you go to add 'compost' to your garden, give some consideration to how you intend to use it and chose the right material accordingly (PS. you can always use more than one!) By doing this you'll not only avoid potential heartache of using the wrong compost, but you'll be able to maximize the benefits of compost for the health of your plants!
+The next time you go to add 'compost' to your garden, give some consideration to how you intend to use it and chose the right material accordingly. By doing this you'll not only avoid potential heartache of using the wrong compost, but you'll be able to maximize the benefits of compost for the health of your plants!
