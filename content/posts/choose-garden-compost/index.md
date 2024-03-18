@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Choose the Right Compost for your Garden"
+title = "Choose the Right Compost for Your Garden"
 slug = "choose-garden-compost"
 date = 2024-03-17T18:42:51.461Z
 author = "Erin Thomson"
