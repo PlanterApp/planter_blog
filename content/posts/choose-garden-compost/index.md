@@ -33,9 +33,9 @@ Keeping in mind the various ways we can use compost in the garden, let's delve i
 
 ### Manure-based composts (including bagged manure)
 
-Manure-based composts often consist of decomposed cow, horse, or sheep dung along with the bedding material. While there are slight differences in nutrient concentrations and organic matter, manure from these animals is generally interchangeable so long as they are well decomposed. Manure-based composts provide both a good source of organic matter that can help improve soil structure, as well as nutrients to gradually feed your plants. They are often worked directly into the soil as an amendment.
+Manure-based composts often consist of decomposed cow, horse, or sheep dung along with the bedding material (and possibly other inputs). While there are slight differences in nutrient concentrations and organic matter, manure from these animals is generally interchangeable so long as they are well decomposed. Manure-based composts provide both a good source of organic matter that can help improve soil structure, as well as nutrients to gradually feed your plants. They are often worked directly into the soil as an amendment.
 
-There are also composted poultry (chicken, turkey) manures available which provide a highly concentrated dose of nutrients and are used as a fertilizer moreso than a soil amendment. 
+There are also composted poultry (chicken, turkey) manures available which provide a highly concentrated dose of nutrients and are used as a fertilizer moreso than a soil amendment.
 
 Manure-based composts can be sold in bulk (see 'commercial compost' below) or in bags at your local garden center. Composted poultry manure is sometimes sold as pellets.
 
@@ -59,7 +59,7 @@ Municipal compost is generally produced by collecting kitchen scraps and/or yard
 
 ### Home compost
 
-Composting at home is an easy an inexpensive way to have a compost source for your garden. Home compost is typically lower in nutrients than manure-based composts, however it's a great source of organic matter to incorporate into your soil. Homemade compost can also be used as a deep mulch however depending on the size of your property and how much input material you're able to collect it may be challenging to produce in large enough quantities. For more information the basics of composting and on how to compost at home check out [Compost: Add Life to Your Garden](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
+Composting at home is an easy an inexpensive way to have a compost source for your garden. Home compost is typically lower in nutrients than manure-based composts, however it's a great source of organic matter to incorporate into your soil. Homemade compost can also be used as a deep mulch however depending on how much input material you're able to collect it may be challenging to produce in large enough quantities. For more information the basics of composting and on how to compost at home check out [Compost: Add Life to Your Garden](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
 
 ![Three compost bins made with different materials side-by-side with a garden fork in the foreground and a hedge in the background](https://ucarecdn.com/45d916c3-82f1-4c36-8335-fb5a10b5ba49/Home-compost-bins.jpg)
 
