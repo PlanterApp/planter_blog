@@ -11,27 +11,31 @@ image = "https://ucarecdn.com/6c100f1f-eba3-4373-b7f1-c31604cda5cb/Compost-garde
 caption = ""
 alt = "A black bucket with food scraps spilling out onto a garden bed with a pitchfork and chard plant beside it"
 +++
-Most gardeners know that it's a good idea to add compost to your garden. Compost helps improve soil structure, provides food for beneficial critters in the soil, and is a good slow-release source of nutrients that plants need. The tricky part about 'compost' is it's a catch-all term for many types of decomposed organic materials. Compost usually conjures up the image of a homemade compost pile with kitchen scraps and yard clippings, but there are also bagged composts, animal manure-based composts, municipal compost, and some speciality types of compost. It's enough to make your head spin! So as a gardener how do you know which type of compost is best for your garden? The first step is to know what you want to achieve when adding compost.[](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
+Most gardeners know that it's a good idea to add compost to the garden. Compost helps improve soil structure, feeds beneficial critters in the soil, and provides a slow-release source of nutrients that plants need. The tricky part about 'compost' is it's a catch-all term for many types of decomposed organic materials. Compost usually calls to mind the image of a homemade compost pile with kitchen scraps and yard clippings, but there's also animal manure compost, municipal compost, worm compost, and more. It's enough to make your head spin! How do you know which type of compost is best for your garden? The first step is to know what you want to achieve when adding compost.[](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
 
 ## Ways to use compost in the garden
 
 There are a few key reasons to add compost to your garden:
 
-Compost adds organic matter (humus) that improves the soil structure. Sandy soils tend to drain water too quickly and leach nutrients and clay can become water-logged. Compost helps the soil hold onto the optimal amount of moisture for plants. It provides food for beneficial organisms, such as earthworms, that work to improve the health of your soil and it also contains beneficial bacteria and fungi that help your plants to uptake water and nutrients.
+Compost adds organic matter (humus) that improves the structure of both sandy soils and clay soils. It also provides food for beneficial organisms, such as earthworms, that work to improve the health of your soil.
 
-It contains key nutrients that plants need to grow. Fully broken-down compost does not have high concentrations of nutrients, but the nutrients it does contain are released gradually so your plants can uptake them over time. Compost can also be a good source of trace nutrients that your plants need.
+Compost also can contain key nutrients that plants need to grow. The amount of nutrients contained in the compost depends on the materials used to make it- most types of compost contain relatively low nutrient concentrations. Compost releases nutrients gradually over time
 
-Compost also makes a great mulch which can help your garden soil retain moisture and, when applied thick enough, can help to suppress weeds.
+Compost also makes a great mulch which can help your soil retain moisture and, when applied in a layer several inches thick, can help to suppress weeds.
 
-Depending on which of these benefits you are aiming for, you'll want to choose your compost accordingly. For example if you're using compost as a nutrient source, you'll likely want to look for composted animal manures that will have higher nutrient concentrations. On the flip side if you're looking to apply compost as a mulch, because you're going to put on a large quantity (4" layer or more) you'll likely be leaning towards a municipal or homemade compost which contains high levels of organic matter but is not as nutritionally 'strong' as an animal manure.
+Depending on which of these benefits you're aiming for, you'll want to choose a compost (or combination of composts) accordingly. For example if you're using compost as a nutrient source, you'll likely want to look for composted animal manures that have higher nutrient concentrations. On the flip side if you're planning to apply compost as a mulch, you'll likely use a municipal or homemade compost which contains high levels of organic matter but is not as nutrient dense as animal manures.
 
 ## Types of Compost
 
-Now that we know the ways we can use compost to improve our garden, let's delve into some common types of compost available and their uses:
+Keeping in mind the various ways we can use compost to improve our garden soil, let's delve into some commonly available types of compost and their uses:
 
 ### Manure-based composts (including bagged manure)
 
-Manure-based composts typically consist of decomposed cow, horse, or sheep dung along with their bedding material. There are also poultry manure products available, however these are typically highly concentrated so they're not adding a lot of organic material but there are a good source of nutrients. Manure-based composts may be sold in bulk (see 'commercial composts') or in bags at your local big box store or garden center. Manure-based composts provide both a good source of organic matter that can help improve soil structure, as well as a good source of slow-release nutrients for your plants- as such they are often incorporated directly into the soil. Some say that cow manure is less likely to contain weed seeds because of the cow's digestive system, however if the compost was fully heated up this is not an issue (confirm).
+Manure-based composts often consist of decomposed cow, horse, or sheep dung along with the bedding material. While there are slight differences in nutrient concentrations and organic matter, manure from these animals is generally interchangeable so long as they are well decomposed. Manure-based composts provide both a good source of organic matter that can help improve soil structure, as well as nutrients to gradually feed your plants. They are often worked directly into the soil as an amendment.
+
+There are also composted poultry (chicken, turkey) manures available which provide a highly concentrated dose of nutrients and are used as a fertilizer moreso than a soil amendment. 
+
+Manure-based composts can be sold in bulk (see 'commercial compost' below) or in bags at your local garden center. Composted poultry manure is sometimes sold as pellets.
 
 ### Mushroom compost
 
@@ -39,7 +43,7 @@ Mushroom compost is a type of commercial compost that consists of the leftover g
 
 ### Vermicompost
 
-Vermicompost, or vermicastings, is not really a compost but a byproduct of the worms' digestive process (essentially, worm poop). Vermicompost typically comes in smaller quantities as a bagged product and is relatively pricey compared to other types of compost. However it has a higher nutrient concentration and as such can be incorporated as a nutritious (yet gentle) amendment in particular for seed starting and container gardening.
+Vermicompost, or vermicast, is not really a compost but a byproduct of the worms' digestive process. Vermicompost typically comes in smaller quantities as a bagged product and is relatively pricey compared to other types of compost. However it has a higher nutrient concentration and as such can be incorporated as a nutritious (yet gentle) amendment in particular for seed starting and container gardening.
 
 ### Leaf mold
 
