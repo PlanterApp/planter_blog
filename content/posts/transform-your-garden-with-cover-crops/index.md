@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Transform Your Garden With Cover Crops"
 slug = "Transform Your Garden With Cover Crops"
 date = 2024-03-19T17:00:00.000Z
@@ -49,6 +49,8 @@ Before planting cover crops, clear the area of any debris or weeds. Optionally y
 
 Purchase high-quality cover crop seeds from a reputable supplier and follow the instructions on the seed container for the recommended seeding rate and depth. While you can buy pre-mixed cover crop seeds, you can also purchase individual cover crops and mix them later. Doing so allows you to mix the exact varieties and amounts to meet your needs. 
 
+![](https://ucarecdn.com/36527850-b9d4-4c8e-8042-16bcda63d99c/hand_broadcasting.JPG)
+
 #### Planting method
 
 For the small vegetable grower, the best and easiest method is just good 'ol fashioned broadcasting. This involves spreading seeds evenly across your growing area and then watering them in. You can do this with a hand-crank spreader or you can simply spread the seeds by hand.
@@ -60,6 +62,10 @@ Cover your newly spread seeds with a thin layer of compost after they are watere
 **Pro Tip #2**
 
 You can optionally soak your seeds in water for 12 - 24 hours before planting. This will shave a day or two off of the germination time and reduces the amount of watering you will need to do to get your cover crop established. 
+
+
+
+![](https://ucarecdn.com/de1e2b12-b0da-43b0-bbed-281cb87e92a8/termination%20collage.png)
 
 ## Managing Cover Crops for Maximum Benefits
 
