@@ -31,11 +31,11 @@ Legume cover crops, such as crimson clover and hairy vetch, are excellent choice
 
 #### Grasses
 
-Grass cover crops, like rye and oats, are great for adding organic matter to the soil. They have deep root systems that help break up compacted soil, improve drainage, and prevent erosion. Grasses also act as green manure, enriching the soil with essential nutrients as they decompose. As with all cover crops it's important to use annual and not perennials. Otherwise, you will turn your entire garden into a yard. :)
+Grass cover crops, like rye and oats, are great for adding organic matter to the soil. They have deep root systems that help break up compacted soil, improve drainage, and prevent erosion. Grasses also act as green manure, enriching the soil with essential nutrients as they decompose. As with all cover crops it's important to use annuals and not perennials. Otherwise, you will turn your entire garden into a yard. :)
 
 #### Brassicas
 
-Brassica cover crops, such as mustard and radish, are known for their bio-fumigation properties. When these plants are terminated and left to break down into the soil, they release natural compounds that suppress soil-borne pests and diseases. Brassicas also help improve soil structure by penetrating deep into the ground with their taproots.
+Brassica cover crops, such as mustard and radish, are known for their bio-fumigation properties. When these plants are terminated and left to break down into the soil, they release natural compounds that suppress soil-borne pests and diseases. Brassicas also help improve soil structure by penetrating deep into the soil with their taproots.
 
 ## Planting and Growing Cover Crops in Your Vegetable Garden
 
@@ -63,8 +63,6 @@ Cover your newly spread seeds with a thin layer of compost after they are watere
 
 You can optionally soak your seeds in water for 12 - 24 hours before planting. This will shave a day or two off of the germination time and reduces the amount of watering you will need to do to get your cover crop established. 
 
-
-
 ![](https://ucarecdn.com/de1e2b12-b0da-43b0-bbed-281cb87e92a8/termination%20collage.png)
 
 ## Managing Cover Crops for Maximum Benefits
@@ -73,11 +71,11 @@ To maximize the benefits of cover crops, proper management is key. Be sure to co
 
 #### Timing of termination
 
-Cover crops should be terminated before they set seed or become too mature. This ensures that they do not compete with your vegetable plants for resources or become a nuisance. The best time to terminate a cover crop is when it begins to flower. At this stage most cover crops begin to put all of their resources into seed creation and terminating them at this stage helps to ensure they will not regrow. 
+Cover crops should be terminated before they set seed or become too mature. This ensures that they do not compete with your vegetable plants for resources or become a nuisance. The best time to terminate a cover crop is when it begins to flower. At this stage most cover crops begin to dedicate a lot of their resources into seed creation and terminating them at this point helps to ensure they will not regrow. 
 
 #### Termination methods
 
-There are 3 main methods for terminating cover crops which are mowing, tilling, or winter kill. The first two are referred to as mechanical termination and the last is simply using the cold winter temperatures to terminate crops for you. If your area receives sufficiently cold winter weather, winter kill is a viable option for certain types of cover crops however if you live in a place where it does not get cold enough to kill your cover crop then you will need to use mechanical termination. 
+There are 3 main methods for terminating cover crops which are mowing, tilling, or winter kill. The first two are referred to as mechanical termination and the last is simply using the cold winter temperatures to terminate crops for you. If your area receives sufficiently cold winters, winter kill is a viable option for you. However if you live in a place where winters usually do not get cold enough to kill your cover crop, or it can withstand very cold temperatures like crimson clover, then you will need to use mechanical termination in the spring. 
 
 #### Incorporation into the soil
 
