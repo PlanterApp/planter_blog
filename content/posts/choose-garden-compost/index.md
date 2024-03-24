@@ -65,7 +65,7 @@ Composting at home is an easy and inexpensive way to have a compost source for y
 
 ## Things to watch out for when buying compost
 
-Unfortunately, sometimes adding compost to your garden can do more harm than good. Here are some things to watch out for when purchasing compost:
+Unfortunately, sometimes adding compost to your garden can do more harm than good. Here are some things to watch out for when choosing a compost:
 
 ### Unfinished compost
 
