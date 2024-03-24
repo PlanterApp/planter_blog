@@ -17,7 +17,7 @@ Most gardeners know that it's a good idea to add compost to the garden. Compost 
 
 There are a few key reasons to add compost to your garden:
 
-Compost adds organic matter that improves the structure of both sandy soils and clay soils. It also provides food for beneficial organisms, such as earthworms, that work to improve the health of your soil.
+Compost adds organic matter that improves the structure of both sandy soils and clay soils. It also provides food for beneficial organisms that improve the health of your soil.
 
 Compost can provide a slow-release source of key nutrients that plants need. The amount of nutrients contained in the compost depends on the materials used to make it. Many types of compost contain relatively low nutrient concentrations.
 
