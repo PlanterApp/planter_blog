@@ -81,6 +81,6 @@ There have been some stories lately of gardeners receiving composts containing p
 
 ### Compost with wood shavings
 
-Some bulk compost producers add wood shavings to their manure compost. While this compost may be aged enough so the manure is decomposed, there can still be significant quantities of wood shavings in the mix that have not fully broken down. This product may be better suited as a mulch on flower beds or in landscaping- if it's applied to a veggie garden and incorporated into the soil it might lock up nitrogen and cause nutrient deficiencies. Again it's important to ask questions of your supplier and test the compost if you have concerns.
+Some bulk compost producers add wood shavings to their manure compost. While this compost may be aged enough so the manure is decomposed, there can still be significant quantities of wood shavings in the mix that have not fully broken down. This product may be better suited as a landscaping mulch- if it's applied to a veggie garden and incorporated into the soil it might lock up nitrogen and cause nutrient deficiencies. Again it's important to ask questions of your supplier and test the compost if you have concerns.
 
 The next time you go to add compost to your garden, give some consideration to how you intend to use it and choose the right material accordingly. By doing this you'll not only avoid potential heartache of using the wrong compost, but you'll be able to maximize the benefits of compost for the health of your plants!
