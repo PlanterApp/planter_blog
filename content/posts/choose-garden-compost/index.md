@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Choose the Right Compost for Your Garden"
 slug = "choose-garden-compost"
-date = 2024-03-24T01:37:43.824Z
+date = 2024-03-24T14:29:39.042Z
 author = "Erin Thomson"
 
 [cover]
@@ -33,7 +33,7 @@ Keeping in mind the various ways we can use compost in the garden, let's delve i
 
 ### Manure-based composts (including bagged manure)
 
-Manure-based composts often consist of decomposed cow, sheep, or horse dung along with the bedding material (and possibly other inputs). While there are slight differences in nutrient concentrations and organic matter levels, manure from these animals is generally interchangeable so long as it is well decomposed. Manure-based composts provide both a good source of organic matter that can help improve soil structure as well as a dose of nutrients. They are often incorporated directly into the soil as an amendment or could be used as a mulch.
+Manure-based composts often consist of decomposed cow, sheep, or horse dung along with the bedding material. While there are slight differences in nutrient concentrations and organic matter levels, manure from these animals is generally interchangeable so long as it is well decomposed. Manure-based composts provide both a good source of organic matter that can help improve soil structure as well as a dose of nutrients. They are often incorporated directly into the soil as an amendment or could be used as a mulch.
 
 There are also composted poultry (chicken, turkey) manures available which provide a more highly concentrated dose of nutrients. These are used primarily as fertilizers rather than soil amendments.
 
@@ -41,11 +41,11 @@ Manure-based composts can be sold in bulk (see 'commercial compost' below) or in
 
 ### Mushroom compost
 
-Mushroom compost is a type of commercial compost that consists of growing material from mushroom farms. It is typically a combination of aged manure, straw, and gypsum. Mushroom compost is good source of both organic matter and some nutrients. You can find mushroom compost sold as a bagged product or available in bulk from a mushroom farm. If you have access to mushroom compost it is a good soil amendment. There is mixed information about mushroom compost containing 'high levels of salts' that could harm plants- some sources say it's a concern, others say it's no different than any manure-based compost. To be extra-cautious you could start with smaller doses or experiment with it in one area of your garden.
+Mushroom compost is a type of commercial compost that consists of growing material from mushroom farms. It is typically a combination of aged manure, straw, and gypsum. Mushroom compost is good source of both organic matter and some nutrients. You can find mushroom compost sold as a bagged product or available in bulk from a mushroom farm. If you have access to mushroom compost it is a good soil amendment. There is mixed information about mushroom compost containing 'high levels of salts' that could harm plants- some sources say it's a concern, others say it's no different than any manure-based compost. To be cautious you could start with smaller doses or experiment in a small area of your garden.
 
 ### Worm compost (vermicompost)
 
-Vermicompost, also called worm castings, is not technically a compost but a byproduct of the digestive process of specific types of worms as they break down organic materials. Vermicompost typically comes in smaller quantities as a bagged product and can be pricey compared to other types of compost (unless you make your own!) It may not make sense to use as a soil amendment in large quantities, but can useful in smaller areas, raised beds, containers, and added in seed starting mixes.
+Vermicompost, also called worm castings, is not technically a compost but a byproduct of the digestive process of specific types of worms as they break down food waste and other organic materials. Vermicompost typically comes in smaller quantities as a bagged product and can be pricey compared to other types of compost (unless you make your own!) It may not make sense to use as a soil amendment in large quantities, but can be incorporated in smaller areas, containers, and in seed starting mixes to add a boost of organic matter, microbes, and a light dose of nutrients.
 
 ### Leaf mold
 
