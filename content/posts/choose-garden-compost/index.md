@@ -69,7 +69,7 @@ Unfortunately, sometimes adding compost to your garden can do more harm than goo
 
 ### Unfinished compost
 
-Unfinished compost poses a risk to your garden because if the composting process has not fully completed it can 'lock up' nutrients that your plants need and cause deficiencies. Also as the compost may continue to generate heat as it breaks down that can harm your plants. If you're making your own compost at home be sure that the compost is ready before using it - it should be dark brown, smell 'earthy', and should not have large un-composted pieces of material. Bagged compost and municipal compost is typically fully broken down. For commercial bulk compost, be sure to ask questions about the process so you can satisfy yourself that you're getting compost that's ready to be used. 
+Unfinished compost poses a risk to your garden because if the composting process has not fully completed it can 'lock up' nutrients that your plants need and cause deficiencies. Also the compost may continue to generate heat as it breaks down that can harm your plants. If you're making your own compost at home be sure that the compost is ready before using it - it should be dark brown, smell 'earthy', and should not have large un-composted pieces of material. Bagged compost and municipal compost is typically fully broken down. For commercial bulk compost, be sure to ask questions about the process so you can satisfy yourself that you're getting compost that's ready to be used. 
 
 ### Weed seeds and disease
 
