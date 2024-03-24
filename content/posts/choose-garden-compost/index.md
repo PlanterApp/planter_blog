@@ -41,7 +41,7 @@ Manure-based composts can be sold in bulk (see 'commercial compost' below) or in
 
 ### Mushroom compost
 
-Mushroom compost is a type of commercial compost that consists of growing material from mushroom farms. It is typically a combination of aged manure, straw, and gypsum. Mushroom compost is good source of both organic matter and some nutrients. You can find mushroom compost sold as a bagged product or available in bulk from a mushroom farm. If you have access to mushroom compost it is a good soil amendment. There is mixed information about mushroom compost containing 'high levels of salts' that could harm plants- some sources say it's a concern, others say it's no different than any manure-based compost. To be cautious you could start with smaller doses or experiment in a small area of your garden.
+Mushroom compost is a type of commercial compost that consists of growing material from mushroom farms. It is typically a combination of aged manure, straw, and gypsum. Mushroom compost is a good source of both organic matter and some nutrients. You can find mushroom compost sold as a bagged product or available in bulk from a mushroom farm. If you have access to mushroom compost it is a good soil amendment. There is mixed information about mushroom compost containing 'high levels of salts' that could harm plants- some sources say it's a concern, others say it's no different than any manure-based compost. To be cautious you could start with smaller doses or experiment in a small area of your garden.
 
 ### Worm compost (vermicompost)
 
@@ -83,4 +83,4 @@ There have been some stories lately of gardeners receiving composts containing p
 
 Some bulk compost producers who add wood shavings to their compost. While this compost may be aged enough so the manure is decomposed, there can still be significant quantities of wood shavings in the mix that have not fully broken down. This product may be better suited as a mulch on flower beds or in landscaping- if it's applied to a veggie garden and incorporated into the soil it might lock up nitrogen and cause nutrient deficiencies. Again it's important to ask questions of your supplier and test the compost if you have concerns.
 
-The next time you go to add compost to your garden, give some consideration to how you intend to use it and chose the right material accordingly. By doing this you'll not only avoid potential heartache of using the wrong compost, but you'll be able to maximize the benefits of compost for the health of your plants!
+The next time you go to add compost to your garden, give some consideration to how you intend to use it and choose the right material accordingly. By doing this you'll not only avoid potential heartache of using the wrong compost, but you'll be able to maximize the benefits of compost for the health of your plants!
