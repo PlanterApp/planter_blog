@@ -31,7 +31,7 @@ Depending on which of these benefits you're aiming for, you'll want to choose a 
 
 Keeping in mind the various ways we can use compost in the garden, let's delve into some of the commonly available types of compost and their uses:
 
-### Manure-based composts (including bagged manure)
+### Manure-based compost (including bagged manure)
 
 Manure-based composts often consist of decomposed cow, sheep, or horse dung along with the bedding material. While there are slight differences in nutrient concentrations and organic matter levels, manure from these animals is generally interchangeable so long as it is well decomposed. Manure-based composts provide both a good source of organic matter that can help improve soil structure as well as a dose of nutrients. They are often incorporated directly into the soil as an amendment or could be used as a mulch.
 
