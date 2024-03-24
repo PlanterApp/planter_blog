@@ -63,7 +63,7 @@ Composting at home is an easy and inexpensive way to have a compost source for y
 
 ![Three compost bins made with different materials side-by-side with a garden fork in the foreground and a hedge in the background](https://ucarecdn.com/45d916c3-82f1-4c36-8335-fb5a10b5ba49/Home-compost-bins.jpg)
 
-## Things to watch out for when buying compost
+## Things to watch out for in compost
 
 Unfortunately, sometimes adding compost to your garden can do more harm than good. Here are some things to watch out for when choosing a compost:
 
