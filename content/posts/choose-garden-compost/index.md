@@ -77,7 +77,7 @@ Both homemade compost and manure-based composts may contain weed seeds or plant 
 
 ### Persistent herbicides
 
-There have been some stories lately of gardeners receiving composts containing persistent broadleaf herbicides - aminopyralid, clopyralid, and picloram. Persistent herbicides can contaminate manure-based composts as they can pass through the animals' digestive systems and can be found in the bedding materials. They are not eliminated in the composting process. Persistent herbicide-laced compost can be a disaster for your garden as without remediation it can prevent some plants from growing properly for up to several years. Ask detailed questions of your supplier to satisfy yourself that their input materials do not contain these types of herbicides. NC State Extension has [an excellent article on this issue](https://content.ces.ncsu.edu/herbicide-carryover) including detailed steps to assess and test your compost.
+There have been some stories lately of gardeners receiving composts containing persistent broadleaf herbicides - aminopyralid, clopyralid, and picloram. Persistent herbicides can contaminate manure-based composts as they can pass through the animals' digestive systems and can be found in the bedding materials. They are not eliminated in the composting process. Persistent herbicide-laced compost can be a disaster for your garden as without remediation it can prevent some plants from growing properly for up to several years. Ask your supplier about their source materials to make sure they do not contain these types of herbicides. NC State Extension has [an excellent article on this issue](https://content.ces.ncsu.edu/herbicide-carryover) including detailed steps to assess and test your compost.
 
 ### Compost with wood shavings
 
