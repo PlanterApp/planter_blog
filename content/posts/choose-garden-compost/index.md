@@ -55,7 +55,7 @@ Leaf mold sounds like a kind of fungus or disease, but it's just decomposed dry 
 
 ### Municipal and commercial bulk compost
 
-Municipal compost is produced by collecting kitchen scraps and/or yard waste from the local community and making sure the compost 'heats up' to destroy weed seeds and pathogens. Municipal compost is typically tested to ensure it meets local standards for contaminants, pathogens, foreign materials, and maturity. Commercial bulk compost on the other hand can come from a number of sources, often with manure as one of the components, and how well decomposed it is can vary depending on the supplier's process. Municipal compost is a great resource to help improve soil structure or use as a mulch, but it's typically low in nutrients. Nutrient levels in commercial compost will depend on the source materials. Be sure to ask questions about the inputs, the nutrient analysis, and composting process before applying bulk compost to your garden.
+Municipal compost is produced by collecting kitchen scraps and/or yard waste from the local community and making sure the compost 'heats up' to destroy weed seeds and pathogens. Commercial bulk compost on the other hand can come from a number of sources, often with manure as one of the components, and how well decomposed it is can vary depending on the supplier's process. Municipal compost is a great resource to help improve soil structure or use as a mulch, but it's typically low in nutrients. Nutrient levels in commercial compost will depend on the source materials. Be sure to ask questions about the inputs, the nutrient analysis, and composting process before applying bulk compost to your garden.
 
 ### Homemade compost
 
