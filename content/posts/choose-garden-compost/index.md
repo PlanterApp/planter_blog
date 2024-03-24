@@ -27,7 +27,7 @@ Depending on which of these benefits you're aiming for, you'll want to choose a 
 
 ![A pair of hands holding rich dark brown garden soil with soil in the background](https://ucarecdn.com/7fe54792-0d51-499a-bf9b-980f7c00b709/Hands-with-soil.jpg)
 
-## Types of Compost
+## Types of compost
 
 Keeping in mind the various ways we can use compost in the garden, let's delve into some of the commonly available types of compost and their uses:
 
