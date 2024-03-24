@@ -59,7 +59,7 @@ Municipal compost is produced by collecting kitchen scraps and/or yard waste fro
 
 ### Homemade compost
 
-Composting at home is an easy and inexpensive way to have a compost source for your garden. Homemade compost is typically lower in nutrients than manure-based composts, however it's a great source of organic matter to incorporate into your soil. Homemade compost can also be used as a mulch but depending on how much input material you're able to collect it may be challenging to produce in large enough quantities to build up a thick layer. For more information the basics of composting and on how to compost at home check out [Compost: Add Life to Your Garden](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
+Composting at home is an easy and inexpensive way to have a compost source for your garden. Homemade compost is typically lower in nutrients than manure-based composts, however it's a great source of organic matter to incorporate into your soil. Homemade compost can also be used as a mulch but depending on how much input material you're able to collect it may be challenging to produce in large enough quantities to build up a thick layer. For more information the basics of composting and how to compost at home check out [Compost: Add Life to Your Garden](https://blog.planter.garden/posts/compost-add-life-to-your-garden/)
 
 ![Three compost bins made with different materials side-by-side with a garden fork in the foreground and a hedge in the background](https://ucarecdn.com/45d916c3-82f1-4c36-8335-fb5a10b5ba49/Home-compost-bins.jpg)
 
