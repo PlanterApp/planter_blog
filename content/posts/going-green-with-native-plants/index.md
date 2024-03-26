@@ -23,7 +23,7 @@ Humans have been traveling the world with plants for a long time. Sometimes, pla
 
 "Non-native" and "invasive" get mixed up a lot. Not every non-native plant is invasive. Lavender is native to the Mediterranean, but you can find it worldwide now, and it isn’t doing any harm. To be considered “invasive,” a non-native plant needs to cause damage to the ecosystem. An invasive plant can crowd out or take over the local plants. In the southern United States, kudzu, an Asian vine, can grow a foot a day in early summer and smother plants around it. In the Pacific Northwest, English ivy can overwhelm whole forests. Plants labeled as "noxious weeds" can also cause a lot of problems and tend to be non-natives. 
 
-Many plants sold at garden centers are considered non-native and “exotic.” They can survive in our gardens, but they might need extra attention and care. Depending on where you live, non-native plants may have higher water needs, more problems with pests, and a greater nutrient need. More fertilizers, more water, and pest control can mean you use more resources, money, and time to keep them looking their best. That said, there are low-maintenance non-natives. Mediterranean plants like thyme and rosemary are fuss-free if given sufficient drainage. 
+Many plants sold at garden centers are considered non-native and “exotic.” They can survive in our gardens, but they might need extra attention and care. Depending on where you live, non-native plants may have higher water needs, more problems with pests, and a greater nutrient need. Using fertilizers, extra water, and extra pest control can mean you spend more resources, money, and time to keep them looking their best. That said, there are low-maintenance non-natives. Mediterranean plants like thyme and rosemary are fuss-free if given sufficient drainage. 
 
 **By planting more native species you may:**
 
@@ -49,18 +49,18 @@ Native plants help support the native wildlife in your area. Some insects and an
 
 North America has over 100 native species of *Asclepias* or milkweed. Monarch caterpillars rely on milkweed for food. It is the only thing they eat. If you’d like to help protect the monarch butterfly, consider planting some milkweed in your garden; the caterpillars will thank you. 
 
+![A monarch caterpillar on a milkweed leaf](https://ucarecdn.com/b19bd450-502c-44d3-b324-e91fc2c40c75/monarchcaterpillar.jpg)
+
+*It’s good to know that milkweed is toxic to pets and livestock, and humans should avoid touching the sap.*
+
 ![The Planter App has information on how to grow milkweed](https://ucarecdn.com/99303c92-6079-43a1-8577-c9bf3e264179/Screenshot%20(19).png "The Planter app has tips on how to grow milkweed")
 
-*It’s good to know that milkweed is toxic to pets and livestock, and humans should avoid touching the sap.* 
+
 
 ### Save Money
 
-I must admit I’ve wasted a lot of money and time on things I should have never tried to grow. I’ve fallen for some trendy plants that couldn’t tolerate my wet winters or cold snaps. I’ve added more native plants every season, and most are thriving. It’s also been nice not having to “baby” as many plants. 
+I must admit I’ve wasted a lot of money and time on things I should have never tried to grow. I’ve fallen for some trendy plants that couldn’t tolerate my wet winters or cold snaps. I’ve added more native plants every season, and most are thriving. It's nice to have plants that can take care of themselves, for the most part. 
 
 ### Where to Find Native Plants
 
-Interest in gardening with natives is growing, and nurseries are paying attention. Some nurseries focus all of their time on growing native plants. If you garden in the United States, you can find a list of native plants [here](https://nativeplantfinder.nwf.org/Plants). Canadian gardeners can check out this [link](https://pollinatorpartnership.ca/en/find-your-roots). 
-
-![Pink echinacea flowers in bloom](https://ucarecdn.com/686233f6-5cda-4bce-9289-6ae564439b7b/amy-lynn-grover-aa-IOd1Vop8-unsplash.jpg)
-
-Gardening with natives isn’t all or nothing. Many non-natives get along just fine with the local flora and fauna. But if you want to bring your green lifestyle outside, consider adding more natives to your landscape.
+Interest in gardening with natives is growing, and nurseries are paying attention. Some nurseries focus all of their time on growing native plants. If you garden in the United States, you can find a list of native plants [here](https://nativeplantfinder.nwf.org/Plants). Canadian gardeners can check out this [link](https://pollinatorpartnership.ca/en/find-your-roots). Gardening with natives isn’t all or nothing. Many non-natives get along just fine with the local flora and fauna. But if you want to bring your green lifestyle outside, consider adding more natives to your landscape.
