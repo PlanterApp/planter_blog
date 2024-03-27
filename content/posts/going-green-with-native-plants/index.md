@@ -11,7 +11,7 @@ relative = false
 image = "https://ucarecdn.com/c1e49985-9ef5-4f36-8dd9-d8cb573668bc/joshua-j-cotten-Ho93gVTRWW8-unsplash.jpg"
 alt = "Orange and black monarch butterfly on a flower"
 +++
-These days, many of us have chosen to live a more mindful life. We avoid plastic when possible, buy things made with renewable materials, and choose locally grown food. We might even start a veggie garden (yay!). A garden with edibles is a must, but we also want our yards to look great with ornamentals. We can live a "greener" life and have a beautiful landscape by bringing native plants into the garden.
+These days, many of us have chosen to live a more mindful life. We try to use less plastic when possible, buy things made with renewable materials, and choose locally grown food. We might even start a veggie garden (yay!). A garden with edibles is a must, but we also want our yards to look great with ornamentals. We can live a "greener" life and have a beautiful landscape by bringing native plants into the garden.
 
 ### What Does Native Mean
 
@@ -23,13 +23,13 @@ Humans have been traveling the world with plants for a long time. Sometimes, pla
 
 "Non-native" and "invasive" get mixed up sometimes. A lot of invasive plants can be non-native to an area, but not every non-native is automatically invasive.  Lavender is native to the Mediterranean, but you can find it worldwide now, and it isn’t doing any harm. To be considered “invasive,” a non-native plant needs to cause damage to the ecosystem. An invasive plant can crowd out or take over the local plants. In the southern United States, kudzu, an Asian vine, can grow a foot a day in early summer and smother plants around it. In the Pacific Northwest, English ivy can overwhelm whole forests. Plants labeled as "noxious weeds" can also cause a lot of problems and tend to be non-natives. 
 
-Many plants sold at garden centers are considered non-native or “exotic.” They can survive in our gardens, but they might need extra attention and care. Depending on where you live, non-native plants may have higher water needs, more problems with pests, and a greater nutrient need. Using fertilizers, extra water, and chemicals for pest control can mean you spend more resources, money, and time to keep them looking their best. That said, there are low-maintenance non-natives. Mediterranean plants like thyme and rosemary are fuss-free if given sufficient drainage. 
+Many plants sold at garden centers are considered non-native or “exotic.” They can survive in our gardens, but they might need extra attention and care. Depending on where you live, non-native plants may have higher water needs, more problems with pests, and a greater nutrient need. Using fertilizers, extra water, and chemicals for pest control can mean you spend more resources, money, and time to keep them looking their best. That said, there are low-maintenance non-natives.  For example, Mediterranean plants like thyme and rosemary are fuss-free if given sufficient drainage. 
 
 **By planting more native species you may:**
 
 ### Reduce Air Pollution
 
-Native plants tend to need less maintenance to look good, and using powered garden equipment less often means less air pollution. 
+Native plants tend to need less ongoing maintenance to look good, and using powered garden equipment less means reduced air pollution. 
 
 ### Use Less or No Chemicals
 
@@ -57,7 +57,7 @@ North America has over 100 native species of *Asclepias* or milkweed. Monarch ca
 
 ### Save Money
 
-I must admit I’ve wasted a lot of money and time on things I should have never tried to grow. I’ve fallen for some trendy plants that couldn’t tolerate my wet winters or cold snaps. I’ve added more native plants every season, and most are thriving. It's nice to have plants that can take care of themselves, for the most part.  
+I must admit I’ve wasted a lot of money and time on things I should have never tried to grow. I’ve fallen for some trendy plants that couldn’t tolerate my wet winters or cold snaps. I've tried to overwinter some plants only to have them die despite my best effort.  I’ve added more native plants every season, and most are thriving. It's nice to have plants that can take care of themselves, for the most part.  
 
 ### Where to Find Native Plants
 
