@@ -2,7 +2,7 @@
 draft = true
 title = "Going Green with Native Plants"
 slug = "going-green-with-native-plants"
-date = 2024-03-23T00:06:48.166Z
+date = 2024-03-28T17:37:16.053Z
 author = "Samantha Togstad"
 plants = ["milkweed", "echinacea"]
 
@@ -25,23 +25,23 @@ Humans have been traveling the world with plants for a long time. Sometimes, pla
 
 Many plants sold at garden centers are considered non-native or “exotic.” They can survive in our gardens, but they might need extra attention and care. Depending on where you live, non-native plants may have higher water needs, more problems with pests, and a greater nutrient need. Using fertilizers, extra water, and chemicals for pest control can mean you spend more resources, money, and time to keep them looking their best. That said, there are low-maintenance non-natives.  For example, Mediterranean plants like thyme and rosemary are fuss-free if given sufficient drainage. 
 
-**By planting more native species you may:**
+### Benefits of Native Plants
 
-### Reduce Air Pollution
+#### Reduce Air Pollution
 
 Native plants tend to need less ongoing maintenance to look good, and using powered garden equipment less means reduced air pollution. 
 
-### Use Less or No Chemicals
+#### Use Less or No Chemicals
 
 Because natives are adapted to the soil in a specific area, they don’t usually have as many pests or diseases that non-natives might have to battle, so you don’t need to turn to pesticides or herbicides. That, in turn, helps protect against run-off  that happens when chemicals are not applied correctly. Run-off can end up in our waterways, hurting aquatic life. 
 
-### Conserve Water
+#### Conserve Water
 
  Native plants can use water efficiently. As lovely as it looks, a lush green lawn in the desert can drain your wallet and possibly the habitat around it. Many desert dwellers opt for a landscape of arid native plants and leave just a little patch of grass for the kids and pets to play on. Suppose you don't have an irrigation system. In that case, you might spend a lot of time watering by hand, and depending on your region, you might be able to cut down the time spent watering by using native plants. 
 
 ![A sprinkler watering a green lawn](https://ucarecdn.com/30c7c569-baf9-4340-809d-3a7c658a9223/paul-moody--zbcx0Lvsfw-unsplash.jpg)
 
-### Support Your Local Wildlife
+#### Support Your Local Wildlife
 
 Native plants help support the native wildlife in your area. Some insects and animals depend on native flora for food and shelter. Certain plants and animals have evolved together and help each other out. It's not to say that the non-natives are bad guys and won't help the wildlife in our gardens. I've never seen a bee snub a lavender blossom because it isn't from my area. It's just that certain wildlife and plant relationships are particular. For example, animals rely on cacti in the Southwestern desert for food, water, and shelter. 
 
@@ -55,10 +55,12 @@ North America has over 100 native species of *Asclepias* or milkweed. Monarch ca
 
 ![The Planter App has information on how to grow milkweed](https://ucarecdn.com/99303c92-6079-43a1-8577-c9bf3e264179/Screenshot%20(19).png "The Planter app has tips on how to grow milkweed")
 
-### Save Money
+#### Save Money
 
 I must admit I’ve wasted a lot of money and time on things I should have never tried to grow. I’ve fallen for some trendy plants that couldn’t tolerate my wet winters or cold snaps. I've tried to overwinter some plants only to have them die despite my best effort.  I’ve added more native plants every season, and most are thriving. It's nice to have plants that can take care of themselves, for the most part.  
 
 ### Where to Find Native Plants
 
-Interest in gardening with natives is growing, and nurseries are paying attention. Some nurseries focus all of their time on growing native plants. If you garden in the United States, you can find out what plants are native to your region [here](https://nativeplantfinder.nwf.org/Plants). Canadian gardeners can check out this [link](https://pollinatorpartnership.ca/en/find-your-roots).0 Gardening with natives isn’t all or nothing. Many non-natives get along just fine with the local flora and fauna. But if you want to bring your green lifestyle outside, consider adding more natives to your landscape.
+Interest in gardening with natives is growing, and nurseries are paying attention. Some nurseries focus all of their time on growing native plants. If you garden in the United States, you can find out what plants are native to your region [here](https://nativeplantfinder.nwf.org/Plants). Canadian gardeners can check out this [link](https://pollinatorpartnership.ca/en/find-your-roots).  If you are a gardener living outside of the U.S. and Canada, consider finding a local gardening club or an environmental conservancy group to find plants for your area.
+
+Gardening with natives isn’t all or nothing. Many non-natives get along just fine with the local flora and fauna. But if you want to bring your green lifestyle outside, consider adding more natives to your landscape.
