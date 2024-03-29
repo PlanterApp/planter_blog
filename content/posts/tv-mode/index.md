@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Feature Launch: TV Mode 📺"
 slug = "tv-mode"
 date = 2024-04-01T04:00:00.000Z
@@ -25,6 +25,6 @@ Gear up for a gardening experience that's both familiar and fresh with Planter's
 * **Planting calendar:** Ensure your harvest is pixel-perfect by knowing exactly when to sow those seeds. Your calendar will still work even though it looks like it's 1989.
 * **Community sharing:** Show off your pixelated garden creations and connect with fellow green thumbs who appreciate a touch of retro charm. Share your designs using the hashtag #TVGarden and see who gets the most likes!
 
-**Ready to channel your inner techie farmer with a vintage twist?** Simply update your Planter app and activate TV Mode. It's the perfect way to add a touch of fun and nostalgia to your gardening routine, whether you're a seasoned planter or just starting out.
+**Ready to channel your inner techie farmer with a vintage twist?** Simply open Planter and activate TV Mode. It's the perfect way to add a touch of fun and nostalgia to your gardening routine, whether you're a seasoned planter or just starting out.
 
-**Remember, TV Mode is a limited-time experience, so don't miss out!** Download Planter today and unlock a world of pixelated veggies and a warm wave of nostalgia. Happy planting!
+**Remember, TV Mode is a limited-time experience, so don't miss out!** Download Planter today and unlock a world of pixelated veggies and a warm wave of nostalgia. Happy gardening!
