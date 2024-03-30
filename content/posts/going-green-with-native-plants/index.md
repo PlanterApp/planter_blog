@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Going Green with Native Plants"
 slug = "going-green-with-native-plants"
-date = 2024-03-28T17:37:16.053Z
+date = "2024-03-30T06:25"
 author = "Samantha Togstad"
 plants = ["milkweed", "echinacea"]
 
