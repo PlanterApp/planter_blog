@@ -8,6 +8,7 @@ author = "Erin Thomson"
 [cover]
 relative = false
 image = "https://ucarecdn.com/5c768f3f-66ef-4fce-bfdb-3f3f70e34439/Spring-transplanting.jpg"
+alt = "Lettuce and tomato transplants in raised beds surrounded by pots, a trowel, and a watering can"
 +++
 As the weather warms up and the growing season draws nearer, it’s important to not get too excited by the prospect of planting and neglect properly preparing your garden beds! Spring is the perfect time to get the garden ready to handle all the produce it’s going to pump out throughout the season. A well-prepared garden bed will be much more productive, so it’s worth taking the time to do things right from the start.
 
