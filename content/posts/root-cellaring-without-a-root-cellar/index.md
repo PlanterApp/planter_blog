@@ -65,6 +65,6 @@ Now that you're armed with plenty of root cellaring options, let's go over some 
 
 **\#5 Check for Pests:** Keep an eye out for any unwanted visitors in your storage area. Rodents, insects, and other critters can quickly ruin your hard-earned harvest. Consider using natural pest deterrents such as cedar chips or peppermint oil to keep critters at bay. Additionally if you have some chicken wire or mesh screens laying around, this will also help keep mice from stealing your future lunch. 
 
-### Take Away
+### Wrap Up
 
 Root cellaring without building a dedicated traditional root cellar may seem like a daunting task at first, but with a little creativity and the right techniques, you can successfully store your fresh produce for months. With the tips and tricks, I outlined above, you'll be well on your way to enjoying your own homegrown vegetables all year round. Happy root cellaring!
