@@ -41,7 +41,7 @@ So how do you know when the soil is dry enough to be worked? *Typically you’ll
 
 ## Clean up leftover plant debris
 
-Many gardeners will leave some plant debris in the ground over winter to help feed the soil and provide shelter for overwintering beneficial insects (definitely not because we run out of time ;) ). In most cases you’ll want to remove dead plant debris in the spring to be able to create a clean, level surface to seed or transplant into. Sometimes you can leave dead plant roots in the ground and simply cut off the stems at ground level, amend the soil, then seed or plant around them. If the roots are too thick and this makes planting too awkward, pull them out and compost them.
+Many gardeners will leave some plant debris in the ground over winter to help feed the soil and provide shelter for overwintering beneficial insects. In most cases you’ll want to remove dead plant debris in the spring to be able to create a clean, level surface to seed or transplant into. Sometimes you can leave dead plant roots in the ground and simply cut off the stems at ground level, amend the soil, then seed or plant around them. If the roots are too thick and this makes planting too awkward, pull them out and compost them.
 
 ## Tackle problematic weeds
 
@@ -51,14 +51,14 @@ Before planting out your garden in spring take the opportunity to tackle persist
 
 ## Add soil amendments
 
-Spring is also the perfect time to work in any soil amendments you intend to use for the season- namely to add organic matter to the soil. Whether you intend to till in your amendments, or you are using a no-till approach, you’ll want to make sure you top up your soil so that it stays productive throughout the season. If there are any particular nutrients lacking you can add them in spring as well- just note that nitrogen in particular can leach away in heavy rains so you may want to wait if there’s a deluge in the forecast. You also may not want to apply nitrogen to perennial plants too early as this can cause a flush of tender growth that could get killed off in a cold snap. If you’ve had a soil PH test done and you know you need to either raise or lower the PH of your soil, unfortunately spring is a little late to apply PH changing agents- but better late than never.
+Spring is the perfect time to work in soil amendments and build organic matter in the soil. If there are any particular nutrients lacking you can add them in spring as well- just note that nitrogen in particular can leach away in heavy rains so you may want to wait if there’s a deluge in the forecast. You also may not want to apply nitrogen to perennial plants too early as this can cause a flush of tender growth that could get killed off in a cold snap. If you’ve had a soil PH test done and you know you need to either raise or lower the PH of your soil, unfortunately spring is a little late to apply PH changing agents- but better late than never.
 
-![](https://ucarecdn.com/c4e736e2-a3f6-48a6-a8c7-f2a680ff93ea/Garden-digging.jpg)
+![A person in rubber boots with their foot on a garden spade digging into the ground](https://ucarecdn.com/c4e736e2-a3f6-48a6-a8c7-f2a680ff93ea/Garden-digging.jpg)
 
 ## Set-up garden infrastructure
 
-As a final step to preparing your spring garden bed you’ll want to install any infrastructure that you’re using (e.g., trellises, stakes, arches, cages, irrigation lines) either just before or just after transplanting those crops. If you wait too long to install your infrastructure it can be difficult to delicately build structures around the plants, and you may damage the root systems by poking stakes and tools into the ground.
+As a final step to preparing your spring garden beds you’ll want to install garden infrastructure (e.g., trellises, stakes, arches, cages, irrigation lines) either just before or just after planting. If you wait too long to install infrastructure it can be difficult to delicately place the structures, wires, and lines around the plants and you could damage the root systems by poking stakes into the ground.
 
-![](https://ucarecdn.com/a00874e0-4a24-4f84-b75d-10706829d33d/Pea-trellis.jpg)
+![](https://ucarecdn.com/a00874e0-4a24-4f84-b75d-10706829d33d/Pea-trellis.jpg "Young pea plants climbing up a mesh trellis")
 
 It can be hard to take the time in spring to properly prepare garden beds before planting - either because we’re eager to get planting or because we’re eager to hurry inside and warm up our hands! But taking the time to ensure the soil is well-prepared and ready for planting will pay huge dividends throughout the season! So don’t feel pressured to get your spring crops in too early- wait for a sunny spring day and spend it getting things growing on the right foot!
