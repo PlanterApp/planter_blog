@@ -19,12 +19,6 @@ But first, before we delve into the alternative methods of root cellaring, let's
 
 However, there are a few disadvantages to consider. First and foremost, not everyone has access to a root cellar. And if you’d like to have one built, not many contractors regularly build these kinds of structures any longer so expertise is often lacking which can lead to a poor-quality root cellar. If you are a DIY’er, like many gardeners tend to be, building one yourself will likely still be expensive and time consuming.  Furthermore, traditional root cellars require proper ventilation and monitoring to prevent spoilage or the growth of mold, so they are not something you just build and forget about. But fear not, for we have some creative, low cost, yet high value solutions up our sleeves.
 
-### Choose the Right Vegetables for Storage
-
-Not all vegetables are created equal when it comes to root cellaring. Some are better suited for long-term storage, while others will quickly turn into a mushy mess. So, before you embark on your root cellaring adventure, it's important to choose the right vegetables. Root vegetables like carrots, beets, turnips, and potatoes are excellent candidates for long-term storage. These hearty veggies store extremely well in the cool temperatures and high humidity required for successful root cellaring.
-
-On the other hand, vegetables like tomatoes, cucumbers, and peppers are not well-suited for root cellaring. These tender veggies prefer warmer temperatures and are better preserved through other methods such as canning or freezing. So, keep this in mind when selecting which vegetables to store without a root cellar. Now that we've got our veggie lineup sorted, let's explore some alternative methods of root cellaring.
-
 ### Different Methods of Root Cellaring:
 
 ![](https://ucarecdn.com/1cafcdaa-1acc-43be-8bcb-36928229bb56/2_Mounds.jpg)
@@ -50,6 +44,12 @@ If you have a medium to large unused patch of yard, trenches are an excellent op
 #### In-Row Storage
 
 For those with limited space, in-row root cellaring is a space-saving alternative. Simply leave your root vegetables in the ground and cover them with a thick layer of straw or leaves. This provides insulation and protection from freezing temperatures. To harvest your veggies, simply remove the straw layer and dig them up as needed. This method works well for vegetables like carrots, beets, and potatoes that can withstand colder temperatures without spoiling.
+
+### Choose the Right Vegetables for Storage
+
+Not all vegetables are created equal when it comes to root cellaring. Some are better suited for long-term storage, while others will quickly turn into a mushy mess. So, before you embark on your root cellaring adventure, it's important to choose the right vegetables. Root vegetables like carrots, beets, turnips, and potatoes are excellent candidates for long-term storage. These hearty veggies store extremely well in the cool temperatures and high humidity required for successful root cellaring.
+
+On the other hand, vegetables like tomatoes, cucumbers, and peppers are not well-suited for root cellaring. These tender veggies prefer warmer temperatures and are better preserved through other methods such as canning or freezing. So, keep this in mind when selecting which vegetables to store without a root cellar. Now that we've got our veggie lineup sorted, let's explore some alternative methods of root cellaring.
 
 ### Tips for Successful Root Cellaring and Common Mistakes to Avoid
 
