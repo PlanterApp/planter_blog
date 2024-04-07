@@ -10,39 +10,50 @@ relative = false
 image = "https://ucarecdn.com/5c768f3f-66ef-4fce-bfdb-3f3f70e34439/Spring-transplanting.jpg"
 alt = "Lettuce and tomato transplants in raised beds surrounded by pots, a trowel, and a watering can"
 +++
-As the weather warms up and the growing season draws nearer, it’s important to not get too excited by the prospect of planting and neglect properly preparing your garden beds! Spring is the perfect time to get the garden ready to handle all the produce it’s going to pump out throughout the season. A well-prepared garden bed will be much more productive, so it’s worth taking the time to do things right from the start.
+As the weather warms up and the growing season draws nearer, it’s important to not get too excited by the prospect of spring planting and neglect properly preparing your garden beds! A well-prepared garden bed will be much more productive, so it’s worth taking the time to do things right from the start.
 
-But what exactly needs to be done to prepare garden beds in spring?
+But what needs to be done to prepare your garden beds in spring?
 
-## Warm up garden soil before planting
+## Warm up the soil before planting
 
-Even once warm weather arrives, our garden soil can be stubbornly slow to defrost and to reach warm enough temperatures for seeds to germinate. There are a few things you can do to warm up your soil sooner. Again raised beds are typically faster to warm up because the volume of soil is lower and it is exposed to warmer air temperatures. Some gardeners will use black plastic silage tarps to help capture the sun’s heat and warm the soil surface (clear plastic will also warm the soil but it can actually solarize- which can help to kill weed seeds and pathogens but can also temporarily kill off beneficial soil microbes). If your garden was mulched before winter set in, you may want to pull the mulch aside so the soil surface can be exposed to the warmth of the sun (this can also make it easier for seeding). Lastly, you can also apply a layer of well-aged compost onto the surface of the soil to plant into. Just be aware that different crops have different preferred soil temperatures for growing- there’s no urgency to get heat-loving crops in the ground if there is a chance that the soil will not stay consistently warm enough for them.
+Even once the warm weather arrives, garden soil can be stubbornly slow to reach warm enough temperatures for seeds to germinate and plants to grow. There are a few techniques you can use do to warm up the soil sooner:
+
+* If your garden was mulched before winter set in, pull the mulch aside so the soil surface can be exposed to the warmth of the sun (this also makes it easier for seeding). 
+* Soil in raised beds will typically warm up faster because the volume of soil is lower and it's exposed to warmer air.
+* *Black plastic silage tarps can be used on the soil surface to help capture the sun’s heat and warm the soil. Clear plastic sheeting will also warm the soil but it can actually get hot enough to 'solarize' - which will help kill weed seeds and pathogens but can also temporarily kill off beneficial soil life.* 
+* *You can also apply a [thick layer of well-aged compost](https://blog.planter.garden/posts/choose-garden-compost/) onto the surface of the soil to plant into.* 
+
+Be aware that different crops have different preferred soil temperatures for germinating and growing. There’s no rush to get heat-loving crops in the ground if the soil isn't yet staying consistently warm enough for them to grow.
 
 ## Ensure the soil is dry enough to work
 
-Aside from waiting for un-frozen soil you’ll also want to try to avoid working on soil that is too wet which can be a real problem in springtime with rainy weather and potentially snowmelt saturating the soil. Soggy soil should not be walked on or worked as this can cause compaction and degrade the soil structure. One way to get around this and get in the ground faster is to grow in raised garden beds - raised beds allow the excess moisture to wick away and typically you won’t be walking on the surface of the bed itself. Raised beds can be made of wood, concrete, or steel, or you can simply raise the soil level itself if you’re gardening in-ground. Using wood chips in pathways can also help to avoid compaction in the areas you do walk on (and keep your boots from turning into a muddy mess every time you go outside!)
+Soggy soil can be a problem in springtime with rainy weather and snowmelt (in some areas) saturating the ground. Wet soil ideally should not be walked on or worked as this can cause compaction and degrade the soil structure. Soil that is too wet can also cause seeds and seedlings to rot.
 
-So how do you know when the soil is ready to be worked? Typically you’ll want to wait for a stretch of a few dry days, and when you squeeze the soil in your hand water shouldn't come dripping out.
+Some of the same techniques that can be used to warm the soil can also help the soil to dry enough to plant. Tarps help to protect the soil surface from excess rainfall, and raised beds typically drain faster than in-ground beds. On a side note, even raising your in-ground beds slightly can help improve drainage.
 
-![](https://ucarecdn.com/d5f1bfa4-f694-4354-8c9e-be0ab9a6eb0f/Raised-beds.jpg)
+Consider using wood chips in garden pathways to avoid compaction in the areas you frequently walk on (and keep your boots from turning into a muddy mess!)
+
+Lastly, if you are seeing draining issues in spring, you may want to consider amending your soil with compost once it's ready to be worked- adding compost will help your soil achieve optimal drainage
+
+So how do you know when the soil is dry enough to be worked? *Typically you’ll want to wait for a stretch of a few dry days, and when you squeeze the soil in your hand water shouldn't come dripping out.*
+
+![Raised garden beds with wooden edges planted out with young plants](https://ucarecdn.com/d5f1bfa4-f694-4354-8c9e-be0ab9a6eb0f/Raised-beds.jpg)
 
 ## Clean up leftover plant debris
 
-Many gardeners will leave at least some plant debris in the ground over winter to help feed the soil and provide homes for overwintering beneficial insects. In most cases you’ll want to remove most or all of this debris in the spring to be able to create a clean, level surface to seed or transplant into. Sometimes you can leave dead plant roots in the ground and simply cut off any above-ground debris, in other cases you may need to pull up the old roots (and compost them!) to have room to seed or transplant properly.
+Many gardeners will leave some plant debris in the ground over winter to help feed the soil and provide shelter for overwintering beneficial insects (definitely not because we run out of time ;) ). In most cases you’ll want to remove dead plant debris in the spring to be able to create a clean, level surface to seed or transplant into. Sometimes you can leave dead plant roots in the ground and simply cut off the stems at ground level, amend the soil, then seed or plant around them. If the roots are too thick and this makes planting too awkward, pull them out and compost them.
 
 ## Tackle problematic weeds
 
-Before planting out your garden beds in spring be sure to take the opportunity to tackle persistent weed problems. If you’re dealing with nasty perennial weeds with extensive root systems you may want to dig them out before plants go in the ground and you’re more limited on how much weeding you can do. If you’re dealing mostly with small annual weeds on the other hand you may want to limit the amount of cultivation you do in spring and instead consider applying a thick layer of well-aged compost as a mulch that can help prevent weed seeds from germinating and reaching the sunlight. Black tarps can help with this as well. Research your problematic weeds to see if there are steps you can take in spring that will save you a lot of weeding headaches throughout the season.
+Before planting out your garden in spring take the opportunity to tackle persistent weed problems. If you’re dealing with nasty perennial weeds with underground root systems you may want to dig them out before plants go in the ground and limit how intensively you can weed. If you’re dealing mostly with annual weeds that are spreading by seed, you may want to limit the amount of cultivation you do in spring and instead consider applying a thick layer of well-aged compost as a mulch that can help prevent weed seeds from sprouting and reaching the soil surface. Research your most problematic weeds to see if there are specific steps you can take in spring that will save you from weeding headaches (/backaches) throughout the season.
 
-![](https://ucarecdn.com/0c3f5816-671e-4a6e-b942-946babeba758/Garden-weeding.jpg)
+![A person in rubber boots using a hoe in the garden to remove weeds](https://ucarecdn.com/0c3f5816-671e-4a6e-b942-946babeba758/Garden-weeding.jpg)
 
 ## Add soil amendments
 
 Spring is also the perfect time to work in any soil amendments you intend to use for the season- namely to add organic matter to the soil. Whether you intend to till in your amendments, or you are using a no-till approach, you’ll want to make sure you top up your soil so that it stays productive throughout the season. If there are any particular nutrients lacking you can add them in spring as well- just note that nitrogen in particular can leach away in heavy rains so you may want to wait if there’s a deluge in the forecast. You also may not want to apply nitrogen to perennial plants too early as this can cause a flush of tender growth that could get killed off in a cold snap. If you’ve had a soil PH test done and you know you need to either raise or lower the PH of your soil, unfortunately spring is a little late to apply PH changing agents- but better late than never.
 
 ![](https://ucarecdn.com/c4e736e2-a3f6-48a6-a8c7-f2a680ff93ea/Garden-digging.jpg)
-
-
 
 ## Set-up garden infrastructure
 
