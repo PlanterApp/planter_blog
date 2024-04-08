@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "How to Prepare Garden Beds in Spring"
 slug = "spring-garden-prep"
 date = "2024-03-31T14:05"
@@ -10,7 +10,7 @@ relative = false
 image = "https://ucarecdn.com/5c768f3f-66ef-4fce-bfdb-3f3f70e34439/Spring-transplanting.jpg"
 alt = "Lettuce and tomato transplants in raised beds surrounded by pots, a trowel, and a watering can"
 +++
-As the weather warms up and the growing season draws nearer, it’s important to not get so excited by the prospect of spring planting that you neglect properly preparing your garden beds! A well-prepared garden bed will be much more productive, so it’s worth taking the time to do things right from the start.
+As the weather warms up and the growing season draws nearer, it’s important to not get so excited by the prospect of spring planting that you neglect properly preparing your garden beds! A well-prepared garden bed will be more productive, so it’s worth taking the time to do things right from the start.
 
 But what needs to be done to prepare garden beds in spring?
 
@@ -20,7 +20,7 @@ Even once the warm weather arrives, garden soil can be stubbornly slow to reach 
 
 * If your garden was mulched before winter set in, pull the mulch aside so the soil surface can be exposed to the warmth of the sun (this also makes it easier for seeding). 
 * Keep in mind that soil in raised beds will typically warm up faster because the volume of soil is lower and it's exposed to warmer air.
-* Black plastic silage tarps can be used on the soil surface to help capture the sun’s heat and warm the soil. Clear plastic sheeting will warm the soil more quickly but it can actually get hot enough to 'solarize' the soil- which will help kill soil-borne pathogens but may also harm beneficial soil life. 
+* Black plastic silage tarps can be used on the soil surface to help capture the sun’s heat and warm the soil. Clear plastic sheeting will warm the soil even more quickly and will 'solarize' the soil- which helps to kill soil-borne pathogens but may also harm beneficial soil life.
 * You can also apply a [thick layer of well-aged compost](https://blog.planter.garden/posts/choose-garden-compost/) onto the surface of the soil to plant into. 
 
 Different crops have different preferred soil temperatures for germinating and growing. There’s no rush to get heat-loving crops in the ground if the soil isn't yet staying consistently warm enough for them to grow.
@@ -43,7 +43,7 @@ Many gardeners leave some plant debris in the ground over winter to help feed th
 
 ## Tackle problematic weeds
 
-While you garden beds are still empty in spring, take the opportunity to tackle persistent weed problems. If you’re dealing with nasty perennial weeds with underground root systems you may want to dig or fork them out before any plants go in. If you’re dealing mostly with annual weeds that are spreading by seed, you might want to limit the amount of cultivation you do in spring and instead consider applying a thick layer of well-aged compost as a mulch that can help prevent weed seeds from sprouting and reaching the soil surface. Research your most problematic weeds to see if there are specific steps you can take in spring that will save you from weeding headaches (/backaches) throughout the season.
+While you garden beds are still empty in spring, take the opportunity to tackle persistent weed problems. If you’re dealing with nasty perennial weeds with underground root systems you may want to dig or fork them out before any plants go in. If you’re dealing mostly with annual weeds that are spreading by seed, you might want to limit the amount of cultivation you do in spring and instead consider applying a thick layer of well-aged compost as a mulch that can help prevent weed seeds from sprouting and reaching the soil surface. Tarps can also be used strategically to help kill off weeds before planting. Research your most problematic weeds to see if there are specific steps you can take in spring that will save you from weeding headaches (and backaches) throughout the season.
 
 ![A person in rubber boots using a hoe in the garden to remove weeds](https://ucarecdn.com/0c3f5816-671e-4a6e-b942-946babeba758/Garden-weeding.jpg)
 
