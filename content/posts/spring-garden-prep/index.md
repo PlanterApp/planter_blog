@@ -57,6 +57,6 @@ Once the ground is workable, spring is great time to [apply or work in compost](
 
 As a final step to preparing your spring garden beds you’ll want to install garden infrastructure (e.g., trellises, stakes, arches, cages, irrigation lines) either just before or just after planting. If you wait too long to install infrastructure it can be difficult to delicately weave the structures, wires, and lines around larger plants, and you could damage the root systems by poking stakes into the ground.
 
-![](https://ucarecdn.com/a00874e0-4a24-4f84-b75d-10706829d33d/Pea-trellis.jpg "Young pea plants climbing up a mesh trellis")
+![](https://ucarecdn.com/a00874e0-4a24-4f84-b75d-10706829d33d/Pea-trellis.jpg "Young pea plants climbing up a mesh trellis in the sun")
 
 It can be hard to spend the time in spring to properly prepare our garden beds- either because we’re eager to get planting, or because we’re eager to hurry inside and warm up our hands! But a well-prepared garden bed will lead to more abundant harvests throughout the season. So hold off for a sunny spring day, and spend a few hours to get your garden in shape for a successful growing season!
