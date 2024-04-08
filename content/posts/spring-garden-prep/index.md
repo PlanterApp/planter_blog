@@ -2,7 +2,7 @@
 draft = false
 title = "How to Prepare Garden Beds in Spring"
 slug = "spring-garden-prep"
-date = "2024-03-31T14:05"
+date = "2024-03-31T15:05:00.000Z"
 author = "Erin Thomson"
 
 [cover]
