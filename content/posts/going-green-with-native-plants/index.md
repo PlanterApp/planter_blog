@@ -2,7 +2,7 @@
 draft = false
 title = "Going Green with Native Plants"
 slug = "going-green-with-native-plants"
-date = "2024-03-30T06:25"
+date = "2024-04-09T12:38:00.000Z"
 author = "Samantha Togstad"
 plants = ["milkweed", "echinacea"]
 
