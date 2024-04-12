@@ -12,11 +12,11 @@ relative = false
 image = "https://ucarecdn.com/6dac3ecf-640e-4450-b0d8-47d3b68597af/paul-morley-DrYqMhk53dY-unsplash.jpg"
 alt = "A close-up of green stinging nettles"
 +++
-Winter is becoming a distant memory in the Northern Hemisphere, and spring is in the air! And so are the pollen, mold spores, and other irritants that can cause seasonal allergies. While most of us are happy for spring's arrival, those with seasonal allergies have mixed feelings about the misery the changing season can bring. Allergies can also appear in autumn. Those in the southern hemisphere might be experiencing fall allergies right now. Wherever you are, learn how you can ease some of your annoying symptoms with these herbs: 
+Winter is becoming a distant memory in the northern Hemisphere, and spring is in the air! And so are the pollen, mold spores, and other irritants that can cause seasonal allergies. While most of us are happy for spring's arrival, those with seasonal allergies have mixed feelings about the misery the changing season can bring. Allergies can also appear in autumn. Those in the southern hemisphere might be experiencing fall allergies right now. Wherever you are, learn how you can ease some of your annoying symptoms with these herbs: 
 
 ### Calendula
 
-Calendula can be very soothing to red, irritated, and puffy eyes. To make a strong infusion for an eyewash, make sure your hands are clean(since you'll be touching near your eyes) before you: 
+Calendula can be very soothing to red, irritated, and puffy eyes. To make a strong infusion for an eyewash, make sure your hands are clean (since you'll be touching near your eyes) before you: 
 
  **Add 1 tablespoon of dried calendula to a jar.**
 
