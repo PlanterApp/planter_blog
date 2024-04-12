@@ -2,7 +2,7 @@
 draft = true
 title = "8 Herbs for Seasonal Allergies"
 slug = "8-herbs-for-seasonal-allergies"
-date = "2024-04-09T18:01:00.000Z"
+date = "2024-04-12T12:47:00.000Z"
 author = "Samantha Togstad"
 plants = ["Calendula", "Chamomile", "Elderberry", "Horseradish", "Sage", "Thyme"]
 series = ["Herbs"]
@@ -42,13 +42,11 @@ Chamomile is also in the Asteraceae family (marigold/daisy/ragweed), so use it w
 
 ### Elderberry
 
-Elderberry is a popular herb to use during cold and flu season, but it may also have benefits during allergy season. There aren't a lot of studies on elderberries' effect on the symptoms of allergies, but one from 2013 suggests it can be helpful when dealing with allergies. Scientists say they need to do more research (as is the case with many herbs), but many people have anecdotal evidence elderberry has helped calm their symptoms. We do know that elderberries have a bioflavonoid called [quercetin](https://www.mountsinai.org/health-library/supplement/quercetin#:~:text=Allergies%2C%20asthma%2C%20hay%20fever%20and%20hives&text=As%20a%20result%2C%20researchers%20think,that%20it%20works%20in%20humans.). Researchers think quercetin can help with symptoms like watery eyes and runny nose. Elderberry syrup is delicious and full of antioxidants, so it's an herb worth considering! 
+Elderberry is a popular herb to use during cold and flu season, but it may also have benefits during allergy season. There aren't a lot of studies on elderberries' effect on the symptoms of allergies, but one from 2013 [suggests](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3845706/) it can be helpful when dealing with allergies. Scientists say they need to do more research (as is the case with many herbs), but many people have anecdotal evidence elderberry has helped calm their symptoms. We do know that elderberries have a bioflavonoid called [quercetin](https://www.mountsinai.org/health-library/supplement/quercetin#:~:text=Allergies%2C%20asthma%2C%20hay%20fever%20and%20hives&text=As%20a%20result%2C%20researchers%20think,that%20it%20works%20in%20humans.). Researchers think quercetin can help with symptoms like watery eyes and runny nose. Elderberry syrup is delicious and full of antioxidants, so it's an herb worth considering! 
 
-*Elderberries contain cyanogenic glycosides.  Cooking or drying helps to neutralize these glycosides.  Only use ripe berries from the blue and black varieties, do not use red elderberries. Remove any stems from the berries as well.*
+*Elderberries contain cyanogenic glycosides.  Cooking or drying neutralizes these glycosides.  Only use ripe berries from the blue and black varieties, do not use red elderberries. Remove any stems from the berries as well.*
 
 ![Ripe elderberries hanging from a branch](https://ucarecdn.com/575fff3f-01a2-414e-b921-0b6d5daf6813/dieter-k-9ADj6WwEh1I-unsplash.jpg)
-
-
 
 ### Goldenrod
 
@@ -58,25 +56,21 @@ Goldenrod is another herb in the Asteraceae family.
 
 *If you are foraging your own goldenrod make absolutely sure you have the right plant. You don't want to mix it up with another poisonous look-a-like such as tansy.* 
 
-
-
 ![Goldenrod in bloom ](https://ucarecdn.com/ba913098-4383-433d-8ec1-b342428a0ed4/olli-kilpi-PYoM9Apn8Pc-unsplash.jpg)
 
 ### Horseradish
 
-Lovers of sauerkraut are probably familiar with horseradish's ability to clear the sinuses. Horseradish for sinuses goes back to the days of folk medicine. Don't overlook horseradish for your home garden if you have sinus problems; it could be worth growing. Because it can spread quickly, consider growing it in containers. Next time allergies cause a sinus situation, try whipping up a batch of sauerkraut, or if you're brave, hold some grated horseradish in your mouth for about 30 seconds. 
+Lovers of horseradish sauce are probably familiar with horseradish's ability to clear the sinuses. Horseradish for sinuses goes back to the days of folk medicine. Don't overlook horseradish for your home garden if you have sinus problems; it could be worth growing. Because it can spread quickly, consider growing it in containers. Next time allergies cause a sinus situation, try whipping up a batch of sauerkraut with horseradish, or if you're brave, hold some grated horseradish in your mouth for about 30 seconds. 
 
 ![Information is listed in the Planter App on how to grow horseradish](https://ucarecdn.com/d65846f2-d0df-4d68-bcfc-5742d04192cc/horseradish-1.jpg "Find more information on how to grow horseradish in the Planter App")
 
 ### Nettles
 
-You may have had a close encounter with stinging nettles (*Urtica dioica*) and have no plans to get involved with this plant again. But if you have allergies, you should reconsider. It's true that nettles can leave you with a painful sting if you come into contact with hairs, but once nettle leaves are wilted, dried, or cooked, they can't sting you anymore! Nettles are full of vitamins, minerals, and anti-inflammatory substances. Current [research](https://www.mountsinai.org/health-library/herb/stinging-nettle) shows its anti-inflammatory effects can be helpful for nasal congestion and sneezing, and it may have antihistamine properties. Most herbalists suggest working with nettle weeks before your typical symptoms start to get the full benefits. Nettles are another drying herb, so be aware of how you feel if you take them as a tonic.
+You may have had a close encounter with stinging nettles (*Urtica dioica*) and have no plans to get involved with this plant again. But if you have allergies, you should reconsider. It's true that nettles can leave you with a painful sting if you come into contact with hairs, but once nettle leaves are wilted, dried, or cooked, they can't sting you anymore! Nettles are full of vitamins, minerals, and anti-inflammatory substances. Current [research](https://www.mountsinai.org/health-library/herb/stinging-nettle) shows its anti-inflammatory effects may be helpful for nasal congestion and sneezing, and it may have antihistamine properties. Most herbalists suggest working with nettle weeks before your typical symptoms start to get the full benefits. Nettles are another drying herb, so be aware of how you feel if you take them as a tonic.
 
 *Urtica dioica* may lower blood sugar and blood pressure, so it is recommended that you avoid it if you take certain medications.  
 
 ![](https://ucarecdn.com/cf326850-a5a2-489a-86ff-4ce8fc0d9b01/mike-erskine-MfyZjCSN4iY-unsplash.jpg)
-
-
 
 ### Sage
 
@@ -103,7 +97,5 @@ When it comes to seasonal allergies, nothing is a quick fix, but maybe something
 [Why Should I Grow Herbs in my Garden](https://blog.planter.garden/posts/why-grow-herbs/)
 
 [](https://blog.planter.garden/posts/why-grow-herbs/)
-
-
 
 *Herbs aren't intended to replace prescription allergy medications. This information is about seasonal allergies, not anaphylactic severe allergies. It is for educational purposes only and should not be considered medical advice. Please refer to your healthcare provider before using herbs.*
