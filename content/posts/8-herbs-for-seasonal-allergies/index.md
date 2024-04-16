@@ -2,7 +2,7 @@
 draft = true
 title = "8 Herbs for Seasonal Allergies"
 slug = "8-herbs-for-seasonal-allergies"
-date = "2024-04-12T12:47:00.000Z"
+date = "2024-04-16T10:16:00.000Z"
 author = "Samantha Togstad"
 plants = ["Calendula", "Chamomile", "Elderberry", "Horseradish", "Sage", "Thyme"]
 series = ["Herbs"]
