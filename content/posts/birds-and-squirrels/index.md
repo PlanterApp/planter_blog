@@ -30,11 +30,17 @@ There's plenty of suggestions online for bird and squirrel deterrents, such as s
 
 ### Plant unappetizing plants
 
+While many garden plants are attractive to squirrels, there are some plants they dislike. Interplanting unappealing plants strategically throughout the garden may help to conceal and protect the the more enticing plants from squirrels.
+
+Squirrels tend to avoid daffodils, alliums (including onions and garlic), geraniums, native goldenrod, hyacinths, and mint (friendly PSA- remember to keep mint contained!)
+
+Birds may be trickier to deter by planting specific plants, although some sources suggest that they are put off by garlic, citronella, and mint.
+
 ![Yellow daffodil plants blooming in the sun](https://ucarecdn.com/75e9ded2-9707-4f59-bebd-450a415069c7/Yellow-daffodil.jpg)
 
 ### Apply bird and squirrel repellents
 
-Another way to keep birds and squirrels away from the garden is to use repellent substances that they don't like. There are many recipes for DIY repellents at home - using apple cider vinegar, crushed garlic, chilies, etc. Chili powder is a well recognized squirrel deterrent, but it doesn't affect birds. Chili powder can be sprinkled around plants or used as a spray- but be careful not to spray it on plants you intend to eat soon! A spray made of crushed garlic can also be effective but can leave a garlicky smell on your plants if you're not careful! There are also commercially available deterrent products such as [Bonide Repels-All](https://www.amazon.com/Bonide-REPELS-ALL-Animal-Repellent-Sprayer/dp/B07JZ4LJYR/?tag=planter-app-20&th=1) (which works on squirrels, but not birds). Be sure that the repellent product you choose will repel the critters you need it to and can be used in the garden around edible plants. Keep in mind that repellents will need to re-applied fairly regularly, especially after rain.
+Another way to keep birds and squirrels away from the garden is to use repellent substances that they don't like. Chili powder is a well recognized squirrel deterrent, but it doesn't affect birds. Chili powder can be sprinkled around plants or used as a spray- but be careful not to spray it on plants you intend to eat soon! A spray made of crushed garlic can also be an effective repellant but can leave a garlicky aroma on your plants- again you'll want to avoid spraying anything soon-to-be-harvested! There are also commercially available deterrent products such as [Bonide Repels-All](https://www.amazon.com/Bonide-REPELS-ALL-Animal-Repellent-Sprayer/dp/B07JZ4LJYR/?tag=planter-app-20&th=1) (which works on squirrels, but not birds). Be sure that the repellent product you choose will repel the critters you need it to and can be used in the garden around edible plants. Keep in mind that repellents will need to re-applied fairly regularly, especially after rain.
 
 ### Install bird netting and squirrel-proof fencing
 
@@ -42,7 +48,7 @@ For heavy-duty protection against bird and squirrel damage, you may want to use 
 
 When it comes to using bird netting (for birds, not squirrels), you'll want to be careful about the netting you choose and how you install it to ensure birds don't become tangled and die. Look for a high-quality, UV-treated netting that will last for multiple seasons. You'll want to find netting with holes less than 1/4 inch (5mm) wide that will not trap birds, and make sure it is stretched tightly over and around your garden beds as floppy, tangled netting can also ensnare birds. Use stakes or build a support frame to secure the netting and keep it taught.
 
-If you're planning on using fencing, keep in mind that squirrels are excellent climbers (and of course birds will fly over any fence). You'll need to cover the 'airspace' above your garden beds and not just the sides. Chicken wire or hardware cloth can be used to fashion protective cages or boxes around your plants. Squirrels can also dig so you'll want to bury the bottom edge of the cage or fence at least 6 inches below the soil. If you're mainly interested in discouraging birds and squirrels from digging up newly planted seeds, you can loosely tent chicken wire over the seeded area and fasten the edges (or attach it to the edges of a raised bed) then remove it once your seedlings start to grow.
+If you're planning on using fencing, keep in mind that squirrels are excellent climbers (and of course birds will fly over any fence). You'll need to cover the 'airspace' above your garden beds and not just the sides. Chicken wire, or better yet hardware cloth, can be used to fashion protective cages or boxes around your plants. Squirrels can also dig so you'll want to bury the bottom edge of the cage or fence at least 6 inches below the soil. If you're mainly interested in discouraging birds and squirrels from digging up newly planted seeds, you can loosely tent chicken wire over the seeded area and fasten the edges (or attach it to the edges of a raised bed) then remove it once your seedlings start to grow.
 
 ![A light brown bird perched on some chicken wire over a wire fence](https://ucarecdn.com/3113db41-f404-4424-a697-47a72d7a842f/Bird-on-netting.jpg)
 
