@@ -4,6 +4,7 @@ title = "Birds and Squirrels in the Veggie Garden"
 slug = "birds-and-squirrels"
 date = "2024-04-21T14:06:00.000Z"
 author = "Erin Thomson"
+tags = ["Birds", "Squirrels"]
 
 [cover]
 relative = false
