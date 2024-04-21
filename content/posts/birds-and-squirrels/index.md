@@ -30,7 +30,7 @@ There's plenty of suggestions online for bird and squirrel deterrents, such as s
 
 ### Plant unappetizing plants
 
-
+![Yellow daffodil plants blooming in the sun](https://ucarecdn.com/75e9ded2-9707-4f59-bebd-450a415069c7/Yellow-daffodil.jpg)
 
 ### Apply bird and squirrel repellents
 
@@ -39,6 +39,8 @@ Another way to keep birds and squirrels away from the garden is to use repellent
 ### Install bird netting and squirrel-proof fencing
 
 You may want to protect plants that are especially vulnerable to attack, such as newly sown seeds, but don't plants where there is plenty to go around. 
+
+![A bird perched on chicken wire above a wire fence](https://ucarecdn.com/35db4aa6-c50e-46a8-bc98-597474f47454/Bird-on-netting.jpg)
 
 
 
