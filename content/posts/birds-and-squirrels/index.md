@@ -12,17 +12,15 @@ image = "https://ucarecdn.com/369b72c9-47f4-4466-b47b-0490613a9894/Squirrel-at-f
 caption = ""
 alt = "A grey squirrel eating seeds from a squirrel-proof bird feeder"
 +++
-The idea of birds of squirrels in the garden divides gardeners. Some gardeners actively try to attract wildlife to the garden including birds and squirrels, while others will go to great lengths to get rid of them. Regardless of your philosophy on garden wildlife, there is no avoiding the fact that birds and squirrels have the capacity to gobble up potential harvests.
+The idea of having birds of squirrels in the garden divides gardeners. Some gardeners actively try to attract wildlife to the garden including birds and squirrels, while others go to great lengths to completely get rid of them. Regardless of your philosophy on garden wildlife, there's no avoiding the fact that birds and squirrels have the capacity to gobble up potential harvests at an alarming rate.
 
-So what’s the best approach to dealing with birds and squirrels when you have an edible garden? Let’s look at a few different techniques and the pros and cons of each.
+So what is the best way to prevent birds and squirrel damage in the veggie garden? Let’s look at a few different techniques and the pros and cons of each.
 
 ### Provide alternate food and water sources
 
-Information is mixed on whether it is a good idea to provide food and water for garden critters. The idea behind providing food and water is that birds and squirrels will be less likely to go after your precious produce if they have another source of food and water readily available (a lot of times when a bird or squirrel takes a bite out of a juicy tomato or cucumber they’re not looking for food but moisture). 
+Information is mixed on whether it's a good idea to provide food and water for birds and squirrels in the garden. The reasoning behind providing food and water is that birds and squirrels will be less likely to go after your garden produce if there's another source of food and water more readily available. Water is important in addition to food, as often when a bird or squirrel takes a bite out of a juicy tomato or cucumber they’re mainly looking for the moisture. 
 
-However many sources indicate that this isn’t a good technique as all you’re doing is making your yard more attractive to birds and squirrels. Whether you go this route likely depends on your tolerance for still having a bit of damage from birds and squirrels, in exchange for having a more ‘natural’ garden and also being able to attract other wildlife that may not be as destructive (bear in mind that many types of birds are relatively harmless to the garden and may in fact help eat garden pests). 
-
-For example, I have an elderberry bush in my yard and I don’t actively take steps to protect it- I find the birds and squirrels tend to eat the berries higher up that I might not harvest anyways, and there’s still an ample harvest left for me. If this is an approach you’d like to take, to help ensure it is effective and not just an invite to an all-you-can-eat garden buffet, try to keep a bit of distance between the food and water station and your garden, and potentially employ some of the other deterrent techniques in the garden itself. If there is an easy food and water source available and the garden is less appealing, it may help to direct their efforts away from the garden.
+Many sources say that providing food and water isn't a good idea as it can make your yard more attractive to birds and squirrels and worsens the problem. To help ensure that providing food and water is an effective strategy and not just an invite to an all-you-can-eat garden buffet, keep some distance between the food and water station and the rest of your veggie garden. You'll also need to be consistent- if the food is gone and the water source dries up, critters could turn to your veggies instead! If you use deterrent techniques around the garden along with providing food and water outside the protected area, birds and squirrels will be less likely to spend the effort trying to get at your precious veggies.
 
 ### Use bird and squirrel deterrents
 
@@ -30,10 +28,18 @@ There are many suggestions online for potential bird and squirrel deterrents, su
 
 ### Plant unappetizing plants
 
+
+
 ### Apply bird and squirrel repellents
 
-Another technique to keep birds and squirrels away from the garden is to use repellent substances. There are many suggestions for DIY repellents at home - human hair, dog hair, apple cider vinegar, garlic spray, etc. which may be questionable as to how effective there are. Chile powder is a well recognized squirrel deterrent, but it does not affect birds (a lot of backyard bird enthusiasts will put it in their feeders for this reason). One downside with using chile powder is it might not be enough to sprinkle it around your plants, however you’ll absolutely want to avoid spraying it on plants you intend to eat soon! Aside from the DIY options there are also commercially available deterrent products such as Bonide. These are often made from predator urine which is also a strong squirrel deterrent that doesn’t work as well on birds. Regardless of which repellent option you choose you’ll want to re-apply it regularly, especially after rainfall.
+Another technique to keep birds and squirrels away from the garden is to use repellent substances. There are many suggestions for DIY repellents at home - human hair, dog hair, apple cider vinegar, garlic spray, etc. which may be questionable as to how effective there are. Chile powder is a well recognized squirrel deterrent, but it does not affect birds (a lot of backyard bird enthusiasts will put it in their feeders for this reason). One downside with using chili powder is it might not be enough to sprinkle it around your plants, however you’ll absolutely want to avoid spraying it on plants you intend to eat soon! Aside from the DIY options there are also commercially available deterrent products such as [Bonide Repels-All](https://www.amazon.com/Bonide-REPELS-ALL-Animal-Repellent-Sprayer/dp/B07JZ4LJYR/?tag=planter-app-20&th=1). These are often made from predator urine which is also a strong squirrel deterrent that doesn’t work as well on birds. Regardless of which repellent option you choose you’ll want to re-apply it regularly, especially after rainfall.
 
 ### Install bird netting and squirrel-proof fencing
 
+
+
 Ultimately the decision of how to manage birds and squirrels in your garden comes down to your gardening preferences and how big of a threat birds and squirrels are. If you enjoy wildlife in your garden and are OK with some potential losses, a more hands-off approach will suffice. On the other hand if you live near a wooded area with huge populations of birds and squirrels and you want to minimize losses, likely using a commercial repellent spray as well as infrastructure is the way to go. Either way, so long as the technique is humane and makes you feel happy in your garden- go with that approach!
+
+
+
+<{{ affiliate }}>
