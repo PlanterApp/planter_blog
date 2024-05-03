@@ -9,7 +9,7 @@ series = ["Herbs"]
 
 [cover]
 relative = false
-image = "https://ucarecdn.com/fcaaddd4-ca40-4442-8c21-c98999b215ae/containersherbssticks.jpg"
+image = "https://ucarecdn.com/11434e70-8417-4e6b-881a-d8f8c9991419/herbssticks.jpg"
 alt = "Herb marker sticks in a terra cotta pot"
 +++
 Gardens come in many different sizes, and you don't need a lot of land to tend to one. As long as you have some space for a pot or two (or twenty!), you can grow a whole range of things. Herbs, both culinary and medicinal, can be grown in pots, in the same way you might grow ornamental flowers.
@@ -48,8 +48,6 @@ If you want to add chamomile to your garden but don’t want a lot of chamomile 
 
 ![A patch of chamomile flowers in bloom](https://ucarecdn.com/2fc15f5c-95e9-466b-b90f-28d96b694359/chamomile.jpg "Unless you'd like a big patch of chamomile, contain your chamomile in a pot")
 
-
-
 ### Chives
 
 Chives are a familiar favorite in the kitchen garden. They can have a warming effect on digestion, so they are a great food herb to add to dishes. The beautiful blossoms can be picked and infused in vinegar for a yummy salad dressing or marinade. Chives love rich, moist soil. Make sure to add some all-purpose fertilizer to your container before planting.
@@ -70,7 +68,7 @@ Licorice root (*Glycyrrhiza glabra*) has a distinct flavor that not everyone enj
 
 ### Spilanthes
 
-Buzz buttons. Electric daisies. Toothache plant. Eyeball plant. Splinathes (*Acmella oleracea*) has many unique names and is a fun herb to grow! One taste of this unusual flower will tingle up your tongue and mouth.  It can induce a numbing sensation in the mouth, hence the nickname toothache plant.  It’s hard to describe the taste and feeling, but one try, and you’ll understand.  Spilanthes isn't a substitute for a trip to the dentist, but it can offer some relief in the meantime. If you can’t find spilanthes in your area, it is pretty easy to grow from seed and it can thrive in containers. Grow it in full sun and very rich soil, and ensure it gets watered regularly. 
+Buzz buttons. Electric daisies. Toothache plant. Eyeball plant. Splinathes (*Acmella oleracea*) has many unique names and is a fun herb to grow! One tiny taste of this unusual flower will tingle up your tongue and mouth.  It can induce a numbing sensation in the mouth, hence the nickname toothache plant.  It’s hard to fully describe the feeling, but one try, and you’ll understand why "buzz" and "electric" are nicknames.  Spilanthes isn't a substitute for a trip to the dentist, but a swish of the tinctured plant can offer some relief in the meantime. If you can’t find spilanthes in your area, it is pretty easy to grow from seed and it can thrive in containers. Grow it in full sun and very rich soil, and ensure it gets watered regularly. 
 
 ![Close-up of a spilanthes flower](https://ucarecdn.com/27d8f19a-f1f3-4b79-97f1-8ba215c20fa5/DSC07625.JPG "You can see why one of its nicknames is eyeball plant")
 
