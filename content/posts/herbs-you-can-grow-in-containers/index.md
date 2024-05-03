@@ -84,4 +84,4 @@ Sometimes called nature’s aspirin because of its high salicin content, willow 
 
 ### Experiment with Other Herbs
 
-Many other herbs, such as sage, rosemary, lemongrass, aloe, green tea, and violets, also do well in pots. If you don’t have space for a garden bed but there’s an herb you want to grow, there’s no harm in experimenting to see if it can thrive in a pot. That’s what gardening is all about!
+Many other herbs, such as sage, rosemary, lemongrass, aloe, green tea, and violets, also do well in pots. If you don’t have space for a garden bed but there’s an herb you want to grow, there’s no harm in testing it out to see if it can thrive in a pot. Taking chances and experimenting is what gardening is all about!
