@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Herbs You Can Grow in Containers"
 slug = "herbs-you-can-grow-in-containers"
-date = "2024-05-02T16:12:00.000Z"
+date = "2024-05-06T09:52:00.000Z"
 author = "Samantha Togstad"
 plants = ["Basil ", "Catnip", "Chamomile", "Chives", "Ginger", "Lavender", "Thyme"]
 series = ["Herbs"]
