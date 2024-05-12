@@ -20,7 +20,7 @@ The first thing I learned is that some types of microgreens are easier to grow f
 
 Amaranth, basil, beets, and carrots are some examples of microgreens that can be harder to grow, due to more sporadic germination and/or slower growth. For my initial microgreen trial, I chose broccoli microgreens. Depending on who you ask, broccoli could be an easy microgreen to grow or a bit of a challenge. I was excited to try them, so I decided to give it a shot.
 
-![A microgreens growing setup including the growing medium, a tray, a spray bottle, a weight, and broccoli microgreen seeds](https://ucarecdn.com/b9811dff-ef00-49f1-9ab1-413e7c2e767d/Microgreens-setup.jpg)
+![A microgreens growing setup including the growing medium, a tray, a spray bottle, a weight, and broccoli microgreen seeds](https://ucarecdn.com/d8cc2beb-9b4b-4e70-958e-5d1b53679cbf/Microgreens-setup-Planter.jpg)
 
 ## Choosing a Microgreen Growing Medium
 
@@ -32,7 +32,7 @@ For the broccoli microgreens, I opted to go with a seed starting mix. To be sure
 
 Since microgreens are seeded much more densely than plants that are destined for the garden, it can be tricky to keep them from going moldy as they grow. Starting with a sterile growing medium and clean trays is the first line of defense against mold. It’s also important to not over-saturate the growing medium which can cause it to go anaerobic and the microgreens to drown and rot away. Once your growing medium is adequately saturated, using a spray bottle to mist the seeds while they germinate can help to keep them moist without adding excess water.
 
-![A hand holding a green spray bottle misting a tray of microgreens](https://ucarecdn.com/19f6430c-41fa-4779-adda-0519e6359bb0/Misting-microgreens.jpg)
+![A hand holding a green spray bottle misting a tray of microgreens](https://ucarecdn.com/83019a39-1078-4302-baf1-f15ea50bd4ac/Misting-microgreens-Planter.jpg)
 
 Promoting good airflow can also help to keep microgreens from molding once they’ve sprouted and started to grow. A gentle fan is ideal, but in a pinch an air vent or an open window can help.
 
@@ -44,7 +44,7 @@ One of the biggest ‘aha’ moments in this endeavor was learning that the seed
 
 One handy trick I came across was to invert the lid of the takeout tray and place soup cans or other small weights on top. I realized that I hadn’t filled my tray with enough growing medium for the inverted lid trick so I laid the weight (a beer stein) onto the surface of the medium with a piece of wax paper in between.
 
-![A beer stein being used as a weight on a tray of microgreens](https://ucarecdn.com/b1a213dc-5754-41bd-b387-69f0801ba132/Microgreen-weight.jpg)
+![A beer stein being used as a weight on a tray of microgreens](https://ucarecdn.com/624ee3c8-36a2-475e-8e13-bb273d3b2a16/Microgreen-weight-Planter.jpg)
 
 ## Microgreen Blackout Period
 
@@ -52,14 +52,16 @@ Learning that the trays should be kept in the dark until the seeds sprout was le
 
 I placed my tray in a closed cupboard but made sure to still check on it multiple times a day every day and removed it once the seeds sprouted.
 
-## Results and Lessons For Next Time
+## Results and Lessons for Next Round
 
 This time, after having taken the time to do my homework before just throwing down seed I did have slightly more success with growing microgreens. They mostly sprouted, and I did not encounter any mold issues. Having said that, the greens still did not root down properly and after much waiting I could see they were starting to falter:
 
-![A tray of sprouted microgreens failing to stand up](https://ucarecdn.com/8c0243fe-a837-455b-8676-c33916b71453/Microgreens-result.jpg)
+![A tray of sprouted microgreens failing to stand up](https://ucarecdn.com/e9fcb692-46c9-46ac-8327-598eb17f2c84/Microgreens-result-Planter.jpg)
 
 I suspect there are two main reasons why this happened. First, my seed starting mix was too dense (I use it for soil blocking so it's not as light and fluffy as typical seed starting mixes). Second, I got too anxious about taking the weight off the trays as soon as some sprouts started to emerge. I think leaving the weight on for an extra day would have helped force them to root in.
 
-Undaunted, I’ve already started my next tray of microgreens! This time I’m opting for the super easygoing radish and using vermiculite as a growing medium. I’ll be back with an update to this post as soon as the results are in.
+Undaunted, I’ve already started my next tray of microgreens! This time I’m opting for the super easygoing radish and using vermiculite as a growing medium. I’ll be back with an update to this post as soon as the results are in!
+
+![A takeout tray with vermiculite beside a bowl of radish seeds](https://ucarecdn.com/0dbd40a1-a065-4305-bbd0-2b7167723aba/Radish-microgreens-Planter.jpg)
 
 If you haven’t tried growing microgreens yourself (or maybe like me you've tried but failed) I hope you’ll give it a (another) try! Once you’ve got the microgreen growing bug, it’s hard to quit...and a successful grow will come with persistence and practice!
