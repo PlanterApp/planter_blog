@@ -36,13 +36,13 @@ Since microgreens are seeded much more densely than plants that are destined for
 
 Promoting good airflow can also help to keep microgreens from molding once they’ve sprouted and started to grow. A gentle fan is ideal, but in a pinch an air vent or an open window can help.
 
-As my broccoli microgreens were sprouting and growing I kept an eye out for signs of mold. Mold would appear as white-to-grayish spiderwebs on the surface of the growing medium as well as the greens (not to be confused with root hairs which are white, fuzzy, and only attached to the roots). Once the microgreens germinated, I kept them near an open patio door and air vent to promote good airflow. I also picked out the odd withered sprout that I saw so it wouldn’t spoil the whole batch.
+As my broccoli microgreens were sprouting and growing I kept an eye out for signs of mold. Mold would appear as white-to-grayish spiderwebs on the surface of the growing medium as well as the greens (not to be confused with root hairs which are white, fuzzy, and only attached to roots). Once the microgreens germinated, I kept them near an open patio door and air vent to promote good airflow. I also picked out the odd withered sprout that I saw so it wouldn’t spoil the whole batch.
 
 ## Apply Weight to the Microgreen Trays
 
 One of the biggest ‘aha’ moments in this endeavor was learning that the seeds should be weighed down lightly to ensure good seed-to-soil contact and to encourage the roots to grow downward. While it’s possible to grow microgreens without weight (and a few types of microgreens should not be weighed down), applying weight helps to significantly improve germination and ensure a consistent, sturdy stand of microgreens that will also be easier to harvest. Growers with multiple trays of greens growing at a time will often stack them and place a weight on the top tray.
 
-One handy trick if you're growing in a takeout tray like I was is to invert the lid of the takeout tray and place soup cans or other small weights on top. Unfortunately I realized that I hadn’t filled my tray with enough growing medium for the inverted lid trick so I laid the weight (a beer stein) onto the surface of the medium with a piece of wax paper in between.
+One handy trick if you're growing in a takeout tray like I was is to invert the lid so it makes contact with the seeds and place soup cans or other small weights on top. Unfortunately I realized that I hadn’t filled my tray with enough growing medium for the inverted lid trick so I laid the weight (a beer stein) onto the surface of the medium with a piece of wax paper in between.
 
 ![A beer stein being used as a weight on a tray of microgreens](https://ucarecdn.com/624ee3c8-36a2-475e-8e13-bb273d3b2a16/Microgreen-weight-Planter.jpg)
 
@@ -50,7 +50,7 @@ One handy trick if you're growing in a takeout tray like I was is to invert the 
 
 Learning that the trays should be kept in the dark until the seeds sprout was less of an ‘aha’ moment and more of an ‘oh, duh’ moment. When growing seedlings for the veggie garden I don't need to place the trays in a dark place- if anything I’m keeping a watchful eye out to turn on my grow lights as soon as they sprout. But most microgreens (with a few exceptions) should be kept in the dark for a period of time while they first germinate and start growing. The typical length of the blackout period depends on the type of microgreen you're growing. Bootstrap Farmer has an [awesome microgreen cheat sheet](https://cdn.shopify.com/s/files/1/1338/7937/files/Bootstrap_Farmer_Ultimate_Microgreen_CheatsheetPrintable.pdf?v=1623185926) that covers the technique and blackout period for just about every microgreen you can think of.
 
-If you're stacking microgreen trays of top of each other that can help to provide darkness, but in my case with one tray and a weight I wasn't sure if some light would still get in. To be sure the seeds were kept in total darkness, I placed the tray in a closed cupboard but made sure to still check on it multiple times a day and removed it once the seeds sprouted.
+If you're stacking microgreen trays of top of each other that can help to provide darkness, although they may still need an additional few days in the dark after unstacking. In my case with just one tray and the weight on top I wasn't sure if some light would still creep in. To be sure the seeds were kept in total darkness, I placed the tray in a closed cupboard but made sure to still check on it multiple times a day. I took it out and removed the weight once the seeds had started sprouting.
 
 ## Results and Lessons for Next Round
 
@@ -58,7 +58,7 @@ This time, after having taken the time to do my homework before just throwing do
 
 ![A tray of sprouted microgreens failing to stand up](https://ucarecdn.com/e9fcb692-46c9-46ac-8327-598eb17f2c84/Microgreens-result-Planter.jpg)
 
-I suspect there are two main reasons why this happened. First, my seed starting mix was too dense (I use it for soil blocking so it's not as light and fluffy as typical seed starting mixes). Second, I got too anxious about taking the weight off the trays as soon as a few sprouts started to emerge. I think leaving the weight on for an extra day would have helped force them to root in.
+I suspect there are two main reasons why this happened. First, my seed starting mix was too dense (I use it for soil blocking so it's not as light and fluffy as typical seed starting mixes). Second, I got too anxious about taking the weight off the trays as soon as the sprouts started to emerge from the seed hulls. I think leaving the weight on for one extra day would have helped force them to root in.
 
 Undaunted, I’ve already started my next tray of microgreens! This time I’m opting for the super easygoing radish and trying vermiculite as a growing medium. I’ll be back with an update to this post as soon as the results are in!
 
