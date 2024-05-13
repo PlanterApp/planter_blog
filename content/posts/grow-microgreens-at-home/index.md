@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Growing Microgreens at Home"
 slug = "grow-microgreens-at-home"
 date = "2024-05-12T19:11:00.000Z"
@@ -50,7 +50,7 @@ One handy trick if you're growing in a takeout tray like I was is to invert the 
 
 Learning that the trays should be kept in the dark until the seeds sprout was less of an ‘aha’ moment and more of an ‘oh, duh’ moment. When growing seedlings for the veggie garden I don't need to place the trays in a dark place- if anything I’m keeping a watchful eye out to turn on the grow lights as soon as they sprout. But most microgreens (with a few exceptions) should be kept in the dark for a period of time while they first germinate and start growing. The typical length of the blackout period depends on the type of microgreen you're growing. Bootstrap Farmer has an [awesome microgreen cheat sheet](https://cdn.shopify.com/s/files/1/1338/7937/files/Bootstrap_Farmer_Ultimate_Microgreen_CheatsheetPrintable.pdf?v=1623185926) that covers the technique and blackout period for just about every microgreen you can think of.
 
-If you're stacking microgreen trays of top of each other that can help to provide darkness, although they may still need an additional few days in the dark after unstacking. In my case with just one tray and the weight on top I wasn't sure if some light would still creep in. To be sure the seeds were kept in total darkness, I placed the tray in a closed cupboard but still checked on it multiple times a day. I took it out and removed the weight once the seeds had started sprouting.
+If you're stacking microgreen trays on top of each other, that can help to provide darkness (although they may still need an additional few days in the dark after unstacking). In my case with just one tray and the weight on top I wasn't sure if some light would still creep in. To be sure the seeds were kept in total darkness, I placed the tray in a closed cupboard but still checked on it multiple times a day. I took it out and removed the weight once the seeds had started sprouting.
 
 ## Results and Lessons for Next Round
 
