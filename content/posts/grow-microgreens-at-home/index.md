@@ -60,7 +60,7 @@ After having taken the time to do my homework before just throwing down seed, I 
 
 I suspect there are two main reasons why this happened. First, my seed starting mix was too dense (I use it for soil blocking so it's not as light and fluffy as typical seed starting mixes). Second, I got too anxious about taking the weight off the trays as soon as the sprouts started to emerge from the seed hulls. I think leaving the weight on for one extra day would have helped force them to root in.
 
-Undaunted, I’ve already started my next tray of microgreens! This time I’m opting for the super easygoing radish and trying vermiculite as a growing medium. I’ll be back with an update to this post as soon as the results are in!
+Undaunted, I’ve already started my next tray of microgreens! This time I’m opting for the super easygoing radish and trying vermiculite as a growing medium. I’ll be back with an update as soon as the radish results are in!
 
 ![A takeout tray with vermiculite beside a bowl of radish seeds](https://ucarecdn.com/0dbd40a1-a065-4305-bbd0-2b7167723aba/Radish-microgreens-Planter.jpg)
 
