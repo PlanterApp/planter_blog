@@ -54,7 +54,7 @@ If you're stacking microgreen trays of top of each other that can help to provid
 
 ## Results and Lessons for Next Round
 
-After having taken the time to do my homework before just throwing down seed I did have slightly more success with growing microgreens. They mostly sprouted and I did not have any mold issues (woohoo!) Having said that, the greens still did not root downward into the medium properly and after much waiting and hoping I could see they were starting to falter:
+After having taken the time to do my homework before just throwing down seed, I did have slightly more success with growing microgreens. They mostly sprouted and I did not have any mold issues (woohoo!) Having said that, the greens still did not root downward into the medium properly and after much waiting and hoping I could see they were starting to falter:
 
 ![A tray of sprouted microgreens failing to stand up](https://ucarecdn.com/e9fcb692-46c9-46ac-8327-598eb17f2c84/Microgreens-result-Planter.jpg)
 
