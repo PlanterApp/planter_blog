@@ -64,4 +64,4 @@ Undaunted, I’ve already started my next tray of microgreens! This time I’m o
 
 ![A takeout tray with vermiculite beside a bowl of radish seeds](https://ucarecdn.com/0dbd40a1-a065-4305-bbd0-2b7167723aba/Radish-microgreens-Planter.jpg)
 
-If you haven’t tried growing microgreens yourself (or maybe like me you've tried but failed) I hope you’ll give it a (another) try! Once you’ve got the microgreen growing bug, it’s hard to quit...and a successful grow will come with persistence and practice! If you're an expert microgreen grower, please share your microgreen growing tips and tricks in the comments section down below ⬇️
+If you haven’t tried growing microgreens yourself (or maybe like me you've tried but failed) I hope you’ll give it a (another) try! Once you’ve got the microgreen growing bug, it’s hard to quit...and a successful grow will come with persistence and practice! If you're an expert microgreen grower, share your microgreen growing tips and tricks in the comments section down below ⬇️
