@@ -26,29 +26,20 @@ If you want to stay within your gardening budget this year, consider propagating
 ### How to Take Basil Cuttings
 
 1. Choose a stem that is 2-4 inches tall. 
-
 2. Trim just below the leaf nodes.
-
 3. Strip the lower leaves off of the stem, about two inches up.  Make sure to leave at least two leaves up top attached to the stem. 
-
 4. Place your cuttings into clean water.  Basil doesn’t need to be dipped into rooting hormone to develop roots, especially if you do this in the spring and summer months when there is a lot of natural light.  
-
 5. Place your cuttings in an area with a lot of natural light, like a window sill. 
-
 6. Change the water every couple of days.
 
 ### Wait for Roots to Develop
 
-
-
 * Roots should start appearing in about 2-3 weeks. 
 * After you have roots around 1-2 inches long, they can be potted up or moved directly into the garden. 
 * If you pot them, use a good soil mixture; basil likes moist soil.
-* In summer, you can plant the cuttings directly into the ground. 
+* In summer, you can plant the cuttings directly into the ground or garden bed. 
 
 ![Roots have started to grow from this basil cutting](https://ucarecdn.com/ac1a9f90-b663-4efa-938a-b904a9b306de/basilplanter-1-4.jpg)
-
-
 
 ### Endless Basil
 
