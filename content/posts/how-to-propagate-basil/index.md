@@ -37,13 +37,11 @@ If you want to stay within your gardening budget this year, consider propagating
 * Roots should start appearing in about 2-3 weeks. 
 * After you have roots around 1-2 inches long, they can be potted up or moved directly into the garden. 
 * If you pot them, use a good soil mixture; basil likes moist soil.
-* In summer, you can plant the cuttings directly into the ground or garden bed. 
-
-![Roots have started to grow from this basil cutting](https://ucarecdn.com/ac1a9f90-b663-4efa-938a-b904a9b306de/basilplanter-1-4.jpg)
-
-### Endless Basil
+* In summer, you can plant the cuttings directly into the ground or garden bed. Basil
 
 Once your transplanted cuttings get established, you can take cuttings from those plants and keep the process going as long as you want. Once frost returns, it’s time to move the basil back inside, of course. 
+
+### Repeat
 
 It really is that easy to keep the basil-goodness going all summer and beyond.  It's like getting plants for free! A few more herbs you can propagate in water are: rosemary, sage, and oregano.
 
