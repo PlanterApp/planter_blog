@@ -34,25 +34,21 @@ If you want to stay within your gardening budget this year, consider propagating
 
 ### Wait for Roots to Develop
 
-* Roots should start appearing in about 2-3 weeks. 
-* After you have roots around 1-2 inches long, they can be potted up or moved directly into the garden. 
-* If you pot them, use a good soil mixture; basil likes moist soil.
-
-In summer, you can plant the cuttings directly into the ground or garden bed. Basil likes heat so if it's still getting cold at night, it's best to keep it in a pot until it warms up.
+Roots should start appearing in about 2-3 weeks.  After you have roots around 1-2 inches long, they can be potted up or moved directly into the garden. If you pot them, use a good soil mixture; basil likes moist soil.  In summer, you can plant the cuttings directly into the ground or garden bed. Basil likes heat so if it's still getting cold at night, it's best to keep it in a pot until it warms up.
 
 ![Basil cutting in water has developed roots](https://ucarecdn.com/8e2e0c0a-40ca-4577-b3e5-0bd6a578e5a4/basilplanter-1-4.jpg)
 
-Once your transplanted cuttings get established, you can take cuttings from those plants and keep the process going as long as you want. Once frost returns, it’s time to move the basil back inside, of course. 
+
 
 ### Repeat
 
-It really is that easy to keep the basil-goodness going all summer and beyond.  It's like getting plants for free! A few more herbs you can propagate in water are: rosemary, sage, and oregano.
+Once your transplanted cuttings get established, you can take cuttings from those plants and keep the process going as long as you want. Once frost returns, it’s time to move the basil back inside, of course. 
 
 This video shows the process: 
 
 {{< youtube kJ85R_gGEfs >}}
 
-``
+It really is that easy to keep the basil-goodness going all summer and beyond.  It's like getting plants for free! A few more herbs you can propagate in water are: rosemary, sage, and oregano.
 
 If you’re looking for more budget-friendly garden tips for this season, check out this post: 
 
