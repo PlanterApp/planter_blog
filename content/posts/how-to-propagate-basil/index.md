@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "How to Propagate Basil"
 slug = "how-to-propagate-basil"
 date = "2024-05-28T12:28:00.000Z"
