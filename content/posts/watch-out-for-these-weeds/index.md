@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Watch Out for These Weeds in the Garden"
 slug = "watch-out-for-these-weeds"
-date = "2024-05-28T16:00:00.000Z"
+date = "2024-06-10T11:18:00.000Z"
 author = "Samantha Togstad"
 
 [cover]
