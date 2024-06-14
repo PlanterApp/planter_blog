@@ -62,6 +62,8 @@ I suspect there are two main reasons why this happened. First, my seed starting 
 
 Undaunted, I’ve already started my next tray of microgreens! This time I’m opting for the super easygoing radish and trying vermiculite as a growing medium. I’ll be back with an update as soon as the radish results are in!
 
-![A takeout tray with vermiculite beside a bowl of radish seeds](https://ucarecdn.com/0dbd40a1-a065-4305-bbd0-2b7167723aba/Radish-microgreens-Planter.jpg)
+**Update:** The radish microgreen grow was a success! Growing in vermiculite and leaving the weight on for one more day after sprouting seemed to make all the difference. The stand of microgreens was consistent and upright, and the harvest even from this small tray was substantial.
+
+![A takeout tray with vermiculite beside a bowl of radish seeds](https://ucarecdn.com/60905ac4-475f-4646-9e32-e9848f138d44/Radish-microgreens-Planter.jpg)
 
 If you haven’t tried growing microgreens yourself (or maybe like me you've tried but failed) I hope you’ll give it a (another) try! Once you’ve got the microgreen growing bug, it’s hard to quit...and a successful grow will come with persistence and practice! If you're an expert microgreen grower, feel free to share your microgreen growing tips and tricks in the comments section down below ⬇️.
