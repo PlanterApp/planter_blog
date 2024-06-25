@@ -12,14 +12,12 @@ relative = false
 +++
 If you're growing herbs in your garden, you may wonder when the perfect time to harvest them is.  It all depends on which part of the plant you want to use. Plants store their active compounds in different places depending on what stage of growth they are in.
 
-### How to Harvest:
+### Harvest Timelines
 
 * Harvest aromatic herbs like basil, lemon balm, sage, and oregano just as the flowers are beginning to open. This is when the volatile oil levels are strongest, giving you a more flavorful or potent herb. You can use sharp scissors to remove leaves individually or snip stems with the leaves attached. 
 * Flowers and the tops of flowering herbs like yarrow, chamomile, and roses are best picked right before or as close to blooming as possible. 
 * Dill and fennel seeds can be collected right before they begin to dry, so they are still highly aromatic. You can cut the flower head off and hang it upside down to dry, then put a paper bag around the flower head to collect the dropping seeds.
 * Herb roots and rhizomes are usually harvested in the fall when the plant is dying back and sending all of its constituents to be stored in the root for winter.  Check back this fall for steps on how to harvest and dry roots.
-
-   
 
 ### To Wash, or Not to Wash?
 
@@ -29,12 +27,9 @@ If you are planning on using culinary herbs fresh for cooking or eating, then yo
 
 * It's best to harvest on a dry day, just after dew has evaporated, and before any extreme heat. 
 * Be mindful not to take too many leaves or flowers from one plant at a time, as this can stress the plant and sometimes lead to its demise. 
-*  Only harvest your herbs when you have time to start the drying process.  Plants start breaking down pretty quickly, so you want to process them as fast as possible. An exception is for herbs like chamomile and calendula that have these teeny tiny bugs crawling all over them. I like to let those bugs have a chance to move out before I dry, so I let them hang out in the shade for a while. I don't really want a bunch of bugs in my dried herbs!
+* Only harvest your herbs when you have time to start the drying process.  Plants start breaking down pretty quickly, so you want to process them as fast as possible. An exception is for herbs like chamomile and calendula that have these teeny tiny bugs crawling all over them. I like to let those bugs have a chance to move out before I dry, so I let them hang out in the shade for a while. I don't really want a bunch of bugs in my dried herbs!
 * Use a large bag or loose-weaved basket to avoid crushing your herbs while harvesting. 
-* Only harvest what you think you will use.  This can be tricky to determine sometimes, especially your first harvest when it is so exciting!  
-
-
-
-
+* Only harvest what you think you will use.  This can be tricky to determine sometimes, especially during your first year harvesting a plant.  
+* If you plan on saving seeds for next year, remember that before you harvest too much of a plant. 
 
 Harvesting your own herbs is so rewarding!  When you're ready to learn the best practices for drying herbs, make sure to read this next post in the herbs series!
