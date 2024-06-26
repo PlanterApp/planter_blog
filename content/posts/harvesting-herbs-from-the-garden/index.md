@@ -14,10 +14,10 @@ If you're growing herbs in your garden, you may wonder when the perfect time to 
 
 ### Harvest Timelines
 
-* Harvest aromatic herbs like basil, lemon balm, sage, and oregano just as the flowers are beginning to open. This is when the volatile oil levels are strongest, giving you a more flavorful or potent herb. You can use sharp scissors to remove leaves individually or snip stems with the leaves attached. 
-* Flowers and the tops of flowering herbs like yarrow, chamomile, and roses are best picked right before or as close to blooming as possible. 
-* Dill and fennel seeds can be collected right before they begin to dry, so they are still highly aromatic. You can cut the flower head off and hang it upside down to dry, then put a paper bag around the flower head to collect the dropping seeds.
-* Herb roots and rhizomes are usually harvested in the fall when the plant is dying back and sending all of its constituents to be stored in the root for winter.  Check back this fall for steps on how to harvest and dry roots.
+* Harvest **aromatic herbs** like basil, lemon balm, sage, and oregano just as the flowers are beginning to open. This is when the volatile oil levels are strongest, giving you a more flavorful or potent herb. You can use sharp scissors to remove leaves individually or snip stems with the leaves attached. 
+* **Flowers and the tops of flowering** herbs like yarrow, chamomile, and roses are best picked right before or as close to blooming as possible. 
+* Dill and fennel **seeds** can be collected right before they begin to dry, so they are still highly aromatic. You can cut the flower head off and hang it upside down to dry, then put a paper bag around the flower head to collect the dropping seeds.
+* Herb **roots and rhizomes** are usually harvested in the fall when the plant is dying back and sending all of its constituents to be stored in the root for winter.  Check back this fall for steps on how to harvest and dry roots.
 
 ### To Wash, or Not to Wash?
 
