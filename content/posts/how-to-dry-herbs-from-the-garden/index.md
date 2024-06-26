@@ -20,6 +20,8 @@ The paper bag method is nice because it doesn't require anything fancy.  Place 
 
 You can dry bunches of herbs with long stems by tying their stems with twine or using rubber bands and hanging them upside down on a hook or a hanging drying rack. Clothes drying racks can be put to use for drying herbs. Keep them somewhere well-ventilated, out of direct sunlight, and away from steam, condensation, or moisture sources in the air. This is the preferred way to dry lavender, especially if you want to keep dried bunches for decor.  You can cut the flower head off and place it upside down in a paper bag to collect the dropping seeds.
 
+![Lavender drying on a laundry rack](https://ucarecdn.com/1f7f7ec5-9f15-4cb5-9cc5-054619b2d13a/-/preview/-/enhance/60/lavenderdrying.JPEG "You can dry herbs using a clothes rack")
+
 ### Drying Racks
 
 Herbs can be laid on top of mesh drying racks, allowing air to circulate all around. Keep racks out of direct light and in a well-ventilated area. Stir the herbs around every few days. You can find racks in stores, online, or even make your own out of an old window screen. 
@@ -30,7 +32,7 @@ If you plan on drying a lot of herbs or want a fast way to dry herbs, then you m
 
 ### Ready for Storage
 
-Herbs can be stored when they crumble easily, or their stems snap. If they are bendy or soft at all, they are not ready. If there is even just a little moisture left, herbs can mold. If you dry your herbs on stems, you can remove them from the stem. Stems don't hold much goodness in a plant. Cut some pieces in half for roots to ensure they are thoroughly dried.  Dried herbs are freshest if you keep them in their whole form. They tend to lose potency faster if you crush or powder them. The best containers to store herbs in are air-tight glass ones.  You can use plain old Mason jars.  Try to keep your jars in a dark area and out of light. Light can degrade the quality of herbs. Always label your jars with the plants' names, and you can add the date that you jarred them up. If you keep your herbs in a cool and dark place, dried flowers and leaves can stay potent for a year or more. Roots can stay vibrant even longer.  If your herb has lost its smell and looks less than vital, it's time to compost them.
+Herbs can be stored when they crumble easily, or their stems snap. If they are bendy or soft at all, they are not ready. If there is even just a little moisture left, herbs can mold. If you dry your herbs on stems, you can remove them from the stem. Stems don't hold much goodness in a plant. Cut roots in half to ensure they are thoroughly dried.  Dried herbs are freshest if you keep them in their whole form. They tend to lose potency faster if you crush or powder them. The best containers to store herbs in are air-tight glass ones.  You can use plain old Mason jars.  Try to keep your jars in a dark area and out of light. Light can degrade the quality of herbs. Always label your jars with the plants' names, and you can add the date that you jarred them up. If you keep your herbs in a cool and dark place, dried flowers and leaves can stay potent for a year or more. Roots can stay vibrant even longer.  If your herb has lost its smell and looks less than vital, it's time to compost them.
 
 Some herbs can be frozen for use in the kitchen. Sage, lemon balm, rosemary, and bay leaves can be frozen in plastic bags or ice cube trays.  
 
