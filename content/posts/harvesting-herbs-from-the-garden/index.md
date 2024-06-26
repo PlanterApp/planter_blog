@@ -19,6 +19,8 @@ If you're growing herbs in your garden, you may wonder when the perfect time to 
 * Dill and fennel **seeds** can be collected right before they begin to dry, so they are still highly aromatic. You can cut the flower head off and hang it upside down to dry, then put a paper bag around the flower head to collect the dropping seeds.
 * Herb **roots and rhizomes** are usually harvested in the fall when the plant is dying back and sending all of its constituents to be stored in the root for winter.  Check back this fall for steps on how to harvest and dry roots.
 
+![Harvesting chamomile flowers in the summer](https://ucarecdn.com/c7297fc5-434d-456f-ac25-d56dc7d173da/chamomileharvest2-1.jpg)
+
 ### To Wash, or Not to Wash?
 
 If you are planning on using culinary herbs fresh for cooking or eating, then you can rinse them off with some water just as you would vegetables. You can rinse your herbs prior to drying them too. Lay them out to dry before you move on to the drying process. Not everyone does this because it may increase the chances of the herbs holding onto more moisture and molding in storage. You can also spray your herbs with a garden hose a day before you harvest them; that way, they'll have time to dry off before harvesting. Washing herbs might increase drying time. If you don't spray your herbs with chemicals, you keep your pets out of your garden, and you don't see dirt on them, you don't necessarily have to wash your herbs, especially if you're concerned about increasing chances of molding. After harvesting, you should look through the herbs and remove any damaged or diseased-looking plant parts. 
