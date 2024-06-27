@@ -52,4 +52,4 @@ If herbs aren't thoroughly dried before they are stored, mold can grow. If you f
 
 ![Dried herbs on a shelf](https://ucarecdn.com/30ee9f94-4544-4bfe-9b64-6d5ee2c55705/planterherbshelf.JPEG)
 
-Drying herbs from your own garden is so rewarding and easy!  Give it a try this season! Check the [Planter app](https://planter.garden/) for more information on harvesting herbs.
+Having your own stash of dried herbs is an amazing way to connect with your garden, even when the first days of winter arrive. Give it a try this season! Check the [Planter app](https://planter.garden/) for more information on harvesting herbs.
