@@ -1,10 +1,11 @@
 +++
-draft = true
+draft = false
 title = "How to Dry Herbs from the Garden"
 slug = "how-to-dry-herbs-from-the-garden"
-date = "2024-06-26T16:19:00.000Z"
+date = "2024-06-27T13:32:00.000Z"
 author = "Samantha Togstad"
 plants = ["chamomile", "roses", "sage", "thyme", "yarrow", "lavender", "calendula", "rosemary"]
+series = ["Herbs"]
 tags = ["herbs"]
 
 [cover]
