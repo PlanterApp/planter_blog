@@ -9,6 +9,8 @@ series = ["Herbs"]
 
 [cover]
 relative = false
+image = "https://ucarecdn.com/6eb41891-8a7a-45f6-ac32-c81e9026f8ca/planterchamomileharvest2.jpg"
+alt = "Harvesting chamomile in the summer"
 +++
 If you're growing herbs in your garden, you may wonder when the perfect time to harvest them is.  It all depends on which part of the plant you want to use. Plants store their active compounds in different places depending on what stage of growth they are in.
 
@@ -19,7 +21,7 @@ If you're growing herbs in your garden, you may wonder when the perfect time to 
 * Dill and fennel **seeds** can be collected right before they begin to dry, so they are still highly aromatic. You can cut the flower head off and hang it upside down to dry, then put a paper bag around the flower head to collect the dropping seeds.
 * Herb **roots and rhizomes** are usually harvested in the fall when the plant is dying back and sending all of its constituents to be stored in the root for winter.  Check back this fall for steps on how to harvest and dry roots.
 
-![Harvesting chamomile flowers in the summer](https://ucarecdn.com/c7297fc5-434d-456f-ac25-d56dc7d173da/chamomileharvest2-1.jpg)
+![The flowering tops of white yarrow that have been harvested](https://ucarecdn.com/8bf970b2-f7ad-4977-bd91-086972f33986/-/preview/-/rotate/90/planteryarrow.JPEG "The flowering tops of white yarrow")
 
 ### To Wash, or Not to Wash?
 
@@ -33,5 +35,7 @@ If you are planning on using culinary herbs fresh for cooking or eating, then yo
 * Use a large bag or loose-weaved basket to avoid crushing your herbs while harvesting. 
 * Only harvest what you think you will use.  This can be tricky to determine sometimes, especially during your first year harvesting a plant.  
 * If you plan on saving seeds for next year, remember that before you harvest too much of a plant. 
+
+![Herbs that have just been harvested from the garden](https://ucarecdn.com/e86c6222-8449-4a4e-b662-edabc326e136/planterherbharvest.JPEG)
 
 Harvesting your own herbs is so rewarding!  When you're ready to learn the best practices for drying herbs, make sure to read this next post in the herbs series!
