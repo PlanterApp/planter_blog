@@ -38,4 +38,4 @@ If you are planning on using culinary herbs fresh in your cooking, then you can 
 
 ![Herbs that have just been harvested from the garden](https://ucarecdn.com/e86c6222-8449-4a4e-b662-edabc326e136/planterherbharvest.JPEG)
 
-Harvesting your own herbs is so rewarding!  When you're ready to learn the best practices for drying herbs, make sure to read this next post in the herbs series!
+Harvesting your own herbs is so rewarding!  When you're ready to learn the best practices for drying herbs, make sure to read [this next post](https://blog.planter.garden/posts/how-to-dry-herbs-from-the-garden/) in the herbs series!
