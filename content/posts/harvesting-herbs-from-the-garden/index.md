@@ -17,15 +17,15 @@ If you're growing herbs in your garden, you may wonder when the perfect time to 
 ### Harvest Timelines
 
 * Harvest **aromatic herbs** like basil, lemon balm, sage, and oregano just as the flowers are beginning to open. This is when the volatile oil levels are strongest, giving you a more flavorful or potent herb. You can use sharp scissors to remove leaves individually or snip stems with the leaves attached. 
-* **Flowers and the tops of flowering** herbs like yarrow, chamomile, and roses are best picked right before or as close to blooming as possible. 
+* **Flowers and the tops of flowering** herbs like yarrow, chamomile, and roses are best picked right as they are starting to bloom or not too long afterwards.
 * Dill and fennel **seeds** can be collected right before they begin to dry, so they are still highly aromatic. You can cut the flower head off and hang it upside down to dry, then put a paper bag around the flower head to collect the dropping seeds.
-* Herb **roots and rhizomes** are usually harvested in the fall when the plant is dying back and sending all of its constituents to be stored in the root for winter.  Check back this fall for steps on how to harvest and dry roots.
+* Herb **roots and rhizomes** are usually harvested in the fall when the plant is dying back and sending all of its constituents to be stored in the root for winter.  Check back this fall for the steps on how to harvest and dry roots.
 
 ![The flowering tops of white yarrow that have been harvested](https://ucarecdn.com/8bf970b2-f7ad-4977-bd91-086972f33986/-/preview/-/rotate/90/planteryarrow.JPEG "The flowering tops of white yarrow")
 
 ### To Wash, or Not to Wash?
 
-If you are planning on using culinary herbs fresh for cooking or eating, then you can rinse them off with some water just as you would vegetables. You can rinse your herbs prior to drying them too. Lay them out to dry before you move on to the drying process. Not everyone does this because it may increase the chances of the herbs holding onto more moisture and molding in storage. You can also spray your herbs with a garden hose a day before you harvest them; that way, they'll have time to dry off before harvesting. Washing herbs might increase drying time. If you don't spray your herbs with chemicals, you keep your pets out of your garden, and you don't see dirt on them, you don't necessarily have to wash your herbs, especially if you're concerned about increasing chances of molding. After harvesting, you should look through the herbs and remove any damaged or diseased-looking plant parts. 
+If you are planning on using culinary herbs fresh in your cooking, then you can rinse them off with some water just as you would vegetables. You can rinse your herbs prior to drying them too. Lay them out to dry after rinsing before you move on to the drying process. Not everyone does this because it may increase the chances of the herbs holding onto moisture and molding in storage. You can also spray your herbs with a garden hose a day before you harvest them; that way, they'll have time to dry off before harvesting. Washing herbs before harvest may increase the time it takes to dry them. If you don't spray your herbs with chemicals, you keep your pets out of your garden, and you don't see dirt on them, you don't necessarily have to wash herbs, especially if you're concerned about increasing chances of molding. Either way, after harvesting, you should look through the herbs and remove any damaged or diseased-looking plant parts. 
 
 ### More Tips
 
