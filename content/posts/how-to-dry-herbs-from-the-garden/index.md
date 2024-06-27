@@ -13,7 +13,7 @@ relative = false
 image = "https://ucarecdn.com/1d541d6e-64a8-4ba6-bfa2-7c05acd68144/-/preview/-/enhance/58/-/sharp/12/planterdriedsage.JPEG"
 alt = "Dried sage and rosemary in airtight glass jars"
 +++
-If you've been following the [Planter](https://planter.garden/) "Herbs" series, you may have seen the post about harvesting herbs. After you harvest you must start the process of saving your herbs.  Drying your herbs is the best way to preserve your harvest for long-term storage. There are several ways to do this at home. 
+If you've been following the Planter "Herbs" series, you may have seen the [post about harvesting ](https://blog.planter.garden/posts/harvesting-herbs-from-the-garden/)herbs. After you harvest you must start the process of saving your herbs.  Drying your herbs is the best way to preserve your harvest for long-term storage. There are several ways to do this at home. 
 
 ### Paper Bag Method
 
