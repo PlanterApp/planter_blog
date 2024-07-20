@@ -37,7 +37,7 @@ According to the AKC, here are some **safe fruit and vegetables** for dogs (not
 * Cantaloupe
 * Carrots- carrots make a good chew toy
 * Celery
-* Cranberries- are on the safe list, but would dogs eat them?
+* Cranberries- know any dogs who like them? 
 * Cucumbers
 * Green beans- cooked green beans are a hit with a lot of dogs
 * Ginger-good for upset digestive systems
@@ -81,7 +81,6 @@ Cats don't have sweet taste receptors, so most don't like fruit. Most cats will 
 * Cranberries
 * Cucumber
 * Ginger-good for upset digestive systems 
-* Eggplant
 * Pear
 * Peas
 * Peppers
@@ -121,10 +120,6 @@ These veggie lovers will eat almost every plant in a veggie garden! However, rab
 I was surprised to learn that pet fish can eat treats from the garden. You might want to research all the things fish can eat, but some produce they can eat are cucumber, lettuce, carrots, pieces of pumpkin, apples, pears, berries, and zucchini.  Word on the internet says to avoid oranges and watermelon.
 
 Peter, the creator of [Planter, ](https://planter.garden/)gives his fish bolted red lettuce, and they seem to love it! 
-
-
-
-
 
 Next time you're out harvesting, see if anything sparks your pet's interest.  Their favorite garden treat might surprise you!
 
