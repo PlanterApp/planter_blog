@@ -106,7 +106,7 @@ The same applies to potatoes for cats and dogs: cook potatoes before serving and
 
 **Birds:**
 
-Birds can and should eat a lot of fruit and vegetables. This website is a good resource for learning more about what is safe. Avoid garlic, onions, avocados, and head lettuce varieties high in water. 
+Birds can and should eat a lot of fruit and vegetables. [This website](https://vcahospitals.com/know-your-pet/fruits-and-vegetables-in-bird-diets#:~:text=Fresh%20produce%20should%20comprise%20no,nutrient%20in%20a%20birds'%20diet.) is a good resource for learning more about what is safe. Avoid garlic, onions, avocados, and head lettuce varieties high in water. 
 
 **Gerbils and Hamsters:**
 
