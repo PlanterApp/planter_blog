@@ -2,6 +2,8 @@
 draft = false
 title = "Connor Flynn"
 slug = "Connor Flynn"
+ignoreArticles = true
+
 
 [cover]
 image = "https://ucarecdn.com/d45e6e4e-052e-41fc-b674-b0d1a87d4c41/profile.jpg"
