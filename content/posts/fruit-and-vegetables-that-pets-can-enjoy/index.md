@@ -35,7 +35,7 @@ According to the AKC, here are some **safe fruit and vegetables** for dogs (not
 * Broccoli
 * Cabbage
 * Cantaloupe
-* Carrots- carrots make a good chew toy (supervised your pet so they don't choke)
+* Carrots- carrots make a good chew toy (supervise your pet so they don't choke)
 * Celery
 * Cranberries- know any dogs who like them? 
 * Cucumbers
