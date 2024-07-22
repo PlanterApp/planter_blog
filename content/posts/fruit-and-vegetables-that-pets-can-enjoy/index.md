@@ -52,9 +52,9 @@ According to the AKC, here are some **safe fruit and vegetables** for dogs (not
 
 **Fruit and vegetables to avoid:**
 
-* Asparagus
+* Asparagus- difficult for dogs to digest properly
 * Avocado
-* Cherries
+* Cherries- the pits, stems, and leaves can cause problems
 * Chives
 * Garlic
 * Grapes
@@ -87,6 +87,7 @@ Cats don't have sweet taste receptors, so most don't like fruit. Most cats will 
 * Peppers
 * Pumpkin
 * Raspberries
+* Ripe tomatoes 
 
 **Fruit and vegetables to avoid:**
 
@@ -106,21 +107,21 @@ The same applies to potatoes for cats and dogs: cook potatoes before serving and
 
 **Birds:**
 
-Birds can and should eat a lot of fruit and vegetables. [This website](https://vcahospitals.com/know-your-pet/fruits-and-vegetables-in-bird-diets#:~:text=Fresh%20produce%20should%20comprise%20no,nutrient%20in%20a%20birds'%20diet.) is a good resource for learning more about what is safe. Avoid garlic, onions, avocados, and head lettuce varieties high in water. 
+Birds can and should eat a lot of fruit and vegetables. [This website](https://vcahospitals.com/know-your-pet/fruits-and-vegetables-in-bird-diets#:~:text=Fresh%20produce%20should%20comprise%20no,nutrient%20in%20a%20birds'%20diet.) is a good resource for learning more about what is safe. Avoid garlic, onions, avocados, and head lettuce varieties that are high in water content. 
 
 **Gerbils and Hamsters:**
 
-Be mindful of the amount of fresh fruit and vegetables that hamsters and gerbils eat. Too many snacks high in water can cause gastrointestinal distress. Keep your serving sizes small. These pets can safely enjoy apples, bananas, berries, lettuce, kale, pumpkin seeds, sunflower seeds, and more!  
+Be mindful of the amount of fresh fruit and vegetables that hamsters and gerbils eat. Too many snacks high in water content can cause gastrointestinal distress. Keep your serving sizes small. These pets can safely enjoy apples, bananas, berries, lettuce, kale, pumpkin seeds, sunflower seeds, and more!  
 
 **Rabbits:**
 
-These veggie lovers will eat almost every plant in a veggie garden! However, rabbits are not recommended to eat onions, leeks, garlic, raw potatoes, or iceberg lettuce. Dark and leafy lettuce is okay. 
+These veggie lovers will eat almost every plant in a garden! However, rabbits are not recommended to eat onions, leeks, garlic, raw potatoes, or iceberg lettuce. Dark and leafy lettuce is okay. 
 
 **Fish:** 
 
-I was surprised to learn that pet fish can eat treats from the garden. You might want to research all the things fish can eat, but some produce they can eat are cucumber, lettuce, carrots, pieces of pumpkin, apples, pears, berries, and zucchini.  Word on the internet says to avoid oranges and watermelon.
+I was surprised to learn that pet fish can eat treats from the garden. You might want to research all of the things fish can eat, but some produce they can eat are cucumber, lettuce, carrots, pieces of pumpkin, apples, pears, berries, and zucchini.  Word on the internet says to avoid oranges and watermelon.
 
-Peter, the creator of [Planter, ](https://planter.garden/)gives his fish bolted red lettuce, and they seem to love it! 
+Peter, the creator of [Planter, ](https://planter.garden/)gives his fish red lettuce that has bolted, and they seem to love it! 
 
 Next time you're out harvesting, see if anything sparks your pet's interest.  Their favorite garden treat might surprise you!
 
