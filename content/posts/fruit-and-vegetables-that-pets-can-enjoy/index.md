@@ -29,7 +29,7 @@ Some dogs love fruit and veggies, and some want nothing to do with them! If your
 According to the AKC, here are some **safe fruit and vegetables** for dogs (not a complete list): 
 
 * Apples- make sure they don't eat too many seeds
-* Bananas- try adding frozen banana and peanut butter for a doggie smoothie
+* Bananas- try blending up frozen bananas and peanut butter for a dog smoothie
 * Blueberries- frozen blueberries are a nice treat on a hot day!
 * Blackberries
 * Broccoli
