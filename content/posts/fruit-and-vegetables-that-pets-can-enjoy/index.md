@@ -10,7 +10,7 @@ plants = ["apples", "broccoli ", "carrots", "peas", "lettuce", "blueberries", "s
 relative = false
 image = "https://ucarecdn.com/fe0742e3-939e-4e07-a16d-09065d64e29e/Wrenpup-1.jpg"
 alt = "A dog sunning on a clover lawn"
-caption = ""
+caption = "Murphy loves to snack on snow peas from the garden"
 +++
 If you're a gardener with pets, no doubt they spend some time in or near the garden.   While it's essential to do some [pet-proofing](https://blog.planter.garden/posts/pet-proofing/) to your garden, it's also fun to hang out with your pet, just relaxing in the garden.  While your dog or cat probably won't help you with any garden chores, they might love to help you enjoy the harvest.  Our pets can enjoy many fruits and vegetables.  
 
@@ -22,7 +22,7 @@ It's important to note that animals' bodies digest and process some plants diffe
 
 ### Dogs
 
-![A dog in the garden ](https://ucarecdn.com/81e7c1af-03aa-482d-ae1a-bccdecde706c/Connorspup-1.jpg)
+![A dog in the garden ](https://ucarecdn.com/81e7c1af-03aa-482d-ae1a-bccdecde706c/Connorspup-1.jpg "Tomatoes are Meeka's favorite garden treat")
 
 Some dogs love fruit and veggies, and some want nothing to do with them! If your dog wants nothing to do with fresh veggies, you can try cooking them and adding them to your dog's food.  Fruit and veg can be an excellent way to add fiber to your pet's diet, which can be lacking in kibble. 
 
@@ -35,7 +35,7 @@ According to the AKC, here are some **safe fruit and vegetables** for dogs (not
 * Broccoli
 * Cabbage
 * Cantaloupe
-* Carrots- carrots make a good chew toy
+* Carrots- carrots make a good chew toy (supervised your pet so they don't choke)
 * Celery
 * Cranberries- know any dogs who like them? 
 * Cucumbers
@@ -46,6 +46,7 @@ According to the AKC, here are some **safe fruit and vegetables** for dogs (not
 * Peas
 * Pumpkin-a great base for homemade dog treats and pumpkin seeds have essential fatty acids 
 * Raspberries
+* Ripe tomatoes- small amounts of **ripe** tomatoes are okay 
 * Strawberries
 * Watermelon
 
@@ -61,7 +62,7 @@ According to the AKC, here are some **safe fruit and vegetables** for dogs (not
 * Leeks
 * Onions
 
-According to the AKC, citrus, spinach, and tomatoes are potentially safe but it's better to avoid them. Dogs should only be fed cooked potatoes in small amounts, and they should never be fed green potatoes.
+According to the AKC, citrus and spinach are potentially safe but it's better to avoid them. Dogs should only be fed cooked potatoes in small amounts, and they should never be fed green potatoes. Dogs shouldn't eat green tomatoes or any part of a tomato plant. 
 
 ### Cats
 
@@ -92,12 +93,12 @@ Cats don't have sweet taste receptors, so most don't like fruit. Most cats will 
 * Chives
 * Citrus
 * Garlic
-* Green tomatoes
+* Green tomatoes 
 * Leeks
 * Onions
 * Rhubarb
 
-The same applies to potatoes for cats and dogs: cook potatoes before serving and never feed them green potatoes. 
+The same applies to potatoes for cats and dogs: cook potatoes before serving and never feed them green potatoes.  Cats can have tiny pieces of ripe tomatoes. They should never eat green tomatoes or any other part of a tomato plant.
 
 ![Two cats checking out some catnip](https://ucarecdn.com/a551166a-8d4e-4091-a460-8c62ead9dcf1/Erinskitties.jpg)
 
@@ -123,4 +124,4 @@ Peter, the creator of [Planter, ](https://planter.garden/)gives his fish bolted 
 
 Next time you're out harvesting, see if anything sparks your pet's interest.  Their favorite garden treat might surprise you!
 
-![A dog waiting patiently to eat a blueberry](https://ucarecdn.com/84e1b9ad-d50c-49ea-ab87-3bc5cb8b4f17/blueberryotto.JPEG)
+![A dog waiting patiently to eat a blueberry](https://ucarecdn.com/84e1b9ad-d50c-49ea-ab87-3bc5cb8b4f17/blueberryotto.JPEG "Otto waiting patiently for a frozen blueberry")
