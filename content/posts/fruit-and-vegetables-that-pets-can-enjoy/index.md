@@ -2,7 +2,7 @@
 draft = true
 title = "Fruit and Vegetables That Pets Can Enjoy"
 slug = "fruit-and-vegetables-that-pets-can-enjoy"
-date = "2024-07-19T16:53:00.000Z"
+date = "2024-07-25T12:44:00.000Z"
 author = "Samantha Togstad"
 plants = ["apples", "broccoli ", "carrots", "peas", "lettuce", "blueberries", "strawberries", "Garlic", "onions", "pumpkin"]
 
@@ -68,7 +68,7 @@ According to the AKC, citrus and spinach are potentially safe but it's better to
 
 ![A cat looking up at a tree in the garden](https://ucarecdn.com/0bb91f2e-28e0-464a-b74a-5237ae838014/Erinscat.jpg)
 
-Cats don't have sweet taste receptors, so most don't like fruit. Most cats will pick a platter of tuna over a pile of green beans, but if you have a cat with a sophisticated palette, you can try some snacks from the garden. If your cat won't try fresh produce, you can dehydrate the fruit or veggies, then powder them, and sprinkle a little on their food. 
+Cats don't have sweet taste receptors, so most don't like fruit. Most cats will pick a platter of tuna over a pile of green beans, but if you have a cat with a sophisticated palette, you can try some snacks from the garden. If your cat won't try fresh produce, you can dehydrate the fruit or veggies, then powder them, and sprinkle a little on their food.  And of course, cats (and dogs) usually love catnip!
 
 **Safe fruit and vegetables** according to PetMD (not a complete list):
 
@@ -101,7 +101,7 @@ Cats don't have sweet taste receptors, so most don't like fruit. Most cats will 
 
 The same applies to potatoes for cats and dogs: cook potatoes before serving and never feed them green potatoes.  Cats can have tiny pieces of ripe tomatoes. They should never eat green tomatoes or any other part of a tomato plant.
 
-![Two cats checking out some catnip](https://ucarecdn.com/a551166a-8d4e-4091-a460-8c62ead9dcf1/Erinskitties.jpg)
+![Two cats checking out some catnip](https://ucarecdn.com/a551166a-8d4e-4091-a460-8c62ead9dcf1/Erinskitties.jpg "It looks like Mavis has sampled the catnip before Elliott!")
 
 ### Other Pets: 
 
@@ -121,7 +121,7 @@ These veggie lovers will eat almost every plant in a garden! However, rabbits ar
 
 I was surprised to learn that pet fish can eat treats from the garden. You might want to research all of the things fish can eat, but some produce they can eat are cucumber, lettuce, carrots, pieces of pumpkin, apples, pears, berries, and zucchini.  Word on the internet says to avoid oranges and watermelon.
 
-Peter, the creator of [Planter, ](https://planter.garden/)gives his fish red lettuce that has bolted, and they seem to love it! 
+Peter, the creator of [Planter, ](https://planter.garden/)gives his fish red lettuce that has bolted.  They love it!
 
 Next time you're out harvesting, see if anything sparks your pet's interest.  Their favorite garden treat might surprise you!
 
