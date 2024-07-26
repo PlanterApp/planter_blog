@@ -16,7 +16,7 @@ If you're a gardener with pets, no doubt they spend some time in or near the gar
 
 ### What Should Pets Eat?
 
-There are debates about the "right" diet for cats and dogs. In the wild, dogs are omnivores.  They eat meat, of course, but they also eat the stomachs of animals, which are usually full of fermenting plant material. Cats' stomachs are very acidic, so they can survive primarily on meat.  However, plant fiber can help feed the bacteria in cats' stomachs.  Some people feed their pets kibble, some choose wet food, some cook their pet's meals from scratch, and some feed pets raw food. Ultimately, the choice is up to you, but if you want to give your pets some home-grown treats or hope to enhance their health, sharing your garden bounty is a good way to do so. 
+There are debates about the "right" diet for cats and dogs. In the wild, dogs are omnivores.  They eat meat, of course, but they also eat the stomachs of animals, which are usually full of fermenting plant material. Cats' stomachs are very acidic, so they can survive primarily on meat.  However, plant fiber can help feed the bacteria in cats' stomachs.  Some people feed their pets kibble, some choose wet food, some cook their pet's meals from scratch, and some feed pets raw food. Ultimately, the choice is up to you, but if you want to give your pets some home-grown treats or you hope to enhance their health, sharing your garden bounty is a good way to do so. 
 
 It's important to note that animals' bodies digest and process some plants differently than us, and sometimes the wrong food can be harmful. Start with a small amount when giving your pet a new food for the first time. If you are feeding your pets packaged dried fruit, be sure xylitol isn't used as a sweetener because it is toxic to animals. [PetMD.com ](https://www.petmd.com/cat/which-fruits-can-cats-eat)is a good place to find out which fruits and vegetables are safe for cats.  The [American Kennel Club](https://www.akc.org/expert-advice/nutrition/fruits-vegetables-dogs-can-and-cant-eat/) has good information regarding dogs.  It's always a good idea to check with your pet's vet before introducing new foods, especially if they have health concerns.
 
@@ -40,7 +40,7 @@ According to the AKC, here are some **safe fruit and vegetables** for dogs (not
 * Cranberries- know any dogs who like them? 
 * Cucumbers
 * Green beans- cooked green beans are a hit with a lot of dogs
-* Ginger-good for upset digestive systems
+* Ginger- technically an herb, but good for upset digestive systems
 * Peaches
 * Pears
 * Peas
@@ -81,7 +81,7 @@ Cats don't have sweet taste receptors, so most don't like fruit. Most cats will 
 * Cantaloupe
 * Cranberries
 * Cucumber
-* Ginger-good for upset digestive systems 
+* Ginger- an herb that's good for upset digestive systems 
 * Pear
 * Peas
 * Peppers
@@ -119,7 +119,7 @@ These veggie lovers will eat almost every plant in a garden! However, rabbits ar
 
 **Fish:** 
 
-I was surprised to learn that pet fish can eat treats from the garden. You might want to research all of the things fish can eat, but some produce they can eat are cucumber, lettuce, carrots, pieces of pumpkin, apples, pears, berries, and zucchini.  Word on the internet says to avoid oranges and watermelon.
+I was surprised to learn that pet fish can eat treats from the garden. You might want to research all of the things that different types of fish can eat, but some produce fish can eat (according to research online, I am not a fish expert) are cucumber, lettuce, carrots, pieces of pumpkin, apples, pears, berries, and zucchini.  Word on the internet says to avoid oranges and watermelon.
 
 Peter, the creator of [Planter, ](https://planter.garden/)gives his fish red lettuce that has bolted.  They love it!
 
