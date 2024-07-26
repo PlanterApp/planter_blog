@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Fruit and Vegetables That Pets Can Enjoy"
 slug = "fruit-and-vegetables-that-pets-can-enjoy"
-date = "2024-07-25T12:44:00.000Z"
+date = "2024-07-26T08:39:00.000Z"
 author = "Samantha Togstad"
 plants = ["apples", "broccoli ", "carrots", "peas", "lettuce", "blueberries", "strawberries", "Garlic", "onions", "pumpkin"]
 
