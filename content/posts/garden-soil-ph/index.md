@@ -18,19 +18,15 @@ pH stands for potential hydrogen, and in the context of the garden it is a measu
 
 ![A chart showing soil nutrient availability at different pH levels](https://ucarecdn.com/b4e45b50-7a33-4252-8d90-4631b6601a26/Soil-pH-chart.jpg)
 
-
-
 ## What pH should my soil be?
 
-The optimal soil pH for growing fruits and vegetables is generally between 6.0 - 7.0, with some exceptions. To check the preferred pH for the particular plants you are growing, refer to the new Soil pH Quick Info Card in Planter! This will help you know if you have the optimal soil pH for the plants you want to grow. <<screenshot>>
-
-
+The optimal soil pH for growing fruits and vegetables is generally between 6.0 - 7.0, with some exceptions. To check the preferred pH for the particular plants you are growing, refer to the new Soil pH Quick Info Card in [Planter](https://planter.garden/gardens)! This will help you know if you have the optimal soil pH for the plants you want to grow. <<screenshot>>
 
 ## How can I test my soil pH?
 
 The best way to test your soil pH is to send a soil sample to your local extension office or to another reputable soil testing laboratory. You’ll likely want to test multiple areas in your garden as the pH can vary from bed to bed, and be sure to follow the lab’s testing instructions carefully for accurate results. While lab tests can be a bit pricey, you’ll learn lots of valuable information about your soil and how to amend it for the best results.
 
-If you can’t afford a lab soil test or you don’t want to wait for the results to come back, another option is to buy a soil pH meter or a home soil test kit. There are even ways to do DIY soil pH tests with materials you might already have at home. While at-home home testing isn’t as precise as lab testing, if done properly you should at least get an indication of whether you have highly acidic or alkaline soil that could cause your plants to struggle. If your at-home test suggests there’s an issue, you’ll want to follow up with lab testing before adding any amendments to raise or lower the soil pH.
+If you can’t afford a lab soil test or you don’t want to wait for the results to come back, another option is to buy a [soil pH meter](https://www.amazon.com/s?k=soil+pH+meter) or a [home soil test kit](https://www.amazon.com/Luster-Leaf-Rapitest-Soil-1602/dp/B01HQXF0PS). There are even ways to do DIY soil pH tests with materials you might already have at home. While at-home home testing isn’t as precise as lab testing, if done properly you should at least get an indication of whether you have highly acidic or alkaline soil that could cause your plants to struggle. If your at-home test suggests there’s an issue, you’ll want to follow up with lab testing before adding any amendments to raise or lower the soil pH.
 
 ## Changing your soil pH
 
@@ -47,3 +43,7 @@ If your soil is only slightly alkaline, incorporating compost can help to nudge 
 Keep in mind that changing your soil pH isn’t a one-time event; in many cases you’ll need to keep monitoring it and adding amendments as necessary to maintain the recommended pH range. If you’re struggling to optimize your soil pH, gardening in raised beds or containers can be a good alternative as it’s easier to achieve and maintain the right pH in a contained spot. This can be especially helpful for plants with unique pH needs, such as blueberries which require an unusually acidic soil that many other plants will not tolerate.
 
 While soil pH often isn’t top of mind, it’s undoubtedly one of the most important factors for healthy plants. Whether you’re starting a new garden or troubleshooting an existing garden, pay attention to the soil pH to ensure your garden will thrive!
+
+
+
+< {{ affiliate }} >
