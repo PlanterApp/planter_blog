@@ -32,6 +32,8 @@ The best way to test your soil pH is to send a soil sample to your local extensi
 
 If you can’t afford a lab soil test or you don’t want to wait for the results to come back, another option is to buy a [soil pH meter](https://www.amazon.com/s?k=soil+pH+meter) or a [home soil test kit](https://www.amazon.com/Luster-Leaf-Rapitest-Soil-1602/dp/B01HQXF0PS). There are even ways to do DIY soil pH tests with materials you might already have at home. While at-home home testing isn’t as precise as lab testing, if done properly you can at least get an indication of whether you have highly acidic or alkaline soil that could cause your plants to struggle. If your at-home test suggests that there’s a problem, follow up with a lab test before using any amendments to raise or lower the soil pH.
 
+![A hand with a test tube taking a soil sample beside a young seedling](https://ucarecdn.com/2d8b46ba-737a-4a05-99d4-02e8947910b0/Soil-sample.jpg)
+
 ## Changing your soil pH
 
 ### How to raise soil pH
