@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Soil pH for Veggie Gardens"
+title = "Soil pH for Veggie Gardens (and a Feature Launch!)"
 slug = "garden-soil-pH"
 date = "2024-07-28T15:44:00.000Z"
 author = "Erin Thomson"
