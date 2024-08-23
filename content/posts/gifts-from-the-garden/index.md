@@ -39,6 +39,8 @@ If you have an abundance of chamomile flowers, consider using them as part of an
 
 Almost everyone can appreciate a homegrown gift of dried spices. We all have to eat, so dried kitchen spices can be a universally loved gift! It's a great way to use that extra harvest of rosemary, sage, or thyme.  For garlic lovers, you could give up a few cloves or a whole garlic braid if you're generous. 
 
+![Dried sage and rosemary with some holiday ribbon](https://ucarecdn.com/2f7583c5-b53f-4dd4-b5f1-b99f4ec68d11/planterspicegift.JPEG)
+
 ### Lavender Hot Chocolate Mix
 
 For something unique, lavender hot chocolate mix can be easily made at home. Harvest some lavender cuttings and hang them to dry upside down. English varieties are best to use for flavoring.  In a couple of weeks, after they are fully dry, collect the dried flower buds by stripping them off of the stems.  Mix 1 TBSP of dried flower buds into 1 cup of your favorite premade hot cocoa mix, or make your own blend. Dried lavender is pretty strong in flavor, so you can use less if you like. Package in a jar and label.  You could make a pretty label with pressed flowers, too!
