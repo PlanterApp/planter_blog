@@ -11,7 +11,7 @@ relative = false
 image = "https://ucarecdn.com/9dc14a12-e1bf-4bdc-b80e-2dd8edba42ac/plantertea.JPEG"
 alt = "Dried chamomile tea and a green tea infuser"
 +++
-Every year, it seems like the holiday season arrives earlier and earlier.  Maybe the sun is shining where you are, and it's 100 degrees outside, so the "holidays" are the furthest thing from your mind right now.  But If you're someone who loves handmade gift-giving, you're probably okay with getting ahead. And if you want to give simple yet thoughtful gifts from the garden, now is the time to start planning.  
+Every year, it seems like the holiday season arrives earlier and earlier.  Maybe the "holidays" are the furthest thing from your mind right now.  But If you're someone who loves handmade gift-giving, you're probably okay with getting ahead. And if you want to give simple yet thoughtful gifts from the garden, now is the time to start planning.  
 
 ### Dried Bouquets
 
