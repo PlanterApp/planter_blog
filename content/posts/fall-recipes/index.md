@@ -17,11 +17,11 @@ One of my favorite things about this recipe is how many variations you can make 
 
 The base ingredients are:
 
-\-1½ lbs. Rhubarb
+1½ lbs. Rhubarb
 
-\-4 cups granulated sugar
+4 cups granulated sugar
 
-\-One package powdered regular pectin (1.75 oz.)
+One package powdered regular pectin (1.75 oz.)
 
 Although jelly is most often used on toast or English muffins, my favorite bread of choice to pair this jelly with is a warm, homemade waffle!
 
@@ -41,7 +41,7 @@ Salsa: <https://www.delishknowledge.com/the-best-homemade-salsa-for-canning/>
 
 Last summer, my partner and I grew 8 ball squash in our garden for the first time and it made the most delicious zucchini bread! Unfortunately, the squash beetles got to the plant and completely destroyed it, so we were settled on not growing any gourds this year to hopefully be rid of the squash beetles. To our surprise, one of the old 8 ball squashes must have self-seeded because we had a new squash plant pop up all on its own in the middle of summer! And you know what that means...We gotta make zucchini bread.
 
-I made banana and zucchini bread a lot growing up, but my partner wanted to try out making it himself. He’s really fond of this recipe: https://smittenkitchen.com/2019/08/ultimate-zucchini-bread/ because of how crispy the top can get. He said the trick is to leave it uncovered so the top doesn't get moist (and he was right!).
+I made banana and zucchini bread a lot growing up, but my partner wanted to try out making it himself. He’s really fond of this recipe: <https://smittenkitchen.com/2019/08/ultimate-zucchini-bread/> because of how crispy the top can get. He said the trick is to leave it uncovered so the top doesn't get moist (and he was right!).
 
 You'll need:
 
