@@ -8,7 +8,9 @@ author = "The Planter Team"
 [cover]
 relative = false
 +++
-Fall is the perfect time to make use of the bounty of produce from the garden! We here on the Planter Team have gathered a few of our favorite recipes to make use of the fall harvest!
+Fall is the perfect time to get in the kitchen and cook up a storm! 
+
+We here at the Planter Team have collected a few of our favorite recipes to make use of our fall harvests! We hope you'll take ideas and inspiration from these recipes to use the bounty from your own garden this fall!
 
 ## Rhubarb jelly (and other preserves) - Contributed by Wren
 
@@ -16,7 +18,7 @@ Fall is the perfect time to make use of the bounty of produce from the garden! W
 
 ![Two jars of rhubarb jelly on a wooden board in the garden](https://ucarecdn.com/6fb1a32a-7279-4079-a431-99315b9c42ab/Rhubarb-jelly_Planter.jpg)
 
-I grew up making jams and jellies with my mom. She'd wake us up early on the weekend and we'd drive out to a U-Pick Strawberry field where we'd spend hours trying to get our money's worth by filling up buckets and punnets to the brim with sweet little berries. Then we'd come home and spend the rest of the day (if not two) making jar after jar of some of the best jams I've ever had. I always complained about the process as a kid, but as I grew older I started noticing how fond I was of the process of jam making, and now that I'm an adult I miss those days a lot. I most often think about strawberry jam in the summer, but in the fall, that was the best time for rhubarb jelly. As someone who messes up their jams and jellies a lot more than my mom does, this recipe is pretty easy to follow! Rhubarb jelly recipe: <https://creativecanning.com/rhubarb-jelly/>
+I grew up making jams and jellies with my mom. She'd wake us up early on the weekend and we'd drive out to a U-Pick Strawberry field where we'd spend hours trying to get our money's worth by filling up buckets and punnets to the brim with sweet little berries. Then we'd come home and spend the rest of the day (if not two) making jar after jar of some of the best jams I've ever had. I always complained about the process as a kid, but as I grew older I started noticing how fond I was of the process of jam making, and now that I'm an adult I miss those days a lot. I most often think about strawberry jam in the summer, but in the fall, that was the best time for rhubarb jelly. As someone who messes up their jams and jellies a lot more than my mom does, this recipe is pretty easy to follow (rhubarb jelly recipe: [https://creativecanning.com/rhubarb-jelly/).](https://creativecanning.com/rhubarb-jelly/)
 
 One of my favorite things about this recipe is how many variations you can make with it. It could just be rhubarb jelly, or you can add strawberry, or apple juice, or cinnamon! This jelly can either give you a burst of summer or fall flavor depending on what you decide to put in it.
 
@@ -26,7 +28,7 @@ The base ingredients are:
 * 4 cups granulated sugar
 * One package powdered regular pectin (1.75 oz.)
 
-Although jelly is most often used on toast or English muffins, my favorite bread of choice to pair this jelly with is a warm, homemade waffle!Creative Canning suggests using this jelly also as a glaze for grilled meats! I’m going to have to try this.
+Although jelly is most often used on toast or English muffins, my favorite bread of choice to pair this jelly with is a warm, homemade waffle! Creative Canning suggests using this jelly also as a glaze for grilled meats! I’m going to have to try this.
 
 Here are a few of my other favorite fall preserve recipes:
 
