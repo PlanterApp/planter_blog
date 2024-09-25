@@ -10,7 +10,7 @@ relative = false
 image = "https://ucarecdn.com/97e24c25-46c9-4481-8a2f-04290cc4bbca/Fall-recipes_Planter.png"
 alt = "Fall vegetables, soup, a cooking spoon, and a leaf surround the text \"Fall Garden Recipes\""
 +++
-Fall is the perfect time to get in the kitchen and cook up a storm with the produce from your garden! 
+Fall is the perfect time to get in the kitchen and cook up the produce from your garden! 
 
 We here on the Planter Team wanted to share a few of our favorite recipes to make use of our fall harvests. We hope you'll take ideas and inspiration from these recipes to use up your own garden bounty this fall!
 
