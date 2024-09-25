@@ -10,7 +10,7 @@ relative = false
 image = "https://ucarecdn.com/8909ece5-25db-41c8-b800-b7ea5dc0134b/Soil-PH-test.jpg"
 alt = "Soil in a petri dish on a lab bench with soil pH test strips and tweezers"
 +++
-There’s a few obvious things that plants need to thrive- soil (or a growing medium at least), sunlight, water, and nutrients. What might not be as obvious is the importance of soil pH for healthy plants. If your soil doesn't have the proper pH for the plants that you’re growing, you might notice your plants. But before using any amendments to change your soil pH it's important to have an understanding of what soil pH is and why it matters for your plants.
+There’s a few obvious things that plants need to thrive- soil (or a growing medium at least), sunlight, water, and nutrients. What might not be as obvious is the importance of soil pH for healthy plants. If your soil doesn't have the proper pH for the plants that you’re growing, you'll need to amend it so your garden can thrive. But before using any amendments to change your soil pH it's important to have an understanding of what soil pH is and why it matters for your plants.
 
 ## What is soil pH and why does it matter?
 
@@ -44,10 +44,10 @@ It typically takes some time for soil microbes to break down the lime and raise 
 
 ### How to lower soil pH
 
-If your soil is only slightly alkaline, incorporating compost can also help to buffer the alkalinity. To acidify your soil significantly, you’ll need to apply sulfur. Note that there are different sulfur products available and some of these contain additional nutrients such as. If you want to avoid inadvertently adding nutrients in excess stick to using elemental sulfur. It will take time for the sulfur to acidify the soil so it’s best to apply it in fall for spring planting.
+If your soil is only slightly alkaline, incorporating compost can also help to buffer the alkalinity. In a contained space, Canadian spaghnum peat moss may be used  To acidify your soil significantly, you’ll need to apply a sulfur or sulfate product. Generally in the home garden it's best to use elemental sulfur (sometimes called agricultural sulfur). It will take time for the sulfur to acidify the soil so it’s best to apply it in fall for spring planting.
 
 Keep in mind that changing your soil pH generally isn’t a one-time event; you’ll need to continue monitoring the pH and adding amendments as necessary to maintain the recommended range. If you’re struggling to change your soil pH, gardening in raised beds or containers could be a good alternative as it’s easier to achieve and maintain the right pH in a contained spot. Container growing for plants with unique pH needs, such as blueberries, which require an unusually acidic soil that most other plants won't appreciate.
 
-While soil pH usually isn’t top of mind in the garden, it’s undoubtedly one of the most important factors for healthy plants. Whether you’re starting a brand-new garden or improving existing garden beds, be sure to optimize your soil pH so your garden can thrive!
+While soil pH usually isn’t top of mind in the garden, it’s undoubtedly one of the most important factors for healthy plants. Whether you’re starting a brand-new garden or improving existing garden beds, be sure to optimize your soil pH so your plants can flourish!
 
 {{< affiliate >}}
