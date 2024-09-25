@@ -7,6 +7,8 @@ author = "The Planter Team"
 
 [cover]
 relative = false
+image = "https://ucarecdn.com/97e24c25-46c9-4481-8a2f-04290cc4bbca/Fall-recipes_Planter.png"
+alt = "Fall vegetables, soup, a cooking spoon, and a leaf surround the text \"Fall Garden Recipes\""
 +++
 Fall is the perfect time to get in the kitchen and cook up a storm with the produce from your garden! 
 
