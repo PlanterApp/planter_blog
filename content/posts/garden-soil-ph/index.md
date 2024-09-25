@@ -2,7 +2,7 @@
 draft = false
 title = "Soil pH for Veggie Gardens (and a Feature Launch!)"
 slug = "garden-soil-pH"
-date = "2024-07-28T15:44:00.000Z"
+date = "2024-09-24T22:00:00.000Z"
 author = "Erin Thomson"
 
 [cover]
