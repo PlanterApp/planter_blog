@@ -24,7 +24,7 @@ As a rough guideline, the optimal soil pH for growing fruits and vegetables is g
 
 ![A screenshot of blueberries in Planter with the Soil pH Quick Info card highlighted](https://ucarecdn.com/c9e4f1e8-1dfd-4057-bd38-d430d0cd6f23/Blueberries_pH_Planter.jpg)
 
-While many plants can tolerate a fairly wide pH range, they do have individual preferences and there are a few with very particular pH needs.
+While many plants can tolerate a somewhat wide pH range, they do have individual preferences and there are a few plants with very particular pH needs.
 
 ## How can I test my soil pH?
 
@@ -38,16 +38,16 @@ If you can’t afford a lab soil test or you don’t want to wait for the result
 
 ### How to raise soil pH
 
-If you only need to raise your soil pH very slightly, applying compost can help to bring the pH into an optimal range. Compost has an ideal pH for growing veggies and working it into your soil can help to buffer your soil pH. If your soil is fairly acidic and you need to raise the pH significantly, you’ll want to apply lime to the soil. There are different types of lime available - garden lime (aka agricultural lime) is calcium carbonate which will add calcium to the soil along with raising the pH. Dolomitic lime, another common lime product, will add magnesium. If you already have excess calcium or magnesium in your soil, you'll want to choose the lime product that will not add to the problem.
+If you only need to raise your soil pH very slightly, applying compost can help to bring the pH into an optimal range. Compost has an ideal pH for growing veggies and by working it into your soil it can help to buffer your soil pH. If your soil is fairly acidic and you need to raise the pH significantly, you’ll want to apply lime to the soil. There are different types of lime available - garden lime (aka agricultural lime) is calcium carbonate which will add calcium to the soil along with raising the pH. Dolomitic lime, another common product for raising soil pH, will add magnesium. If you happen to know that your soil contains excess calcium or magnesium, you'll want to choose a lime product that will not add to the excess.
 
-It typically takes some time for soil microbes to break down the lime and raise the soil pH, so you’ll want to apply lime in the fall for the soil to be ready for planting in spring.
+It typically takes some time for soil microbes to break down the lime and raise the soil pH, so you’ll want to apply lime in the fall for the soil to be ready for spring planting.
 
 ### How to lower soil pH
 
-If your soil is only slightly alkaline, incorporating compost can help to nudge the pH into the optimal range (it has the same buffering effect as with slightly acidic soils). To acidify your soil more significantly, you’ll need to apply sulfur. Note that there are different types of sulfur available that can contain added nutrients; if you want to avoid inadvertently adding excess nutrients stick to using elemental sulfur. It will take time for the sulfur to acidify the soil so it’s best to apply it in fall for spring planting.
+If your soil is only slightly alkaline, incorporating compost can also help to buffer the alkalinity. To acidify your soil significantly, you’ll need to apply sulfur. Note that there are different sulfur products available and some of these contain additional nutrients such as. If you want to avoid inadvertently adding a nutrient in excess stick to using elemental sulfur. It will take time for the sulfur to acidify the soil so it’s best to apply it in fall for spring planting.
 
-Keep in mind that changing your soil pH isn’t a one-time event; in many cases you’ll need to keep monitoring it and adding amendments as necessary to maintain the recommended pH range. If you’re struggling to optimize your soil pH, gardening in raised beds or containers can be a good alternative as it’s easier to achieve and maintain the right pH in a contained spot. This can be especially helpful for plants with unique pH needs, such as blueberries, which require an unusually acidic soil that many other plants will not tolerate.
+Keep in mind that changing your soil pH generally isn’t a one-time event; you’ll need to continue monitoring the pH and adding amendments as necessary to maintain the recommended range. If you’re struggling to change your soil pH, gardening in raised beds or containers could be a good alternative as it’s easier to achieve and maintain the right pH in a contained spot. Container growing for plants with unique pH needs, such as blueberries, which require an unusually acidic soil that most other plants won't appreciate.
 
-While soil pH often isn’t top of mind, it’s undoubtedly one of the most important factors for healthy plants. Whether you’re starting a new garden or troubleshooting an existing garden, pay attention to the soil pH to ensure your garden will thrive!
+While soil pH usually isn’t top of mind in the garden, it’s undoubtedly one of the most important factors for healthy plants. Whether you’re starting a brand-new garden or troubleshooting an existing bed, pay attention to the soil pH to ensure your garden will thrive!
 
 {{< affiliate >}}
