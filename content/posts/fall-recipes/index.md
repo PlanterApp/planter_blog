@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Our Favorite Fall Garden Recipes"
 slug = "fall-recipes"
 date = "2024-09-24T23:43:00.000Z"
@@ -15,8 +15,6 @@ Fall is the perfect time to get in the kitchen and cook up the produce from your
 We here on the Planter Team wanted to share a few of our favorite recipes to make use of our fall harvests. We hope you'll take ideas and inspiration from these recipes to use up your own garden bounty this fall!
 
 ## Rhubarb jelly (and other preserves) - Contributed by Wren
-
-
 
 ![Two jars of rhubarb jelly on a wooden board in the garden](https://ucarecdn.com/6fb1a32a-7279-4079-a431-99315b9c42ab/Rhubarb-jelly_Planter.jpg)
 
@@ -66,7 +64,7 @@ You'll need:
 
 The recipe does a good job walking you through all the steps so I highly recommend looking it up. And I have to say, it's definitely one of the best zucchini breads I've ever had.
 
-## Acorn squash boats with sausage and apples- Contributed by Samantha
+## Acorn squash boats with sausage and apples - Contributed by Samantha
 
 ![Squash boats with sausage and apples on a decorative plant](https://ucarecdn.com/2b15e2ae-5e72-47e6-9666-a44dbd66cf49/Squash-with-sausage_Planter.jpg)
 
