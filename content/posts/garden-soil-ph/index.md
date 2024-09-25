@@ -22,7 +22,7 @@ pH stands for *potential hydrogen*, and in the context of the garden it is a mea
 
 As a rough guideline, the optimal soil pH for growing fruits and vegetables is generally between 6.0 - 7.0. To validate the preferred pH range for the plants that you grow, check out the new **Soil pH Quick Info Card** in [Planter](https://planter.garden/gardens)! 
 
-<<screenshot>>
+![A screenshot of blueberries in Planter with the Soil pH Quick Info card highlighted](https://ucarecdn.com/c9e4f1e8-1dfd-4057-bd38-d430d0cd6f23/Blueberries_pH_Planter.jpg)
 
 While many plants can tolerate a fairly wide pH range, they do have individual preferences and a few have quite unique pH needs.
 
