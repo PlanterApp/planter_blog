@@ -2,6 +2,7 @@
 draft = true
 title = "Our Favorite Fall Garden Recipes"
 slug = "fall-recipes"
+date = "2024-09-24T23:43:00.000Z"
 author = "The Planter Team"
 
 [cover]
