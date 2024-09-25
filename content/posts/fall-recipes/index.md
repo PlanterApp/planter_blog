@@ -10,7 +10,7 @@ relative = false
 +++
 Fall is the perfect time to get in the kitchen and cook up a storm with the produce from your garden! 
 
-We here at the Planter Team wanted to share a few of our favorite recipes to make use of our fall harvests. We hope you'll take ideas and inspiration from these recipes to use up your own garden bounty this fall!
+We here on the Planter Team wanted to share a few of our favorite recipes to make use of our fall harvests. We hope you'll take ideas and inspiration from these recipes to use up your own garden bounty this fall!
 
 ## Rhubarb jelly (and other preserves) - Contributed by Wren
 
