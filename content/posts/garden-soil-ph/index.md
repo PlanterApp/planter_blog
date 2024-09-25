@@ -16,9 +16,7 @@ There’s a few obvious things that plants need to thrive- soil (or a growing me
 
 pH stands for *potential hydrogen*, and in the garden it is a measurement of the amount of hydrogen ions in the soil (technically in a soil solution). pH is measured by a numerical scale ranging from 0.0 to 14.0 (although soil pH will never reach the extreme ends of the scale). Lower numbers are acidic, higher numbers are alkaline (aka. ‘basic’), and a pH of 7.0 is neutral- neither acidic nor alkaline. It’s a bit counter-intuitive, but the higher the pH the less hydrogen there is in the soil and the lower the pH the more hydrogen. The pH of the soil affects the availability of nutrients for your plants, so it's important to have right soil pH for the plants you grow. If the soil pH is either too acidic or too alkaline, nutrients will be bound too tightly or too loosely for plants to use.
 
-![A chart showing soil nutrient availability at different pH levels](https://ucarecdn.com/b4e45b50-7a33-4252-8d90-4631b6601a26/Soil-pH-chart.jpg)
-
-> ## What pH should my soil be? (*\* hint, check Planter!*)
+## What pH should my soil be? (*\* hint, check Planter!*)
 
 As a rough guideline, the optimal soil pH for growing fruits and vegetables is generally between 6.0 - 7.0. To confirm the preferred pH range for each of the plants that you grow, check out the **new Soil pH Quick Info Card** in [Planter](https://planter.garden/gardens)! 
 
