@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Soil pH for Veggie Gardens (and a Feature Launch!)"
 slug = "garden-soil-pH"
 date = "2024-07-28T15:44:00.000Z"
@@ -44,7 +44,7 @@ It typically takes some time for soil microbes to break down the lime and raise 
 
 ### How to lower soil pH
 
-If your soil is only slightly alkaline, incorporating compost can also help to buffer the alkalinity. In a contained space, Canadian spaghnum peat moss may be used  To acidify your soil significantly, you’ll need to apply a sulfur or sulfate product. Generally in the home garden it's best to use elemental sulfur (sometimes called agricultural sulfur). It will take time for the sulfur to acidify the soil so it’s best to apply it in fall for spring planting.
+If your soil is only slightly alkaline, incorporating compost can also help to buffer the alkalinity. To acidify your soil significantly, you’ll need to apply a sulfur or sulfate product. Generally in the home garden it's best to use elemental sulfur (sometimes called agricultural sulfur). It will take time for the sulfur to acidify the soil so it’s best to apply it in fall for spring planting. Some sources also suggest using peat moss to lower soil pH however [according to the Iowa State University Extension Office](https://yardandgarden.extension.iastate.edu/how-to/how-change-your-soils-ph) only Canadian sphagnum peat moss can effectively lower soil pH (and it is best used in a contained space in conjunction with sulfur for acid-loving plants).
 
 Keep in mind that changing your soil pH generally isn’t a one-time event; you’ll need to continue monitoring the pH and adding amendments as necessary to maintain the recommended range. If you’re struggling to change your soil pH, gardening in raised beds or containers could be a good alternative as it’s easier to achieve and maintain the right pH in a contained spot. Container growing for plants with unique pH needs, such as blueberries, which require an unusually acidic soil that most other plants won't appreciate.
 
