@@ -2,7 +2,7 @@
 draft = true
 title = "How to Make Herb Infused Oils for Skin Care"
 slug = "how-to-make-herb-infused-oil"
-date = "2024-09-23T12:54:00.000Z"
+date = "2024-10-11T11:20:00.000Z"
 author = "Samantha Togstad"
 plants = ["Calendula", "Yarrow", "Lavender", "St. John's Wort"]
 series = ["Herbs"]
@@ -10,6 +10,7 @@ series = ["Herbs"]
 [cover]
 relative = false
 image = "https://ucarecdn.com/fa5d4acc-ee0f-4816-aefd-5fa984f3f5bf/calendula1.jpg"
+alt = "Bright orange calendula flowers in olive oil "
 +++
 Making an herbal-infused oil is easy. The hardest part is growing, harvesting, and drying the herbs. Herbal oils are a fantastic way to experience the benefits of herbs topically. Infused oils can be used alone, in salve, body butter, lip balm, soap, and more. 
 
@@ -79,11 +80,13 @@ Amber bottle 
 1. After 4-6 weeks, it's time to strain. If you go over 6 weeks, it's not a big deal; nothing bad will happen. Infused oil has a shelf life, so it's best to get it to use. 
 2. To filter your oil, you will need a clean jar, a funnel, cheesecloth, or a coffee filter. A regular mesh strainer will generally not filter out all the tiny bits of herbs very well. 
 3. Place the funnel into the jar and line it with the cheesecloth or coffee filter.  Carefully pour your mixture over the filter.  It takes a while for the oil to filter, especially if you use a coffee filter.
-4. After a while, you can use a clean spoon to press down on the herbs to help extract the oils they have soaked up. Or, with clean hands, you can very carefully squeeze the filter or cheesecloth to get every last drop you can. 
+4. After a while, you can use a clean spoon to press down on the herbs to help extract the oils they have soaked up. Or, with clean hands, you can very carefully squeeze the filter or cheesecloth to get every last drop you can. You can compost the herbs afterwards.
 5. Sometimes, even after good filtering, you can be left with cloudy debris of herbal sediment. Let your oil settle to the bottom, and slowly pour it into another jar, trying to avoid the sediment. Or you can filter that oil one more time. 
 6. A couple of drops of Vitamin E can be added to help maintain the oil's freshness. It does not kill germs, but it helps fight oxidation.
 7. Your oil is now ready for bottling or being used in making salves or other herbal products.  
 8. Bottle the oil in dark-colored bottles or jars. This helps protect the oil from light and air. Use bottles with small necks. Store the oil in a cool, dark location. Always use clean hands when dispensing oil. Properly stored herbal oils, on average, last around a year. 
 9. Label the bottle with the type of oil used, the herb(s) used, and the date it was made. 
 
-Please watch this video below for a visual of making an infused oil:
+Herbal oils are perfect for [gift making. ](https://blog.planter.garden/posts/gifts-from-the-garden/)
+
+[](https://blog.planter.garden/posts/gifts-from-the-garden/)Look out for a video on how to make an herbal infusion, on our[ YouTube channel](https://www.youtube.com/@planterapp).  [](https://blog.planter.garden/posts/gifts-from-the-garden/)
