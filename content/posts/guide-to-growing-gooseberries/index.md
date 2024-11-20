@@ -1,10 +1,10 @@
 +++
 draft = false
 title = "Growing Great Gooseberries in your Garden"
-slug = "Growing Great Gooseberries in your Garden"
+slug = "Growing-great-gooseberries"
 date = 2023-09-10T11:49:58.020Z
 author = "Elisha Redhead "
-plants = ["Gooseberry"]
+plants = []
 series = ["Southern Hemisphere"]
 tags = ["Southern Hemisphere", "Australia "]
 
@@ -13,12 +13,11 @@ relative = false
 image = "https://ucarecdn.com/4aa72cd1-ad0c-454d-9d7a-6bedba4db9a8/cover2.jpg"
 alt = "An image displaying three unripe Gooseberry fruits - they are spherical and pale yellow, with the husks of dead flowers still clinging to the bottom of the fruits. "
 +++
-
 Now, if you’re reading the title and thinking "Didn’t I just [read about those](/posts/garden-gooseberry-growing-cape-gooseberry-edition/)?" well no fear. Gooseberries, and Cape Gooseberries, are two entirely different plants, from entirely separate parts of the planet. Amazing, really, that they both ended up being called Gooseberries. But below you’ll find a guide for growing the far more difficult Gooseberry!
 
 The Gooseberry plant is a small, stiff-stemmed plant native to Europe, and is often considered difficult to grow in temperate climates. Difficult, maybe, but most certainly not impossible! And it is certainly very rewarding.\
 \
-{{< notice tip "Goose" >}} Checkout gooseberries in [Planter](https://planter.garden/plants/gooseberries) {{< /notice >}}
+{{< notice tip "Goose" >}} Check out gooseberries in [Planter](https://planter.garden/plants/gooseberries) {{< /notice >}}
 
 ###  **Plant description**
 
