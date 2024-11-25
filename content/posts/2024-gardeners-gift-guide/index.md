@@ -34,6 +34,8 @@ A [hori hori knife](https://www.amazon.com/M-Leonard-Deluxe-Leather-Sheath/dp/B0
 
 ![A gardener using a Lee Valley trenching hoe in the garden](https://assets.leevalley.com/Size4/10062/PD236-lee-valley-trenching-hoe-u-02-r.jpg "Image source: Lee Valley")
 
+Garden hoes come in all kinds of shapes and sizes to tackle different weeding and gardening tasks. While it might feel like overkill to have more than one garden hoe, it really does make a difference to have ‘the right tool for the job’...and if you have any sizeable area to weed almost anything is better than hand weeding! [Lee Valley has a great selection](https://www.leevalley.com/search#q=hoe&t=product-search-tab&sort=relevancy&layout=card&numberOfResults=25) of garden hoes but one that is especially versatile is the [trenching hoe](https://www.leevalley.com/shop/garden/garden-care/cultivators/74394-lee-valley-trenching-hoe?item=PD236).
+
 **Garden cart**
 
 ![Gorilla cart garden dump cart](https://m.media-amazon.com/images/I/51YvdGg-hkL.__AC_SY300_SX300_QL70_FMwebp_.jpg "Image source: Amazon")
