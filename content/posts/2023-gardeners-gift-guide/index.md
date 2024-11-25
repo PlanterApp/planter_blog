@@ -15,7 +15,7 @@ All we want for Christmas is…gardening gear! And we’ve rounded up our top ga
 
 ### GreenStalk Original Vertical Planter
 
-![GreenStalk Vertical Planter product image](https://cdn11.bigcommerce.com/s-uw06ilppdw/images/stencil/1280x1280/products/112/1986/0ade84f7-97e9-4d72-bb7e-15974135665c__59907.1701184874.jpg?c=2 "Image source: GreenStalk")
+![GreenStalk Vertical Planter product image](https://greenstalkgarden.com/cdn/shop/files/1gs8-9-4_2048x.jpg?v=1725900888 "Image source: GreenStalk")
 
 You might have seen the [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) showcased on your favorite gardening YouTube channels…And for good reason! The GreenStalk is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The GreenStalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it's built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
 
@@ -33,19 +33,19 @@ It might feel a bit odd to give a knife as a gift, but we can assure you any ser
 
 ### Park Seed Easy Tunnel
 
-![Park Seed easy tunnel product image](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/518n6lsGDxL._AC_.jpg "Image source: Amazon")
+![Park Seed easy tunnel product image](https://m.media-amazon.com/images/I/518n6lsGDxL._AC_.jpg "Image source: Amazon")
 
 The [Park Seed Easy Tunnel](https://www.amazon.com/Park-Seed-Standard-Tunnel-Protective/dp/B08X7H4M41/) is an easy and inexpensive way to get started with [season extension techniques](https://blog.planter.garden/posts/season-extension/)! They offer convenient telescoping low tunnels covered with either poly plastic, fleece row cover, or netting depending on the desired degree of protection. The best part is how easy it is to move the tunnels around the garden to where they’re needed.
 
 ### Hamilton Beach Dehydrator
 
-![Hamilton Beach dehydrator product image](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71ygIB-E+lL._AC_SX569_.jpg "Image source: Amazon")
+![Hamilton Beach dehydrator product image](https://m.media-amazon.com/images/I/71ygIB-E+lL._AC_SX679_.jpg "Image source: Amazon")
 
 While technically a kitchen gadget, the [Hamilton Beach Dehydrator](https://www.amazon.com/Hamilton-Beach-32100A-Digital-Dehydrator/dp/B012CG8N26) is the perfect gift for an avid gardener who finds themselves with gluts of produce that need preserving! Having a dehydrator means that fresh garden fruits, veggies, and herbs can be enjoyed year round- as dehydrated produce can be stored for several months- and helps prevent any precious harvests from going to the compost pile!
 
 ### Spider Farmer Seedling Heat Mat Kit
 
-![Spider Farmer seedling heat mat kit product image](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/711fCTUwzDL._AC_SX522_.jpg "Image source: Amazon")
+![Spider Farmer seedling heat mat kit product image](https://m.media-amazon.com/images/I/711fCTUwzDL.__AC_SX300_SY300_QL70_FMwebp_.jpg "Image source: Amazon")
 
 A seedling heat mat might seem like an unnecessary extra piece of equipment, but for some seeds such as peppers having the added heat in the soil is crucial for good germination rates. Be sure to choose a heat mat set that comes with a thermostat and probe such as this [Spider Farmer Seedling Heat Mat Kit](https://www.amazon.com/dp/B09DPKXRRD/ref=emc_b_5_t?th=1) to avoid over- or under-heating the soil. For more information on how to use seedling heat mats check out [Heat Mats for Starting Seeds](https://blog.planter.garden/posts/heat-mats/).
 
@@ -57,7 +57,7 @@ What gardener wouldn’t love getting seeds for Christmas? For gift-giving we es
 
 ### Earthway Precision Garden Seeder
 
-![Earthway precision seeder product image](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61DeBzrSDIL._AC_SX522_.jpg "Image source: Amazon")
+![Earthway precision seeder product image](https://m.media-amazon.com/images/I/61IFp9Z7wLL.__AC_SX300_SY300_QL70_FMwebp_.jpg "Image source: Amazon")
 
 For those with a large-sized in-ground garden who are direct seeding long rows of vegetables, a row seeder like the [Earthway Precision Garden Seeder](https://www.amazon.com/Earthway-1001-B-Precision-Garden-Seeder/dp/B00002N66A/) is a gamechanger! No more struggling to drop tiny seeds into rows by hand! The seeder comes with several different seed plates and they can also be customized to drop a huge variety of seeds. The handy row marker ensures that rows stay straight with the correct spacing- which is not only nice to look at but also makes weeding a much more efficient task.
 
@@ -69,7 +69,7 @@ These [Bottle-Top Waterers from Lee Valley Tools](https://www.leevalley.com/en-u
 
 ### Adjustable Tabletop Grow Lights
 
-![Adjustable tabletop grow lights product image](https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81D9SsJ+D-L._AC_SX522_.jpg "Image source: Amazon")
+![Adjustable tabletop grow lights product image](https://m.media-amazon.com/images/I/81iSbA0oUdL.__AC_SY445_SX342_QL70_FMwebp_.jpg "Image source: Amazon")
 
 For a gardener that’s new to seed starting or working with limited space, these [Adjustable Tabletop Grow Lights](https://www.amazon.com/GroDrow-Starting-Spectrum-Adjustable-Gooseneck/dp/B092R2BR2C) are the perfect solution! The bendable necks offer the ultimate flexibility for indoor seed starting without needing to purchase an entire rack of grow lights. The built-in timer ensures that plants will consistently get the desired amount of light each day without having to remember to turn the lights on and off!
 
