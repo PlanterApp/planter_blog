@@ -23,7 +23,6 @@ If you're struggling to find a gift for the gardener that has everything fear no
 
 Regular ‘permanent’ markers usually become not-so-permanent in a garden! Between the rain and the UV rays from the sun, invariably the ink will fade. The [garden marker](https://www.amazon.com/Artline-Garden-Marker-Outdoor-Resistant/dp/B07DWGJGCJ/r) stands up to the elements so it can be used for writing garden labels or labelling seedling trays without fear of losing track of which plants are where. Makes a great stocking stuffer for any gardener!
 
-
 ## **Hori hori knife**
 
 ![A.M. Leonard hori hori knife](https://m.media-amazon.com/images/I/51VRI6HurOL._AC_SX679_.jpg "Image source: Amazon")
@@ -34,7 +33,7 @@ A [hori hori knife](https://www.amazon.com/M-Leonard-Deluxe-Leather-Sheath/dp/B0
 
 ![A gardener using a Lee Valley trenching hoe in the garden](https://assets.leevalley.com/Size4/10062/PD236-lee-valley-trenching-hoe-u-02-r.jpg "Image source: Lee Valley")
 
-Garden hoes come in all kinds of shapes and sizes to tackle different weeding and gardening tasks. While it might feel like overkill to have more than one garden hoe, it really does make a difference to have ‘the right tool for the job’...and if you have any sizeable area to weed almost anything is better than hand weeding! [Lee Valley has a great selection](https://www.leevalley.com/search#q=hoe&t=product-search-tab&sort=relevancy&layout=card&numberOfResults=25) of garden hoes but one that is especially versatile is the [trenching hoe](https://www.leevalley.com/shop/garden/garden-care/cultivators/74394-lee-valley-trenching-hoe?item=PD236).
+Garden hoes come in all kinds of shapes and sizes to tackle different weeding and gardening tasks. While it might feel like overkill to have more than one garden hoe, it really does make a difference to have ‘the right tool for the job’...and if you have any sizable area to weed almost anything is better than hand weeding! [Lee Valley has a great selection](https://www.leevalley.com/search#q=hoe&t=product-search-tab&sort=relevancy&layout=card&numberOfResults=25) of garden hoes but one that is especially versatile is the [trenching hoe](https://www.leevalley.com/shop/garden/garden-care/cultivators/74394-lee-valley-trenching-hoe?item=PD236).
 
 ## **Garden cart**
 
@@ -45,6 +44,5 @@ While a garden cart might not be a glamorous garden gift, they are amongst the m
 ## **Paper weed barrier**
 
 ![A pair of gloves hands planting a plant into the paper weed barrier](https://assets.leevalley.com/Size4/10123/HP107-u-0035.jpg "Image Source: Lee Valley")
-
 
 What gardener wouldn’t love to be given the gift of less weeding? This [paper weed barrier from Lee Valley](https://www.leevalley.com/shop/garden/planting/tarps-and-covers/115508-weed-barrier?item=HP107) is an effective, eco-friendly way to cut down on weed pressure in the garden. It's thicker than standard rolls of brown paper so it won’t tear easily. Simply roll out and cut the desired length, bury the edges with soil, then cut holes or slits to plant into.
