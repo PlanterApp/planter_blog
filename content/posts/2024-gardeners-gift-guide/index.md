@@ -24,7 +24,11 @@ If you're struggling to find a gift for the gardener that has everything fear no
 Regular ‘permanent’ markers usually become not-so-permanent in a garden! Between the rain and the UV rays from the sun, invariably the ink will fade. The [garden marker](https://www.amazon.com/Artline-Garden-Marker-Outdoor-Resistant/dp/B07DWGJGCJ/r) stands up to the elements so it can be used for writing garden labels or labelling seedling trays without fear of losing track of which plants are where. Makes a great stocking stuffer for any gardener!
 
 
-**Hori knife**
+**Hori hori knife**
+
+![A.M. Leonard hori hori knife](https://m.media-amazon.com/images/I/51VRI6HurOL._AC_SX679_.jpg)
+
+A [hori hori knife](https://www.amazon.com/M-Leonard-Deluxe-Leather-Sheath/dp/B00DEKR9MA/) is an extremely versatile garden tool. It can be used for both digging and slicing- useful when transplanting, dividing plants, and maybe even cutting out those too-far-gone weeds (not that we ever let them get that bad…right? 😅) The measuring guide on the side makes it easy to determine the correct depth when planting. This particular model from A.M. Leonard even comes with a handy twine cutter built in!
 
 **Speciality hoe (Lee Valley)**
 
@@ -32,7 +36,7 @@ Regular ‘permanent’ markers usually become not-so-permanent in a garden! Bet
 
 ![Gorilla cart garden dump cart](https://m.media-amazon.com/images/I/51YvdGg-hkL.__AC_SY300_SX300_QL70_FMwebp_.jpg "Image source: Amazon")
 
-While a garden cart might not be a glamorous garden gift, they are amongst the most practical gardening tools. Save time and backaches by wheeling around large amounts of compost, mulch rather than lugging them in a wheelbarrow. Load multiple trays of seedlings to avoid making multiple trips back-and-forth while planting. While there are many brands of garden carts available on the market, the [Gorilla cart brand](https://www.amazon.com/Gorilla-Carts-Poly-No-Flat-Tires/dp/B084NTR8V6/) is well-recognized for its strength and durability.
+While a garden cart might not be a glamorous garden gift, they are amongst the most practical gardening tools. Save time and backaches by wheeling around large amounts of compost, mulch rather than lugging them in a wheelbarrow. Load multiple trays of seedlings to avoid making multiple trips back-and-forth while planting. While there are many brands of garden carts available on the market, the [Gorilla cart brand](https://www.amazon.com/Gorilla-Carts-Poly-No-Flat-Tires/dp/B084NTR8V6/) is well-known for its strength and durability.
 
 **Paper weed barrier**
 
