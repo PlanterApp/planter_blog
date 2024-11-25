@@ -17,7 +17,12 @@ If you're struggling to find a gift for the gardener that has everything fear no
 
 ### Erin:
 
-**Herb drying racks**
+**Garden marker**
+
+![Artline garden marker](https://m.media-amazon.com/images/I/71qSi7DvHJL._SX522_.jpg)
+
+Regular ‘permanent’ markers usually become not-so-permanent in a garden! Between the rain and the UV rays from the sun, invariably the ink will fade. The [garden marker](https://www.amazon.com/Artline-Garden-Marker-Outdoor-Resistant/dp/B07DWGJGCJ/r) stands up to the elements so it can be used for writing garden labels or labelling seedling trays without fear of losing track of which plants are where. Makes a great stocking stuffer for any gardener!
+
 
 **Hori knife**
 
