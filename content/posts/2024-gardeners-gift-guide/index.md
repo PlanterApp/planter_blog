@@ -26,11 +26,13 @@ Regular ‘permanent’ markers usually become not-so-permanent in a garden! Bet
 
 **Hori hori knife**
 
-![A.M. Leonard hori hori knife](https://m.media-amazon.com/images/I/51VRI6HurOL._AC_SX679_.jpg)
+![A.M. Leonard hori hori knife](https://m.media-amazon.com/images/I/51VRI6HurOL._AC_SX679_.jpg "Image source: Amazon")
 
 A [hori hori knife](https://www.amazon.com/M-Leonard-Deluxe-Leather-Sheath/dp/B00DEKR9MA/) is an extremely versatile garden tool. It can be used for both digging and slicing- useful when transplanting, dividing plants, and maybe even cutting out those too-far-gone weeds (not that we ever let them get that bad…right? 😅) The measuring guide on the side makes it easy to determine the correct depth when planting. This particular model from A.M. Leonard even comes with a handy twine cutter built in!
 
-**Speciality hoe (Lee Valley)**
+**Speciality garden hoes**
+
+![A gardener using a Lee Valley trenching hoe in the garden](https://assets.leevalley.com/Size4/10062/PD236-lee-valley-trenching-hoe-u-02-r.jpg "Image source: Lee Valley")
 
 **Garden cart**
 
