@@ -39,7 +39,7 @@ Garden hoes come in all kinds of shapes and sizes to tackle different weeding an
 
 ![Gorilla cart garden dump cart](https://m.media-amazon.com/images/I/51YvdGg-hkL.__AC_SY300_SX300_QL70_FMwebp_.jpg "Image source: Amazon")
 
-While a garden cart might not be a glamorous garden gift, they are amongst the most practical gardening tools. Save time and backaches by wheeling around large amounts of compost, mulch rather than lugging them in a wheelbarrow. Load multiple trays of seedlings to avoid making multiple trips back-and-forth while planting. While there are many brands of garden carts available on the market, the [Gorilla cart brand](https://www.amazon.com/Gorilla-Carts-Poly-No-Flat-Tires/dp/B084NTR8V6/) is well-known for its strength and durability.
+While a garden cart might not be a glamorous garden gift, they are amongst the most practical gardening tools. Save time and backaches by wheeling around large amounts of compost and mulch rather than lugging them in a wheelbarrow. Load multiple trays of seedlings to avoid making multiple trips back-and-forth while planting. While there are many brands of garden carts available on the market, the [Gorilla cart brand](https://www.amazon.com/Gorilla-Carts-Poly-No-Flat-Tires/dp/B084NTR8V6/) is well-known for its strength and durability.
 
 ## Paper weed barrier
 
