@@ -97,6 +97,6 @@ These propagation trays provide the benefit of ‘air pruning’ the roots of gr
 
 ## Give the gift of Planter
 
-Share the gift of the [Planter gardening app](<>) with your family and friends this season! Gift them a [Planter Premium subscription](<>) so they can easily plan and manage their garden anytime, anywhere! We don't have our own Planter branded gift cards (yet) but you can gift them a Google Play or Apple App store gift card and point them to the Planter app. If your giftee already enjoys the perks of a Planter Premium subscription, why not gift them some [snazzy Planter merch](<>)? They're guaranteed to love it!
+Share the gift of the [Planter gardening app](https://planter.garden/) with your family and friends this season! Gift them a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/) so they can easily plan and manage their garden anytime, anywhere! We don't have our own Planter branded gift cards (yet) but you can gift them a Google Play or Apple App store gift card and point them to the Planter app. If your giftee already enjoys the perks of a Planter Premium subscription, why not gift them some [snazzy Planter merch](https://www.amazon.com/s?i=fashion&rh=p_4%3APlanter)? They're guaranteed to love it!
 
 ![A green Planter t-shirt with the words "Romaine calm lettuce carrot on" on the back](https://m.media-amazon.com/images/I/B1xfzJMEy3L._CLa%7C2140%2C2000%7C61PJebhViUL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX466_.png "Image source: Amazon")
