@@ -95,7 +95,7 @@ These propagation trays provide the benefit of ‘air pruning’ the roots of gr
 
 
 
-## Give the gift of Planter
+# Give the gift of Planter
 
 Share the gift of the [Planter gardening app](https://planter.garden/) with your family and friends this season! Gift them a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/) so they can easily plan and manage their garden anytime, anywhere! We don't have our own Planter branded gift cards (yet) but you can gift them a Google Play or Apple App store gift card and point them to the Planter app. If your giftee already enjoys the perks of a Planter Premium subscription, why not gift them some [snazzy Planter merch](https://www.amazon.com/s?i=fashion&rh=p_4%3APlanter)? They're guaranteed to love it!
 
