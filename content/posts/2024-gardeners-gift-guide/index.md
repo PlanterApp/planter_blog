@@ -80,3 +80,15 @@ A custom-engraved seed storage box can be the perfect gift for the gardener with
 ![A metal sign with shovels and hand rake. The sign says "Grandma's Garden".](https://ucarecdn.com/068fbd12-fba4-408a-a5dc-3b9add506a36/il_1588xN.6166211094_b40s.webp "Image source: [Etsy](https://www.etsy.com/listing/942657754/custom-garden-sign-personalized-garden)")
 
 What do you gift the gardener who already has all the tools and equipment they need? A decorative sign so they can proudly proclaim that it's their garden! I gifted a few of these last year from this [Etsy shop](https://www.etsy.com/listing/942657754/custom-garden-sign-personalized-garden) and they turned out great.
+
+## GreenStalk Original Vertical Planter
+
+![GreenStalk Vertical Planter product image](https://greenstalkgarden.com/cdn/shop/files/1gs8-9-4_2048x.jpg?v=1725900888 "Image source: GreenStalk")
+
+You might have seen the [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) showcased on your favorite gardening YouTube channels…And for good reason! The GreenStalk is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The GreenStalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it's built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
+
+## Bootstrap Farmer Air Prune Propagation Tray
+
+![Bootstrap Farmer air pruning tray product image](https://www.bootstrapfarmer.com/cdn/shop/products/Air-Prune-Tray_2000x.jpg?v=1676565703 "Image source: Bootstrap Farmer")
+
+These propagation trays provide the benefit of ‘air pruning’ the roots of growing seedlings without the added learning curve and work of [soil blocking](https://blog.planter.garden/posts/revolutionize-your-seed-starting-with-soil-blocking/). These [Bootstrap Farmer Air Prune Propagation Trays](https://collabs.shop/qpxwvp) are made with high-quality plastic that is built to last (and they come with a 2-year warranty!) so your giftee will get many years of life out of them. As an added bonus they come in a variety of colors- which is not only fun but also can be handy for grouping your seed starts!
