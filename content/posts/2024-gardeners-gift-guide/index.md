@@ -46,3 +46,29 @@ While a garden cart might not be a glamorous garden gift, they are amongst the m
 ![A pair of gloves hands planting a plant into the paper weed barrier](https://assets.leevalley.com/Size4/10123/HP107-u-0035.jpg "Image Source: Lee Valley")
 
 What gardener wouldn’t love to be given the gift of less weeding? This [paper weed barrier from Lee Valley](https://www.leevalley.com/shop/garden/planting/tarps-and-covers/115508-weed-barrier?item=HP107) is an effective, eco-friendly way to cut down on weed pressure in the garden. It's thicker than standard rolls of brown paper so it won’t tear easily. Simply roll out and cut the desired length, bury the edges with soil, then cut holes or slits to plant into.
+
+# Samantha: 
+
+## The Gardening Book by Monty Don
+
+![The Gardening Book cover image](https://m.media-amazon.com/images/I/81nYQ8d9uBL._SY466_.jpg "Image source: Amazon")
+
+Monty Don might be the United Kingdom’s guru of all things gardening, but his excellent advice goes beyond the borders of Britain.  [The Gardening Book](https://www.amazon.com/Gardening-Book-Accessible-Houseplants-Vegetables/dp/0593797795/) is a treasure trove of Monty’s horticultural expertise and includes information on small-space gardening, houseplants, shrubs, trees, and more.  It is filled with beautiful pictures and, like all of Monty’s books, is a joy to read. 
+
+## The Healing Garden by Juliet Blankespoor
+
+![The Healing Garden cover image](https://m.media-amazon.com/images/I/81ekHWX54yL._SY466_.jpg "Image source: Amazon")
+
+If you want to get a gift for someone who has taken an interest in herbalism, then [The Healing Garden](https://www.amazon.com/Healing-Garden-Cultivating-Handcrafting-Remedies/dp/0358313384) is a must-have book. The author, Juliet, has been growing, selling, and teaching about herbs for decades.  The Healing Garden gives tips on cultivating, harvesting, and processing many different medicinal herbs. It’s filled with stunning photographs and easy-to-follow recipes. 
+
+## Sili Seedlings silicone seedling trays
+
+![Sili seedling tray](https://images.squarespace-cdn.com/content/v1/5a7b4793692ebedeea4f46db/1658500967898-1UQVKV8XAX8RDQ5QO5SR/10-cell-green-front.jpg?format=1500w "Image source: Sili Seedlings")
+
+[Sili Seedling trays](https://www.sili-seedlings.com/) are the perfect gift for the gardener who loves reducing, reusing, and recycling!  Since the trays are made from silicone, they can be used repeatedly. They are easy to clean and can be sterilized in the dishwasher.  They come in a lot of cool colors and sizes, too. 
+
+## Personalized engraved seed storage box
+
+![Wooden seed storage box with the words 'Your Custom Name or Text Here'](https://i.etsystatic.com/28128967/r/il/5e4a09/5287661480/il_794xN.5287661480_9re7.jpg "Image source: NightingaleWorksArt")
+
+A custom-engraved seed storage box can be the perfect gift for the gardener with all the tools, gadgets, and seeds.  This wooden box can be personalized and will make any gardener smile.  There are many seed boxes on Etsy, but[ this shop](https://www.etsy.com/listing/1402419289/personalized-engraved-seed-storage-box?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=seed+box&ref=sr_gallery-1-3&pro=1&frs=1&sts=1&content_source=20fbc58a427d8394f3c5f8df41b17582b03a8857%253A1402419289&search_preloaded_img=1&organic_search_click=1) has many 5-star ratings.
