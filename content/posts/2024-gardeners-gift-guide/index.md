@@ -77,7 +77,7 @@ A custom-engraved seed storage box can be the perfect gift for the gardener with
 
 ## Custom Garden Sign
 
-![A metal sign with shovels and hand rake. The sign says "Grandma's Garden".](https://ucarecdn.com/068fbd12-fba4-408a-a5dc-3b9add506a36/il_1588xN.6166211094_b40s.webp "Image source: [Etsy](https://www.etsy.com/listing/942657754/custom-garden-sign-personalized-garden)")
+![A metal sign with shovels and hand rake. The sign says "Grandma's Garden".](https://i.etsystatic.com/20631157/r/il/16e125/6166211094/il_794xN.6166211094_b40s.jpg "Image source: [Etsy](https://www.etsy.com/listing/942657754/custom-garden-sign-personalized-garden)")
 
 What do you gift the gardener who already has all the tools and equipment they need? A decorative sign so they can proudly proclaim that it's their garden! I gifted a few of these last year from this [Etsy shop](https://www.etsy.com/listing/942657754/custom-garden-sign-personalized-garden) and they turned out great.
 
@@ -92,3 +92,11 @@ You might have seen the [GreenStalk Vertical Planter](https://store.greenstalkga
 ![Bootstrap Farmer air pruning tray product image](https://www.bootstrapfarmer.com/cdn/shop/products/Air-Prune-Tray_2000x.jpg?v=1676565703 "Image source: Bootstrap Farmer")
 
 These propagation trays provide the benefit of ‘air pruning’ the roots of growing seedlings without the added learning curve and work of [soil blocking](https://blog.planter.garden/posts/revolutionize-your-seed-starting-with-soil-blocking/). These [Bootstrap Farmer Air Prune Propagation Trays](https://collabs.shop/qpxwvp) are made with high-quality plastic that is built to last (and they come with a 2-year warranty!) so your giftee will get many years of life out of them. As an added bonus they come in a variety of colors- which is not only fun but also can be handy for grouping your seed starts!
+
+
+
+## Give the gift of Planter
+
+Share the gift of the [Planter gardening app](<>) with your family and friends this season! Gift them a [Planter Premium subscription](<>) so they can easily plan and manage their garden anytime, anywhere! We don't have our own Planter branded gift cards (yet) but you can gift them a Google Play or Apple App store gift card and point them to the Planter app. If your giftee already enjoys the perks of a Planter Premium subscription, why not gift them some [snazzy Planter merch](<>)? They're guaranteed to love it!
+
+![A green Planter t-shirt with the words "Romaine calm lettuce carrot on" on the back](https://m.media-amazon.com/images/I/B1xfzJMEy3L._CLa%7C2140%2C2000%7C61PJebhViUL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX466_.png "Image source: Amazon")
