@@ -72,3 +72,11 @@ If you want to get a gift for someone who has taken an interest in herbalism, th
 ![Wooden seed storage box with the words 'Your Custom Name or Text Here'](https://i.etsystatic.com/28128967/r/il/5e4a09/5287661480/il_794xN.5287661480_9re7.jpg "Image source: NightingaleWorksArt")
 
 A custom-engraved seed storage box can be the perfect gift for the gardener with all the tools, gadgets, and seeds.  This wooden box can be personalized and will make any gardener smile.  There are many seed boxes on Etsy, but[ this shop](https://www.etsy.com/listing/1402419289/personalized-engraved-seed-storage-box?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=seed+box&ref=sr_gallery-1-3&pro=1&frs=1&sts=1&content_source=20fbc58a427d8394f3c5f8df41b17582b03a8857%253A1402419289&search_preloaded_img=1&organic_search_click=1) has many 5-star ratings.
+
+# Peter
+
+## Custom Garden Sign
+
+![A metal sign with shovels and hand rake. The sign says "Grandma's Garden".](https://ucarecdn.com/068fbd12-fba4-408a-a5dc-3b9add506a36/il_1588xN.6166211094_b40s.webp "Image source: [Etsy](https://www.etsy.com/listing/942657754/custom-garden-sign-personalized-garden)")
+
+What do you gift the gardener who already has all the tools and equipment they need? A decorative sign so they can proudly proclaim that it's their garden! I gifted a few of these last year from this [Etsy shop](https://www.etsy.com/listing/942657754/custom-garden-sign-personalized-garden) and they turned out great.
