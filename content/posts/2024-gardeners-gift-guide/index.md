@@ -33,13 +33,13 @@ A [hori hori knife](https://www.amazon.com/M-Leonard-Deluxe-Leather-Sheath/dp/B0
 
 ![A gardener using a Lee Valley trenching hoe in the garden](https://assets.leevalley.com/Size4/10062/PD236-lee-valley-trenching-hoe-u-02-r.jpg "Image source: Lee Valley")
 
-Garden hoes come in all kinds of shapes and sizes to tackle different weeding and gardening tasks. While it might feel like overkill to have more than one garden hoe, it really does make a difference to have ‘the right tool for the job’...and if you have any sizable area to weed almost anything is better than hand weeding! [Lee Valley has a great selection](https://www.leevalley.com/search#q=hoe&t=product-search-tab&sort=relevancy&layout=card&numberOfResults=25) of garden hoes but one that is especially versatile is the [trenching hoe](https://www.leevalley.com/shop/garden/garden-care/cultivators/74394-lee-valley-trenching-hoe?item=PD236).
+Garden hoes come in all kinds of shapes and sizes to tackle different weeding and gardening tasks. While it might feel like overkill to have more than one garden hoe, it really does make a difference to have ‘the right tool for the job’...and for any sizable garden area almost anything is better than hand weeding! [Lee Valley has a great selection](https://www.leevalley.com/search#q=hoe&t=product-search-tab&sort=relevancy&layout=card&numberOfResults=25) of garden hoes but one that is especially versatile is the [trenching hoe](https://www.leevalley.com/shop/garden/garden-care/cultivators/74394-lee-valley-trenching-hoe?item=PD236).
 
 ## Garden cart
 
 ![Gorilla cart garden dump cart](https://m.media-amazon.com/images/I/51YvdGg-hkL.__AC_SY300_SX300_QL70_FMwebp_.jpg "Image source: Amazon")
 
-While a garden cart might not be a glamorous garden gift, they are amongst the most practical gardening tools. Save time and backaches by wheeling around large amounts of compost and mulch rather than lugging them in a wheelbarrow. Load multiple trays of seedlings to avoid making multiple trips back-and-forth while planting. While there are many brands of garden carts available on the market, the [Gorilla cart brand](https://www.amazon.com/Gorilla-Carts-Poly-No-Flat-Tires/dp/B084NTR8V6/) is well-known for its strength and durability.
+While a garden cart might not be a glamorous garden gift, they are amongst the most practical gardening tools. Save time and backaches by wheeling around large amounts of compost and mulch rather than lugging them in a wheelbarrow. It's also more efficient to cart around several trays of seedlings at once instead of making multiple trips back-and-forth. While there are many brands of garden carts available on the market, the [Gorilla cart brand](https://www.amazon.com/Gorilla-Carts-Poly-No-Flat-Tires/dp/B084NTR8V6/) is well-known for its strength and durability.
 
 ## Paper weed barrier
 
@@ -93,10 +93,8 @@ You might have seen the [GreenStalk Vertical Planter](https://store.greenstalkga
 
 These propagation trays provide the benefit of ‘air pruning’ the roots of growing seedlings without the added learning curve and work of [soil blocking](https://blog.planter.garden/posts/revolutionize-your-seed-starting-with-soil-blocking/). These [Bootstrap Farmer Air Prune Propagation Trays](https://collabs.shop/qpxwvp) are made with high-quality plastic that is built to last (and they come with a 2-year warranty!) so your giftee will get many years of life out of them. As an added bonus they come in a variety of colors- which is not only fun but also can be handy for grouping your seed starts!
 
-
-
 # Give the gift of Planter
 
-Share the gift of the [Planter gardening app](https://planter.garden/) with your family and friends this holiday season! Gift them a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/) so they can easily plan and manage their garden anytime, anywhere! We don't have our own Planter branded gift cards (yet!) but you can gift them a Google Play or Apple App store gift card and point them to the Planter app. If your giftee already enjoys the perks of a Planter Premium subscription, why not gift them some [snazzy Planter merch](https://www.amazon.com/s?i=fashion&rh=p_4%3APlanter) instead?
+Share the gift of the [Planter gardening app](https://planter.garden/) with your family and friends this holiday season! Gift them a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/) so they can easily plan and manage their garden anytime, anywhere! We don't have our own Planter branded gift cards (yet!) but you can gift them a Google Play or Apple App store gift card and point them to the Planter app. If your giftee already enjoys the perks of a Planter Premium subscription, why not gift them some [snazzy Planter merch](https://www.amazon.com/s?dc&ds=v1%3Azc4C9dQRpLNMa5iIF70O%2FAN05ehVxvczxcQOyQX%2B%2Bnw&i=fashion&language=en_US&linkCode=ll2&linkId=5575d067d49bebbce1f339be1b2bc01d&qid=1732750635&ref=glow_cls&refresh=1&rh=n%3A7141123011%2Cp_4%3APlanter%2Cp_6%3AATVPDKIKX0DER&rnid=2661622011) instead?
 
 ![A green Planter t-shirt with the words "Romaine calm lettuce carrot on" on the back](https://m.media-amazon.com/images/I/B1xfzJMEy3L._CLa%7C2140%2C2000%7C61PJebhViUL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX466_.png "Image source: Amazon")
