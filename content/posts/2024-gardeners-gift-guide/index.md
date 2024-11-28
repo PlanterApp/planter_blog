@@ -11,7 +11,7 @@ relative = false
 image = "https://ucarecdn.com/3119aaec-90e0-4543-b3d9-ce52ac808b4e/Gift-boxes-christmas.jpg"
 alt = "Chrismas gifts wrapped in brown paper with satin bows beside a bowl of pinecones and a Christmas tree"
 +++
-Between parties, parades, family meals, and festivities, gardening might not be top of mind at this time of year! Even so, any avid gardener will be secretly (or not-so-secretly) hoping to find some gardening gifts under the tree.
+Between parties, parades, family meals, and festivities, gardening might not be top of mind at this time of year. Even so, any avid gardener will be secretly (or not-so-secretly) hoping to find some gardening gifts under the tree.
 
 If you're struggling to find a gift for the gardener that has everything fear not- we’ve got gifting ideas for even the most geared-out gardener!
 
