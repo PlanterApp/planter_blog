@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "10 Cold-Hardy Veggies to Plant Now in the Southeast"
 slug = "winter-crops-southeast"
 date = "2025-01-05T09:44:00.000Z"
