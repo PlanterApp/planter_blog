@@ -5,7 +5,7 @@ slug = "winter-crops-southeast"
 date = "2025-01-05T09:44:00.000Z"
 author = "Milan Turner"
 plants = ["Kale", "Spinach", "Radishes", "Carrots", "Lettuce", "Onions", "Garlic", "Turnips", "Peas", "Swiss Chard"]
-series = ["Plant Picks"]
+series = []
 
 [cover]
 relative = false
@@ -35,7 +35,7 @@ This leafy green superstar is packed with nutrients and comes in a variety of co
 
 ## Spinach
 
-![Baby spinach leaves in a white bowl on a wooden background](https://ucarecdn.com/a545e4fd-b3b2-474e-90e3-6009c89bae0e/Spinach.jpg)
+![Baby spinach leaves in a white bowl on a wooden background](https://ucarecdn.com/e3807a79-80a4-4835-9646-195a8e734e37/Spinach.jpg)
 
 Another nutritional powerhouse, spinach is a fast-growing cool-season crop. Like kale, it prefers full sun and well-drained soil. You can start harvesting baby spinach leaves in just a few weeks!
 
@@ -63,7 +63,7 @@ These little root vegetables are super easy to grow and add a peppery crunch to 
 
 ## Carrots
 
-![A stack of fresh orange baby carrots on a wooden background](https://ucarecdn.com/4e6b35cb-8e99-47ad-a550-7e1c39ee4dec/Carrots.jpg)
+![A stack of fresh orange baby carrots on a wooden background](https://ucarecdn.com/68948455-af02-4407-820a-c761e4594823/Carrots.jpg)
 
 Believe it or not, carrots actually sweeten in flavor when grown in cool weather. Choose a variety with short roots for best results in the winter garden. Make sure your soil is loose and free of rocks to allow for proper root development.
 
@@ -77,7 +77,7 @@ Believe it or not, carrots actually sweeten in flavor when grown in cool weather
 
 ## Lettuce
 
-![A bright green head of lettuce on a wooden background](https://ucarecdn.com/b78ad213-c213-4a79-8581-a6a79e0eb0b6/Lettuce.jpg)
+![A bright green head of lettuce on a wooden background](https://ucarecdn.com/1a3f2939-27c4-4ef6-94da-27b5964fd9fd/Lettuce.jpg)
 
 Enjoy fresh salads all winter long by planting cold-hardy lettuce varieties. Loose-leaf lettuce is a great option for beginners, as it can be harvested continuously. Provide your lettuce with partial shade and consistent moisture.
 
@@ -159,24 +159,14 @@ This colorful leafy green is a close relative of spinach and beets. It's packed 
 
 **'Rhubarb Chard' Swiss Chard:** This variety has red stems and green leaves with a slightly tart flavor.
 
-
-
 # Additional Tips for Winter Gardening
 
 Even though these veggies are tough, they can still use a little extra TLC during the colder months. Here are a few tips to help your winter garden thrive:
 
 * Frost Protection: While these veggies can handle some cold, a hard frost can still damage them. If a freeze is predicted, protect your plants by covering them with a row cover or blanket overnight.
-
-
 * Water Wisely: Plants need less water in the winter, so don't over do it. Water deeply but less frequently, and make sure the soil has good drainage to prevent soggy roots.
-
-
 * Feed Your Soil: Healthy soil means healthy plants! Amend your soil with compost or other organic matter to provide nutrients and improve drainage.
-
-
 * Sunlight is Key: Even in winter, most vegetables need at least 6 hours of sunlight per day. Choose a sunny spot for your garden, and be mindful of shadows cast by buildings or trees.
-
-
 
 Ready to enjoy fresh, homegrown veggies all winter long? By planting these cold-hardy varieties now, you can extend your harvest and savor the flavors of the season. Imagine the satisfaction of serving up a salad made with ingredients you grew yourself, even in the depths of winter!
 
