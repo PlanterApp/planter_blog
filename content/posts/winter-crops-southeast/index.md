@@ -16,7 +16,7 @@ Think you need to wait until spring to start your garden? Think again! Here in t
 
 # Why Cold-Hardy Veggies?
 
-Cold-hardy vegetables are a special group of plants that can handle chilly temperatures and even a touch of frost. These tough veggies are perfect for planting in the fall and winter, allowing you to extend your growing season and enjoy homegrown goodness even when the weather isn't exactly balmy. Use the [Planter App](https://planter.garden/plants) to identify cold hardy veggies that can handle a light frost or even a freeze!
+Cold-hardy vegetables are a special group of plants that can handle chilly temperatures and even a touch of frost. These tough veggies are perfect for planting in the fall and winter, allowing you to extend your growing season and enjoy homegrown goodness even when the weather isn't exactly balmy. Use the [Planter App](https://planter.garden/plants) to identify cold hardy veggies that can handle a light frost or in some cases even a freeze!
 
 # Our Top 10 Picks for Your Winter Garden
 
