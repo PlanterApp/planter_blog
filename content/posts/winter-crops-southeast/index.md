@@ -170,4 +170,4 @@ Even though these veggies are tough, they can still use a little extra TLC durin
 
 Ready to enjoy fresh, homegrown veggies all winter long? By planting these cold-hardy varieties now, you can extend your harvest and savor the flavors of the season. Imagine the satisfaction of serving up a salad made with ingredients you grew yourself, even in the depths of winter!
 
-Don't forget to download the Planter app for more winter gardening tips, tricks, and personalized advice. Happy growing!
+Don't forget to download the [Planter App](https://planter.garden/#download) for more winter gardening tips, tricks, and personalized advice. Happy growing!
