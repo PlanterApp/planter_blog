@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Winter Garden Chores"
 slug = "winter-garden-chores"
 date = "2025-01-05T15:07:00.000Z"
