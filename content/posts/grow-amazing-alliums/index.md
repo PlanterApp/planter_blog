@@ -6,7 +6,6 @@ date = 2023-04-24T02:30:33.055Z
 author = "Erin Thomson"
 plants = ["Garlic", "Leeks", "Shallots", "Chives", "Onions"]
 
-
 [cover]
 relative = true
 image = "https://ucarecdn.com/50d6d195-a6b4-4533-9708-02f5ad3daa46/white-onion.jpg"
@@ -53,7 +52,7 @@ One thing to keep in mind is leeks can take a very long time to grow- be sure to
 
 ### Garlic
 
-If you enjoy cooking with garlic it is absolutely worthwhile to add garlic to your garden- the flavor of home-grown garlic is incomparable! For best results garlic should be planted in the fall at least two weeks before your first frost date. In a pinch garlic can also be planted once the soil is workable in spring, just be aware that the bulbs will not grow as large. When it comes to choosing garlic varieties it's important to look for varieties that are adapted to your region. ‘Softneck’ garlic varieties tend to be grown in warmer climates where ‘hardneck’ varieties tend to be grown in colder climates, as they require a prolonged period of cold temperatures. There is also ‘elephant garlic’ which is technically a leek even though it forms bulbs like garlic.
+If you enjoy cooking with garlic it is absolutely worthwhile to add garlic to your garden- the flavor of home-grown garlic is incomparable! For best results garlic should be planted in the fall within two weeks of your first frost date. In a pinch garlic can also be planted once the soil is workable in spring, just be aware that the bulbs will not grow as large. When it comes to choosing garlic varieties it's important to look for varieties that are adapted to your region. ‘Softneck’ garlic varieties tend to be grown in warmer climates where ‘hardneck’ varieties tend to be grown in colder climates, as they require a prolonged period of cold temperatures (although this can be replicated in the fridge if you are growing in a warm climate or planting in spring). There is also ‘elephant garlic’ which is technically a leek even though it forms bulbs like garlic.
 
 When planting garlic be sure to separate the bulbs into individual cloves, but leave the papery skins on each clove. Plant with the pointed end up/flat end down. How deep to plant your garlic depends on where you live - in colder climates it can be beneficial to plant your garlic up to 4” deep to protect it from winter chill, but in less extreme climates 2-3” is sufficient. Garlic can also be mulched to help protect it over the winter- if using mulch you may not need to plant quite as deep.
 
