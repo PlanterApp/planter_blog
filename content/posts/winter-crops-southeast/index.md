@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "10 Cold-Hardy Veggies to Plant Now in the Southeast"
+title = "10 Cold-Hardy Veggies to Plant Now in the Southeastern US"
 slug = "winter-crops-southeast"
 date = "2025-01-05T09:44:00.000Z"
 author = "Milan Turner"
@@ -12,7 +12,7 @@ relative = false
 image = "https://ucarecdn.com/b9162843-1b09-4786-bbde-cb2a62db0680/Crops for Southeast.png"
 alt = "A collage of the 10 plant picks with the text \"10 Cold-hardy Veggies to Plant Now in the Southeast\""
 +++
-Think you need to wait until spring to start your garden? Think again! Here in the Southeast, our mild winters give us the opportunity to grow delicious, fresh vegetables all year round. And let's be honest, there's something extra satisfying about harvesting your own food when there's a chill in the air. So, grab your gardening gloves and let's get planting!
+Think you need to wait until spring to start your garden? Think again! Here in the Southeastern US, our mild winters give us the opportunity to grow delicious, fresh vegetables all year round. And let's be honest, there's something extra satisfying about harvesting your own food when there's a chill in the air. So, grab your gardening gloves and let's get planting!
 
 # Why Cold-Hardy Veggies?
 
