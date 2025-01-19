@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Soil Amendments for Vegetable Gardens in the Southeast"
+title = "Soil Amendments for Vegetable Gardens in the Southeastern US"
 slug = "Southeastern-US-Soil-Amendments"
 author = "Milan Turner"
 
