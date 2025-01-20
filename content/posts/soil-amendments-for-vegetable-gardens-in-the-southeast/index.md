@@ -2,6 +2,7 @@
 draft = false
 title = "Soil Amendments for Vegetable Gardens in the Southeastern US"
 slug = "Southeastern-US-Soil-Amendments"
+date = "2025-01-19T21:07:00.000Z"
 author = "Milan Turner"
 
 [cover]
