@@ -12,7 +12,7 @@ relative = false
 image = "https://ucarecdn.com/b84be080-20d0-4f2d-930d-f639fe6c68a5/Planting-seeds.jpg"
 alt = "A hand planting cucumber seeds into black plastic pots filled with growing medium"
 +++
-Many of us gardeners start getting the urge to get something growing as the gardening season draws nearer. We start to wonder to ourselves ‘When should I start my seeds indoors?’...all the while knowing the answer is more than likely *not yet*. While it’s a common gardening question, there isn’t a one-size-fits-all answer for when you should start seeds indoors. There are several factors to consider to decide when to start your seeds indoors.
+Many of us gardeners start getting the urge to get something growing as the gardening season draws nearer. We start to wonder to ourselves ‘When should I start my seeds indoors?’...all the while knowing the answer is more than likely *not yet*. While it’s a common gardening question, there isn’t a one-size-fits-all answer for when you should start seeds indoors. There are several factors to consider in deciding when to start your seeds indoors.
 
 ## Frost dates and growing season length
 
