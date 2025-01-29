@@ -1,29 +1,29 @@
 +++
-author = "Erin Thomson"
-date = 2022-05-13T04:00:00Z
-override_position = false
-plants = ["peas", "peanuts", "beans"]
+draft = true
 title = "Grow Awesome Legumes"
+date = 2022-05-13T04:00:00.000Z
+author = "Erin Thomson"
+plants = ["peas", "peanuts", "beans"]
+slug = "Grow Awesome Legumes"
+override_position = false
 
 [cover]
 alt = ""
 caption = "Fresh garden peas"
 image = "https://ucarecdn.com/fd337250-d2a4-4362-b8e4-738dcc6ae6bb/pea-pods.jpg"
-
 +++
 Legumes such as peas and beans are some of the easiest and most rewarding plants to grow. They are relatively low-maintenance, and just a few plants can produce a bumper crop! While their care is straightforward, there are a few tips to keep in mind to grow legumes successfully.
 
 ### What are Legumes?
 
-Scientifically speaking, legumes are members of the ‘fabaceae” family. They include beans and peas, as well as some plants you might not have realized, like peanuts and clover (this article focuses on beans and peas). Legumes have the amazing ability to ‘fix’ their own nitrogen. Their roots form a relationship with bacteria in the soil that allows them to capture and use nitrogen from the air. In the garden we can take advantage of this effect by planting crops that are heavy nitrogen feeders in an area that has been previously planted with legumes.
+Scientifically speaking, legumes are members of the ‘Fabaceae” family. They include beans and peas, as well as some plants you might not have realized, like peanuts and clover (this article focuses on beans and peas). Legumes have the amazing ability to ‘fix’ their own nitrogen. Their roots form a relationship with bacteria in the soil that allows them to capture and use nitrogen from the air. In the garden we can take advantage of this effect by planting crops that are heavy nitrogen feeders in an area that has been previously planted with legumes.
 
-Legumes are grown for various edible plant parts. In the case of peas, there are ‘shelling peas’ also known as ‘garden peas’ or ‘English peas’, which are grown for their peas but not the pods. Some types of shelling peas are grown to be dried and there are also ‘field peas’ which are specifically for drying. There are ‘snap peas’ which are grown for both their pods and the peas inside. Where with ‘snow peas’, the pod is the prize as the peas inside should be very small when harvested. The shoots of pea plants can also be harvested and eaten fresh or cooked.
+Legumes are grown for various edible plant parts. In the case of peas, there are ‘shelling peas’ also known as ‘garden peas’ or ‘English peas’, which are grown for their peas but not the pods. Some types of shelling peas are grown to be dried and there are also ‘field peas’ which are specifically for drying. There are ‘snap peas’ which are grown for both their pods and the peas inside. With ‘snow peas’, the pod is the prize as the peas inside should be very small when harvested. The shoots of pea plants can also be harvested and eaten fresh or cooked.
 
 With beans, there are ‘snap beans’ or ‘string beans’ which is what we would generally think of as green or yellow beans. There are ‘shelling beans’ which are typically shelled and then eaten fresh, and there are ‘drying beans’ which are grown primarily for storage.
 
 One of the advantages of growing your own beans and peas is there are so many unique varieties available. Check [Planter](https://planter.garden/) to find some neat varieties to add to your garden!
 
-  
 ![](https://ucarecdn.com/b074def0-fc09-45bf-94d5-4e2afe70d7e3/beans-screenshot.jpg)
 
 ### How to Grow Legumes
