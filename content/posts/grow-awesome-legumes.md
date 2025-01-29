@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Grow Awesome Legumes"
 date = 2022-05-13T04:00:00.000Z
 author = "Erin Thomson"
