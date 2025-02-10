@@ -27,9 +27,9 @@ Peaches aren't the only fruits affected by this problem; nectarines, almonds, an
 
 The peach leaf curl fungus spreads very quickly in areas that have cool, wet, and humid springs. Places in the USA, like the Midwest, parts of the East, and especially the Pacific Northwest, struggle with peach leaf curl. Other places like Canada and the United Kingdom also have trouble with this plant disease. Even areas that usually have spring temperatures above 70 degrees F (21 degrees C) can have a peach leaf curl problem if they get a stretch of daytime highs in the 50's-60's (F), ( 10-15 C) and humid weather. 
 
-Since the fungus sits on the bark before the leaves and buds emerge, winter is the best time to act to prevent infection. 
+Since the fungus sits on the bark before the leaves and buds emerge, winter is the best time to act to prevent or control an infection. 
 
-### Peach Leaf Curl Resistant Varieties 
+### Peach Leaf Curl Resistant Varieties
 
 The saying that "prevention is better than the cure" applies to peach trees, too. Some varieties are more resistant, although they are not entirely immune to the disease. Keep a close eye on newly planted trees; until they get established, they are still susceptible.  If you're adding a peach tree to your garden and live in an area with cool and wet springs, try to find one of these varieties: 
 
@@ -39,8 +39,6 @@ The saying that "prevention is better than the cure" applies to peach trees, too
 * Mary Jane- dwarf 
 * Oregon Curl-Free- semi-dwarf
 * Salish Summer-semi-dwarf
-
-
 
 ### Treatment
 
