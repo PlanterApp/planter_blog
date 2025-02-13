@@ -2,6 +2,7 @@
 draft = true
 title = "Our 2025 Garden Plans!"
 slug = "2025-garden-plans"
+date = "2025-02-13T13:48:00.000Z"
 author = "The Planter Team"
 series = []
 tags = ["Planning"]
@@ -9,6 +10,14 @@ tags = ["Planning"]
 [cover]
 relative = false
 +++
+We are getting geared up for the 2025 gardening season! The first step before we can get growing though is to plan out our gardens in Planter. Read on to see what we're up to and how we've used Planter to bring our garden plans to life. We hope you'll find some neat ideas to implement in your own garden plans!
+
+And if you haven't already seen it, check out our latest podcast where Peter, Milan, and Erin chat about our plans and what we're doing differently in 2025:
+
+{{< youtube 0HiIm5f5KXg >}}
+
+
+
 ## Erin
 
 This year, I moved to a new property that has more land to garden on. I am planning to sell veggies at our local farmers market (and my husband and I will eat a lot of veggies ourselves!) I started with an initial plan in a spreadsheet then I used Planter to visualize where the plants will go in the garden beds. The plant icons in Planter make the plan come to life in a way that’s tricky to do in a spreadsheet. Once I saw the plants in place I knew I had to make some tweaks to optimize the layout. Planter’s drag-and-drop interface makes it super easy to move plants around so you can tweak and make changes until you’re happy with your plan. I’ve intentionally left a few beds open in my plan. I might end up filling them or using them to trial some new ‘experimental’ plants. With Planter it’s easy to adjust my plan on the fly so I can adapt to what the season brings!
