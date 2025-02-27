@@ -19,8 +19,6 @@ Focus on quick-maturing vegetables that can handle high temperatures like those 
 
 If you’re looking for a wider variety, you can expand your search to plants that mature quickly. Many plants that mature for harvest between 30-90 days (up to 70 days is optimal) can survive a Southwest spring, particularly if given sufficient shade and water.
 
-![](https://ucarecdn.com/fffa8f31-586c-487d-b4b2-73d84a280568/self-cultivation-5345147_1920.jpg)
-
 ### Where to Plant
 
 The summer sun is hot, and the high UV index in the desert can do a number on plant tissue. To minimize heat stress, focus on planting in areas that receive shade in the afternoon. Raised beds made from fired adobe bricks are excellent in the desert because of their high thermal capacity (they regulate heat well) and will keep the soil cooler than the dirt around it. 
@@ -58,6 +56,8 @@ You can apply these principles to other plants in a Southwest garden:
 
 By carefully layering plants, you can create a self-sustaining ecosystem that protects your crops from excessive heat and evaporation while improving soil health. The Planter App can help you plan your garden properly.
 
+![](https://ucarecdn.com/020ce078-7119-4632-83a0-afb055c42bf3/josie-weiss-yj1dI4nhBOQ-unsplash.jpg)
+
 ### Choosing the Right Soil
 
 Desert soil is often dry and low in nutrients but drains well. Mix it with compost to improve moisture retention and fertility. A good starting ratio is 2/3 compost to 1/3 native soil. Adding in decomposing mulch such as hay is excellent too.
@@ -65,5 +65,3 @@ Desert soil is often dry and low in nutrients but drains well. Mix it with compo
 ### Wrapping Up
 
 Gardening in the desert Southwest isn’t tricky, but a little planning goes a long way. Choosing the right plants and location will help you enjoy a productive harvest year after year. Fresh tomatoes off the vine complemented with garden-grown oregano make for delicious additions to a summer salad.
-
-![](https://ucarecdn.com/2723392f-1f67-418d-a3c0-00ce4d64f58d/josie-weiss-yj1dI4nhBOQ-unsplash.jpg)
