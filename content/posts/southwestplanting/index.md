@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Tips For Growing in the Southwest Desert"
 slug = "southwestplanting"
 date = "2025-02-28T12:15:00.000Z"
@@ -8,27 +8,24 @@ tags = ["Southwest", "Desertgardening"]
 
 [cover]
 relative = false
-image = "https://ucarecdn.com/eabb358a-7816-48ae-a682-c57c4c993be0/high-angle-potted-plants-shovel.jpg"
-alt = "Rows of small pots containing seedlings with a trowel next to them."
+image = "https://ucarecdn.com/a4ed31a8-c11d-4dfc-8522-10f280fc2310/Raised-bed-garden.jpg"
+alt = "A raised wooden garden bed filled with veggies with hoops over the top"
 +++
 ### Thriving Where It's Hot
 
 Gardening in the Southwest desert comes with unique challenges, but also the opportunity for near year-round gardening. With the right strategies, you can grow a thriving, productive garden, whatever the weather. By selecting heat-tolerant plants, optimizing shade and soil conditions, and managing water efficiently, you can harvest bumper crops of veg year after year. 
 
-
 ### When to Start
 
 The vibrant bloom of wildflowers marks the arrival of spring in the Southwest, the warm, sunny season in between the nippy winter and the scorching summer. March is the ideal time in the Southwest to transplant warm-season vegetables or start quick-growing seedlings for a full harvest by June.
 
-
-
 ### What to Plant
 
-Focus on quick-maturing vegetables that can handle high temperatures like those from the nightshade (tomatoes, peppers) and squash families (cucumbers, melons, summer squash) as well as herbs, especially rosemary, oregano, thyme, chives, and culinary sage. When sourcing plants, look for desert heirloom varieties, hybrids, or regular cultivars that suit the warm, drier climate. Mediterranean plants generally do well in the Southwest; however, you should always check before you buy.
+Focus on quick-maturing vegetables that can handle high temperatures like those from the nightshade (tomatoes, peppers) and squash families (cucumbers, melons, summer squash) as well as herbs, especially rosemary, oregano, thyme, chives (with some shade), and culinary sage. When sourcing plants, look for desert heirloom varieties, hybrids, or regular cultivars that suit the warm, drier climate. Mediterranean plants generally do well in the Southwest; however, you should always check before you buy.
 
 If you’re looking for a wider variety, you can expand your search to plants that mature quickly. Many plants that mature for harvest between 30-90 days (up to 70 days is optimal) can survive a Southwest spring, particularly if given sufficient shade and water.
 
-![](https://ucarecdn.com/9b3b42e5-32a6-429f-8ea0-9f2d7387636e/leaves.jpg)
+![A close-up shot of an herb plant with small grey-green leaves](https://ucarecdn.com/9b3b42e5-32a6-429f-8ea0-9f2d7387636e/leaves.jpg)
 
 ### Where to Plant
 
@@ -48,15 +45,15 @@ Installing it is very straightforward. The tunnel method, where the fabric is dr
 
 {{< notice note >}}Taller plants may benefit from running fabric cloth down the west side of the shade structure to protect them from the low, afternoon sun.{{< /notice >}}
 
-![](https://ucarecdn.com/9f50be3c-62d3-44e7-8508-160e760822e7/urban-vegetable-garden-with-plants-flowers-rooftop-without-people.jpg "Shade fabric over some raised garden beds.")
+![Shade fabric covering raised garden beds on a rooftop patio with a palm tree in the background](https://ucarecdn.com/9f50be3c-62d3-44e7-8508-160e760822e7/urban-vegetable-garden-with-plants-flowers-rooftop-without-people.jpg)
 
 ### Reducing Water Loss
 
-Mulch is essential in Southwest gardens. A 1–2-inch layer around (but not directly on top of) seedlings and young plants helps trap moisture while maintaining airflow. Mulch can also lower soil temperature by as much as 20°F during the heat of the day. When using mulch, be mindful of small scorpions that may use it as refuge if it becomes too damp; citrus peel or planting lavender with your veg will help to deter them.
+Mulch is essential in Southwest gardens. A 2–4" (5-10 cm) layer around (but not directly on top of) seedlings and young plants helps trap moisture while maintaining airflow. Mulch can also lower soil temperature significantly during the heat of the day. When using mulch, be mindful of small scorpions that may use it as refuge if it becomes too damp; citrus peel or planting lavender with your veg will help to deter them.
 
 Drip irrigation works well in the Southwest desert. Water early in the morning to reduce evaporation and keep roots healthy. Check plant health regularly and provide supplemental watering, especially on hot days. If needed, water again in the early evening with at least 2 hours of daylight left.
 
-### Multi-Storey Gardening
+### Multi-Story Gardening
 
 Layering plants at different heights helps create a cooler microclimate, reduce water loss, and maximize space. You may have heard of the **Three Sisters** method—corn, beans, and squash—which works well in hot climates. In this system, tall corn provides shade, beans fix nitrogen in the soil, and squash spreads across the ground to retain moisture and suppress weeds.
 
@@ -69,7 +66,7 @@ You can apply these principles to other plants in a Southwest garden:
 
 By carefully layering plants, you can create a self-sustaining ecosystem that protects your crops from excessive heat and evaporation while improving soil health.
 
-![](https://ucarecdn.com/020ce078-7119-4632-83a0-afb055c42bf3/josie-weiss-yj1dI4nhBOQ-unsplash.jpg)
+![Ripe cherry tomatoes in the sun surrounded by green leaves and stems](https://ucarecdn.com/020ce078-7119-4632-83a0-afb055c42bf3/josie-weiss-yj1dI4nhBOQ-unsplash.jpg)
 
 ### Choosing the Right Soil
 
