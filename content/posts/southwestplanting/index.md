@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Tips For Planting in the Desert Southwest"
+title = "Tips For Planting in the Southwest Desert"
 slug = "southwestplanting"
 date = "2025-02-28T12:15:00.000Z"
 author = "Sam Liddicott"
@@ -13,7 +13,7 @@ alt = "Rows of small pots containing seedlings with a trowel next to them."
 +++
 ### Growing Where It's Hot
 
-Gardening in the Desert Southwest comes with unique challenges, but also the opportunity for near year-round gardening. With the right strategies, you can grow a thriving, productive garden, whatever the weather. By selecting heat-tolerant plants, optimizing shade and soil conditions, and managing water efficiently, you can harvest bumper crops of veg year after year. 
+Gardening in the Southwest desert comes with unique challenges, but also the opportunity for near year-round gardening. With the right strategies, you can grow a thriving, productive garden, whatever the weather. By selecting heat-tolerant plants, optimizing shade and soil conditions, and managing water efficiently, you can harvest bumper crops of veg year after year. 
 
 
 ### When to Start
@@ -52,7 +52,7 @@ Installing it is very straightforward. The tunnel method, where the fabric is dr
 
 ### Reducing Water Loss
 
-Mulch is essential in Southwest gardens. A 1–2-inch layer around (but not directly on top of) seedlings and young plants helps trap moisture while maintaining airflow. Mulch can lower soil temperature by as much as 20°F, which is a huge benefit in the desert. When using mulch, be mindful of small scorpions that may use it as refuge if it becomes too damp; citrus peel or planting lavender with your veg will help to deter them.
+Mulch is essential in Southwest gardens. A 1–2-inch layer around (but not directly on top of) seedlings and young plants helps trap moisture while maintaining airflow. Mulch can also lower soil temperature by as much as 20°F during the heat of the day. When using mulch, be mindful of small scorpions that may use it as refuge if it becomes too damp; citrus peel or planting lavender with your veg will help to deter them.
 
 Drip irrigation works well in the Southwest desert. Water early in the morning to reduce evaporation and keep roots healthy. Check plant health regularly and provide supplemental watering on especially hot days. If needed, water again in the early evening with at least 2 hours of daylight left.
 
