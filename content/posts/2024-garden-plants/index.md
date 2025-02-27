@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Our 2024 Planter Garden Plans!"
+title = "Our 2024 Garden Plans!"
 slug = "2024-garden-plans"
 date = 2024-02-01T16:32:18.728Z
 author = "The Planter Team"
