@@ -54,7 +54,7 @@ Installing it is very straightforward. The tunnel method, where the fabric is dr
 
 Mulch is essential in Southwest gardens. A 1–2-inch layer around (but not directly on top of) seedlings and young plants helps trap moisture while maintaining airflow. Mulch can also lower soil temperature by as much as 20°F during the heat of the day. When using mulch, be mindful of small scorpions that may use it as refuge if it becomes too damp; citrus peel or planting lavender with your veg will help to deter them.
 
-Drip irrigation works well in the Southwest desert. Water early in the morning to reduce evaporation and keep roots healthy. Check plant health regularly and provide supplemental watering on especially hot days. If needed, water again in the early evening with at least 2 hours of daylight left.
+Drip irrigation works well in the Southwest desert. Water early in the morning to reduce evaporation and keep roots healthy. Check plant health regularly and provide supplemental watering, especially on hot days. If needed, water again in the early evening with at least 2 hours of daylight left.
 
 ### Multi-Storey Gardening
 
