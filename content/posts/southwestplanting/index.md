@@ -11,7 +11,7 @@ relative = false
 image = "https://ucarecdn.com/eabb358a-7816-48ae-a682-c57c4c993be0/high-angle-potted-plants-shovel.jpg"
 alt = "Rows of small pots containing seedlings with a trowel next to them."
 +++
-### Growing Where It's Hot
+### Thriving Where It's Hot
 
 Gardening in the Southwest desert comes with unique challenges, but also the opportunity for near year-round gardening. With the right strategies, you can grow a thriving, productive garden, whatever the weather. By selecting heat-tolerant plants, optimizing shade and soil conditions, and managing water efficiently, you can harvest bumper crops of veg year after year. 
 
