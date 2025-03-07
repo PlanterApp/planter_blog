@@ -2,7 +2,7 @@
 draft = true
 title = "Digging Down: Creating a Sunken Garden"
 slug = "sunkengardening"
-date = "2025-03-07T15:30:00.000Z"
+date = "2025-03-07T12:15:00.000Z"
 author = "Sam Liddicott"
 plants = []
 tags = ["Southwest", "Desertgardening"]
@@ -15,7 +15,6 @@ alt = "Woman holding a plant grown in a sunken garden bed."
 ### Staying Hydrated
 
 Water is essential for plant growth. Too little water (or too much), and your plants won’t make it. In hot, arid climates, sunken beds are a preventative measure against warmer weather (catch the rhyme there?). 
-
 
 By sinking the bed below ground level, you take advantage of naturally cooler soil, improved moisture retention, and better wind protection. Sunken beds can be a game-changer for gardeners in dry regions, making it easier to keep plants thriving with less water.
 
@@ -47,18 +46,18 @@ Sunken gardens offer a range of benefits in the desert, making them a smart choi
 
 Before you start digging, consider your bed’s size and location. Shelter from the intense afternoon sun is essential. If no natural (trees, shrubs) or structural shade (buildings, walls) exists, you may need to add shade fabric alongside the west and south-west sides of the bed.
 
-Because you can walk through a sunken bed, there’s more flexibility in sizing. Larger beds also allow for companion planting and layering plants for shade (*see our Tips for Growing in the Southwest Desert*). A standard 4' x 8' size is a good starting point for maintenance, and it's easy to plan with the Planter app.
+Because you can walk through a sunken bed, there’s more flexibility in sizing. Larger beds also allow for companion planting and layering plants for shade (*see our Tips for Growing in the Southwest Desert*). A standard 4' x 8' size (1.25m x 2.5m) is a good starting point for maintenance, and it's easy to plan with the Planter app.
 
 Drainage is also important. A slight slope toward one side of the bed can reduce pooling during heavy rain. Additionally, placing a terracotta pot in the soil at the lowest point of the bed can catch excess water during monsoon-like rains. The rim should sit just below the soil level, allowing water to collect and slowly soak in.
 
 #### Building the Bed
 
-1. **Mark out the area** with string and stakes to visualize the space. Sunken beds don’t have to be rectangular—you can shape them to fit your garden layout. If doing more than one bed, leave a 2-3 foot walkway between the beds to pile the dirt for the berms and move around the garden.
+1. **Mark out the area** with string and stakes to visualize the space. Sunken beds don’t have to be rectangular—you can shape them to fit your garden layout. If doing more than one bed, leave a 3-4 foot (around 1-1.5 meter) walkway between the beds to pile the dirt for the berms and move around the garden.
 2. **Dig down between 9 and 12 inches.** Pile the excavated soil around the edges to form berms. These raised dirt walls provide shade and block wind. Compact the berms with a shovel or walk on them to slow erosion.
 3. **Remove large rocks and debris** as you dig. Any stones you find can reinforce the berms. You may also line the edge of the sunken bed with bricks or larger rocks for a more formal look.
-4. **Amend the soil.** The top layer of desert soil is often nutrient-poor. Mix in compost to improve moisture retention. A 20% compost to 80% native soil mix maintains well-draining conditions while booting nutrient supply.
+4. **Amend the soil.** The top layer of desert soil is often nutrient-poor. Mix in compost to improve moisture retention. A 20% compost to 80% native soil mix maintains well-draining conditions while boosting nutrient supply.
 
-{{< notice tip >}}For a 4' x 8' bed, you’ll need about 6-7 cubic feet of compost to add a 2-inch layer.{{< /notice >}}
+{{< notice tip >}}For a 4' x 8' bed, you’ll need about 6-7 cubic feet (or 190-210 litres) of compost to add a 2-inch (5cm) layer.{{< /notice >}}
 
 ![Tending to vegetables in a sunken garden bed.](https://ucarecdn.com/0c1b0a13-5a02-4969-8e1a-f585b8ac7ff2/male-gardener-s-hand-digging-soil-vegetable-garden.jpg)
 
@@ -67,7 +66,6 @@ Drainage is also important. A slight slope toward one side of the bed can reduce
 Caring for a sunken garden bed is much like any other part of the garden; regular watering, weeding, and pest control are necessary. To reduce the spread of weeds, disturb the soil around your plants as little as possible.
 
 Mulch is an excellent addition for water retention and weed suppression, although you should avoid geotextiles and bark mulches as much as possible. If you’re willing to collect it, the leaf litter from your yard (or your neighbor's) is an excellent, nutrient-rich mulch, as are shredded tree trimmings.
-
 
 ![Corn and sunflowers against a blue desert sky.](https://ucarecdn.com/8c81e069-6745-413c-83ba-8202edb2b155/close-up-yellow-flowering-plant-against-blue-sky.jpg)
 
