@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 title = "Digging Down: Creating a Sunken Garden"
 slug = "sunkengardening"
 date = "2025-03-07T12:15:00.000Z"
@@ -46,14 +46,14 @@ Sunken gardens offer a range of benefits in the desert, making them a smart choi
 
 Before you start digging, consider your bed’s size and location. Shelter from the intense afternoon sun is essential. If no natural (trees, shrubs) or structural shade (buildings, walls) exists, you may need to add shade fabric alongside the west and south-west sides of the bed.
 
-Because you can walk through a sunken bed, there’s more flexibility in sizing. Larger beds also allow for companion planting and layering plants for shade (*see our Tips for Growing in the Southwest Desert*). A standard 4' x 8' size (1.25m x 2.5m) is a good starting point for maintenance, and it's easy to plan with the Planter app.
+Because you can walk through a sunken bed, there’s more flexibility in sizing. Larger beds also allow for companion planting and layering plants for shade (*see our Tips for Growing in the Southwest Desert*). A standard 4' x 8' size (1.25m x 2.5 m) is a good starting point for maintenance, and it's easy to plan with the Planter app.
 
 Drainage is also important. A slight slope toward one side of the bed can reduce pooling during heavy rain. Additionally, placing a terracotta pot in the soil at the lowest point of the bed can catch excess water during monsoon-like rains. The rim should sit just below the soil level, allowing water to collect and slowly soak in.
 
 #### Building the Bed
 
 1. **Mark out the area** with string and stakes to visualize the space. Sunken beds don’t have to be rectangular—you can shape them to fit your garden layout. If doing more than one bed, leave a 3-4 foot (around 1-1.5 meter) walkway between the beds to pile the dirt for the berms and move around the garden.
-2. **Dig down between 9 and 12 inches.** Pile the excavated soil around the edges to form berms. These raised dirt walls provide shade and block wind. Compact the berms with a shovel or walk on them to slow erosion.
+2. **Dig down between 9 and 12 inches (23-30 cm).** Pile the excavated soil around the edges to form berms. These raised dirt walls provide shade and block wind. Compact the berms with a shovel or walk on them to slow erosion.
 3. **Remove large rocks and debris** as you dig. Any stones you find can reinforce the berms. You may also line the edge of the sunken bed with bricks or larger rocks for a more formal look.
 4. **Amend the soil.** The top layer of desert soil is often nutrient-poor. Mix in compost to improve moisture retention. A 20% compost to 80% native soil mix maintains well-draining conditions while boosting nutrient supply.
 
