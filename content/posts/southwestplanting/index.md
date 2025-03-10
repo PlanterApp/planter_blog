@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Tips for Growing in the Southwest Desert"
+title = "Tips for Growing in the Southwestern US Desert"
 slug = "southwestplanting"
 date = "2025-02-27T17:00:00.000Z"
 author = "Sam Liddicott"
