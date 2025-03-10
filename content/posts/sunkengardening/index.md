@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Digging Down: Creating a Sunken Garden"
 slug = "sunkengardening"
 date = "2025-03-07T12:15:00.000Z"
