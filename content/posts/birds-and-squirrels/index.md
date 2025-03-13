@@ -46,9 +46,7 @@ Another way to keep birds and squirrels away from the garden is to use repellent
 
 For heavy-duty protection against bird and squirrel damage, you may want to use netting or fencing to protect your crops.
 
-When it comes to using bird netting (for birds, not squirrels), you'll want to be careful about the netting you choose and how you install it to ensure birds don't become tangled and die. Look for a high-quality, UV-treated netting that will last for multiple seasons. You'll want to find netting with holes less than 1/4 inch (5mm) wide that will not trap birds, and make sure it is stretched relatively tightly over your garden beds as floppy, tangled netting can also ensnare birds. Use stakes or build a support frame to secure the netting and keep it taught.
-
-
+When it comes to using bird netting, you'll want to be careful about the netting you choose and how you install it to ensure birds and squirrels don't become tangled and die. Look for a high-quality, UV-treated netting that will last for multiple seasons. You'll want to find netting with holes less than 1/4" (5 mm) wide that will not trap birds, and make sure it is stretched relatively tightly as floppy, tangled netting can also ensnare birds. Use stakes or build a support frame to secure the netting and keep it taught. A determined squirrel can likely break through bird netting but it may be enough of a hassle that they choose to look elsewhere for food.
 
 ![A light brown bird perched on some chicken wire over a wire fence](https://ucarecdn.com/3113db41-f404-4424-a697-47a72d7a842f/Bird-on-netting.jpg)
 
@@ -57,7 +55,5 @@ If you're planning on using fencing, keep in mind that squirrels are excellent c
 Ultimately, the decision of how best to manage birds and squirrels in your garden comes down to your gardening style and how big of a threat birds and squirrels are. If you enjoy wildlife in your garden and are OK with some potential losses, a more hands-off approach will suffice. If you're dealing with a large population of birds or squirrels and you want to keep losses to a minimum, you'll likely want to invest in bird-and-squirrel-proof infrastructure. So long as the technique is humane and makes you feel satisfied in your own garden, that is the best approach!
 
 ![A robin sitting on an elderberry branch](https://ucarecdn.com/a07488b2-36f7-47d3-9640-a458ff78f36e/Robin-on-branch.jpg)
-
-
 
 {{< affiliate >}}
