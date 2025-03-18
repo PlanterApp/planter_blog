@@ -68,4 +68,4 @@ At the end of the typical germination period for those seeds (usually indicated 
 
 You may be able to carefully plant the test seeds that have germinated in some seed starting mix, depending on the timing. If you’re running a germination test far too early or too late in your season for that particular plant it may not be worthwhile.
 
-By storing your seeds with care, you’ll maximize their longevity and get the best return on your seed purchasing investment! With careful storage you may be able to get several years of reasonable viability from many of your seeds- so you won’t have to purchase as many new seeds next year. (Or at least if you do buy new seeds it’s to try fun new varieties- not just to replace old seed!)
+By storing your seeds with care, you’ll maximize their longevity and get the best return on your seed purchasing investment! With careful storage you may be able to get several years of reasonable viability from many of your seeds- so you won’t have to purchase as many new seeds next year. (Or at least if you do it’s to try fun new varieties- not just to replace old seed!)
