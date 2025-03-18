@@ -42,7 +42,7 @@ Ideally you'll want to store seeds in a location that is cool- between 32-40°F 
 
 ### Should I Store Seeds in the Basement or in the Garage?
 
-While basements, sheds, and garages can sometimes be cool-ish and dark, they can also have high humidity levels. Many sheds and garages will get surprisingly hot in the summer- and even basements are not really cool enough for optimal seed storage. Besides that, you definitely do not want to store your precious seeds anywhere that rodents or other critters could access. Although not ideal, storing seeds in the basement is likely the better option of the three provided you store your seeds in airtight containers (ideally with desiccant) to help protect them from excess humidity.
+While basements, sheds, and garages can sometimes be cool-ish and dark, they can also have high humidity levels. Many sheds and garages will get surprisingly hot in the summer- and even basements are not really cool enough for optimal seed storage. Besides that, you definitely do not want to store your precious seeds anywhere that rodents or other critters could access. Although not ideal, storing seeds in the basement is likely the better option of the three provided you store your seeds in airtight containers (preferably with desiccant) to help protect them from excess humidity.
 
 ### Should I Store Seeds in the Refrigerator?
 
