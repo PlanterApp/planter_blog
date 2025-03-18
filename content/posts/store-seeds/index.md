@@ -10,6 +10,6 @@ tags = ["Seed Storage", "Seeds"]
 relative = false
 caption = ""
 image = "https://ucarecdn.com/9cece979-4cc4-4560-9ec8-7bb66d46b158/Seed-packs.jpg"
-alt = "Seed packets with clips and some seeds spilling out on a white background"
+alt = "Paper seed packets with some seeds spilling out on a white background"
 +++
 l
