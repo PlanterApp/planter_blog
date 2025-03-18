@@ -30,7 +30,7 @@ There are some question marks on the effectiveness of vacuum sealing seeds, but 
 
 No matter where you store seeds, they must be absolutely dry before storing in containers. If there is excess moisture in your seeds for any reason (e.g., if you are saving your own seeds, or if your seeds got wet during planting), they could easily turn moldy inside the containers.
 
-There are a few different ways you can organize your seeds within their containers. You can organize seeds by the year they were purchased (or the Sell By dates), so it’s easy to find the older seeds to use up first. You could also organize seeds into loose categories- e.g., leafy greens, herbs, flowers. If you have a large seed collection it might even make sense to group them by plant (e.g., tomatoes, lettuce, etc.) so it’s easy to see all the different varieties you have of each.
+There are a few different ways you can organize your seeds within their containers. You can organize seeds by the year they were purchased (or the Sell By dates), so it’s easy to find older seeds to use up first. You could also organize seeds into categories- e.g., leafy greens, herbs, flowers. If you have a large seed collection it might make sense to group seed packets by plant (e.g., tomatoes, lettuce, etc.) so it’s easy to see all the different varieties you have of each.
 
 Personally, I like to use small plastic tubs with tight-fitting lids to store my seeds, and I use plastic baggies inside with the air squeezed out to group the seed packets for different categories of plants. Some gardeners really like using [clear plastic photo organizers](https://www.amazon.com/s?k=plastic+photo+organizer) to protect their seed packets and organize them into logical groupings.
 
