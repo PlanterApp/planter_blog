@@ -12,7 +12,7 @@ caption = ""
 image = "https://ucarecdn.com/9cece979-4cc4-4560-9ec8-7bb66d46b158/Seed-packs.jpg"
 alt = "Paper seed packets with some seeds spilling out on a white background"
 +++
-After you’ve stocked up on seeds for the growing season and started most of your plants, often you’ll end up with several partial packets of seeds left over. How should you store leftover seeds so they last as long as possible? And how long do seeds last anyways? Many of us gardeners like to hoard seeds in our seed collection for years, but without proper storage techniques the shelf life of those seeds dramatically decreases.
+After you’ve stocked up on seeds for the growing season and started most of your plants, often you’ll end up with several partial packets of seeds left over. How should you store leftover seeds so they last as long as possible? And how long do seeds last, anyways? Many of us gardeners like to hoard seeds in our seed collection for years, but without proper storage techniques the shelf life of those seeds dramatically decreases.
 
 In this article, we’ll delve into tips and tricks to store your seeds properly so they last as long as possible.
 
