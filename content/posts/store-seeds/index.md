@@ -32,7 +32,7 @@ No matter where you store seeds, they must be absolutely dry before storing in c
 
 There are a few different ways you can organize your seeds within their containers. You can organize seeds by the year they were purchased (or the Sell By dates), so it’s easy to find older seeds to use up first. You could also organize seeds into categories- e.g., leafy greens, herbs, flowers. If you have a large seed collection it might make sense to group seed packets by plant (e.g., tomatoes, lettuce, etc.) so it’s easy to see all the different varieties you have of each.
 
-Personally, I like to use small plastic tubs with tight-fitting lids to store my seeds, and I use plastic baggies inside with the air squeezed out to group the seed packets for different categories of plants. Some gardeners really like using [clear plastic photo organizers](https://www.amazon.com/s?k=plastic+photo+organizer) to protect their seed packets and organize them into logical groupings.
+Personally, I like to use small plastic tubs with tight-fitting lids to store my seeds. I use plastic baggies inside (with the air squeezed out) to group the seed packets for different categories of plants. Some gardeners really like using [clear plastic photo organizers](https://www.amazon.com/s?k=plastic+photo+organizer) to protect their seed packets and organize them into logical groupings.
 
 ![Seeds packed inside plastic baggies in a clear plastic box](https://ucarecdn.com/3ebaa950-817a-49fb-9d53-6f07d9c1b30a/Seed-box.jpg)
 
