@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "How to Store Seeds"
 slug = "store-seeds"
 date = "2025-03-18T10:00:00.000Z"
@@ -24,6 +24,8 @@ Seed storage containers can be as simple or complicated and as inexpensive or ex
 
 **Handy tip-** you can reuse silica desiccant- desiccant you purchased [](https://www.amazon.com/s?k=desiccant)or even the packs that come with shoes and other things you buy- by drying it in the microwave or oven! Look for detailed step-by-step instructions online (and be careful to only put safe materials in the microwave or oven!)
 
+![A silica desiccant pack surrounded by silica beads](https://ucarecdn.com/b88f9ff6-7daf-4741-b6eb-0fa85f4bbcd7/Silica-pack.jpg)
+
 There are some question marks on the effectiveness of vacuum sealing seeds, but if you choose to go this route it is best to use both a desiccant and oxygen absorber in the bag (/container). Seeds that have been vacuum sealed should still be stored in a cool, dark place.
 
 No matter where you store seeds, they must be absolutely dry before storing. If there is excess moisture in your seeds for any reason (e.g., if you are saving your own seeds, or if your seeds got wet during planting), they could easily turn moldy inside the containers.
@@ -36,7 +38,7 @@ Personally, I like to use small plastic tubs with tight-fitting lids to store my
 
 ## Where Should I Store Seeds?
 
-Ideally you will want to store seeds in a location that is cool- between 32-40°F (0-5°C), dry- less than 60% relative humidity, and dark. There are a few places that people often consider for storing seeds:
+Ideally you'll want to store seeds in a location that is cool- between 32-40°F (0-5°C), dry- less than 60% relative humidity, and dark. There are a few places that people often consider for storing seeds:
 
 ### Should I Store Seeds in the Basement or in the Garage?
 
@@ -60,7 +62,7 @@ It’s better to start old seeds in smaller-size trays, so as not to waste too m
 
 To test the germination rate of seeds, place at least 20 seeds separated from each other between two layers of moist paper towel then place in a plastic baggie and seal it shut. Make sure the baggie is kept at the usual temperature for starting those seeds- for many seeds room temperature should be OK. After a couple days, start checking the seeds regularly to see how many have germinated. You’ll see a little white root starting to poke out of the seed coat. 
 
-![Black round seeds on a wet paper towel inside a plastic baggie](https://ucarecdn.com/9ef45e12-cc54-46e7-bae1-c91340d162e6/Germination-test.jpg "Can you spot the two germinated seeds?")
+![Black round seeds on a wet paper towel inside a plastic baggie](https://ucarecdn.com/00139f0a-0843-4993-82b1-420da57b4bf2/Germination-test.jpg "Can you spot the two germinated seeds?")
 
 At the end of the typical germination period for those seeds (usually indicated on the seed packet) count how many have germinated and divide this by the total number of seeds in the baggie. Compare this germination % with the expected germination rate for that seed- germination rates are not usually 100% even for fresh seed! Either find germination rate information on the seed packet, or do a quick web search to find usual germination rates for that variety. If your germination rate is far below what it should normally be for fresh seed you can either choose to discard the seed or take steps to minimize the impact of poor germination.
 
