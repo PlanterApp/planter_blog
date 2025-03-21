@@ -22,7 +22,7 @@ Careful planning during pre-season and planting, with active management of your 
 
 ![seedlings growing in sunny conditions](https://ucarecdn.com/ad4b706d-e689-4112-8294-a5da9d85b1c4/high-angle-plants-with-green-leaves.jpg)
 
-### Types of Shade
+### **Types of Shade**
 
 We’ll classify shade into two types: natural and artificial. Neither is inherently better than the other, although artificial shade is often more adjustable to current conditions.
 
