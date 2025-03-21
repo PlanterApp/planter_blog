@@ -2,7 +2,7 @@
 draft = true
 title = "Keeping Cool: Planning Shade for your Garden"
 slug = "shadingplants"
-date = "2025-03-21T13:45:00.000Z"
+date = "2025-03-21T13:30:00.000Z"
 author = "Sam Liddicott"
 series = []
 tags = ["shade", "planning"]
@@ -90,13 +90,19 @@ Many permanent structures such as pergolas and trellises can become expensive if
 
 **Old Bedsheets/covers**
 
-White bedsheets, tablecloths, duvet covers, and similar fabrics can offer shade for your garden. The light color of the fabric is key and while not as effective as shade cloth, is a great way to reduce, and reuse what you already have.
+* White bedsheets, tablecloths, duvet covers, and similar fabrics can offer shade for your garden. The light color of the fabric is key and while not as effective as shade cloth, is a great way to reduce, and reuse what you already have.
 
 **Netting**
 
-If you’re already using netting to stop rabbits, deer, birds, and insects, or you are considering it, netting is a good low-shade option, similar to 10% fabric. For many cooler environments, this amount of shade is sufficient for the average summer. 
+* If you’re already using netting to stop rabbits, deer, birds, and insects, or you are considering it, netting is a good low-shade option, similar to 10% fabric. For many cooler environments, this amount of shade is sufficient for the average summer. 
 
 Find some netting options here: [Amazon.com: Agfabric: Netting](https://www.amazon.com/stores/page/EFDEB572-12C0-4FDF-B97E-AE14908324A0?ingress=0&visitId=ffd0373e-4bd1-4c9d-ae41-41b121143559&lp_query=agfabric&lp_slot=auto-sparkle-hsa-tetris&store_ref=SB_A023357128C5RJ5S85QSE-A0690841245LKB6J5JI2A&ref_=sbx_be_s_sparkle_mcd_cta)
+
+**Umbrellas**
+
+* Have an old patio umbrella lying around? Or one you’re still using? If shade isn’t a yearly necessity for your garden, patio umbrellas can be quickly moved to shade your garden on exceptionally hot and sunny days. 
+
+
 
 ![garden bed with netting](https://ucarecdn.com/5c01cad2-d8a5-4973-ab9e-f9d7e8070f54/-/crop/2427x1345/133,575/-/preview/PXL_20230805_142551385%20(1).jpg)
 
@@ -119,9 +125,5 @@ The best type of shade for your garden depends on your climate, plant selection,
 To get started, assess your garden’s sunlight exposure at different times of the day and experiment with shading solutions that best suit your plant's needs.
 
 Stay cool out there!
-
-
-
-
 
 {{< affiliate >}}
