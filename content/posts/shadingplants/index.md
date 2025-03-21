@@ -56,7 +56,7 @@ Companion planting creates shade by pairing plants together. For example:
 
 ![garden peas growing on a trellis](https://ucarecdn.com/18eb1071-ca59-4a80-a36f-aa429051de1d/green-peas-grow-gardener-garden-outdoors.jpg)
 
-### Artificial Shade
+### **Artificial Shade**
 
 **Shade Cloth**
 
@@ -74,7 +74,7 @@ Observing how sunlight hits your garden and the type of plants you grow will det
 
 Find some shade fabric options here: [Amazon.com: Agfabric: Shade Cloth](https://www.amazon.com/stores/page/1ABD59E4-9DB6-4071-8DEE-86DA53194EAC?ingress=0&visitId=ffd0373e-4bd1-4c9d-ae41-41b121143559&lp_query=agfabric&lp_slot=auto-sparkle-hsa-tetris&store_ref=SB_A023357128C5RJ5S85QSE-A0690841245LKB6J5JI2A&ref_=sbx_be_s_sparkle_mcd_cta)
 
-### Permanent Structures
+#### Permanent Structures
 
 Pergolas provide a sturdy frame above your garden. Climbing plants such as wisteria, grapevines, and passionflowers (find plants suited to your area) can provide dappled shade during the summer. Climbing wires can also be strung between pergola poles, assisting plants such as beans and tomatoes when they grow tall. 
 
