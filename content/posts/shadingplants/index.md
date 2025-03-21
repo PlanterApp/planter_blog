@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Keeping Cool: Planning Shade for your Garden"
 slug = "shadingplants"
-date = "2025-03-21T13:30:00.000Z"
+date = "2025-03-21T13:35:00.000Z"
 author = "Sam Liddicott"
 series = []
 tags = ["shade", "planning"]
