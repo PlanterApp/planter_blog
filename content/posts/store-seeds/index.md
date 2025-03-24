@@ -16,7 +16,7 @@ After you’ve stocked up on seeds for the growing season and started most of yo
 
 In this article, we’ll delve into tips and tricks to store your seeds properly so they last as long as possible.
 
-## Seed Storage Containers and Organization
+## Seed storage containers and organization
 
 If your seeds came in packets from the seed company, it’s best to keep them in their packets as they usually contain a wealth of information that you can refer back to the next time you want to grow those seeds. It’s helpful to use a paperclip or alligator clip to hold seed packets shut as it’s easy for small seeds to escape and get mixed up if the packet is just folded shut. Most seed packets have a ‘Packed On’ or ‘Sell By’ date on them that can give you an indication of how old the seeds are, but if you don’t see this information be sure to label the packet with the year that you purchased the seeds.
 
@@ -36,29 +36,29 @@ Personally, I like to use small plastic tubs with tight-fitting lids to store my
 
 ![Seeds packed inside plastic baggies in a clear plastic box](https://ucarecdn.com/3ebaa950-817a-49fb-9d53-6f07d9c1b30a/Seed-box.jpg)
 
-## Where Should I Store Seeds?
+## Where should I store seeds?
 
 Ideally you'll want to store seeds in a location that is cool- between 32-40°F (0-5°C), dry- less than 60% relative humidity, and dark. There are a few places that people often consider for storing seeds:
 
-### Should I Store Seeds in the Basement or in the Garage?
+### Should I store seeds in the basement or in the garage?
 
 While basements, sheds, and garages can sometimes be cool-ish and dark, they can also have high humidity levels. Many sheds and garages will get surprisingly hot in the summer- and even basements are not really cool enough for optimal seed storage. Besides that, you definitely do not want to store your precious seeds anywhere that rodents or other critters could access. Although not ideal, storing seeds in the basement is likely the better option of the three provided you store your seeds in airtight containers (preferably with desiccant) to help protect them from excess humidity.
 
-### Should I Store Seeds in the Refrigerator?
+### Should I store seeds in the refrigerator?
 
 The fridge is an ideal place to store seeds temperature-and-light-wise, although fridges do tend to have higher-than-ideal humidity levels for seed storage (around 65%- above the 60% guideline). If you keep the humidity away from your seeds with airtight containers- and optionally with desiccant- the fridge is a good place for long-term seed storage…assuming you have fridge space to spare! Keep the seed storage containers at the back of the fridge or in a drawer that stays consistently cool (i.e., not near the doors). If you happen to have a mini fridge you could store your seeds there- it may be opened less often and may not be as full as your kitchen fridge. When you take your seed containers out of the fridge be sure to let them come up to room temperature before opening them to keep condensation away from your seed packets.
 
-### Should I Store Seeds in the Freezer?
+### Should I store seeds in the freezer?
 
 Information is mixed on whether it's a good idea to store seeds in the freezer. Unfortunately our home freezers do not always have the ideal storage conditions for seeds. Typical home freezer temperatures may be too cold for some types of seeds to be stored. Also, because home freezers are regularly opened, this can lead to freeze-thaw-freeze cycles that can reduce the longevity of seeds. Any power outages can also easily let your seeds thaw out. In general it's better to keep seeds in the fridge if possible. If you do choose to store seeds in the freezer, be sure they are completely dry, seal them in airtight containers, then choose a location where they are more likely to stay frozen. When you take your seed containers out of the freezer be sure to let them come up to room temperature before opening them to keep condensation away from your seed packets.
 
-## How Long Do Seeds Keep?
+## How long do seeds keep?
 
 How long seeds keep varies widely based on a number of factors including the source, how they were stored, and the plant itself. The seeds of some plants, such as parsnips and onions, are known to be short-lived even under ideal storage conditions and it’s generally recommended to start with fresh seed each year. Tomato or cucumber seeds on the other hand can potentially last for several years if stored properly. Even reputable sources have different estimates for how long the seeds of certain plants will keep; there’s not a hard-and-fast rule for every plant. Typically, germination rates of stored seeds will gradually decline until at some point they hit near-zero. Sometimes stored seed will still germinate but the resulting plant may not be as vigorous. If you’re willing to deal with slower and more sporadic germination you can continue to use seeds that are quite old.
 
 It’s better to start old seeds in smaller-size trays, so as not to waste too much space for seeds that might not germinate (provided they are seeds that can be started indoors). You can always pot up the seeds that do manage to germinate. Plant more seeds than you need to account for the reduced germination rate of old seeds. Or, if you’d like to know what to expect before you sow old seeds, you can test their germination rate before planting.
 
-## How to Test Seed Germination Rates
+## How to test seed germination rates
 
 To test the germination rate of seeds, place at least 20 seeds separated from each other between two layers of moist paper towel then place in a plastic baggie and seal it shut. Make sure the baggie is kept at the usual temperature for starting those seeds- for many seeds room temperature should be OK. After a couple days, start checking the seeds regularly to see how many have germinated. You’ll see a little white root starting to poke out of the seed coat. 
 
