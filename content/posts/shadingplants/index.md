@@ -22,7 +22,7 @@ Careful planning during pre-season and planting, with active management of your 
 
 ![seedlings growing in sunny conditions](https://ucarecdn.com/ad4b706d-e689-4112-8294-a5da9d85b1c4/high-angle-plants-with-green-leaves.jpg)
 
-### **Types of Shade**
+### Types of Shade
 
 We’ll classify shade into two types: natural and artificial. Neither is inherently better than the other, although artificial shade is often more adjustable to current conditions.
 
@@ -32,9 +32,9 @@ Artificial shade includes shade cloths, pergolas, trellises, row covers, and gar
 
 ![Garden pergola with vining plants](https://ucarecdn.com/b0ba307f-a237-4de1-9ede-bd5c6ff40e74/background-roof-entwined-with-autumn-ivy-against-sky.jpg)
 
-### **Natural Shade**
+### Natural Shade
 
-#### **Trees**
+#### Trees
 
 Deciduous trees lose and gain leaves with the seasons, providing shade when plants need it most. Plant them to block the sun from the south to the southwest without reducing winter light.
 
@@ -46,7 +46,7 @@ Evergreens can be good for shade, but many are quite thin, so offer it in limite
 
 ![garden beds with trees](https://ucarecdn.com/85636696-7f86-45bc-b781-4eff28212062/plants-by-wall-against-trees.jpg)
 
-#### **Companion Planting for Shade:**
+#### Companion Planting for Shade:
 
 Companion planting creates shade by pairing plants together. For example:
 
@@ -56,7 +56,7 @@ Companion planting creates shade by pairing plants together. For example:
 
 ![garden peas growing on a trellis](https://ucarecdn.com/18eb1071-ca59-4a80-a36f-aa429051de1d/green-peas-grow-gardener-garden-outdoors.jpg)
 
-### **Artificial Shade**
+### Artificial Shade
 
 **Shade Cloth**
 
@@ -84,7 +84,7 @@ Trellises are another permanent or semi-permanent option. Often smaller, they ca
 
 ![garden trellis with plants](https://ucarecdn.com/197c3283-c571-4a77-9416-e1c0d5b072fb/built-structure-with-trees-background.jpg)
 
-### **Creating Shade on a Budget**
+### Creating Shade on a Budget
 
 Many permanent structures such as pergolas and trellises can become expensive if your garden is large, and mulch can only do so much. You may already have some materials lying around that can offer a healthy amount of shade for your garden.
 
@@ -102,11 +102,9 @@ Find some netting options here: [Amazon.com: Agfabric: Netting](https://www.amaz
 
 * Have an old patio umbrella lying around? Or one you’re still using? If shade isn’t a yearly necessity for your garden, patio umbrellas can be quickly moved to shade your garden on exceptionally hot and sunny days. 
 
-
-
 ![garden bed with netting](https://ucarecdn.com/5c01cad2-d8a5-4973-ab9e-f9d7e8070f54/-/crop/2427x1345/133,575/-/preview/PXL_20230805_142551385%20(1).jpg)
 
-### **Mulching for Root Shade**
+### Mulching for Root Shade
 
 While not overhead shade, mulch is crucial in shading plant roots, preventing soil from overheating and drying. Organic mulches like wood chips, straw, or compost act as insulators, keeping soil temperatures low and moisture levels consistent.
 
@@ -114,7 +112,7 @@ In warmer climates avoid dark mulches such as cedar as much as possible. Lighter
 
 ![mulched seedlings](https://ucarecdn.com/49b3566a-b00a-48bf-ad02-19485359858b/leaves-growing-field.jpg)
 
-### **Choosing the Right Shade for Your Garden**
+### Choosing the Right Shade for Your Garden
 
 Planning the right shade for your garden is essential for keeping your plants healthy, reducing heat stress, and promoting growth throughout the growing season. Whether you opt for natural shade from trees, artificial shade from structures like pergolas or shade cloth, or a mix of both, understanding your climate and the specific needs of your plants is key. Companion planting can further enhance shaded areas by pairing plants with similar light and moisture requirements. By taking the time to assess your garden's unique conditions and selecting the right shade solutions, you'll create a resilient, thriving garden that flourishes, no matter the sun's intensity.
 
