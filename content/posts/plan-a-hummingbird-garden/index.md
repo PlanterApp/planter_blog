@@ -41,7 +41,7 @@ Another great flower for areas with partial shade is the fuchsia. Fuchsias are a
 
 ### Bee Balm
 
-Bee balm, also known as Monarda, is a wonderful dual-purpose plant; from its herbal features to its beauty, bee balm is also an absolute favorite of hummingbirds.  Its long tubular flowers are perfect for hummingbirds to put their long beaks into. While it looks like hummingbirds use their beaks as a straw to suck up nectar, they actually slide their beaks into flowers, and then their skinny tongue shoots out and laps up the nectar! Definitely add bee balm if you are trying to bring in hummingbirds. 
+Bee balm, also known as Monarda, is a wonderful multi-purpose plant; from its herbal features to its beauty, bee balm is also an absolute favorite of hummingbirds.  Its long tubular flowers are perfect for hummingbirds to put their long beaks into. While it looks like hummingbirds use their beaks as a straw to suck up nectar, they actually slide their beaks into flowers, and then their skinny tongue shoots out and laps up the nectar! Definitely add bee balm if you are trying to bring in hummingbirds. 
 
 ### Crocosmia
 
@@ -78,8 +78,6 @@ Use this ratio when making nectar with cane sugar: **1 part sugar to 4 parts wat
 No garden needed with the method above!
 
 ### Design Your Hummingbird Garden
-
-
 
 Use the [Planter App](https://planter.garden/) to design the hummingbird garden of your dreams!
 
