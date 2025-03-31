@@ -29,7 +29,7 @@ Another early bloomer in the garden, larkspurs are a favorite among hummingbirds
 
 ### Snapdragon
 
-Hummingbirds love snapdragons. The varieties *'Twinny Peach'* and '*Sonnet'* are noted to be especially good for hummingbirds because of their flower shape and high nectar content.
+Hummingbirds love snapdragons. The varieties *'*Twinny Peach*'* and 'Sonnet*'* are noted to be especially good for hummingbirds because of their flower shape and high nectar content.
 
 ### Stock
 
@@ -45,7 +45,7 @@ Bee balm, also known as Monarda, is a wonderful multi-purpose plant; from its he
 
 ### Crocosmia
 
-Crocosmias are the perfect flower for hummingbirds, especially if you get the variety known as '*Lucifer*.' They love the bright red flowers.  Grow crocosmia in a sunny location.  While these plants are very beautiful, it's important to note that in some areas, they are considered invasive and can become pests in your garden, especially in areas like the West Coast of the United States.
+Crocosmias are the perfect flower for hummingbirds, especially if you get the variety known as 'Lucifer.' They love the bright red flowers.  Grow crocosmia in a sunny location.  While these plants are very beautiful, it's important to note that in some areas, they are considered invasive and can become pests in your garden, especially in areas like the West Coast of the United States.
 
 ### Scarlet Runner Beans
 
@@ -53,7 +53,7 @@ A plant that humans and birds can eat, the lovely scarlet runner bean has beauti
 
 ### Salvia 
 
-Salvias are members of the mint family, and there are about 1,000 plants in the Genus Salvia.  Salvia refers to sage, but not all salvias are the culinary kind of sage. Of all the plants in my garden, one tends to spark the most hummingbird battles: the ornamental salvia variety known as '*Hot Lips*.'  These tube flowers are red and white, filled with a lot of nectar, and tend to keep blooming past the hottest days of summer and into the fall in my zone (8b).  If you plant some 'Hot Lips,' it's almost guaranteed that you will have at least one hummingbird visitor. They also like other Salvia varieties, but I think the red draws in the birds the most. 
+Salvias are members of the mint family, and there are about 1,000 plants in the Genus Salvia.  Salvia refers to sage, but not all salvias are the culinary kind of sage. Of all the plants in my garden, one tends to spark the most hummingbird battles: the ornamental salvia variety known as 'Hot Lips.'  These tube flowers are red and white, filled with a lot of nectar, and tend to keep blooming past the hottest days of summer and into the fall in my zone (8b).  If you plant some 'Hot Lips,' it's almost guaranteed that you will have at least one hummingbird visitor. They also like other Salvia varieties, but I think the red draws in the birds the most. 
 
 ![Salvia plant with red and white blooms](https://ucarecdn.com/382bdbe5-4ce8-4f99-9140-bdc1f6179ba2/Salvia1.JPG)
 
