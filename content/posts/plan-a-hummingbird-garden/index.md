@@ -45,7 +45,7 @@ Bee balm, also known as Monarda, is a wonderful multi-purpose plant; from its he
 
 ### Crocosmia
 
-Crocosmias are the perfect flower for hummingbirds, especially if you get the variety known as 'Lucifer.' They love the bright red flowers.  Grow crocosmia in a sunny location.  While these plants are very beautiful, it's important to note that in some areas, they are considered invasive and can become pests in your garden, especially in areas like the West Coast of the United States.
+Crocosmias are the perfect flower for hummingbirds, especially if you get the variety known as '*Lucifer*.' They love the bright red flowers.  Grow crocosmia in a sunny location.  While these plants are very beautiful, it's important to note that in some areas, they are considered invasive and can become pests in your garden, especially in areas like the West Coast of the United States.
 
 ### Scarlet Runner Beans
 
