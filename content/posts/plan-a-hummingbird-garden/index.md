@@ -29,7 +29,10 @@ Another early bloomer in the garden, larkspurs are a favorite among hummingbirds
 
 ### Snapdragon
 
+
 Hummingbirds love snapdragons. The varieties *'*Twinny Peach*'* and 'Sonnet*'* are noted to be especially good for hummingbirds because of their flower shape and high nectar content.
+
+
 
 ### Stock
 
