@@ -44,7 +44,7 @@ Not to be confused with damselflies, damsel bugs eat many pests that eat commerc
 
 Aphid midges feed on around 60 different types of aphids, as well as other soft bodied insects! They’re attracted by most plants that produce a lot of nectar or pollen… also Dill! Noticing a trend? They’re even more effective at controlling aphids than ladybugs!
 
-## Ground beetles
+### Ground beetles
 
 ![](https://ucarecdn.com/fa2e15c2-08a9-4c6f-9162-af89e8a72056/groundbeetle.jpeg)
 
