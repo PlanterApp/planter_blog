@@ -9,8 +9,8 @@ override_position = false
 
 [cover]
 alt = "Ladybug larva close-up on a green leaf"
-caption = "This is not a pest! It is a ladybug larva and they eat tons of aphids"
-image = "https://ucarecdn.com/360846f1-043c-4372-95f3-0dc701f04a84/Ladybug-larva.jpg"
+caption = "Is this a pest? No! It's a ladybug larva and they are beneficial. They eat tons of aphids!"
+image = "https://ucarecdn.com/9ed3c417-eafc-477e-b0f3-c4cdb0a1efbb/Ladybug-larva.jpg"
 +++
 [](https://blog.planter.garden/posts/attracting-pollinators-to-the-garden/ "Attracting Pollinators to the Garden")
 
