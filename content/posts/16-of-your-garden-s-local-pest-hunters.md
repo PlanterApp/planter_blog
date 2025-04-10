@@ -8,9 +8,9 @@ slug = "Pest Hunters: Beneficial Predatory Insects"
 override_position = false
 
 [cover]
-alt = "Ladybug larva close-up on a green leaf"
-caption = "Is this a pest? No! It's a ladybug larva and they are beneficial. They eat tons of aphids!"
-image = "https://ucarecdn.com/9ed3c417-eafc-477e-b0f3-c4cdb0a1efbb/Ladybug-larva.jpg"
+alt = "A hornworm on a tomato plant that has been parasitized by wasp eggs"
+caption = "Hornworms are aggressive pests, but this one has been parasitized by wasp eggs!"
+image = "https://ucarecdn.com/6bc979da-a2f3-4f5e-8169-6136e2f51d24/Hornworm-wasp-eggs-Planter.jpg"
 +++
 [](https://blog.planter.garden/posts/attracting-pollinators-to-the-garden/ "Attracting Pollinators to the Garden")
 
