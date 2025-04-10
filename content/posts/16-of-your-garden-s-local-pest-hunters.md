@@ -8,9 +8,9 @@ slug = "Pest Hunters: Beneficial Predatory Insects"
 override_position = false
 
 [cover]
-alt = "A hornworm on a tomato plant that has been parasitized by wasp eggs"
-caption = "Hornworms are aggressive pests, but this one has been parasitized by wasp eggs!"
-image = "https://ucarecdn.com/6bc979da-a2f3-4f5e-8169-6136e2f51d24/Hornworm-wasp-eggs-Planter.jpg"
+alt = "A close-up of a ladybug on a dandelion flower"
+caption = ""
+image = "https://ucarecdn.com/e183863e-3056-4e01-aec5-68bd48333aff/Ladybug-on-dandelion.jpg"
 +++
 [](https://blog.planter.garden/posts/attracting-pollinators-to-the-garden/ "Attracting Pollinators to the Garden")
 
