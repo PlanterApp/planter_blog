@@ -14,17 +14,17 @@ image = "https://ucarecdn.com/e183863e-3056-4e01-aec5-68bd48333aff/Ladybug-on-da
 +++
 [](https://blog.planter.garden/posts/attracting-pollinators-to-the-garden/ "Attracting Pollinators to the Garden")
 
-### Ladybugs
+### Ladybugs and lady beetles
 
 ![](https://ucarecdn.com/0e5a9cb1-9f2b-4d0a-9014-152f3097d2af/ladybug.jpeg)
 
 Ladybugs are incredibly good at controlling small pests like aphids and soft bodied insects like caterpillars or thrips! They won’t harm your plants as larvae, as they eat pests throughout their life cycle rather than plant matter. *Lady beetles and lookalikes
 
-### Braconid wasps
+### Parasitic wasps
 
 ![](https://ucarecdn.com/a0b20ce0-b16d-4260-af59-0f2adf872579/braconidwasps.jpeg)
 
-Braconid wasps eat aphids, beetles, caterpillars, hornworms, and stink bugs; they are also parasites that attach their larvae to caterpillars. Don’t worry- though they are called wasps, they don’t sting! Braconid wasps can be attracted by yarrow, dill, fennel, lemon balm, and parsley.
+Braconid wasps eat aphids, beetles, caterpillars, hornworms, and stink bugs; they are also parasites that attach their larvae to caterpillars. Don’t worry- though they are called wasps, they don’t sting!
 
 ### Lacewings
 
@@ -62,19 +62,19 @@ Hoverflies eat aphids, thrips, scale insects and caterpillars; they’re almost 
 
 Soldier beetles prey on aphids, pest eggs/larvae, and caterpillars. They also help pollinate some flower species like zinnia, marigold, and daisies!
 
-### Minute pirate bugs
+### Pirate bugs
 
 ![](https://ucarecdn.com/77ca180f-9617-4dca-9696-e97cce44332b/piratebug.jpg)
 
-Pirate bugs are very small, fast predators that eat soft bodied insects like aphids, spider mites, and thrips. They’re often found on corn, soybeans, and tomatoes, and can be attracted by plants such as fennel, spearmint, alfalfa, marigolds, and daisies.
+Pirate bugs are very small, fast predators that eat soft bodied insects like aphids, spider mites, and thrips.
 
 ### Praying mantids
 
 ![](https://ucarecdn.com/cd6d1dc7-1ed7-4af2-83ae-c52c7a94f5cb/prayingmantid.jpeg)
 
-Praying mantids are very efficient and eat larger pests like flies, crickets, and beetles; they can be incredibly useful but they will also hunt the beneficial insects! They eat whatever they can get. They’re attracted to marigolds, dill, and fennel!
+Praying mantids are very efficient and eat larger pests like flies, crickets, and beetles; they can be incredibly useful but they will also hunt the beneficial insects.
 
-### Dragonflies
+### Dragonflies and damselflies
 
 ![](https://ucarecdn.com/03e12a47-2728-402a-9da9-e6277ea5f5d0/dragonfly.jpeg)
 
@@ -84,10 +84,6 @@ Dragonflies eat mosquitoes, gnats, midges, and practically any small flying inse
 
 ![](https://ucarecdn.com/68898d1f-6354-435a-bbe1-527d6271855a/assassinbug.jpeg)
 
-Assassin bugs tend to eat pests that eat foliage, like caterpillars, grasshoppers, aphids, and grasshoppers; however, as “assassin bug” is a very broad category, not all assassin bugs are safe. Some assassin bugs bite and they vary in the strength of their venom, so they can be harmful to humans. Some can also carry harmful parasites. It’s important to be aware of what is in your garden!
+Assassin bugs tend to eat pests that eat foliage, like caterpillars, grasshoppers, aphids, and grasshoppers; however, as “assassin bug” is a very broad category, not all assassin bugs are safe. Some assassin bugs bite and they vary in the strength of their venom, so they can be harmful to humans. Some can also carry harmful parasites.
 
-6. Spiders
-
-![](https://ucarecdn.com/c029f05b-563a-4b62-975f-9cc5997f162b/spider.jpg)
-
-While they aren’t insects, Spiders will eat tons of different pests so I couldn’t *not* put them here! Aphids, roaches, mosquitos, grasshoppers, you name it! They’ll also prey on beneficial insects, though; whatever they can catch! Spiders are attracted to tall plants for weaving webs on, like sunflowers or corn!
+### Tachinid flies
