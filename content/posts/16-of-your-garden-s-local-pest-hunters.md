@@ -74,8 +74,6 @@ Soldier beetles prey on aphids, pest eggs/larvae, and caterpillars. They also he
 
 Pirate bugs are very small, fast predators that eat soft bodied insects like aphids, spider mites, and thrips. They’re often found on corn, soybeans, and tomatoes, and can be attracted by plants such as fennel, spearmint, alfalfa, marigolds, and daisies.
 
-## Beneficial* Predators
-
 ### Ants
 
 ![](https://ucarecdn.com/24841a8f-0b5d-4bed-a7e5-8071be446227/ant.jpeg)
