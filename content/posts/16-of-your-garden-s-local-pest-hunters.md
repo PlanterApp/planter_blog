@@ -18,7 +18,7 @@ image = "https://ucarecdn.com/e183863e-3056-4e01-aec5-68bd48333aff/Ladybug-on-da
 
 ![](https://ucarecdn.com/0e5a9cb1-9f2b-4d0a-9014-152f3097d2af/ladybug.jpeg)
 
-Ladybugs are incredibly good at controlling small pests like aphids and soft bodied insects like caterpillars or thrips! They won’t harm your plants as larvae, as they eat pests throughout their life cycle rather than plant matter.
+Ladybugs are incredibly good at controlling small pests like aphids and soft bodied insects like caterpillars or thrips! They won’t harm your plants as larvae, as they eat pests throughout their life cycle rather than plant matter. *Lady beetles and lookalikes
 
 ### Braconid wasps
 
@@ -50,12 +50,6 @@ Aphid midges feed on around 60 different types of aphids, as well as other soft 
 
 While other predators on this list often hunt on the plants, ground beetles take on the ground. They hunt in and on the soil for slugs, snails, and other night pests. They dig and are nocturnal, so they’ll be active at a different time than other predators in your garden. They make their homes in decaying plant matter, so they like well mulched gardens and stones to hide underneath.
 
-### Beneficial nematodes
-
-![](https://ucarecdn.com/f926086d-14e6-4d40-86de-7bfa1298a93b/nematodes.jpeg)
-
-Nematodes are microscopic parasitic worms that live in the soil and hunt larvae of pests! They’re harmless to humans and plants, and don’t prey on beneficial insects like worms, so they’re definitely on the friends list of beneficial predators! These aren’t specifically attracted to any plants, but enjoy well fertilized soil with manure and compost.
-
 ### Hoverflies
 
 ![](https://ucarecdn.com/5ffa1905-f3d6-4c2c-a3a7-3e5f0f030307/hoverfly.jpeg)
@@ -73,18 +67,6 @@ Soldier beetles prey on aphids, pest eggs/larvae, and caterpillars. They also he
 ![](https://ucarecdn.com/77ca180f-9617-4dca-9696-e97cce44332b/piratebug.jpg)
 
 Pirate bugs are very small, fast predators that eat soft bodied insects like aphids, spider mites, and thrips. They’re often found on corn, soybeans, and tomatoes, and can be attracted by plants such as fennel, spearmint, alfalfa, marigolds, and daisies.
-
-### Ants
-
-![](https://ucarecdn.com/24841a8f-0b5d-4bed-a7e5-8071be446227/ant.jpeg)
-
-Ants often prey on mealybugs and aphids, however some ants will feed on dew that insects like aphids or thrips produce. If you release insects to feed on these insects, the ants may protect the pests and or even carry them to food sources. These aren’t insects you should specifically try to drive away from your garden, as they’re important for decomposition; this is just something you should be aware of!
-
-### Asian lady beetles
-
-![](https://ucarecdn.com/dfb36a26-93db-41dd-84ea-78d7fb398552/asianladybeetle.jpeg)
-
-Asian lady beetles are invasive to the US; they look much like a ladybug, but have an “M” shaped black mark on the head formed by two large white circles on either side. They do feed on aphids as ladybugs do, but they also may carry a parasitic fungus that kills off native ladybug species.
 
 ### Praying mantids
 
