@@ -1,8 +1,8 @@
 +++
 draft = true
-title = "Pest Hunters: Beneficial Predatory Insects"
+title = "Pest Hunters: Beneficial Predatory and Parasitic Insects"
 date = 2022-08-02T04:00:00.000Z
-author = "Jessalyn Krenicki (updated by: Erin Thomson)"
+author = "Jessalyn Krenicki (updated by Erin Thomson)"
 plants = []
 slug = "Pest Hunters: Beneficial Predatory Insects"
 override_position = false
