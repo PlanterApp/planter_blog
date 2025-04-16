@@ -14,7 +14,7 @@ Most gardeners are aware of the critical role that pollinators play in the garde
 
 Take for example a lady beetle (ladybug) larva, which looks quite gnarly:
 
-![A grey, black, and orange, spikey-looking lady beetle larva on a green leaf](https://ucarecdn.com/7af147a2-7544-4a09-b0da-278dce962e24/Ladybug-larva.jpg "(The larva can look slightly different depending on the species of lady beetle)")
+![A grey, black, and orange, spikey-looking lady beetle larva on a green leaf](https://ucarecdn.com/7af147a2-7544-4a09-b0da-278dce962e24/Ladybug-larva.jpg "(The larvae can look slightly different depending on the species of lady beetle)")
 
 These wild-looking larvae can actually eat more aphids than adult lady beetles! When in doubt, research first before concluding that something is a pest.
 
