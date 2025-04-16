@@ -24,13 +24,13 @@ To help identify the 'good guys' in the garden and which pests they target, we'v
 
 ## Aphid midges
 
-**Scientific name:** *Aphidoletes aphidimyza |* [Click to search on Google Images](https://www.google.com/search?q=Aphidoletes+aphidimyza)
+**Scientific name:** *Aphidoletes aphidimyza |* [Click to search on Google Images](https://www.google.com/search?q=aphid+midge&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=49r_Z5T7CcegptQP5tSy0A8&ved=0ahUKEwjU-NLN_NyMAxVHkIkEHWaqDPoQ4dUDCBE&uact=5&oq=aphid+midge&gs_lp=EgNpbWciC2FwaGlkIG1pZGdlMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAgYHki8HlDrDljlHHABeACQAQCYAVGgAasFqgECMTG4AQPIAQD4AQGYAgygAtcFwgIKEAAYgAQYQxiKBcICBhAAGAcYHsICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQOYAwCIBgGSBwIxMqAH9zWyBwIxMbgH0QU&sclient=img)
 
 Aphid midge larvae feed on around 60 different types of aphids, as well as other soft bodied insects. A single larva can eat from 3 to 50 aphids per day! Adult aphid midges are not predatory; they consume pollen and ‘honeydew’ (sugary secretions). Adults tend to be active at night so you might not detect their presence in your garden.
 
 ## Big-eyed bugs
 
-**Scientific name:** *Geocoris spp. |* [Click to search on Google Images](https://www.google.com/search?q=big-eyed+bug)
+**Scientific name:** *Geocoris spp. |* [Click to search on Google Images](https://www.google.com/search?q=big-eyed+bug&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=HNv_Z_eKL7X_ptQP95fS4QM&ved=0ahUKEwj3iI_p_NyMAxW1v4kEHfeLNDwQ4dUDCBE&uact=5&oq=big-eyed+bug&gs_lp=EgNpbWciDGJpZy1leWVkIGJ1ZzIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5I0xJQAFjqDXAAeACQAQCYAWOgAYQGqgECMTK4AQPIAQD4AQGYAgygAqwGwgIKEAAYgAQYQxiKBcICDhAAGIAEGLEDGIMBGIoFwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAZgDAJIHBDExLjGgB64_sgcEMTEuMbgHrAY&sclient=img)
 
 Big-eyed bug adults and nymphs both feed on a variety of small pests including flea beetles, mites, aphids, whiteflies, and others. They tend to be found in low-growing plants, at the base of plants, and hiding in leaf litter on the ground. Big-eyed bugs are also known to feed on plants particularly when prey are scarce, but they rarely cause substantial damage.
 
@@ -52,7 +52,7 @@ Dragonflies and their smaller relatives, damselflies, eat prolific quantities of
 
 ## Ground beetles
 
-**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](https://www.google.com/search?q=ground+beetles)
+**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](https://www.google.com/search?q=ground+beetle&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=Rtv_Z5u8HeeIptQPyZXw0AI&ved=0ahUKEwib94D9_NyMAxVnhIkEHckKHCoQ4dUDCBE&uact=5&oq=ground+beetle&gs_lp=EgNpbWciDWdyb3VuZCBiZWV0bGUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEiUEVAAWLgPcAB4AJABAJgBkAGgAdAGqgEEMTIuMbgBA8gBAPgBAZgCDaAC_QbCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgINEAAYgAQYsQMYQxiKBcICBxAAGIAEGAqYAwCSBwQxMi4xoAfdRbIHBDEyLjG4B_0G&sclient=img)
 
 Ground beetles are nocturnal predators that prey on soil-dwelling pests such as wireworms, armyworms, cutworms, maggots, slugs, and snails, as well as aphids, cucumber beetle and Colorado potato beetle larvae. There are many different genera and species of ground beetles. Some types will feed on plant tissue and seeds- they can put a considerable dent in the weed seed bank! Ground beetles prefer moist environments and they like to hide out in garden mulch. 
 
@@ -76,7 +76,7 @@ Asian lady beetles have been introduced to North America and are now widespread.
 
 ## Minute pirate bugs (insidious flower bugs)
 
-**Scientific name:** *Orius* spp. and others | [Click to search on Google Images](https://www.google.com/search?q=minute+pirate+bug)
+**Scientific name:** *Orius* spp. and others | [Click to search on Google Images](https://www.google.com/search?q=minute+pirate+bugs&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=ktv_Z9eZMqS3ptQP-rzz-Ac&ved=0ahUKEwjXqrSh_dyMAxWkm4kEHXreHH8Q4dUDCBE&uact=5&oq=minute+pirate+bugs&gs_lp=EgNpbWciEm1pbnV0ZSBwaXJhdGUgYnVnczIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIixtQAFiFGnAAeACQAQCYAYoCoAHxCaoBBjE3LjAuMbgBA8gBAPgBAZgCEqACsArCAgoQABiABBhDGIoFwgIMEAAYgAQYQxiKBRgKwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICEBAAGIAEGLEDGEMYgwEYigWYAwCSBwYxNy4wLjGgB75gsgcGMTcuMC4xuAewCg&sclient=img)
 
 Minute pirate bugs are fast-moving predators that eat aphids, spider mites, thrips, springtails, leafhoppers, insect eggs, and some small caterpillars throughout their lifecycle. If prey run our they will turn to pollen and nectar as a food source. They look quite pest-like in both the nymph and adult stages but they are beneficial. They can deliver a small bite to humans, but the bite is minor and they do not transmit diseases.
 
@@ -106,7 +106,7 @@ Syrphid flies are also known as hoverflies or flower flies. They look somewhat l
 
 ## Tachinid Flies
 
-**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](<>)
+**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](https://www.google.com/search?q=tachinid+flies&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=qtv_Z9D5Fp-hptQPusns4Ag&ved=0ahUKEwjQ9tGs_dyMAxWfkIkEHbokG4wQ4dUDCBE&uact=5&oq=tachinid+flies&gs_lp=EgNpbWciDnRhY2hpbmlkIGZsaWVzMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5IuRVQAFjqEnAAeACQAQCYAZ0BoAG3B6oBBDEzLjG4AQPIAQD4AQGYAg6gAuQHwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICDRAAGIAEGLEDGEMYigXCAgcQABiABBgKmAMAkgcEMTMuMaAHsEiyBwQxMy4xuAfkBw&sclient=img)
 
 # Caveats with beneficial insects
 
