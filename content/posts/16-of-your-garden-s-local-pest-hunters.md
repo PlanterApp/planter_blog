@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Pest Hunters: Beneficial Predatory and Parasitic Insects"
+title = "To remove"
 date = 2022-08-02T04:00:00.000Z
 author = "Jessalyn Krenicki (updated by Erin Thomson)"
 plants = []
