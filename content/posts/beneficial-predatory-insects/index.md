@@ -70,9 +70,9 @@ Lacewings are green or brown flying insects with delicately patterned wings that
 
 ![A close-up shot of a ladybug on a bright green leaf](https://ucarecdn.com/3abe0bcb-eb64-45bc-9cad-4144435b86e5/Ladybug.jpg)
 
-Lady beetles are arguably the most well-known predatory insect. They consume large quantities of aphids, mealybugs, spider mites, scale insects, and other soft-bodied insects throughout their entire lifecycle. When prey is scarce some species will feed on pollen. Lady beetles are overwhelmingly considered beneficial, although there are a few specific species that can be garden pests such as the Mexican bean beetle (*Epilachna varivestis)*.
+Lady beetles consume large quantities of aphids, mealybugs, spider mites, scale insects, and other soft-bodied insects throughout their entire lifecycle. When prey is scarce some species will feed on pollen. Lady beetles are overwhelmingly considered beneficial, although there are a few specific species that can be garden pests such as the Mexican bean beetle (*Epilachna varivestis)*.
 
-Asian lady beetles have been introduced to North America and are now widespread. They can be somewhat of a nuisance when they try to enter homes and buildings to overwinter, and they can also outcompete native lady beetle populations. However they are also valuable pest-hunters. If they happen make it indoors you can vacuum them up but it is not generally recommended to control them outdoors.
+Asian lady beetles have been introduced to North America and are now widespread. They can be somewhat of a nuisance when they try to enter homes and buildings in fall, and they can outcompete native lady beetle populations. However they are also valuable pest-hunters. If they happen make it indoors you can vacuum them up but it is not generally recommended to control them outdoors.
 
 ## Minute pirate bugs (insidious flower bugs)
 
