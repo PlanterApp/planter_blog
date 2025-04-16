@@ -14,7 +14,7 @@ Most gardeners are aware of the critical role that pollinators play in the garde
 
 Take for example a lady beetle (ladybug) larva, which looks quite gnarly:
 
-![A grey, black, and orange, spikey-looking lady beetle larva on a green leaf](https://ucarecdn.com/7af147a2-7544-4a09-b0da-278dce962e24/Ladybug-larva.jpg "(Note that the larva can look slightly different depending on the species of lady beetle)")
+![A grey, black, and orange, spikey-looking lady beetle larva on a green leaf](https://ucarecdn.com/7af147a2-7544-4a09-b0da-278dce962e24/Ladybug-larva.jpg "(The larva can look slightly different depending on the species of lady beetle)")
 
 These larva can actually eat more aphids than adult lady beetles! When in doubt, research first before concluding that something is a pest.
 
@@ -52,7 +52,7 @@ Dragonflies and their smaller relatives, damselflies, eat prolific quantities of
 
 ## Ground beetles
 
-**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](https://www.google.com/search?q=ground+beetle&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=Rtv_Z5u8HeeIptQPyZXw0AI&ved=0ahUKEwib94D9_NyMAxVnhIkEHckKHCoQ4dUDCBE&uact=5&oq=ground+beetle&gs_lp=EgNpbWciDWdyb3VuZCBiZWV0bGUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEiUEVAAWLgPcAB4AJABAJgBkAGgAdAGqgEEMTIuMbgBA8gBAPgBAZgCDaAC_QbCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgINEAAYgAQYsQMYQxiKBcICBxAAGIAEGAqYAwCSBwQxMi4xoAfdRbIHBDEyLjG4B_0G&sclient=img)
+**Scientific name:** *Agonum* spp., *Calosoma* spp., and others | [Click to search on Google Images](https://www.google.com/search?q=ground+beetle&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=Rtv_Z5u8HeeIptQPyZXw0AI&ved=0ahUKEwib94D9_NyMAxVnhIkEHckKHCoQ4dUDCBE&uact=5&oq=ground+beetle&gs_lp=EgNpbWciDWdyb3VuZCBiZWV0bGUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEiUEVAAWLgPcAB4AJABAJgBkAGgAdAGqgEEMTIuMbgBA8gBAPgBAZgCDaAC_QbCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgINEAAYgAQYsQMYQxiKBcICBxAAGIAEGAqYAwCSBwQxMi4xoAfdRbIHBDEyLjG4B_0G&sclient=img)
 
 Ground beetles are nocturnal predators that prey on soil-dwelling pests such as wireworms, armyworms, cutworms, maggots, slugs, and snails, as well as aphids, cucumber beetle and Colorado potato beetle larvae. There are many different genera and species of ground beetles. Some types will feed on plant tissue and seeds- they can put a considerable dent in the weed seed bank! Ground beetles prefer moist environments and they like to hide out in garden mulch. 
 
@@ -78,15 +78,16 @@ Asian lady beetles have been introduced to North America and are now widespread.
 
 **Scientific name:** *Orius* spp. and others | [Click to search on Google Images](https://www.google.com/search?q=minute+pirate+bugs&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=ktv_Z9eZMqS3ptQP-rzz-Ac&ved=0ahUKEwjXqrSh_dyMAxWkm4kEHXreHH8Q4dUDCBE&uact=5&oq=minute+pirate+bugs&gs_lp=EgNpbWciEm1pbnV0ZSBwaXJhdGUgYnVnczIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIixtQAFiFGnAAeACQAQCYAYoCoAHxCaoBBjE3LjAuMbgBA8gBAPgBAZgCEqACsArCAgoQABiABBhDGIoFwgIMEAAYgAQYQxiKBRgKwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICEBAAGIAEGLEDGEMYgwEYigWYAwCSBwYxNy4wLjGgB75gsgcGMTcuMC4xuAewCg&sclient=img)
 
-Minute pirate bugs are fast-moving predators that eat aphids, spider mites, thrips, springtails, leafhoppers, insect eggs, and some small caterpillars throughout their lifecycle. If prey run our they will turn to pollen and nectar as a food source. They look quite pest-like in both the nymph and adult stages but they are beneficial. They can deliver a small bite to humans, but the bite is minor and they do not transmit diseases.
+Minute pirate bugs are fast-moving predators that eat aphids, spider mites, thrips, springtails, leafhoppers, insect eggs, and some small caterpillars throughout their lifecycle. If prey run our they will turn to pollen and nectar as a food source. Minute pirate bugs look quite pest-like in both the nymph and adult stages but they are beneficial. They do sometimes bite humans, especially in the fall, but the bite is minor and they do not transmit diseases.
 
 ## Parasitic wasps
 
-**Scientific name:**
+**Scientific name:** Families 'Ichneumonidae', 'Braconidae', and others
 
-![A hornworm on a tomato plant that has been parasitized by wasp eggs](https://ucarecdn.com/849f8c87-2150-40e8-8b26-d904ef9c3e2c/Hornworm-wasp-Planter.jpg "This hornworm has been parasitized by wasp eggs")
+![A hornworm on a tomato plant that has been parasitized by wasp larvae in white cocoons](https://ucarecdn.com/849f8c87-2150-40e8-8b26-d904ef9c3e2c/Hornworm-wasp-Planter.jpg "Braconid wasp cocoons on a hornworm")
 
-There are many types of parasitic (and predatory) wasps, but some of the most well known are braconid wasps which parasitize aphids, beetles, caterpillars, hornworms, and stink bugs with their eggs, and
+There are many different types of parasitic (and predatory) wasps. Unlike predatory wasps though, parasitic wasps do not sting. Some of the most well known parasitic wasps are braconid wasps which parasitize caterpillars including armyworms, cabbage loopers, imported cabbageworms, fall webworms, and hornworms. They can also parasitize aphids. Other species of parasitic wasps will attack moth and butterfly eggs, beetles, thrips, and more. For the most part adult wasps feed on pollen, nectar, and honeydew.
+
 
 ## Praying mantids
 
@@ -94,7 +95,7 @@ There are many types of parasitic (and predatory) wasps, but some of the most we
 
 ![A close-up of a bright green praying mantis on a stick](https://ucarecdn.com/45227751-5c28-4a8f-a39b-d8a3ed079203/Praying-mantis.jpg)
 
-Praying mantids tend to eat larger pests like flies, crickets, and beetles. While they are highly effective pest-killers, they also prey on beneficial insects.
+Praying mantids are fearsome predators. Adults can attack larger pests like caterpillars, crickets, and cockroaches, and juveniles can consume considerable quantities of aphids and smaller pests. While they are highly effective pest-killers, mantids are just as likely to target beneficial insects likes bees and butterflies- and even each other! They should not be killed as they do have some benefits, but it's better to focus on attracting other beneficial insects.
 
 ## Syrphid flies (hoverflies, flower flies)
 
@@ -106,7 +107,9 @@ Syrphid flies are also known as hoverflies or flower flies. They look somewhat l
 
 ## Tachinid Flies
 
-**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](https://www.google.com/search?q=tachinid+flies&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=qtv_Z9D5Fp-hptQPusns4Ag&ved=0ahUKEwjQ9tGs_dyMAxWfkIkEHbokG4wQ4dUDCBE&uact=5&oq=tachinid+flies&gs_lp=EgNpbWciDnRhY2hpbmlkIGZsaWVzMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5IuRVQAFjqEnAAeACQAQCYAZ0BoAG3B6oBBDEzLjG4AQPIAQD4AQGYAg6gAuQHwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICDRAAGIAEGLEDGEMYigXCAgcQABiABBgKmAMAkgcEMTMuMaAHsEiyBwQxMy4xuAfkBw&sclient=img)
+**Scientific name:** Family *'*Tachinidae' | [Click to search on Google Images](https://www.google.com/search?q=tachinid+flies&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=qtv_Z9D5Fp-hptQPusns4Ag&ved=0ahUKEwjQ9tGs_dyMAxWfkIkEHbokG4wQ4dUDCBE&uact=5&oq=tachinid+flies&gs_lp=EgNpbWciDnRhY2hpbmlkIGZsaWVzMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5IuRVQAFjqEnAAeACQAQCYAZ0BoAG3B6oBBDEzLjG4AQPIAQD4AQGYAg6gAuQHwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICDRAAGIAEGLEDGEMYigXCAgcQABiABBgKmAMAkgcEMTMuMaAHsEiyBwQxMy4xuAfkBw&sclient=img)
+
+Tachinid flies are a large family of parasitic flies that play an important role in pest control in the natural environment and the garden. There are many, different-looking species of tachinid flies and can be difficult to distinguish some of them from houseflies. Others look somewhat similar to bees and wasps. Adults feed on honeydew and nectar, while their larvae parasitize caterpillars, stink bugs (including squash bugs), beetles, and grasshoppers (typically they feed on eggs and larvae).[](https://www.google.com/search?q=tachinid+flies&sca_esv=0625c367a110485f&udm=2&biw=1528&bih=738&ei=qtv_Z9D5Fp-hptQPusns4Ag&ved=0ahUKEwjQ9tGs_dyMAxWfkIkEHbokG4wQ4dUDCBE&uact=5&oq=tachinid+flies&gs_lp=EgNpbWciDnRhY2hpbmlkIGZsaWVzMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5IuRVQAFjqEnAAeACQAQCYAZ0BoAG3B6oBBDEzLjG4AQPIAQD4AQGYAg6gAuQHwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICDRAAGIAEGLEDGEMYigXCAgcQABiABBgKmAMAkgcEMTMuMaAHsEiyBwQxMy4xuAfkBw&sclient=img)
 
 # Caveats with beneficial insects
 
