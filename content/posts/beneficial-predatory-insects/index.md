@@ -58,8 +58,7 @@ Ground beetles are nocturnal predators that prey on soil-dwelling pests such as 
 
 ## Syrphid flies (hoverflies, flower flies)
 
-Scientific name: Family 'Syrphidae'
-
+**Scientific name:** Family 'Syrphidae'
 
 ![A hoverfly perched on a cluster of small white flowers](https://ucarecdn.com/89f8eaa8-b044-491d-9876-5fd248ed55f2/Hoverfly.jpg)
 
@@ -67,22 +66,44 @@ Syrphid flies are also known as hoverflies or flower flies. They look somewhat l
 
 ## Lacewings
 
+**Scientific name:** 
+
 ![A bright green lacewing on a darker green leaf with some chew marks in it](https://ucarecdn.com/6e742475-8b9e-4bd4-97bf-4c4923037acb/Lacewing.jpg)
 
-
-
 ## Lady beetles (ladybugs)
+
+**Scientific name:** 
 
 ![A close-up shot of a ladybug on a bright green leaf](https://ucarecdn.com/3abe0bcb-eb64-45bc-9cad-4144435b86e5/Ladybug.jpg)
 
 ## Minute pirate bugs
 
+**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](<>)
+
+
+
 ## Parasitic wasps
+
+**Scientific name:**
+
+
+
+![A hornworm on a tomato plant that has been parasitized by wasp eggs](https://ucarecdn.com/849f8c87-2150-40e8-8b26-d904ef9c3e2c/Hornworm-wasp-Planter.jpg "This hornworm has been parasitized by wasp eggs")
 
 ## Praying mantids
 
+**Scientific name:**
+
+
+
+![A close-up of a bright green praying mantis on a stick](https://ucarecdn.com/45227751-5c28-4a8f-a39b-d8a3ed079203/Praying-mantis.jpg)
+
 ## Tachinid Flies
 
-# A few caveats about beneficial insects
+**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](<>)
+
+
+
+# Caveats with beneficial insects
 
 If you’re looking for more natural ways to keep pest damage to a minimum in your garden, it’s helpful to become familiar with beneficial insects and ways to attract them. Keep in mind that attracting beneficial insects is a medium-to-long-term strategy and will not help immediately if you have a pest infestation. It’s also important to know that while there are some predatory insects available to purchase, they are generally used in enclosed commercial greenhouses. If they’re released outdoors many of them may leave your garden. It can also be difficult to time the release to be effective, and to be sure that the purchased insects will prey on the exact species of pest that you’re dealing with. Besides questions of effectiveness, there are considerations with how the beneficial insects are harvested and whether it is harmful to move them from one area to another. Generally, it’s better to attract local beneficial insects to your garden rather than to buy them. For information on plants that can help attract beneficial insects to your garden, check out this article: **What Are Insectary Plants?** (coming soon!)
