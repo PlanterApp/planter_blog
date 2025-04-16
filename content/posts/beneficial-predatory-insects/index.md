@@ -18,7 +18,7 @@ Take for example a lady beetle (ladybug) larva, which looks quite gnarly:
 
 These larva can actually eat more aphids than adult lady beetles! So, when in doubt, research first before concluding that something is a pest.
 
-To help identify the 'good guys' in the garden and which pests they target we've compiled a list of some common beneficial insects:
+To help identify the 'good guys' in the garden and which pests they target, we've compiled a list of some common beneficial insects:
 
 # Beneficial predatory and parasitic insects
 
