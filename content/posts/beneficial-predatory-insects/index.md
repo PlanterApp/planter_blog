@@ -70,39 +70,42 @@ Syrphid flies are also known as hoverflies or flower flies. They look somewhat l
 
 ![A bright green lacewing on a darker green leaf with some chew marks in it](https://ucarecdn.com/6e742475-8b9e-4bd4-97bf-4c4923037acb/Lacewing.jpg)
 
+Lacewing larvae eat a wide variety of garden pests including: aphids, mites, thrips, mealybug, whitefly, leafhoppers, and some beetle eggs and pest moth eggs.
+
 ## Lady beetles (ladybugs)
 
 **Scientific name:** 
 
 ![A close-up shot of a ladybug on a bright green leaf](https://ucarecdn.com/3abe0bcb-eb64-45bc-9cad-4144435b86e5/Ladybug.jpg)
 
+Ladybugs are incredibly good at controlling small pests like aphids and soft bodied insects like caterpillars or thrips! Unlike some other predatory insects, ladybugs will eat garden pests throughout their life cycle rather than plant matter. \*Lady beetles\*
+
 ## Minute pirate bugs
 
 **Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](<>)
 
+Minute pirate bugs are tiny, fast-moving predators that eat soft bodied insects like aphids, spider mites, and thrips.
 
 
 ## Parasitic wasps
 
 **Scientific name:**
 
-
-
 ![A hornworm on a tomato plant that has been parasitized by wasp eggs](https://ucarecdn.com/849f8c87-2150-40e8-8b26-d904ef9c3e2c/Hornworm-wasp-Planter.jpg "This hornworm has been parasitized by wasp eggs")
+
+There are many types of parasitic (and predatory) wasps, but some of the most well known are braconid wasps which parasitize aphids, beetles, caterpillars, hornworms, and stink bugs with their eggs, and
 
 ## Praying mantids
 
 **Scientific name:**
 
-
-
 ![A close-up of a bright green praying mantis on a stick](https://ucarecdn.com/45227751-5c28-4a8f-a39b-d8a3ed079203/Praying-mantis.jpg)
+
+Praying mantids tend to eat larger pests like flies, crickets, and beetles. While they are highly effective pest-killers, they also prey on beneficial insects.
 
 ## Tachinid Flies
 
 **Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](<>)
-
-
 
 # Caveats with beneficial insects
 
