@@ -56,14 +56,6 @@ Dragonflies and their smaller relatives, damselflies, eat prolific quantities of
 
 Ground beetles are nocturnal predators that prey on soil-dwelling pests such as wireworms, armyworms, cutworms, maggots, slugs, and snails, as well as aphids, cucumber beetle and Colorado potato beetle larvae. There are many different genera and species of ground beetles. Some types will feed on plant tissue and seeds- they can put a considerable dent in the weed seed bank! Ground beetles prefer moist environments and they like to hide out in garden mulch. 
 
-## Syrphid flies (hoverflies, flower flies)
-
-**Scientific name:** Family 'Syrphidae'
-
-![A hoverfly perched on a cluster of small white flowers](https://ucarecdn.com/89f8eaa8-b044-491d-9876-5fd248ed55f2/Hoverfly.jpg)
-
-Syrphid flies are also known as hoverflies or flower flies. They look somewhat like a bee crossed with a fly, although they do not sting. The adults can be found, as the names suggest, hovering around flowers to collect pollen and nectar. Adult syrphid flies are effective- and often underappreciated- pollinators. Syrphid fly larvae on the other hand are voracious predators. They eat pests such as aphids, mealybugs, thrips, leafhoppers, scale insects, mites, and even some caterpillars.
-
 ## Lacewings
 
 **Scientific name:** *Chrysopa* spp., *Chrysoperla* spp., and others
@@ -78,15 +70,15 @@ Lacewings are green or brown flying insects with delicately patterned wings that
 
 ![A close-up shot of a ladybug on a bright green leaf](https://ucarecdn.com/3abe0bcb-eb64-45bc-9cad-4144435b86e5/Ladybug.jpg)
 
-Lady beetles are arguably the most well-known predatory insect. They consume large quantities of aphids, mealybugs, mites, scale insects, and other soft-bodied insects throughout their entire lifecycle. When prey is scarce some species will feed on pollen. Lady beetles are overwhelmingly considered beneficial, although there are a few specific species that can be garden pests such as the Mexican bean beetle (*Epilachna varivestis)*.
+Lady beetles are arguably the most well-known predatory insect. They consume large quantities of aphids, mealybugs, spider mites, scale insects, and other soft-bodied insects throughout their entire lifecycle. When prey is scarce some species will feed on pollen. Lady beetles are overwhelmingly considered beneficial, although there are a few specific species that can be garden pests such as the Mexican bean beetle (*Epilachna varivestis)*.
 
 Asian lady beetles have been introduced to North America and are now widespread. They can be somewhat of a nuisance when they try to enter homes and buildings to overwinter, and they can also outcompete native ladybug populations. However they too are valuable pest-hunters. If they make it indoors you can vacuum them up but it is not generally recommended to control them outdoors.
 
-## Minute pirate bugs
+## Minute pirate bugs (insidious flower bugs)
 
-**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](<>)
+**Scientific name:** *Orius* spp. and others | [Click to search on Google Images](https://www.google.com/search?q=minute+pirate+bug)
 
-Minute pirate bugs are tiny, fast-moving predators that eat soft bodied insects like aphids, spider mites, and thrips.
+Minute pirate bugs are fast-moving predators that eat aphids, spider mites, thrips, springtails, leafhoppers, insect eggs, and some small caterpillars throughout their lifecycle. If prey run our they will turn to pollen and nectar as a food source. They look quite pest-like in both the nymph and adult stages but they are beneficial. They can deliver a small bite to humans, but the bite is minor and they do not transmit diseases.
 
 ## Parasitic wasps
 
@@ -103,6 +95,14 @@ There are many types of parasitic (and predatory) wasps, but some of the most we
 ![A close-up of a bright green praying mantis on a stick](https://ucarecdn.com/45227751-5c28-4a8f-a39b-d8a3ed079203/Praying-mantis.jpg)
 
 Praying mantids tend to eat larger pests like flies, crickets, and beetles. While they are highly effective pest-killers, they also prey on beneficial insects.
+
+## Syrphid flies (hoverflies, flower flies)
+
+**Scientific name:** Family 'Syrphidae'
+
+![A hoverfly perched on a cluster of small white flowers](https://ucarecdn.com/89f8eaa8-b044-491d-9876-5fd248ed55f2/Hoverfly.jpg)
+
+Syrphid flies are also known as hoverflies or flower flies. They look somewhat like a bee crossed with a fly, although they do not sting. The adults can be found, as the names suggest, hovering around flowers to collect pollen and nectar. Adult syrphid flies are effective- and often underappreciated- pollinators. Syrphid fly larvae on the other hand are voracious predators. They eat pests such as aphids, mealybugs, thrips, leafhoppers, scale insects, mites, and even some caterpillars.
 
 ## Tachinid Flies
 
