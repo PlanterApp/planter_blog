@@ -24,19 +24,19 @@ To help identify the 'good guys' in the garden and which pests they target, we'v
 
 ## Aphid midges
 
-Scientific name: *Aphidoletes aphidimyza |* [Click to search on Google Images](https://www.google.com/search?q=Aphidoletes+aphidimyza)
+**Scientific name:** *Aphidoletes aphidimyza |* [Click to search on Google Images](https://www.google.com/search?q=Aphidoletes+aphidimyza)
 
 Aphid midge larvae feed on around 60 different types of aphids, as well as other soft bodied insects. A single larva can eat from 3 to 50 aphids per day! Adult aphid midges are not predatory; they consume pollen and ‘honeydew’ (sugary secretions). Adults tend to be active at night so you might not detect their presence in your garden.
 
 ## Big-eyed bugs
 
-Scientific name: *Geocoris spp. |* [Click to search on Google Images](https://www.google.com/search?q=big-eyed+bug)
+**Scientific name:** *Geocoris spp. |* [Click to search on Google Images](https://www.google.com/search?q=big-eyed+bug)
 
 Big-eyed bug adults and nymphs both feed on a variety of small pests including flea beetles, mites, aphids, whiteflies, and others. They tend to be found in low-growing plants, at the base of plants, and hiding in leaf litter on the ground. Big-eyed bugs are also known to feed on plants particularly when prey are scarce, but they rarely cause substantial damage.
 
 ## Damsel bugs
 
-Scientific name: *Nabis spp.*
+**Scientific name:** *Nabis spp.*
 
 ![A macro shot of a brown damsel bug on a bright yellow flower petal](https://ucarecdn.com/86600a93-2868-490d-aa07-e6383a44ddb3/Damsel-bug.jpg)
 
@@ -44,7 +44,7 @@ Not to be confused with damselflies (coming up next!) damsel bugs prey on many t
 
 ## Dragonflies and damselflies
 
-Scientific name: Order ‘Odonata’
+**Scientific name:** Order ‘Odonata’
 
 ![A red dragonfly perched on a blade of grass](https://ucarecdn.com/720b0c08-3c4d-4b61-8607-af1f69902ba1/Dragonfly.jpg)
 
@@ -52,17 +52,36 @@ Dragonflies and their smaller relatives, damselflies, eat prolific quantities of
 
 ## Ground beetles
 
-Scientific name: *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](https://www.google.com/search?q=ground+beetles)
+**Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](https://www.google.com/search?q=ground+beetles)
 
 Ground beetles are nocturnal predators that prey on soil-dwelling pests such as wireworms, armyworms, cutworms, maggots, slugs, and snails, as well as aphids, cucumber beetle and Colorado potato beetle larvae. There are many different genera and species of ground beetles. Some types will feed on plant tissue and seeds- they can put a considerable dent in the weed seed bank! Ground beetles prefer moist environments and they like to hide out in garden mulch. 
 
 ## Syrphid flies (hoverflies, flower flies)
 
-![A hoverfly perched on a cluster of small white flowers](https://ucarecdn.com/89f8eaa8-b044-491d-9876-5fd248ed55f2/Hoverfly.jpg)
+Scientific name: Family 'Syrphidae'
 
+
+![A hoverfly perched on a cluster of small white flowers](https://ucarecdn.com/89f8eaa8-b044-491d-9876-5fd248ed55f2/Hoverfly.jpg)
 
 Syrphid flies are also known as hoverflies or flower flies. They look somewhat like a bee crossed with a fly, although they do not sting. The adults can be found, as the names suggest, hovering around flowers to collect pollen and nectar. Adult syrphid flies are effective- and often underappreciated- pollinators. Syrphid fly larvae on the other hand are voracious predators. They eat pests such as aphids, mealybugs, thrips, leafhoppers, scale insects, mites, and even some caterpillars.
 
+## Lacewings
+
+![A bright green lacewing on a darker green leaf with some chew marks in it](https://ucarecdn.com/6e742475-8b9e-4bd4-97bf-4c4923037acb/Lacewing.jpg)
+
+
+
+## Lady beetles (ladybugs)
+
+![A close-up shot of a ladybug on a bright green leaf](https://ucarecdn.com/3abe0bcb-eb64-45bc-9cad-4144435b86e5/Ladybug.jpg)
+
+## Minute pirate bugs
+
+## Parasitic wasps
+
+## Praying mantids
+
+## Tachinid Flies
 
 # A few caveats about beneficial insects
 
