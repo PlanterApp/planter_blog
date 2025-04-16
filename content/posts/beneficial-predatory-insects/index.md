@@ -20,7 +20,7 @@ These larva can actually eat more aphids than adult lady beetles! So, when in do
 
 To help identify the 'good guys' in the garden and which pests they target, we've compiled a list of some common beneficial insects:
 
-# Beneficial predatory and parasitic insects
+# Predatory and parasitic insects
 
 ## Aphid midges
 
