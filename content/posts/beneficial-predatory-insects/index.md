@@ -18,7 +18,7 @@ These larva can actually eat more aphids than adult lady beetles! So, when in do
 
 To help identify the 'good guys' in the garden and which pests they target we've compiled a list of some common beneficial insects:
 
-# Beneficial Predatory and Parasitic Insects
+# Beneficial predatory and parasitic insects
 
 ## Aphid midges
 
@@ -60,3 +60,8 @@ Ground beetles are nocturnal predators that prey on soil-dwelling pests such as 
 
 
 Syrphid flies are also known as hoverflies or flower flies. They look somewhat like a bee crossed with a fly, although they do not sting. The adults can be found, as the names suggest, hovering around flowers to collect pollen and nectar. Adult syrphid flies are effective- and often underappreciated- pollinators. Syrphid fly larvae on the other hand are voracious predators. They eat pests such as aphids, mealybugs, thrips, leafhoppers, scale insects, mites, and even some caterpillars.
+
+
+# A few caveats about beneficial insects
+
+If you’re looking for more natural ways to keep pest damage to a minimum in your garden, it’s helpful to become familiar with beneficial insects and ways to attract them. Keep in mind that attracting beneficial insects is a medium-to-long-term strategy and will not help immediately if you have a pest infestation. It’s also important to know that while there are some predatory insects available to purchase, they are generally used in enclosed commercial greenhouses. If they’re released outdoors many of them may leave your garden. It can also be difficult to time the release to be effective, and to be sure that the purchased insects will prey on the exact species of pest that you’re dealing with. Besides questions of effectiveness, there are considerations with how the beneficial insects are harvested and whether it is harmful to move them from one area to another. Generally, it’s better to attract local beneficial insects to your garden rather than to buy them. For information on plants that can help attract beneficial insects to your garden, check out this article: **What Are Insectary Plants?** (coming soon!)
