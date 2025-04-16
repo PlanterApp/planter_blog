@@ -16,7 +16,7 @@ Take for example a lady beetle (ladybug) larva, which looks quite gnarly:
 
 ![A grey, black, and orange, spikey-looking lady beetle larva on a green leaf](https://ucarecdn.com/7af147a2-7544-4a09-b0da-278dce962e24/Ladybug-larva.jpg "(Note that the larva can look slightly different depending on the species of lady beetle)")
 
-These larva can actually eat more aphids than adult lady beetles! So, when in doubt, research first before concluding that something is a pest.
+These larva can actually eat more aphids than adult lady beetles! When in doubt, research first before concluding that something is a pest.
 
 To help identify the 'good guys' in the garden and which pests they target, we've compiled a list of some common beneficial insects:
 
@@ -66,26 +66,27 @@ Syrphid flies are also known as hoverflies or flower flies. They look somewhat l
 
 ## Lacewings
 
-**Scientific name:** 
+**Scientific name:** *Chrysopa* spp., *Chrysoperla* spp., and others
 
 ![A bright green lacewing on a darker green leaf with some chew marks in it](https://ucarecdn.com/6e742475-8b9e-4bd4-97bf-4c4923037acb/Lacewing.jpg)
 
-Lacewing larvae eat a wide variety of garden pests including: aphids, mites, thrips, mealybug, whitefly, leafhoppers, and some beetle eggs and pest moth eggs.
+Lacewings are green or brown flying insects with delicately patterned wings that do indeed look like lace. Lacewing larvae eat a wide variety of small, soft-bodied garden pests including: aphids, mites, thrips, mealybugs, whiteflies, leafhoppers, moth eggs, and some beetle eggs. Lacewing adults feed mainly on pollen and nectar.
 
-## Lady beetles (ladybugs)
+## Lady beetles (ladybugs, ladybirds)
 
-**Scientific name:** 
+**Scientific name:** Family 'Coccinellidae'
 
 ![A close-up shot of a ladybug on a bright green leaf](https://ucarecdn.com/3abe0bcb-eb64-45bc-9cad-4144435b86e5/Ladybug.jpg)
 
-Ladybugs are incredibly good at controlling small pests like aphids and soft bodied insects like caterpillars or thrips! Unlike some other predatory insects, ladybugs will eat garden pests throughout their life cycle rather than plant matter. \*Lady beetles\*
+Lady beetles are arguably the most well-known predatory insect. They consume large quantities of aphids, mealybugs, mites, scale insects, and other soft-bodied insects throughout their entire lifecycle. When prey is scarce some species will feed on pollen. Lady beetles are overwhelmingly considered beneficial, although there are a few specific species that can be garden pests such as the Mexican bean beetle (*Epilachna varivestis)*.
+
+Asian lady beetles have been introduced to North America and are now widespread. They can be somewhat of a nuisance when they try to enter homes and buildings to overwinter, and they can also outcompete native ladybug populations. However they too are valuable pest-hunters. If they make it indoors you can vacuum them up but it is not generally recommended to control them outdoors.
 
 ## Minute pirate bugs
 
 **Scientific name:** *Agonum* spp., *Calosoma* spp., *Scaphinotus* spp., and others | [Click to search on Google Images](<>)
 
 Minute pirate bugs are tiny, fast-moving predators that eat soft bodied insects like aphids, spider mites, and thrips.
-
 
 ## Parasitic wasps
 
@@ -109,4 +110,6 @@ Praying mantids tend to eat larger pests like flies, crickets, and beetles. Whil
 
 # Caveats with beneficial insects
 
-If you’re looking for more natural ways to keep pest damage to a minimum in your garden, it’s helpful to become familiar with beneficial insects and ways to attract them. Keep in mind that attracting beneficial insects is a medium-to-long-term strategy and will not help immediately if you have a pest infestation. It’s also important to know that while there are some predatory insects available to purchase, they are generally used in enclosed commercial greenhouses. If they’re released outdoors many of them may leave your garden. It can also be difficult to time the release to be effective, and to be sure that the purchased insects will prey on the exact species of pest that you’re dealing with. Besides questions of effectiveness, there are considerations with how the beneficial insects are harvested and whether it is harmful to move them from one area to another. Generally, it’s better to attract local beneficial insects to your garden rather than to buy them. For information on plants that can help attract beneficial insects to your garden, check out this article: **What Are Insectary Plants?** (coming soon!)
+If you’re looking for more natural ways to keep pest damage to a minimum in your garden, it’s helpful to become familiar with beneficial insects and which pests they eat. To support beneficial insect populations in your garden, try to avoid using insecticides as much as possible. Keep in mind, though, that attracting beneficial insects is a medium-to-long-term strategy. If you have a major pest infestation you may want to take  to remedy the situation.
+
+It’s also important to know that while there are some predatory insects available to purchase, they are generally used in enclosed commercial greenhouses. If they’re released outdoors many of them may leave your garden. It can also be difficult to time the release to be effective, and to be sure that the purchased insects will prey on the exact species of pest that you’re dealing with. Besides questions of effectiveness, there are considerations with how some beneficial insects are harvested, and whether it's harmful to move insects from one area to another. Generally, it’s better to attract local beneficial insects to your garden rather than to buy them. For information on plants that can help attract beneficial insects to your garden, check out this article: **What Are Insectary Plants?** (coming soon!)
