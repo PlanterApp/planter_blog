@@ -50,16 +50,17 @@ Catnip does double duty when comes to pest control. Not only does it attract ben
 
 ![Many white chamomile flowers with yellow centers, with a syrphid fly on one of the flowers](https://ucarecdn.com/6bcdf451-1e33-451a-beff-8ae42622b9f9/Chamomile.jpg)
 
-Studies have found chamomile to be highly attractive to syrphid flies as well as parasitic wasps. Chamomile may also help attract ladybugs, lacewings, minute pirate bugs, and tachinid flies. Chamomile blooms from spring right through to fall, providing a valuable season-long food source for beneficial insects.
+Studies have found chamomile to be highly attractive to syrphid flies as well as parasitic wasps. Chamomile may also help attract lady beetles, lacewings, minute pirate bugs, and tachinid flies. Chamomile blooms from spring right through to fall, providing a valuable season-long food source for beneficial insects.
 
 
 ### Cilantro
 
 **Scientific name:** *Coriandrum sativum*
 
-![Flowering cilantro with a bee and a hoverfly on the white flowers](https://ucarecdn.com/61662089-ac18-4854-a2d0-4c1048dadb01/Cilantro-flowers.jpg)
+![Flowering cilantro with a bee and a hoverfly on the white flowers](https://ucarecdn.com/2a1abf05-0363-481a-ba65-fd7628a7b6d9/Cilantro-flowes-Planter.jpg)
 
-Cilantro is 
+Cilantro goes to flower readily especially when warm, dry weather arrives in late spring to summer. While this can be disappointing if you're growing cilantro for it's leaves, it's a boon for attracting a variety of beneficial insects such as syrphid flies, tachinid flies, lacewings, lady beetles, and minute pirate bugs. Plus you can let cilantro continue on to form seed then harvest the seeds either to make coriander or to re-plant!
+
 
 ### Dill*
 
