@@ -14,9 +14,9 @@ alt = "A lush garden with several different types of flowers and vegetables"
 +++
 If you've already read our article "[Pest Hunters: Beneficial Predatory and Parasitic Insects](https://blog.planter.garden/posts/beneficial-predatory-insects/), you know that there are many beneficial insects that prey on garden pests. Better yet, we can attract these pest-killers to our gardens by planting 'insectary plants'.
 
-What makes a particular plant an insectary plant? Insectary plants provide food sources and shelter for beneficial insects, which attracts them and encourages them to stick around your garden. You might be wondering: ‘if beneficial insects eat pests, why do they need plants for food?’ In many cases it’s the beneficial insects' larvae that prey on insect pests while the adults feed mainly on pollen and nectar. That is why many insectary plants tend to be flowers or flowering herbs. In the case of herbs like cilantro and dill it's important to leave at least some of the plants to bloom if you want to attract beneficial insects, rather than just harvesting the leaves then pulling the plants out when they start to flower.
+What makes a plant an insectary plant? Insectary plants provide food sources and shelter for beneficial insects, which attracts them and encourages them to stick around your garden. You might be wondering: ‘if beneficial insects eat pests, why do they need plants for food?’ In many cases it’s the beneficial insects' larvae that prey on insect pests while the adults feed mainly on pollen and nectar. That is why many insectary plants tend to be flowers or flowering herbs. In the case of herbs like cilantro and dill it's important to leave at least some of the plants to bloom if you want to attract beneficial insects, rather than just harvesting the leaves then pulling the plants out when they start to flower.
 
-If you want to incorporate insectary plants in your garden, plan to have a variety of plants with different bloom times to keep the beneficial insects there all season long. Adding just one or two flowering plants is likely not enough to attract an army of predatory insects; aim to plant as many insectary plants as is possible with the space you have. Be sure to plant insectary plants close to the plants you want to protect- if they're too far away from your main garden the beneficial insects and their young may not make the trek over.
+If you want to incorporate insectary plants in your garden, plan to have a variety of plants with different bloom times to keep the beneficial insects there all season long. Aim to plant as many insectary plants as is possible with the space you have and be sure to plant them close to the plants you want to protect. If they're too far away from your main garden the beneficial insects and their young may not make the trek over.
 
 We've compiled a list of some common insectary plants and which beneficial insects they attract:
 
@@ -66,6 +66,8 @@ Cilantro goes to flower readily especially when warm, dry weather arrives in lat
 
 ![Yellow dill flowers with a syrphid fly on them](https://ucarecdn.com/7e81b70f-f251-46f8-a5ba-554767841a5f/Dill-flowers.jpg)
 
+Dill is awesome
+
 ### Lavender
 
 **Scientific name:** *Ammi majus* | Click to search on Google Images
@@ -82,7 +84,7 @@ In a [study of insectary plants from the University of Connecticut](<>), *Ammi m
 
 ### Oregano
 
-### Parsley*
+### Parsley
 
 ### Rosemary
 
@@ -94,8 +96,8 @@ In a [study of insectary plants from the University of Connecticut](<>), *Ammi m
 
 ### Thyme
 
-There are certainly many more insectary plants- this is just a starting point! There are also likely native plants in your local area that can help to attract beneficial insects to the garden. There are plenty of statements made online about potential insectary plants, but you may want to check trusted sources such as Extension Office websites to see if these claims have any evidence. Planting an array of flowering plants in the garden is a great way to beautify the space, while providing potential benefits to your edible crops!
+There are certainly many more insectary plants than the ones listed here! Research is just beginning to help us understand how particular plants can be best used for natural pest control, and there are almost certainly native plants in your local area that can help to attract beneficial predatory and parasitic insects to the garden. Planting an array of flowering plants in the garden is a great way to beautify the space, while providing potential benefits to your edible crops!
 
-Research is just beginning to help us understand how particular plants can be best used for natural pest control.  
+
 
 Trap crops, banker plants, cover cropping
