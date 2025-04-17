@@ -55,9 +55,11 @@ Studies have found chamomile to be highly attractive to syrphid flies as well as
 
 ### Cilantro
 
-**Scientific name:** *Ammi majus* | Click to search on Google Images
+**Scientific name:** *Coriandrum sativum*
 
-In a [study of insectary plants from the University of Connecticut](<>), *Ammi majus* was found to attract the highest number of beneficial predatory and parasitic insect families amongst all plants studied. Ammi was also the only plant in the study that attracted two types of [parasitic wasps](<>)- braconids and ichneumonids.
+![Flowering cilantro with a bee and a hoverfly on the white flowers](https://ucarecdn.com/61662089-ac18-4854-a2d0-4c1048dadb01/Cilantro-flowers.jpg)
+
+Cilantro is 
 
 ### Dill*
 
