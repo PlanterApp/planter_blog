@@ -52,21 +52,19 @@ Catnip does double duty when comes to pest control. Not only does it attract ben
 
 Studies have found chamomile to be highly attractive to syrphid flies as well as parasitic wasps. Chamomile may also help attract lady beetles, lacewings, minute pirate bugs, and tachinid flies. Chamomile blooms from spring right through to fall, providing a valuable season-long food source for beneficial insects.
 
-
 ### Cilantro
 
 **Scientific name:** *Coriandrum sativum*
 
-![Flowering cilantro with a bee and a hoverfly on the white flowers](https://ucarecdn.com/2a1abf05-0363-481a-ba65-fd7628a7b6d9/Cilantro-flowes-Planter.jpg)
+![Flowering cilantro with a bee and a hoverfly on the white flowers](https://ucarecdn.com/72479e25-2174-43be-9d05-af6aa01bddd1/Cilantro-flowers-Planter.jpg)
 
 Cilantro goes to flower readily especially when warm, dry weather arrives in late spring to summer. While this can be disappointing if you're growing cilantro for it's leaves, it's a boon for attracting a variety of beneficial insects such as syrphid flies, tachinid flies, lacewings, lady beetles, and minute pirate bugs. Plus you can let cilantro continue on to form seed then harvest the seeds either to make coriander or to re-plant!
 
-
-### Dill*
+### Dill
 
 **Scientific name:** *Ammi majus* | Click to search on Google Images
 
-In a [study of insectary plants from the University of Connecticut](<>), *Ammi majus* was found to attract the highest number of beneficial predatory and parasitic insect families amongst all plants studied. Ammi was also the only plant in the study that attracted two types of [parasitic wasps](<>)- braconids and ichneumonids.
+![Yellow dill flowers with a syrphid fly on them](https://ucarecdn.com/7e81b70f-f251-46f8-a5ba-554767841a5f/Dill-flowers.jpg)
 
 ### Lavender
 
