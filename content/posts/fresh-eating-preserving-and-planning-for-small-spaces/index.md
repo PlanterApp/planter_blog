@@ -25,7 +25,6 @@ Many herbs can be dried, and vegetables like carrots and onions can be chopped a
 * [Storing Herbs](https://blog.planter.garden/posts/how-to-dry-herbs-from-the-garden/) - by Samantha
 * [A Guide to Canning](https://blog.planter.garden/posts/a-beginner-s-guide-to-canning/) - by Jessalyn
 
-
 Storing produce over the winter means growing more at the right time. If you live in a cold climate, remember that food consumption typically rises during the winter months (around 10-30%), so if your goal is to be self-sufficient from your garden, this is an important consideration. 
 
 #### Staggered Planting and Storage
@@ -40,7 +39,6 @@ To plan how much to plant, I created a table:
 
 ![table showing when to plant Danvers 126](https://ucarecdn.com/26be1316-9c14-41c7-9ce4-823c12d606f8/Carrot%20table.PNG)
 
-
 With the Planter app, you can easily map out your garden and ensure proper spacing between plants. The app suggests planting 16 Danvers per square foot–up to 48 per 3ft row (3 ft x 1 ft)-- helping you optimize your garden space for healthy growth. 
 
 ### Small Spaces
@@ -49,4 +47,25 @@ If you’re short on space, container gardening is a powerful solution. Pots wor
 
 ![table showing a 10 gallon pot planting](https://ucarecdn.com/de38bb63-daac-47aa-bb9e-e68183a3041f/10%20gallon%20pot%20planting.PNG)
 
-With some care and attention, a lot of plants can be grown in pots, from potatoes to strawberries. Pot planting allows you to get really creative and layer plants. It's important to focus on companion plants for pots, as space and nutrients are limited.
+With some care and attention, a lot of plants can be grown in pots, from potatoes to strawberries. Pot planting allows you to get really creative and layer plants. It's important to focus on companion plants for pots, as space and nutrients are limited. 
+
+### Overwintering Crops
+
+Some vegetables, like kale, overwinter well in many climates. Others, like rhubarb, are perennials—plant once, harvest for years. Overwintering crops are easy to plan into your garden. 
+
+![garden with winter crops highlighted](https://ucarecdn.com/39d38799-26ac-4af7-9cb2-8352b75dad30/Untitled-1.png)
+
+Everything except the Zinnia will overwinter quite nicely where I live. The turnips will also replenish a lot of soil nutrients and improve the health of the garden bed for the year to come.
+
+### Yields
+
+You may not know exactly how much to plant the first year, so keeping notes and logs is useful. Note what varieties grow well, how long they took to grow, how long they kept in the ground, stored in the fridge, etc., to help you carefully plan next year’s harvest. Additionally, you can estimate many varieties by looking at the *per-plant yield.* We’ve linked some good resources below to help you.
+
+* [Cornell Guide](https://bpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/c/10116/files/Recommended-spacing-and-expected-yield-for-garden-vegetables-in-New-York-1iozy2c.pdf)
+* [Michigan State Extension](https://www.canr.msu.edu/uploads/files/Table%204.pdf)[](https://www.canr.msu.edu/uploads/files/Table%204.pdf)
+* [UC Master Gardener Program](https://ucanr.edu/node/135476/printable/print)[](https://ucanr.edu/node/135476/printable/print)
+* [Penn State Extension](https://extension.psu.edu/crop-yield-estimates-for-vegetables)
+
+[](https://extension.psu.edu/crop-yield-estimates-for-vegetables)
+
+{{< notice info >}}Yields vary by location.{{< /notice >}}
