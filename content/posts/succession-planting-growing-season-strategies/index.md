@@ -82,4 +82,4 @@ With these strategies, your soil can remain vibrant and productive throughout th
 
 ### Almost There!
 
-Hopefully this has given you some great ideas on how to plan your garden. The final article in the series will discuss yields, considerations for your harvest, and other things to remember.
+Hopefully, this has given you some great ideas on how to plan your garden. The final article in the series will discuss yields, considerations for your harvest, and other important considerations.
