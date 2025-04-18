@@ -69,3 +69,18 @@ You may not know exactly how much to plant the first year, so keeping notes and 
 [](https://extension.psu.edu/crop-yield-estimates-for-vegetables)
 
 {{< notice info >}}Yields vary by location.{{< /notice >}}
+
+### Other Considerations
+
+
+**Crop Rotation**
+
+
+Planting the same crop in the same spot year after year depletes soil nutrients. Rotating crops helps maintain healthy soil and reduces pest issues. Use the Planter app to track what’s planted where and plan your rotations.
+
+
+**Determinate vs. Indeterminate**
+
+Determinate plants (like some tomatoes and beans) produce all at once—great for preserving, but potentially overwhelming. Indeterminate varieties yield steadily over time, ideal for fresh eating. Knowing the type helps you plan harvest timing and storage needs.
+
+### Recording Information
