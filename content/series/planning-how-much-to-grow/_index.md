@@ -8,4 +8,6 @@ slug = "Planning How Much to Grow"
 image = "https://ucarecdn.com/f21ecc06-5d01-413f-a001-35ff098b2a8e/2734870.jpg"
 alt = "Three people harvesting a variety of vegetables"
 +++
-Working out how much food to plant can be difficult. This short series will dive into some tips and offer some general advice to help you plant and then harvest a great yield year after year.
+Working out how much food to plant can be difficult. This short series will offer tips and general advice to help you plant and harvest a great yield year after year.
+
+Learn about staggered and succession planting, overwintering, and key considerations to guide you to maximaizing the yields from your garden space.
