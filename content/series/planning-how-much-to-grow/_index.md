@@ -10,4 +10,4 @@ alt = "Three people harvesting a variety of vegetables"
 +++
 Working out how much food to plant can be difficult. This short series will offer tips and general advice to help you plant and harvest a great yield year after year.
 
-Learn about staggered and succession planting, overwintering, and key considerations to guide you to maximaizing the yields from your garden space.
+Learn about staggered and succession planting, overwintering, and key considerations to maximize the yields from your garden space.
