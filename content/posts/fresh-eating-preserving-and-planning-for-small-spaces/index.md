@@ -26,4 +26,14 @@ Many herbs can be dried, and vegetables like carrots and onions can be chopped a
 * [A Guide to Canning](https://blog.planter.garden/posts/a-beginner-s-guide-to-canning/) - by Jessalyn
 
 
-Storing produce over the winter means growing more at the right time. If you live in a cold climate, remember that food consumption typically rises during the winter months (around 10-30%), so if your goal is to be self-sufficient from your garden, this is an important consideration.
+Storing produce over the winter means growing more at the right time. If you live in a cold climate, remember that food consumption typically rises during the winter months (around 10-30%), so if your goal is to be self-sufficient from your garden, this is an important consideration. 
+
+#### Staggered Planting and Storage
+
+Let's use carrots as an example.
+
+![4 stage garden with carrots highlighted](https://ucarecdn.com/664092d7-9992-447d-916f-b150a891b577/Untitled-5%20(1).png)
+
+In the garden bed, I have 1 3ft row of carrots planned. They're planted next to beans and onions, which are companion plants, so they can share nutrients, and keep pests and diseases to a minimum, which should give a better harvest. The carrots are eventually replaced by kale, which can overwinter and handle the cold weather better.
+
+To plan how much to plant, I created a table:
