@@ -4,7 +4,7 @@ title = "What Are Insectary Plants?"
 slug = "insectary-plants"
 date = "2025-04-17T11:00:00.000Z"
 author = "Erin Thomson"
-plants = ["Ammi", "Basil", "Borage", "California Poppy", "Carrots", "Catnip", "Chamomile", "Cilantro", "Dill", "Fennel", "Lavender", "Marigold", "Mint", "Nasturtium", "Oregano", "Parsley", "Rosemary", "Savory", "Sunflowers", "Sweet Alyssum", "Thyme"]
+plants = ["Ammi", "Basil", "Borage", "California Poppy", "Catnip", "Chamomile", "Cilantro", "Dill", "Lavender", "Marigold", "Mint", "Nasturtium", "Oregano", "Parsley", "Rosemary", "Savory", "Sunflowers", "Sweet Alyssum", "Thyme"]
 tags = []
 
 [cover]
