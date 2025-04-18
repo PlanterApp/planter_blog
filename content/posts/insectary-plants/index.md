@@ -20,7 +20,7 @@ If you want to incorporate insectary plants in your garden, plan to have a varie
 
 We've compiled a list of some common insectary plants and which beneficial insects they attract:
 
-# Insectary plants
+# List of insectary plants
 
 ### Ammi
 
