@@ -50,7 +50,10 @@ If you’re short on space, container gardening is a powerful solution. Pots wor
 
 ![table showing a 10 gallon pot planting](https://ucarecdn.com/de38bb63-daac-47aa-bb9e-e68183a3041f/10%20gallon%20pot%20planting.PNG)
 
-With some care and attention, a lot of plants can be grown in pots, from potatoes to strawberries. Pot planting allows you to get really creative and layer plants. It's important to focus on companion plants for pots, as space and nutrients are limited. 
+
+With some care and attention, many crops—from potatoes to strawberries—can thrive in pots. Container gardening also gives you the freedom to get creative with layering and plant combinations. Since space and nutrients are limited, choosing good companion plants is especially important.
+
+A few 10-gallon pots on a balcony or patio can yield a surprisingly generous harvest, especially with succession planting. For example, you could start with a quick crop of green onions or chives, then transplant strawberries into the same pot once the first crop is harvested.
 
 ### Overwintering Crops
 
@@ -59,8 +62,6 @@ Some vegetables, like kale, overwinter well in many climates. Others, like rhuba
 ![garden with winter crops highlighted](https://ucarecdn.com/39d38799-26ac-4af7-9cb2-8352b75dad30/Untitled-1.png)
 
 Everything except the Zinnia will overwinter quite nicely where I live. The turnips will also replenish a lot of soil nutrients and improve the health of the garden bed for the year to come.
-
-
 
 
 #### The Other Plants in the Bed
