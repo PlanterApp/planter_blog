@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Planning the Harvest – What to Plant and When"
 slug = "what-and-when-to-plant"
+date = "2025-04-18T12:45:00.000Z"
 author = "Sam Liddicott"
 plants = []
 series = ["Planning How Much to Grow"]
@@ -18,7 +19,7 @@ Let’s explore some thoughtful ways to decide what to plant, when to plant it, 
 
 ### What to Plant
 
-Planning what to plant is as straightforward or as complicated as you would like, but the best garden is the one you’ll actually eat. Start by thinking about:
+Planning what to plant is as straightforward or as complicated as you would like, but the best garden is the one you’ll eat, or share the produce from. Start by thinking about:
 
 * Your most-used fruits, vegetables, and herbs
 * What you (and your family if applicable) enjoy eating
@@ -35,9 +36,9 @@ You don’t have to grow everything—just a few crops you’ll be happy to eat 
 
 #### Using Planter to Visualize
 
-Next, assess your available planting space and calculate how much you can grow. The **Planter app** can help you design your garden, show companion plants in the plant information section, and show compatibility on the main garden planning view. Begin by deciding on your must-haves. Maybe tomatoes or a selection of herbs are at the top of your list. Starting with large plants is also helpful, as smaller ones can easily fit into gaps between plantings.
+Next, assess your available planting space and calculate how much you can grow. The Planter app can help you design your garden, show companion plants in the plant information section, and show compatibility on the main garden planning view. Begin by deciding on your must-haves. Maybe tomatoes or a selection of herbs are at the top of your list. Starting with large plants is also helpful, as smaller ones can easily fit into gaps between plantings.
 
-Using the **Planter app**, you can easily log notes, track planting dates, and map out your garden layout. Some features, like plant notes (garden-wide notes are available to everyone), are available to [Planter Premium](https://info.planter.garden/account/premium-subscription/) subscribers. However, the free version still offers plenty of tools to help you plan a healthy, vibrant garden.
+Using the Planter app, you can easily log notes, track planting dates, and map out your garden layout. Some features, like plant notes (garden-wide notes are available to everyone), are available to [Planter Premium](https://info.planter.garden/account/premium-subscription/) subscribers. However, the free version still offers plenty of tools to help you plan a healthy, vibrant garden.
 
 ### When to Plant
 
@@ -57,7 +58,7 @@ Additionally, consider when your plants are ready to harvest. For example, you m
 
 Mapping out your garden is very helpful. Identify dry areas and wet areas, sunny areas and shaded areas. Many plants are forgiving of their growing environment, while others wilt with a little too much sun, or wither if they get too much shade. 
 
-You should also consider testing your soil. The most accurate test is to take soil samples to your local extension office (many will allow you to mail them in). Costs vary by your region, however, they give detailed results that can help you plan appropriate amendments for your garden.
+You should also consider testing your soil. The most accurate test is to take soil samples to your local extension office (many will allow you to mail them in). Costs vary by your region; however, they give detailed results that can help you plan appropriate amendments for your garden.
 
 #### Accounting for Loss
 
@@ -65,11 +66,13 @@ Not every seed you plant will grow, and not every plant will make it to maturity
 
 As a general rule, the less plants are disturbed, the better. It's disheartening when your carefully raised seedlings collapse just a few days after they're moved into the main bed. Acclimating plants can minimize this. By keeping your indoor starts outside for a week (or a little more) before planting, you help the plant adjust to the windy, drier conditions outside in a process called **hardening off.**
 
+(Read more about it[ here](https://blog.planter.garden/posts/hardening-off-and-transplanting/))
+
 ![man preparing seedlings for transplanting](https://ucarecdn.com/c192eda0-902d-4173-9add-e3b81d23d17b/young-farmer-working-his-garden-getting-ready-summer-season-man-tenderly-planting-green-sprout-with-garden-tools-his-countryside-house.jpg)
 
 ### Getting Nitty Gritty
 
-To illustrate the principles I’ll discuss in this series of articles, I’ll use two garden beds I designed on Planter (multiple gardens is a premium feature). The first is a 3x6 ft bed that serves as my ‘main’ garden bed. In this bed, I use different techniques to increase my harvest, from succession planting to staggered planting. I have four iterations of this planned out in the same bed, to remind me how it will change through the growing season. The second is my tomato bed, where I use different varieties to extend the harvest window. 
+To illustrate the principles I’ll discuss in this series of articles, I’ll use two garden beds I designed on Planter (multiple gardens is a premium feature). The first is a 3x6 ft bed that serves as my ‘main’ garden bed. In this bed, I use different techniques to increase my harvest, from succession planting to staggered planting. I have four iterations of this planned out in the same bed plan, to remind me how it will change through the growing season. The second is my tomato bed, where I use different varieties to extend the harvest window. 
 
 ![Four stage succession garden bed](https://ucarecdn.com/b9a64026-9f0f-469d-92c9-6dcae928832c/Main%20Garden%20Bed%20(3).png "Using one 'bed', I planned a four-stage succession planting over the growing season.")
 
