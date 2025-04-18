@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Fresh Eating, Preserving, and Planning for Small Spaces"
 slug = "how-much-to-grow-yields-and-storage"
+date = "2025-04-18T12:50:00.000Z"
 author = "Sam Liddicott"
 plants = ["carrots"]
 series = ["Planning How Much to Grow"]
@@ -57,11 +58,12 @@ A few 10-gallon pots on a balcony or patio can yield a surprisingly generous har
 
 ### Overwintering Crops
 
-Some vegetables, like kale, overwinter well in many climates. Others, like rhubarb, are perennials—plant once, harvest for years. Overwintering crops are easy to plan into your garden. 
+
+Some crops can survive the winter and start producing again early the next season. Others, like garlic, are planted in the fall and harvested the following summer. Cold-hardy vegetables like kale, spinach, and certain carrots can survive in the ground through frost, especially with a little protection like mulch or row covers. Overwintering gives you a head start on spring and makes the most of your space year-round. Just be sure to know your hardiness zone and choose varieties that can handle the cold in your area.
 
 ![garden with winter crops highlighted](https://ucarecdn.com/39d38799-26ac-4af7-9cb2-8352b75dad30/Untitled-1.png)
 
-Everything except the Zinnia will overwinter quite nicely where I live. The turnips will also replenish a lot of soil nutrients and improve the health of the garden bed for the year to come.
+In this garden, everything except the Zinnia will overwinter quite nicely where I live. The turnips will also replenish a lot of soil nutrients and improve the health of the garden bed for the year to come.
 
 
 #### The Other Plants in the Bed
@@ -79,9 +81,7 @@ You may not know exactly how much to plant the first year, so keeping notes and 
 * [Cornell Yield Guide](https://bpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/c/10116/files/Recommended-spacing-and-expected-yield-for-garden-vegetables-in-New-York-1iozy2c.pdf)
 * [Michigan State Extension](https://www.canr.msu.edu/uploads/files/Table%204.pdf)[](https://www.canr.msu.edu/uploads/files/Table%204.pdf)
 * [UC Master Gardener Program](https://ucanr.edu/node/135476/printable/print)[](https://ucanr.edu/node/135476/printable/print)
-* [Penn State Extension](https://extension.psu.edu/crop-yield-estimates-for-vegetables)
-
-[](https://extension.psu.edu/crop-yield-estimates-for-vegetables)
+* [Penn State Extension](https://extension.psu.edu/crop-yield-estimates-for-vegetables)[](https://extension.psu.edu/crop-yield-estimates-for-vegetables)
 
 {{< notice info >}}Yields vary by location.{{< /notice >}}
 
