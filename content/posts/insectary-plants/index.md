@@ -38,11 +38,11 @@ California poppies are native to the western United States and Mexico. They are 
 
 ### Catnip
 
-**Scientific name:** *Nepeta catria*
+**Scientific name:** *Nepeta cataria*
 
 ![A close-up shot of white blooms on a catnip plant](https://ucarecdn.com/6dab05b2-0d58-4983-82a1-f7a2f1496d3a/Catnip.jpg)
 
-Catnip does double duty when comes to pest control. Not only does it attract beneficial nectar-feeding insects such as syrphid flies, but it also produces compounds that have been shown to repel pests such as aphids, squash bugs, and others. Catnip is an extremely aggressive spreader that also self-seeds prolifically, so you'll want to keep it contained and grow it in an area where it cannot easily self-seed. Catnip usually blooms from late spring to mid-summer, depending on the variety.
+Catnip does double duty when comes to pest control. Not only does it attract beneficial nectar-feeding insects such as syrphid flies, but it also produces compounds that have been shown to repel pests such as aphids, squash bugs, and others. Catnip is an extremely aggressive spreader that also self-seeds prolifically, so you'll want to keep it contained and grow it in an area where it cannot easily self-seed. Catnip usually blooms from late spring to mid-summer; deadheading when flowers die back can help to promote new blooms
 
 ### Chamomile
 
@@ -85,11 +85,22 @@ English lavender is attractive to syrphid flies and lady beetles. Lavender is a 
 
 ![Several marigold plants with bright orange flowers](https://ucarecdn.com/b9c0f321-b281-410c-be1d-36d101750df3/Marigolds.jpg)
 
-Marigolds are a well-known beneficial garden plant, and for good reason! Marigolds are attractive to a variety of beneficial insects including lacewings, damsel bugs, big-eyed bugs, lady beetles, parasitic wasps, and minute pirate bugs. Marigolds also have many reputed pest-deterring properties, although only some of these are proven with research and the effects can vary depending on the type of marigold and how it is used.
+Marigolds are a well-known beneficial garden plant, and for good reason! Marigolds are attractive to a variety of beneficial insects including lacewings, damsel bugs, big-eyed bugs, lady beetles, parasitic wasps, and minute pirate bugs. Marigolds also have many reputed pest-deterring properties, although only some of these are proven with research and the effects can vary depending on the type of marigold and how it is used. Marigolds can bloom almost all season long provided they are cared for and regularly deadheaded!
 
 ### Mint
 
+**Scientific name:** *Mentha spp.*
+
+![Mint plants with dainty white flowers on tall stalks](https://ucarecdn.com/a142f7f4-af5a-4714-b763-cb8139c0e4c3/Mint.jpg)
+
+[](<>)
+Mint and catnip are related and, like catnip, mint is a very aggressive spreader and self-seeder. So long as mint is contained it is a beneficial addition to the garden, attracting syrphid flies, damsel bugs, minute pirate bugs, and big-eyed bugs. Mint may also have a repellant effect on cabbage loopers and cabbage maggots. Mint usually blooms from late spring through summer; deadheading can help to encourage more blooms and reduce self-seeding.
+
 ### Oregano
+
+**Scientific name:** *Mentha spp.*
+
+
 
 ### Parsley
 
@@ -104,7 +115,3 @@ Marigolds are a well-known beneficial garden plant, and for good reason! Marigol
 ### Thyme
 
 There are certainly many more insectary plants than the ones listed here! Research is just beginning to help us understand how particular plants can be best used for natural pest control, and there are almost certainly native plants in your local area that can help to attract beneficial predatory and parasitic insects to the garden. Planting an array of flowering plants in the garden is a great way to beautify the space, while providing potential benefits to your edible crops!
-
-
-
-Trap crops, banker plants, cover cropping
