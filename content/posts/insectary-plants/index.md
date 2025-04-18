@@ -38,7 +38,7 @@ In a [study of insectary plants from the University of Connecticut](https://draf
 
 ### Borage
 
-**Scientific name:** *Borago officinalis* | [Click to search on Google Images](<>)[](<>)[](<>)
+**Scientific name:** *Borago officinalis*[](<>)[](<>)[](<>)
 
 ![Purple-blue flowers on a borage plant in the garden](https://ucarecdn.com/5f32185c-6ae8-446e-9977-0bcab7644b33/Borage.jpg)
 
