@@ -29,6 +29,8 @@ Then, check how well they’ll grow in your climate and space. While many plants
 
 You don’t have to grow everything—just a few crops you’ll be happy to eat every week. Consider adding one or two new-to-you varieties for fun or flavor variety.
 
+{{< notice tip >}}Remember to rotate crops in your garden. This keeps the soil nutrients balanced and reduces the spread of disease.{{< /notice >}}
+
 ![Planter garden bed](https://ucarecdn.com/c3681e5f-8616-49b5-a2da-0a1648d7b632/Succession%20Planting%20Row%20(Left%20row%20of%20main%20bed).png)
 
 #### Using Planter to Visualize
@@ -70,8 +72,6 @@ As a general rule, the less plants are disturbed, the better. It's disheartening
 To illustrate the principles I’ll discuss in this series of articles, I’ll use two garden beds I designed on Planter (multiple gardens is a premium feature). The first is a 3x6 ft bed that serves as my ‘main’ garden bed. In this bed, I use different techniques to increase my harvest, from succession planting to staggered planting. I have four iterations of this planned out in the same bed, to remind me how it will change through the growing season. The second is my tomato bed, where I use different varieties to extend the harvest window. 
 
 ![Four stage succession garden bed](https://ucarecdn.com/b9a64026-9f0f-469d-92c9-6dcae928832c/Main%20Garden%20Bed%20(3).png "Using one 'bed', I planned a four-stage succession planting over the growing season.")
-
-
 
 ![A garden bed with four tomato varieties](https://ucarecdn.com/2c044028-8ab2-4438-914f-8b0dcec58b6c/Tomato%20Bed.png "I plan to grow all my tomatoes in one bed for this example.")
 
