@@ -72,15 +72,33 @@ You may not know exactly how much to plant the first year, so keeping notes and 
 
 ### Other Considerations
 
-
 **Crop Rotation**
 
-
 Planting the same crop in the same spot year after year depletes soil nutrients. Rotating crops helps maintain healthy soil and reduces pest issues. Use the Planter app to track what’s planted where and plan your rotations.
-
 
 **Determinate vs. Indeterminate**
 
 Determinate plants (like some tomatoes and beans) produce all at once—great for preserving, but potentially overwhelming. Indeterminate varieties yield steadily over time, ideal for fresh eating. Knowing the type helps you plan harvest timing and storage needs.
 
+
+
 ### Recording Information
+
+
+Tracking your garden’s performance helps you grow smarter each season. Key things to note:
+
+
+
+* **What worked (and didn’t):** Which varieties thrived? Which ones struggled or weren’t worth the effort? 
+* **Yields vs. expectations:** Did you get more or less than you thought? Were there any surprises? 
+* **Care needs:** Which plants required the most attention, and were they worth it?
+* **Over-- or under-planted:** Did you grow too much of something? Not enough? 
+* **Pests, weather & timing:** Jot down issues like late frosts, drought, or recurring pest problems, plus when each crop actually matured.
+
+
+
+### At the Harvest
+
+There's a lot to consider when planning how much to grow. It's unlikely you'll have a perfect garden your first year, but keeping track of everything will set you up for success.
+
+Planting
