@@ -37,3 +37,16 @@ Let's use carrots as an example.
 In the garden bed, I have 1 3ft row of carrots planned. They're planted next to beans and onions, which are companion plants, so they can share nutrients, and keep pests and diseases to a minimum, which should give a better harvest. The carrots are eventually replaced by kale, which can overwinter and handle the cold weather better.
 
 To plan how much to plant, I created a table:
+
+![table showing when to plant Danvers 126](https://ucarecdn.com/26be1316-9c14-41c7-9ce4-823c12d606f8/Carrot%20table.PNG)
+
+
+With the Planter app, you can easily map out your garden and ensure proper spacing between plants. The app suggests planting 16 Danvers per square foot–up to 48 per 3ft row (3 ft x 1 ft)-- helping you optimize your garden space for healthy growth. 
+
+### Small Spaces
+
+If you’re short on space, container gardening is a powerful solution. Pots work well on balconies, patios, or anywhere with limited ground. Many herbs, alliums, and even compact vegetables thrive in containers.
+
+![table showing a 10 gallon pot planting](https://ucarecdn.com/de38bb63-daac-47aa-bb9e-e68183a3041f/10%20gallon%20pot%20planting.PNG)
+
+With some care and attention, a lot of plants can be grown in pots, from potatoes to strawberries. Pot planting allows you to get really creative and layer plants. It's important to focus on companion plants for pots, as space and nutrients are limited.
