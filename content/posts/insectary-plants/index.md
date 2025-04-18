@@ -24,9 +24,21 @@ We've compiled a list of some common insectary plants and which beneficial insec
 
 ### Ammi
 
-**Scientific name:** *Ammi majus* | [Click to search on Google Images](https://www.google.com/search?q=ammi+majus&sca_esv=4c501b42f1890102&source=hp&biw=1528&bih=738&ei=MT8BaOepEZWy0PEPqqCBuAI&iflsig=ACkRmUkAAAAAaAFNQYpOnE_a-PVAxy3s5opX44xXziF0&ved=0ahUKEwinhvez0N-MAxUVGTQIHSpQACcQ4dUDCA0&uact=5&oq=ammi+majus&gs_lp=EgNpbWciCmFtbWkgbWFqdXMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESO0dUKMMWKsbcAB4AJABAJgBSaABvQSqAQIxMLgBA8gBAPgBAYoCC2d3cy13aXotaW1nmAIKoALXBKgCAMICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICChAAGIAEGLEDGArCAgcQABiABBgKmAMBkgcCMTCgB6QwsgcCMTC4B9cE&sclient=img&udm=2)[](<>)[](https://www.google.com/search?q=ammi+majus&sca_esv=4c501b42f1890102&source=hp&biw=1528&bih=738&ei=MT8BaOepEZWy0PEPqqCBuAI&iflsig=ACkRmUkAAAAAaAFNQYpOnE_a-PVAxy3s5opX44xXziF0&ved=0ahUKEwinhvez0N-MAxUVGTQIHSpQACcQ4dUDCA0&uact=5&oq=ammi+majus&gs_lp=EgNpbWciCmFtbWkgbWFqdXMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESO0dUKMMWKsbcAB4AJABAJgBSaABvQSqAQIxMLgBA8gBAPgBAYoCC2d3cy13aXotaW1nmAIKoALXBKgCAMICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICChAAGIAEGLEDGArCAgcQABiABBgKmAMBkgcCMTCgB6QwsgcCMTC4B9cE&sclient=img&udm=2)
+**Scientific name:** *Ammi majus*[](https://www.google.com/search?q=ammi+majus&sca_esv=4c501b42f1890102&source=hp&biw=1528&bih=738&ei=MT8BaOepEZWy0PEPqqCBuAI&iflsig=ACkRmUkAAAAAaAFNQYpOnE_a-PVAxy3s5opX44xXziF0&ved=0ahUKEwinhvez0N-MAxUVGTQIHSpQACcQ4dUDCA0&uact=5&oq=ammi+majus&gs_lp=EgNpbWciCmFtbWkgbWFqdXMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESO0dUKMMWKsbcAB4AJABAJgBSaABvQSqAQIxMLgBA8gBAPgBAYoCC2d3cy13aXotaW1nmAIKoALXBKgCAMICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICChAAGIAEGLEDGArCAgcQABiABBgKmAMBkgcCMTCgB6QwsgcCMTC4B9cE&sclient=img&udm=2)
+
+[](https://www.google.com/search?q=ammi+majus&sca_esv=4c501b42f1890102&source=hp&biw=1528&bih=738&ei=MT8BaOepEZWy0PEPqqCBuAI&iflsig=ACkRmUkAAAAAaAFNQYpOnE_a-PVAxy3s5opX44xXziF0&ved=0ahUKEwinhvez0N-MAxUVGTQIHSpQACcQ4dUDCA0&uact=5&oq=ammi+majus&gs_lp=EgNpbWciCmFtbWkgbWFqdXMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESO0dUKMMWKsbcAB4AJABAJgBSaABvQSqAQIxMLgBA8gBAPgBAYoCC2d3cy13aXotaW1nmAIKoALXBKgCAMICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICChAAGIAEGLEDGArCAgcQABiABBgKmAMBkgcCMTCgB6QwsgcCMTC4B9cE&sclient=img&udm=2)
+
+![An ammi plant with many flower heads with tiny white flowers](https://ucarecdn.com/9453c6a6-57d1-4a92-80b2-6ae56f399a1f/Ammi.jpg)
+
+[](<>)[](https://www.google.com/search?q=ammi+majus&sca_esv=4c501b42f1890102&source=hp&biw=1528&bih=738&ei=MT8BaOepEZWy0PEPqqCBuAI&iflsig=ACkRmUkAAAAAaAFNQYpOnE_a-PVAxy3s5opX44xXziF0&ved=0ahUKEwinhvez0N-MAxUVGTQIHSpQACcQ4dUDCA0&uact=5&oq=ammi+majus&gs_lp=EgNpbWciCmFtbWkgbWFqdXMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESO0dUKMMWKsbcAB4AJABAJgBSaABvQSqAQIxMLgBA8gBAPgBAYoCC2d3cy13aXotaW1nmAIKoALXBKgCAMICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICChAAGIAEGLEDGArCAgcQABiABBgKmAMBkgcCMTCgB6QwsgcCMTC4B9cE&sclient=img&udm=2)
 
 In a [study of insectary plants from the University of Connecticut](https://draft.insects.lab.uconn.edu/vegetable-ipm-research/), *Ammi majus* was found to attract the highest number of beneficial predatory and parasitic insect families amongst all plants studied. Ammi was also the only plant in the study that attracted two types of parasitic wasps- braconids and ichneumonids. Ammi generally blooms in spring and early summer.
+
+### Borage
+
+**Scientific name:** *Borago officinalis* | [Click to search on Google Images](<>)[](<>)[](<>)
+
+![Purple-blue flowers on a borage plant in the garden](https://ucarecdn.com/5f32185c-6ae8-446e-9977-0bcab7644b33/Borage.jpg)
 
 ### California poppy
 
@@ -104,6 +116,12 @@ Mint and catnip are related and, like catnip, mint is a very aggressive spreader
 
 Oregano is attractive to a variety of predatory and parasitic insects such as syrphid flies, tachinid flies, parasitic wasps lacewings, lady beetles, and minute pirate bugs. Oregano may also help to repel aphids. Oregano tends to bloom in mid-summer. The leaves are more flavorful before the plant forms flowers, but do not harvest too aggressively if you want it to bloom!
 
+### Nasturtium
+
+**Scientific name:** *P*
+
+![Bright orange-red flowers on a nasturtium plant in the garden](https://ucarecdn.com/a8a7cc62-bed2-44d1-9e11-1c179b9548c2/Nasturtium.jpg)
+
 ### Parsley
 
 **Scientific name:** *Petroselinum crispum var. crispum, P. crispum var. neapolitanum*
@@ -112,14 +130,22 @@ Oregano is attractive to a variety of predatory and parasitic insects such as sy
 
 ### Rosemary
 
-
+![Delicate purple flowers on a rosemary plant](https://ucarecdn.com/581f36bb-725b-4ba1-8165-80643adbe809/Rosemary-flowers.jpg)
 
 ### Savory
 
+![Savory plants in the sun with delicate purple flowers](https://ucarecdn.com/864b6753-b0b3-4cc2-98b8-9ec6a1e8bb3d/Savory.jpg)
+
 ### Sunflowers
+
+![A close-up of a bright yellow sunflower with a bee on it](https://ucarecdn.com/769dc5f1-94a5-49f4-8d79-a714b785a52e/Sunflower-Planter.jpg)
 
 ### Sweet alyssum
 
+![Alyssum plants with tiny white flowers in a stone planter](https://ucarecdn.com/7fcd7a84-acfb-454f-a5f7-0286f10341ac/Alyssum.jpg)
+
 ### Thyme
+
+![A thyme plant with dainty white flowers](https://ucarecdn.com/5b8efbf3-c056-4b16-ba44-77a92d726f34/Thyme-flowers.jpg)
 
 There are certainly many more insectary plants than the ones listed here! Research is just beginning to help us understand how particular plants can be best used for natural pest control, and there are almost certainly native plants in your local area that can help to attract beneficial predatory and parasitic insects to the garden. Planting an array of flowering plants in the garden is a great way to beautify the space, while providing potential benefits to your edible crops!
