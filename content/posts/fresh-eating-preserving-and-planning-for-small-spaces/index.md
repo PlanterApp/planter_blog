@@ -3,7 +3,9 @@ draft = true
 title = "Fresh Eating, Preserving, and Planning for Small Spaces"
 slug = "how-much-to-grow-yields-and-storage"
 author = "Sam Liddicott"
+plants = ["carrots"]
 series = ["Planning How Much to Grow"]
+tags = ["harvesting", "winter storage"]
 
 [cover]
 relative = false
@@ -57,6 +59,17 @@ Some vegetables, like kale, overwinter well in many climates. Others, like rhuba
 ![garden with winter crops highlighted](https://ucarecdn.com/39d38799-26ac-4af7-9cb2-8352b75dad30/Untitled-1.png)
 
 Everything except the Zinnia will overwinter quite nicely where I live. The turnips will also replenish a lot of soil nutrients and improve the health of the garden bed for the year to come.
+
+
+
+
+#### The Other Plants in the Bed
+
+We've discussed most of the plants in our example bed so far, and the ones we haven't, follow the ideas we've discussed in this series. 
+
+* The onions are planted in succession for a longer harvest, and then replaced with zinnias
+* The beans are a determinate variety; I prefer eating beans during cooler months, so one large harvest where I dry them all out is fine for me. These are then replaced with turnips for overwintering.
+* The cucumbers will mature in mid-summer, and then be replaced with transplanted okra, which will handle the late summer and fall weather with no difficulty.
 
 ### Yields
 
