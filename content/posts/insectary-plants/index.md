@@ -106,11 +106,13 @@ Oregano is attractive to a variety of predatory and parasitic insects such as sy
 
 ### Parsley
 
-**Scientific name:** 
+**Scientific name:** *Petroselinum crispum var. crispum, P. crispum var. neapolitanum*
 
-
+![Multiple parsley plants with delicate yellow flowers](https://ucarecdn.com/6ed23bf1-725b-4995-8232-3b1df7d0011b/Parsley-flowers.jpg)
 
 ### Rosemary
+
+
 
 ### Savory
 
