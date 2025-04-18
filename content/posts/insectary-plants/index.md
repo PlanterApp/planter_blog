@@ -50,7 +50,7 @@ Catnip does double duty when comes to pest control. Not only does it attract ben
 
 ![Many white chamomile flowers with yellow centers, with a syrphid fly on one of the flowers](https://ucarecdn.com/6bcdf451-1e33-451a-beff-8ae42622b9f9/Chamomile.jpg)
 
-Studies have found chamomile to be highly attractive to syrphid flies as well as parasitic wasps. Chamomile may also help attract lady beetles, lacewings, minute pirate bugs, and tachinid flies. Chamomile blooms from spring right through to fall, providing a valuable season-long food source for beneficial insects.
+Studies have found chamomile to be highly attractive to syrphid flies as well as parasitic wasps. Chamomile may also help to attract lady beetles, lacewings, minute pirate bugs, and tachinid flies. Chamomile blooms from spring right through to fall, providing a valuable season-long food source for beneficial insects.
 
 ### Cilantro
 
@@ -58,7 +58,7 @@ Studies have found chamomile to be highly attractive to syrphid flies as well as
 
 ![Flowering cilantro with a bee and a hoverfly on the white flowers](https://ucarecdn.com/72479e25-2174-43be-9d05-af6aa01bddd1/Cilantro-flowers-Planter.jpg)
 
-Cilantro goes to flower readily especially when warm, dry weather arrives in late spring to summer. While this can be disappointing if you're growing cilantro for it's leaves, it's a boon for attracting a variety of beneficial insects such as syrphid flies, tachinid flies, lacewings, lady beetles, and minute pirate bugs. Plus you can let cilantro form seed then harvest the seeds either to make coriander or to plant!
+Cilantro goes to flower readily especially when warm, dry weather arrives in late spring to summer. While this can be disappointing if you're growing cilantro for it's leaves, it's a boon for attracting a variety of beneficial insects such as syrphid flies, tachinid flies, parasitic wasps lacewings, lady beetles, and minute pirate bugs. Plus you can let cilantro form seed then harvest the seeds either to make coriander or to plant!
 
 ### Dill
 
@@ -98,11 +98,17 @@ Mint and catnip are related and, like catnip, mint is a very aggressive spreader
 
 ### Oregano
 
-**Scientific name:** *Mentha spp.*
+**Scientific name:** *Origanum vulgare*
 
+![An oregano plant in the garden with tiny pale pink blooms](https://ucarecdn.com/4513ae03-6e66-4299-8601-3e567d710bb2/Oregano-flowers.jpg)
 
+Oregano is attractive to a variety of predatory and parasitic insects such as syrphid flies, tachinid flies, parasitic wasps lacewings, lady beetles, and minute pirate bugs. Oregano may also help to repel aphids. Oregano tends to bloom in mid-summer. The leaves are more flavorful before the plant forms flowers, but do not harvest too aggressively if you want it to bloom!
 
 ### Parsley
+
+**Scientific name:** 
+
+
 
 ### Rosemary
 
