@@ -58,21 +58,26 @@ Studies have found chamomile to be highly attractive to syrphid flies as well as
 
 ![Flowering cilantro with a bee and a hoverfly on the white flowers](https://ucarecdn.com/72479e25-2174-43be-9d05-af6aa01bddd1/Cilantro-flowers-Planter.jpg)
 
-Cilantro goes to flower readily especially when warm, dry weather arrives in late spring to summer. While this can be disappointing if you're growing cilantro for it's leaves, it's a boon for attracting a variety of beneficial insects such as syrphid flies, tachinid flies, lacewings, lady beetles, and minute pirate bugs. Plus you can let cilantro continue on to form seed then harvest the seeds either to make coriander or to re-plant!
+Cilantro goes to flower readily especially when warm, dry weather arrives in late spring to summer. While this can be disappointing if you're growing cilantro for it's leaves, it's a boon for attracting a variety of beneficial insects such as syrphid flies, tachinid flies, lacewings, lady beetles, and minute pirate bugs. Plus you can let cilantro form seed then harvest the seeds either to make coriander or to plant!
 
 ### Dill
 
-**Scientific name:** *Ammi majus* | Click to search on Google Images
+**Scientific name:** *Anethum graveolens*
 
 ![Yellow dill flowers with a syrphid fly on them](https://ucarecdn.com/7e81b70f-f251-46f8-a5ba-554767841a5f/Dill-flowers.jpg)
 
-Dill is awesome
+While dill is technically a biennial it often flowers in the first season, depending on the variety and when it was planted. Dill is attractive to syrphid flies, lacewings, lady beetles, and parasitic wasps. You might also find green-black-and-yellow caterpillars on your dill plants. These are black swallowtail butterfly larvae, and while they do eat dill (and related plants) they rarely cause major damage. It's best to leave them be! 
+
+As a bonus, dill may also have a repellent effect on aphids, cabbage loopers, squash bugs, and other pests. 
+Plus dill readily self-seeds if the flowers are left to form seed heads!
 
 ### Lavender
 
-**Scientific name:** *Ammi majus* | Click to search on Google Images
+**Scientific name:** *Lavandula*
 
-In a [study of insectary plants from the University of Connecticut](<>), *Ammi majus* was found to attract the highest number of beneficial predatory and parasitic insect families amongst all plants studied. Ammi was also the only plant in the study that attracted two types of [parasitic wasps](<>)- braconids and ichneumonids.
+![Purple lavender blooms with a tiny bee on them and other flowering plants blurred in the background](https://ucarecdn.com/a63ebfcb-3166-4630-8951-b92b8d8ec3a5/Lavender.jpg)
+
+English lavender is attractive to syrphid flies and lady beetles. Lavender is a drought-tolerant plant once established that does not like 'wet feet', although it will flower best if not left to completely dry out. The scent of lavender, while appealing to many of us, may have a repellent effect on mosquitos, moths, and other pests.
 
 ### Marigold
 
