@@ -13,13 +13,11 @@ relative = false
 alt = "Potted plants with a garden trowel"
 image = "https://ucarecdn.com/86864ea2-b971-470e-a06d-b6215a7fd9b4/high-angle-potted-plants-shovel (1).jpg"
 +++
-**“How much should I plant?”** is just one of the many questions to ask when planning your garden. Another is **“How can I best use my garden space?”** 
+**“How much should I plant?”** is just one of the many questions to ask when planning your garden. Another is **“How can I best use my garden space?”** This is what we'll cover in this second article.
 
 Many gardeners will plan one thing to grow in a row or an entire garden bed. However, with some careful planning, you can make use of the time before those plants go in and after you take them out.
 
-A single garden bed might grow radishes in spring, beans in summer, and spinach in fall—if you plan it right.
-
-This is the heart of **succession planting**: using the same space for multiple crops (of the same plant, or different plants) over the course of the season. It’s not just for serious growers. Even a small garden can produce a surprising amount when the timing lines up.
+This is the heart of **succession planting**: using the same space for multiple crops (the same plant, or different plants) over the course of the growing season. It’s not just for serious growers. Even a small garden can produce a surprising amount when the timing lines up.
 
 ### Planting in Succession
 
