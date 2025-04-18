@@ -85,6 +85,8 @@ You may not know exactly how much to plant the first year, so keeping notes and 
 
 {{< notice info >}}Yields vary by location.{{< /notice >}}
 
+![](https://ucarecdn.com/822f47dd-d32f-4a18-a736-7dff4d110a15/low-angle-view-fruits-hanging-tree.jpg)
+
 ### Other Considerations
 
 **Crop Rotation**
