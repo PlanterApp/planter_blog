@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Planning How Much to Grow"
 description = "A short series offering guidance on getting the best yield from your garden space."
 slug = "Planning How Much to Grow"
