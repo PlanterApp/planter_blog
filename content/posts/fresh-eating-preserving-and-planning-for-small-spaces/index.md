@@ -24,6 +24,7 @@ Many herbs can be dried, and vegetables like carrots and onions can be chopped a
 
 * [Storing Herbs](https://blog.planter.garden/posts/how-to-dry-herbs-from-the-garden/) - by Samantha
 * [A Guide to Canning](https://blog.planter.garden/posts/a-beginner-s-guide-to-canning/) - by Jessalyn
+* [Storing Veg (without a root cellar)](https://blog.planter.garden/posts/root-cellaring-without-a-root-cellar/)  - by Jared
 
 Storing produce over the winter means growing more at the right time. If you live in a cold climate, remember that food consumption typically rises during the winter months (around 10-30%), so if your goal is to be self-sufficient from your garden, this is an important consideration. 
 
@@ -80,14 +81,9 @@ Planting the same crop in the same spot year after year depletes soil nutrients.
 
 Determinate plants (like some tomatoes and beans) produce all at once—great for preserving, but potentially overwhelming. Indeterminate varieties yield steadily over time, ideal for fresh eating. Knowing the type helps you plan harvest timing and storage needs.
 
-
-
 ### Recording Information
 
-
 Tracking your garden’s performance helps you grow smarter each season. Key things to note:
-
-
 
 * **What worked (and didn’t):** Which varieties thrived? Which ones struggled or weren’t worth the effort? 
 * **Yields vs. expectations:** Did you get more or less than you thought? Were there any surprises? 
