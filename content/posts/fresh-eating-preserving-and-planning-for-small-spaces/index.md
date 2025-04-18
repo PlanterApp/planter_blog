@@ -15,7 +15,7 @@ alt = "fresh produce"
 +++
 We've covered a good number of considerations that you should make when planning what, when, and where to grow. 
 
-In this article, we’ll explore ways to manage yields, store food and herbs, and offer tips for gardening in tight spaces. We’ll also discuss planting strategies, storage techniques, and ways to keep your harvest fresh longer, whether you’re in a small apartment, a large backyard, or somewhere in between.
+In this final article, we’ll explore ways to manage yields, store food and herbs, and offer tips for gardening in tight spaces. We’ll also discuss planting strategies, storage techniques, and ways to keep your harvest fresh longer, whether you’re in a small apartment, a large backyard, or somewhere in between.
 
 ### Eating Fresh vs Storing
 
