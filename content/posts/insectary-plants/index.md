@@ -77,13 +77,15 @@ Plus dill readily self-seeds if the flowers are left to form seed heads!
 
 ![Purple lavender blooms with a tiny bee on them and other flowering plants blurred in the background](https://ucarecdn.com/a63ebfcb-3166-4630-8951-b92b8d8ec3a5/Lavender.jpg)
 
-English lavender is attractive to syrphid flies and lady beetles. Lavender is a drought-tolerant plant once established that does not like 'wet feet', although it will flower best if not left to completely dry out. The scent of lavender, while appealing to many of us, may have a repellent effect on mosquitos, moths, and other pests.
+English lavender is attractive to syrphid flies and lady beetles. Lavender is a drought-tolerant plant once established that does not like 'wet feet', although it will flower best if not left to completely dry out. Lavender typically blooms from late spring to early summer. The scent of lavender, while appealing to many of us, may have a repellent effect on mosquitos, moths, and other pests.
 
 ### Marigold
 
-**Scientific name:** *Ammi majus* | Click to search on Google Images
+**Scientific name:** *Tagetes spp.*
 
-In a [study of insectary plants from the University of Connecticut](<>), *Ammi majus* was found to attract the highest number of beneficial predatory and parasitic insect families amongst all plants studied. Ammi was also the only plant in the study that attracted two types of [parasitic wasps](<>)- braconids and ichneumonids.
+![Several marigold plants with bright orange flowers](https://ucarecdn.com/b9c0f321-b281-410c-be1d-36d101750df3/Marigolds.jpg)
+
+Marigolds are a well-known beneficial garden plant, and for good reason! Marigolds are attractive to a variety of beneficial insects including lacewings, damsel bugs, big-eyed bugs, lady beetles, parasitic wasps, and minute pirate bugs. Marigolds also have many reputed pest-deterring properties, although only some of these are proven with research and the effects can vary depending on the type of marigold and how it is used.
 
 ### Mint
 
