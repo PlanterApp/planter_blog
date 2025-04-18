@@ -61,7 +61,7 @@ Everything except the Zinnia will overwinter quite nicely where I live. The turn
 
 You may not know exactly how much to plant the first year, so keeping notes and logs is useful. Note what varieties grow well, how long they took to grow, how long they kept in the ground, stored in the fridge, etc., to help you carefully plan next year’s harvest. Additionally, you can estimate many varieties by looking at the *per-plant yield.* We’ve linked some good resources below to help you.
 
-* [Cornell Guide](https://bpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/c/10116/files/Recommended-spacing-and-expected-yield-for-garden-vegetables-in-New-York-1iozy2c.pdf)
+* [Cornell Yield Guide](https://bpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/c/10116/files/Recommended-spacing-and-expected-yield-for-garden-vegetables-in-New-York-1iozy2c.pdf)
 * [Michigan State Extension](https://www.canr.msu.edu/uploads/files/Table%204.pdf)[](https://www.canr.msu.edu/uploads/files/Table%204.pdf)
 * [UC Master Gardener Program](https://ucanr.edu/node/135476/printable/print)[](https://ucanr.edu/node/135476/printable/print)
 * [Penn State Extension](https://extension.psu.edu/crop-yield-estimates-for-vegetables)
@@ -95,7 +95,7 @@ Tracking your garden’s performance helps you grow smarter each season. Key thi
 * **Over-- or under-planted:** Did you grow too much of something? Not enough? 
 * **Pests, weather & timing:** Jot down issues like late frosts, drought, or recurring pest problems, plus when each crop actually matured.
 
-
+![](https://ucarecdn.com/cbd067bc-e2b7-44a0-80d5-5d002b7b048d/vegetables%20(1).jpg)
 
 ### At the Harvest
 
