@@ -101,4 +101,8 @@ Tracking your garden’s performance helps you grow smarter each season. Key thi
 
 There's a lot to consider when planning how much to grow. It's unlikely you'll have a perfect garden your first year, but keeping track of everything will set you up for success.
 
-Planting
+Planting crops in succession, or staggering them by time or variety, can extend your harvest and give you plentiful amounts of produce throughout the year.
+
+Whatever you choose to garden, remember to enjoy it. 
+
+Best of luck!
