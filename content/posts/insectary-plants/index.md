@@ -18,7 +18,7 @@ What makes a plant an insectary plant? Insectary plants provide food sources and
 
 You might be wondering: ‘if beneficial insects eat pests, why do they need plants for food?’ In many cases it’s the beneficial insects' larvae that prey on insect pests while the adults feed mainly on pollen and nectar. This is why many insectary plants tend to be flowers or flowering herbs. In the case of herbs, it's important to let at least some of the plants bloom if you want to attract beneficial insects.
 
-Keep in mind that one lonely flowering plant will not entice an army of pest hunters! Aim to plant as many insectary plants as is possible with the space you have and be sure to plant insectary plants with different bloom times to provide pollen and nectar all season long. Also, place insectary close to the plants you want to protect. If they're too far away from your main garden the beneficial insects may not make the trek over.
+Keep in mind that one lonely flowering plant will not entice an army of pest hunters! Aim to plant as many insectary plants as is possible with the space you have, and be sure to plant insectary plants with different bloom times to provide pollen and nectar all season long. Also, place insectary close to the plants you want to protect. If they're too far away from your main garden the beneficial insects may not make the trek over.
 
 To help with incorporating insectary plants in your garden plan, we've compiled a list of some common insectary plants and which beneficial insects they attract:
 
