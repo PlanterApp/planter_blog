@@ -14,13 +14,13 @@ alt = "A lush garden with several different types of flowers and vegetables"
 +++
 # An introduction to insectary plants
 
-If you've already read our article [Pest Hunters: Beneficial Predatory and Parasitic Insects](https://blog.planter.garden/posts/beneficial-predatory-insects/), you know that there are many beneficial insects that prey on garden pests. Better yet, we can attract these pest-killers to our gardens by planting 'insectary plants'.
+What makes a plant an insectary plant? Insectary plants provide food sources and shelter for beneficial insects, which attracts them and encourages them to stick around your garden. If you've already read our article [Pest Hunters: Beneficial Predatory and Parasitic Insects](<>), you know that there are many beneficial insects that prey on garden pests. By planting insectary plants we can encourage these predatory and parasitic insects to take up residence in our garden. Not to mention supporting pollinators which are also much appreciated garden helpers!
 
-What makes a plant an insectary plant? Insectary plants provide food sources and shelter for beneficial insects, which attracts them and encourages them to stick around your garden. You might be wondering: ‘if beneficial insects eat pests, why do they need plants for food?’ In many cases it’s the beneficial insects' larvae that prey on insect pests while the adults feed mainly on pollen and nectar. That is why many insectary plants tend to be flowers or flowering herbs. In the case of herbs like cilantro and dill it's important to leave at least some of the plants to bloom if you want to attract beneficial insects, rather than just harvesting the leaves then pulling the plants out when they start to flower.
+You might be wondering: ‘if beneficial insects eat pests, why do they need plants for food?’ In many cases it’s the beneficial insects' larvae that prey on insect pests while the adults feed mainly on pollen and nectar. This is why many insectary plants tend to be flowers or flowering herbs. In the case of herbs, it's important to let at least some of the plants bloom if you want to attract beneficial insects.
 
-If you want to incorporate insectary plants in your garden, plan to have a variety of plants with different bloom times to keep the beneficial insects there all season long. Aim to plant as many insectary plants as is possible with the space you have and be sure to plant them close to the plants you want to protect. If they're too far away from your main garden the beneficial insects and their young may not make the trek over.
+Keep in mind that one lonely flowering plant will not entice an army of pest hunters! Aim to plant as many insectary plants as is possible with the space you have and be sure to plant insectary plants with different bloom times to provide pollen and nectar all season long. Also, place insectary close to the plants you want to protect. If they're too far away from your main garden the beneficial insects may not make the trek over.
 
-We've compiled a list of some common insectary plants and which beneficial insects they attract:
+To help with incorporating insectary plants in your garden plan, we've compiled a list of some common insectary plants and which beneficial insects they attract:
 
 # List of insectary plants
 
