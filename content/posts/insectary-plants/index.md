@@ -4,7 +4,7 @@ title = "What Are Insectary Plants?"
 slug = "insectary-plants"
 date = "2025-04-17T11:00:00.000Z"
 author = "Erin Thomson"
-plants = ["Ammi", "Basil", "Borage", "California Poppy", "Catnip", "Chamomile", "Cilantro", "Dill", "Lavender", "Marigold", "Mint", "Nasturtium", "Oregano", "Parsley", "Rosemary", "Savory", "Sunflowers", "Sweet Alyssum", "Thyme"]
+plants = ["Ammi", "Basil", "Borage", "California Poppy", "Catnip", "Chamomile", "Cilantro", "Dill", "Lavender", "Marigold", "Mint", "Oregano", "Parsley", "Sunflowers", "Sweet Alyssum", "Thyme"]
 tags = []
 
 [cover]
@@ -133,12 +133,18 @@ Sunflowers are a tall and striking addition in the vegetable garden. They are at
 
 ### Sweet alyssum
 
+**Scientific name:** *Lobularia maritima*
+
 ![Alyssum plants with tiny white flowers in a stone planter](https://ucarecdn.com/7fcd7a84-acfb-454f-a5f7-0286f10341ac/Alyssum.jpg)
 
 Alyssum is a well-documented insectary plant that is attractive to syrphid flies, lacewings, tachinid flies, lady beetles, minute pirate bugs, and parasitic wasps. Because it is a compact, low-growing plant, alyssum can be tucked into almost any empty space in the garden to lure in beneficial insects (and to help suppress weeds and retain moisture). Alyssum can bloom from summer to fall, although it may slow down during very hot, dry weather. Keep alyssum well-watered and deadhead regularly to encourage continuous blooming.
 
 ### Thyme
 
+**Scientific name:** *Lobularia maritima*
+
 ![A thyme plant with dainty white flowers](https://ucarecdn.com/5b8efbf3-c056-4b16-ba44-77a92d726f34/Thyme-flowers.jpg)
+
+Beneficial insects tend to prefer many smaller flowers rather than individual larger flowers. Thyme, with its dainty white or pink flowers, is highly attractive to parasitic wasps, syrphid flies and other beneficial insects. Thyme can also help to repel whiteflies and cabbage moths. Thyme will typically bloom from late spring to summer. As with oregano, thyme leaves are best harvested right before the plant flowers but do not harvest too aggressively if you want to encourage bloom.
 
 There are certainly many more insectary plants than the ones listed here! Of course there will be native plants specific to your area that can help to attract local beneficial predatory and parasitic insects to the garden. Also, research is just beginning to understand how particular garden plants can be best used for natural pest control. No matter which plants you choose, adding a variety of flowering plants in the garden is a great way to beautify the space while providing potential benefits to your edible crops!
