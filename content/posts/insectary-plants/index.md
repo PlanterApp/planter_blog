@@ -129,7 +129,7 @@ Parsley is attractive to syrphid flies, lady beetles, parasitic wasps, and tachi
 
 ![A close-up of a bright yellow sunflower with a bee on it](https://ucarecdn.com/769dc5f1-94a5-49f4-8d79-a714b785a52e/Sunflower-Planter.jpg)
 
-Sunflowers are a tall and striking addition in the vegetable garden. They are attractive to syrphid flies, parasitic wasps, lady beetles, and minute pirate bugs. Not that some speciality sunflower varieties do not produce nectar or pollen so they will not be helpful for beneficial insects (nor pollinators). Sunflowers usually bloom in late summer and early fall, providing a great late-season food source. Sunflowers can share pests and diseases in common with vegetable plants, more so than some of the other insectary plants. Because of this, and because of their height, choose a location where sunflowers will not interfere with or shade out other garden plants.
+Sunflowers are a tall and striking addition in the vegetable garden. They are attractive to syrphid flies, parasitic wasps, lady beetles, and minute pirate bugs. Not that some speciality sunflower varieties do not produce nectar or pollen so they will not be helpful for beneficial insects (nor pollinators). Sunflowers usually bloom in late summer and early fall, providing a great late-season food source. Because sunflowers are tall and may share pests and diseases with other garden plants (more so than some of the other insectary plants), choose a location where sunflowers will not interfere with or shade out other garden plants.
 
 ### Sweet alyssum
 
@@ -139,4 +139,4 @@ Sunflowers are a tall and striking addition in the vegetable garden. They are at
 
 ![A thyme plant with dainty white flowers](https://ucarecdn.com/5b8efbf3-c056-4b16-ba44-77a92d726f34/Thyme-flowers.jpg)
 
-There are certainly many more insectary plants than the ones listed here! There will be native plants specific to your area that can help to attract local beneficial predatory and parasitic insects to the garden. Also, research is just beginning to understand how particular garden plants can be best used for natural pest control. No matter which plants you choose, adding a variety of flowering plants in the garden is a great way to beautify the space while providing potential benefits to your edible crops!
+There are certainly many more insectary plants than the ones listed here! Of course there will be native plants specific to your area that can help to attract local beneficial predatory and parasitic insects to the garden. Also, research is just beginning to understand how particular garden plants can be best used for natural pest control. No matter which plants you choose, adding a variety of flowering plants in the garden is a great way to beautify the space while providing potential benefits to your edible crops!
