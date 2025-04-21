@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "What Are Insectary Plants?"
 slug = "insectary-plants"
 date = "2025-04-17T11:00:00.000Z"
@@ -22,7 +22,7 @@ Keep in mind that one lonely flowering plant will not entice an army of pest hun
 
 To help with incorporating insectary plants in your garden plan, we've compiled a list of some common insectary plants and which beneficial insects they attract:
 
-# Common insectary plants
+# List of insectary plants
 
 ### Ammi
 
