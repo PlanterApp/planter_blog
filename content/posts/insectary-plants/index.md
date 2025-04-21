@@ -141,7 +141,7 @@ Alyssum is a well-documented insectary plant that is attractive to syrphid flies
 
 ### Thyme
 
-**Scientific name:** *Lobularia maritima*
+**Scientific name:** *Thymus spp.*
 
 ![A thyme plant with dainty white flowers](https://ucarecdn.com/5b8efbf3-c056-4b16-ba44-77a92d726f34/Thyme-flowers.jpg)
 
