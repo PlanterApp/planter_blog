@@ -38,7 +38,7 @@ To help with incorporating insectary plants in your garden plan, we've compiled 
 
 ![Purple-blue flowers on a borage plant in the garden](https://ucarecdn.com/5f32185c-6ae8-446e-9977-0bcab7644b33/Borage.jpg)
 
-Borage is a favorite pollinator plant. Its delicate blue flowers can be used to add a cucumber-like flavor to drinks and dishes. Borage is also highly attractive to beneficial insects such as lacewings, syrphid flies, and ground beetles. Borage may even help to repel hornworms and other pests! Borage self-seeds prolifically; regular deadheading can help to encourage flowering and to reduce the amount of seeds dropped. With good care borage will bloom for most of the growing season- from June to October or longer!
+Borage is a favored pollinator plant in the garden. It is also highly attractive to beneficial insects such as lacewings, syrphid flies, and ground beetles. Borage may even help to repel hornworms and other pests! Borage self-seeds prolifically; regular deadheading can help to encourage flowering and to reduce the amount of seeds dropped. With good care borage will bloom for most of the growing season- from June to October or longer.
 
 ### California poppy
 
