@@ -4,7 +4,7 @@ title = "What Are Insectary Plants?"
 slug = "insectary-plants"
 date = "2025-04-17T11:00:00.000Z"
 author = "Erin Thomson"
-plants = ["Ammi", "Basil", "Borage", "California Poppy", "Catnip", "Chamomile", "Cilantro", "Dill", "Lavender", "Marigold", "Mint", "Oregano", "Parsley", "Sunflowers", "Sweet Alyssum", "Thyme"]
+plants = ["Ammi", "Borage", "California Poppy", "Catnip", "Chamomile", "Cilantro", "Dill", "Lavender", "Marigold", "Mint", "Oregano", "Parsley", "Sunflowers", "Sweet Alyssum", "Thyme"]
 tags = []
 
 [cover]
@@ -22,7 +22,7 @@ Keep in mind that one lonely flowering plant will not entice an army of pest hun
 
 To help with incorporating insectary plants in your garden plan, we've compiled a list of some common insectary plants and which beneficial insects they attract:
 
-# List of insectary plants
+# Common insectary plants
 
 ### Ammi
 
