@@ -14,7 +14,7 @@ alt = "A lush garden with several different types of flowers and vegetables"
 +++
 # An introduction to insectary plants
 
-What makes a plant an insectary plant? Insectary plants provide food sources and shelter for beneficial insects, which attracts them and encourages them to stick around your garden. If you've already read our article [Pest Hunters: Beneficial Predatory and Parasitic Insects](<>), you know that there are many beneficial insects that prey on garden pests. By planting insectary plants we can encourage these predatory and parasitic insects to take up residence in our garden. Not to mention supporting pollinators which are also much appreciated garden helpers!
+What makes a plant an insectary plant? Insectary plants provide food sources and shelter for beneficial insects, which attracts them and encourages them to stick around your garden. If you've already read our article [Pest Hunters: Beneficial Predatory and Parasitic Insects](https://blog.planter.garden/posts/beneficial-predatory-insects/), you know that there are many beneficial insects that prey on garden pests. By planting insectary plants we can encourage these predatory and parasitic insects to take up residence in our garden. Not to mention supporting pollinators which are also much appreciated garden helpers!
 
 You might be wondering: ‘if beneficial insects eat pests, why do they need plants for food?’ In many cases it’s the beneficial insects' larvae that prey on insect pests while the adults feed mainly on pollen and nectar. This is why many insectary plants tend to be flowers or flowering herbs. In the case of herbs, it's important to let at least some of the plants bloom if you want to attract beneficial insects.
 
