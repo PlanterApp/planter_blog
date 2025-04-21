@@ -70,7 +70,7 @@ Studies have found chamomile to be highly attractive to syrphid flies as well as
 
 ![Flowering cilantro with a bee and a hoverfly on the white flowers](https://ucarecdn.com/72479e25-2174-43be-9d05-af6aa01bddd1/Cilantro-flowers-Planter.jpg)
 
-Cilantro goes to flower readily especially when warm, dry weather arrives in late spring to summer. While this can be disappointing if you're growing cilantro for it's leaves, it's a boon for attracting a variety of beneficial insects such as syrphid flies, tachinid flies, parasitic wasps lacewings, lady beetles, and minute pirate bugs. Plus you can let cilantro form seed then harvest the seeds either to make coriander or to plant!
+Cilantro goes to flower readily especially when warm, dry weather arrives in late spring to summer. While this can be disappointing if you're growing cilantro for it's leaves, it's a boon for attracting a variety of beneficial insects such as syrphid flies, tachinid flies, parasitic wasps lacewings, lady beetles, and minute pirate bugs. Plus you can let cilantro form seeds then harvest them either to make coriander or to re-plant!
 
 ### Dill
 
