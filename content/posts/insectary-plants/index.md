@@ -54,7 +54,7 @@ California poppies are native to the western United States and Mexico. They are 
 
 ![A close-up shot of white blooms on a catnip plant](https://ucarecdn.com/6dab05b2-0d58-4983-82a1-f7a2f1496d3a/Catnip.jpg)
 
-Catnip does double duty when comes to pest control. Not only does it attract beneficial nectar-feeding insects such as syrphid flies, but it also produces compounds that have been shown to repel pests such as aphids, squash bugs, and others. Catnip is an extremely aggressive spreader that also self-seeds prolifically, so you'll want to keep it contained and grow it in an area where it cannot easily self-seed. Catnip usually blooms from late spring to mid-summer; deadheading when flowers die back can help to promote new blooms
+Catnip does double duty when comes to pest control. Not only does it attract beneficial nectar-feeding insects such as syrphid flies, but it also produces compounds that have been shown to repel pests such as aphids, squash bugs, and others. Catnip is an extremely aggressive spreader that also self-seeds prolifically, so you'll want to keep it contained and grow it in an area where it cannot easily self-seed. Catnip usually blooms from late spring to mid-summer; deadheading when flowers die back can help to promote new blooms and reduce seed drop.
 
 ### Chamomile
 
