@@ -20,7 +20,7 @@ You might be wondering: ‘if beneficial insects eat pests, why do they need pla
 
 Keep in mind that one lonely flowering plant will not entice an army of pest hunters! Aim to plant as many insectary plants as is possible with the space you have, and be sure to plant insectary plants with different bloom times to provide pollen and nectar all season long. Also, place insectary close to the plants you want to protect. If they're too far away from your main garden the beneficial insects may not make the trek over.
 
-To help with incorporating insectary plants in your garden plan, we've compiled a list of some common insectary plants and which beneficial insects they attract:
+To help with incorporating insectary plants in your garden plan, we've compiled a list of some common insectary plants and the beneficial insects they attract:
 
 # List of insectary plants
 
