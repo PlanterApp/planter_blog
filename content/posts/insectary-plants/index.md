@@ -85,11 +85,11 @@ Plus dill readily self-seeds if the flowers are left to form seed heads!
 
 ### Lavender
 
-**Scientific name:** *Lavandula*
+**Scientific name:** *Lavandula spp.*
 
 ![Purple lavender blooms with a tiny bee on them and other flowering plants blurred in the background](https://ucarecdn.com/a63ebfcb-3166-4630-8951-b92b8d8ec3a5/Lavender.jpg)
 
-English lavender is attractive to syrphid flies and lady beetles. Lavender is a drought-tolerant plant once established that does not like 'wet feet', although it will flower best if not left to completely dry out. Lavender typically blooms from late spring to early summer. The scent of lavender, while appealing to many of us, may have a repellent effect on mosquitos, moths, and other pests.
+English lavender is attractive to syrphid flies and lady beetles. Once established, lavender is a drought-tolerant plant that does not like 'wet feet', although it will flower best if not left to completely dry out. Lavender typically blooms from late spring to early summer. The scent of lavender, while appealing to many of us, may have a repellent effect on mosquitos, moths, and other pests.
 
 ### Marigold
 
