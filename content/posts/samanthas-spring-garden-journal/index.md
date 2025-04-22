@@ -12,6 +12,8 @@ relative = false
 image = "https://ucarecdn.com/9ff01479-66a8-4a8b-9a78-492648db1787/IMG_7738.JPEG"
 alt = "Calendula growing out of a cinder block"
 +++
+I'm gardening in the Pacific Northwest, USDA growing zone 8b, specifically Oregon on the west side of the Cascade mountain range. We get a lot of rainfall from autumn through spring, but our summers are typically hot and dry. Living in the Willamette Valley means I'm fortunate to have so-called mild winters and very fertile soil.  That also means I have a lot of weeds trying to move into my garden all year round.
+
 For my 2025 garden, my primary focus has been on reclaiming the parts of it that have been overcome by grass.  My garden is very close to our hay field, and keeping grass/hay out of my garden beds is always a constant battle.  Admittedly, I didn’t do much weed control during the winter, and now I’m playing catch-up. This spring has been flying by already! 
 
 ![Garden bed with plants and weeds](https://ucarecdn.com/8f8f27bb-f532-42ff-b692-96a6677fc4a0/IMG_7733.JPEG "Part of my medicinal garden bed. Some grass needs to be removed.")
