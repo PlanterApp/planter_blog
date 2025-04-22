@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Samantha's Spring Garden Journal"
 slug = "samanthas-spring-garden-journal"
 date = "2025-04-22T10:22:00.000Z"
@@ -48,8 +48,8 @@ April means it’s time for me to give my lavender plants their springtime “ha
 
 ### Plans for Spring
 
-I’ve got a lot of work ahead of me before summer arrives. I have one corner of my garden where there are tree roots very close to the surface. Everything I've tried to plant in the ground there dies. So this year I want to try a “no-dig garden bed,” where I will lay down layers of cardboard in a row and then cover up the cardboard with several inches of soil. You then plant directly into your piled soil, so there is no digging required.  I’ve never grown anything this way, so I hope it goes well. 
+I’ve got a lot of work ahead of me before summer arrives. I have one corner of my garden where there are tree roots very close to the surface. Every plant I've tried to grow in the ground there dies. This year I want to try a “no-dig garden bed,” where I will lay down layers of cardboard in a row and then cover up the cardboard with several inches of soil. You then plant directly into your piled soil, so there is no digging required.  I’ve never grown anything this way, so I hope it goes well. 
 
 ![Garden plan in the Planter App of a tomato, basil, and peppers](https://ucarecdn.com/b90d9e34-d25d-4a72-9b3e-af0a25356f28/Screenshot%20(38).png "My no-dig garden bed")
 
-Thanks for reading my springtime garden journal! I’ll post again with all my new garden **buzz** soon.
+Thanks for reading my springtime garden journal! My garden is sure to be **buzzing** with new excitement soon and I'll be posting again.
