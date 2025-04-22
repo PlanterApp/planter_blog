@@ -28,7 +28,11 @@ My medicinal herb bed is made up of many perennials, so I don’t have to do muc
 
 ![Close-up of a horehound plant](https://ucarecdn.com/45db67b8-3965-4eff-9ad9-1b974e90abdf/IMG_7734.JPEG "Horehound")
 
-### Garden Maintenance 
+Some seeds I have started are: ashwagandha, basil, bok choy, clary sage, garden sage, and splianthes. 
+
+![Clary sage seedlings](https://ucarecdn.com/3d97b8dc-1fab-42a8-966f-991996471323/-/crop/1532x1213/0,632/-/preview/IMG_7748.JPEG "Clary sage seedlings")
+
+### Garden Maintenance
 
 A couple years ago, I planted just two calendula plants.  Every year since I’ve had an abundance of self-seeded calendulas pop up every spring. At first, this was delightful! I use a lot of calendula when I make my salves. But last year, they started to become a “garden thug” where they got so out of control they would choke out other plants. How much calendula does a girl need?! So this year, I’m taking a proactive approach, and as much as it saddens me, I’ve been plucking out calendula seedlings all over the place. I will leave a few, of course. 
 
