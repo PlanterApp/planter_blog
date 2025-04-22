@@ -129,7 +129,7 @@ Parsley is attractive to syrphid flies, lady beetles, parasitic wasps, and tachi
 
 ![A close-up of a bright yellow sunflower with a bee on it](https://ucarecdn.com/769dc5f1-94a5-49f4-8d79-a714b785a52e/Sunflower-Planter.jpg)
 
-Sunflowers are a tall and striking addition in the vegetable garden. They are attractive to syrphid flies, parasitic wasps, lady beetles, and minute pirate bugs. Not that some speciality sunflower varieties do not produce nectar or pollen so they will not be helpful for beneficial insects (nor pollinators). Sunflowers usually bloom in late summer and early fall, providing a great late-season food source. Because sunflowers are tall and may share pests and diseases with other garden plants (more so than some of the other insectary plants), choose a location where sunflowers will not interfere with or shade out other garden plants.
+Sunflowers are a tall and striking addition in the vegetable garden. They are attractive to syrphid flies, parasitic wasps, lady beetles, and minute pirate bugs. Note that some speciality sunflower varieties do not produce nectar or pollen so they will not be helpful for beneficial insects (nor pollinators). Sunflowers usually bloom in late summer and early fall, providing a great late-season food source. Because sunflowers are tall and may share pests and diseases with other garden plants (more so than some of the other insectary plants), choose a location where sunflowers will not interfere with or shade out other garden plants.
 
 ### Sweet alyssum
 
