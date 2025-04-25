@@ -11,13 +11,13 @@ relative = false
 image = "https://ucarecdn.com/7903deca-8852-40a1-8ad5-de6c26ffd63b/flower.jpg"
 alt = "Flower bed with winding garden path"
 +++
-A well-planned flower bed can be a visual delight and a haven for pollinators. But crafting a beautiful bed can feel daunting—no one wants to lose plants after all that work! This article will walk you through a 4×8 ft layout that balances structure, color, and bloom succession.
+A well-planned flower bed can be a visual delight and a haven for pollinators. But crafting a beautiful bed can feel daunting—no one wants to lose plants after all that work! Here’s a 4×8 ft layout that balances structure, color, and bloom succession—plus tips to adapt it for your space.
 
-This flower bed is best suited for zones 6-8 (with some wiggle room), and is based on two garden beds I grew a few years ago. Now that I’m in the Desert Southwest, this layout isn’t feasible for me anymore—but it’s perfect for many of you!
+This flower bed is best suited for **zones 6-8** (with some wiggle room on either side), and is based on two garden beds I grew a few years ago in the UK. Now that I’m in the Desert Southwest, this layout isn’t feasible for me anymore—but it’s perfect for many of you!
 
 ![Flower bed designed using the Planter app containing six flower types.](https://ucarecdn.com/2acbbe6e-2030-43bd-af64-c9be1f0771d1/Flower%20Bed.png)
 
-Here’s how the design works—with some tips to inspire your own garden.
+
 
 ### The Plant List
 
@@ -79,7 +79,7 @@ Layering bloom times means there’s always something happening in the bed. And 
 
 The symmetry here is almost—but not perfectly—balanced. That’s intentional. Perfect symmetry can feel stiff, and if one plant fails, it becomes obvious. Slight variation helps the design feel natural.
 
-![Garden bed markup with solid colors](https://ucarecdn.com/f36bd667-bd19-4af6-a749-b080dc1f36a3/tempsnip1.png "Another markup in MS Paint. This helps me visualize how balanced the bed will feel.")
+![Garden bed markup with solid colors](https://ucarecdn.com/f36bd667-bd19-4af6-a749-b080dc1f36a3/tempsnip1.png "Another markup in MS Paint. This helps me spot any visual gaps or overly crowded zones before planting.")
 
 #### Plant Numbers
 
@@ -125,10 +125,10 @@ Or
 
 Don't be afraid to get out some pencils and paper. Sketch out designs and get a feel for the space; a small bed can accommodate a lot of flowers. 
 
+![Pink and white dahlias with green leaves](https://ucarecdn.com/aff8ea61-6156-4d91-ba79-13f79ff75727/pink-white-dahlia-flowers-against-green-leaves-park.jpg)
+
 ### Wrapping Up
 
 This 4×8 design shows how even a modest flower bed can feel lush, layered, and pollinator-friendly. With attention to grouping, height, and bloom timing, you can create a garden that feels both abundant and thoughtfully composed—one that thrives even if a few surprises pop up. 
 
-Even a modest bed, when layered with care, can overflow with beauty, life, and the quiet satisfaction of a thriving garden. 
-
-####
+Even a modest bed, when layered with care, can overflow with beauty, life, and the quiet rhythm of a flourishing garden.
