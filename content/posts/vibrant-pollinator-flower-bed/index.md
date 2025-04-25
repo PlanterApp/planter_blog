@@ -44,4 +44,26 @@ The Planter App works in squares, which is excellent for most garden plans. But 
 
 I like to mark up my designs (this one was done in MS Paint) to visualize how plants will overlap. I've aimed for **plenty of overlap at the front** to form a carpet that helps suppress weeds and hides bare stems that appear later on taller plants like cosmos and bee balm.
 
-###
+### Design Principles
+
+
+
+
+Rather than scattering individual plants, this design uses **clusters**, which offer several advantages:
+
+* You’re less dependent on one plant thriving.
+* Transitions between zones look smoother.
+* Blooms make more visual impact in groups.
+
+Key details:
+
+* **Snapdragons** are placed in mirrored sets of four, anchoring both ends and the center.
+* **Cosmos and Alyssum** are repeated throughout the bed, tying everything together.
+* **Nasturtiums** are staggered in three bold patches, balancing structure with a bit of whimsy.
+
+This approach avoids what can become a chaotic look by grouping plants by height, spacing out bloom times, and varying color just enough. Keep in mind, though, that some controlled chaos can work wonderfully too! You can balance the look and feel of your flower bed easily.
+
+You can mix and match color palettes for most of these plants. Personally, I lean toward a mix of pinks, reds, and oranges, with white Alyssum. This design would also work wonderfully with a varied blend of colors throughout; it’s very flexible.
+
+{{< notice tip >}}Try purples, blues, and soft whites for a more calming palette, or go bold with fiery reds and oranges to draw in butterflies and hummingbirds.{{< /notice >}}
+
