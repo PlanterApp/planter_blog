@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Designing a Flower Bed: A Plan Full of Color, Layers, and Pollinators"
 slug = "vibrant-pollinator-flower-bed"
 date = "2025-04-25T14:00:00.000Z"
