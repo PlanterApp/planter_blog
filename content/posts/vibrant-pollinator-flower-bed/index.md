@@ -92,7 +92,7 @@ With flowers, you have a little more wiggle room than with vegetables, in terms 
 * **Cosmos**: 6–8
 * **Nasturtiums**: 5-10 (size varies a lot)
 * **Alyssum**: 16-18
-* **Snapdragons**: Same as original plan
+* **Snapdragons**: Same as the original plan
 
 Since I’m starting from seed (and tubers for the dahlias), some loss and thinning are expected. The key to flower gardening is flexibility—you can always thin or expand a patch if something doesn’t thrive.
 
@@ -111,9 +111,9 @@ Since I’m starting from seed (and tubers for the dahlias), some loss and thinn
 
 ### Adapting This for Your Garden
 
-This style of layering and massing works in **beds of any size**, though smaller beds benefit from fewer large plants. In this 4×8, I’ve included three tall species: dahlia, bee balm, and snapdragon, which might be too much for, say, a 2×4 ft bed.
+This style of layering and massing works in beds of any size, though smaller beds benefit from fewer large plants. In this 4×8, I’ve included three tall species: dahlia, bee balm, and snapdragon, which might be too much for, say, a 2×4 ft bed.
 
-For a **smaller version**, you could:
+For a smaller version, you could:
 
 * Keep the Alyssum and Nasturtium at the front.
 * Mix Bee Balm and Cosmos together more densely.
