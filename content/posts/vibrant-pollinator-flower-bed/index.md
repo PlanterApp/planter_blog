@@ -13,7 +13,7 @@ alt = "Flower bed with winding garden path"
 +++
 A well-planned flower bed can be a visual delight and a haven for pollinators. But crafting a beautiful bed can feel daunting—no one wants to lose plants after all that work! Here’s a 4×8 ft layout that balances structure, color, and bloom succession—plus tips to adapt it for your space.
 
-This flower bed is best suited for **zones 6-8** (with some wiggle room on either side), and is based on two garden beds I grew a few years ago in the UK. Now that I’m in the Desert Southwest, this layout isn’t feasible for me anymore—but it’s perfect for many of you!
+This flower bed is best suited for **zones 6-8** (with some wiggle room on either side), and is based on two garden beds I grew a few years ago in the UK. Now that I’m in the Desert Southwest, this layout isn’t so practical for me anymore—but it’s perfect for many of you!
 
 ![Flower bed designed using the Planter app containing six flower types.](https://ucarecdn.com/2acbbe6e-2030-43bd-af64-c9be1f0771d1/Flower%20Bed.png)
 
@@ -34,7 +34,7 @@ Together, these plants will support bees, butterflies, and hummingbirds (if they
 
 ### The Layout
 
-The Planter App works in squares, which is excellent for most garden plans. But when it comes to flowers, **curves often work better**, helping the display feel natural and unified. This design uses three main zones:
+The Planter App works in squares, which is excellent for most garden plans. However, curves often work better when it comes to flower beds, helping the display feel natural and unified. This design uses three main zones:
 
 1. **Tall show plants** – Dahlias and snapdragons primarily occupy the back of the bed, so they don’t overshadow the others.
 2. **Medium-height massing plants** – Cosmos and bee balm help create a smooth transition with lots of texture and interest.
@@ -42,7 +42,9 @@ The Planter App works in squares, which is excellent for most garden plans. But 
 
 ![The earlier garden design with color markups to show flower overlap](https://ucarecdn.com/619f800b-231d-41fd-b489-d9c62881174f/tempsnip.png)
 
-I like to mark up my designs (this one was done in MS Paint) to visualize how plants will overlap. I've aimed for **plenty of overlap at the front** to form a carpet that helps suppress weeds and hides bare stems that appear later on taller plants like cosmos and bee balm.
+I like to mark up my designs (this one was done in MS Paint) to visualize how plants will overlap and where the curves will be. I've aimed for plenty of overlap at the front to form a carpet that helps suppress weeds and hides bare stems that appear later on taller plants like cosmos and bee balm.
+
+This can also be done using paper and pencil, which is generally my preferred method. 
 
 ### Design Principles
 
@@ -58,7 +60,7 @@ Key details:
 * **Cosmos and Alyssum** are repeated throughout the bed, tying everything together.
 * **Nasturtiums** are staggered in three bold patches, balancing structure with a bit of whimsy.
 
-This approach avoids what can become a chaotic look by grouping plants by height, spacing out bloom times, and varying color just enough. Keep in mind, though, that some controlled chaos can work wonderfully too! You can balance the look and feel of your flower bed easily.
+This approach avoids what can become a chaotic look by grouping plants by height, spacing out bloom times, and varying color just enough. Keep in mind, though, that some controlled chaos can work wonderfully too! You can balance the look and feel of your flower bed to your tastes!
 
 You can mix and match color palettes for most of these plants. I lean toward a mix of pinks, reds, and oranges, with white Alyssum. This design would also work wonderfully with a varied blend of colors throughout; it’s very flexible.
 
