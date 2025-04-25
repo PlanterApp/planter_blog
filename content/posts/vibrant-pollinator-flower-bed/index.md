@@ -2,6 +2,7 @@
 draft = true
 title = "Designing a Flower Bed: A Plan Full of Color, Layers, and Pollinators"
 slug = "vibrant-pollinator-flower-bed"
+date = "2025-04-25T14:00:00.000Z"
 author = "Sam Liddicott"
 plants = ["Dahlia", "Snapdragon", "Bee Balm", "Cosmos", "Alyssum", "Nasturtium"]
 tags = ["flowers", "pollinators"]
@@ -124,6 +125,9 @@ Or
 * Offset five Dahlias in a staggered pattern. 
 * Fill in with Alyssum and Marigolds at the front.
 * Fill in with Snapdragons at the rear.
+
+
+For larger and/or longer beds, try extending the central massing of Bee Balm and Cosmos into a broader wave or repeating the Snapdragon/Dahlia anchor at intervals to create rhythm across the space. Long borders do well with layered depth—taller plants in the back, of course, but also repeating colors or shapes to tie the space together.
 
 Don't be afraid to get out some pencils and paper. Sketch out designs and get a feel for the space; a small bed can accommodate a lot of flowers. 
 
