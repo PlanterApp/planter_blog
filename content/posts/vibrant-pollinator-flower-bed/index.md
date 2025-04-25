@@ -46,9 +46,6 @@ I like to mark up my designs (this one was done in MS Paint) to visualize how pl
 
 ### Design Principles
 
-
-
-
 Rather than scattering individual plants, this design uses **clusters**, which offer several advantages:
 
 * You’re less dependent on one plant thriving.
@@ -63,7 +60,75 @@ Key details:
 
 This approach avoids what can become a chaotic look by grouping plants by height, spacing out bloom times, and varying color just enough. Keep in mind, though, that some controlled chaos can work wonderfully too! You can balance the look and feel of your flower bed easily.
 
-You can mix and match color palettes for most of these plants. Personally, I lean toward a mix of pinks, reds, and oranges, with white Alyssum. This design would also work wonderfully with a varied blend of colors throughout; it’s very flexible.
+You can mix and match color palettes for most of these plants. I lean toward a mix of pinks, reds, and oranges, with white Alyssum. This design would also work wonderfully with a varied blend of colors throughout; it’s very flexible.
 
 {{< notice tip >}}Try purples, blues, and soft whites for a more calming palette, or go bold with fiery reds and oranges to draw in butterflies and hummingbirds.{{< /notice >}}
 
+![White alyssum](https://ucarecdn.com/84059d5a-51d0-4d87-a2a9-4cb412ae473a/sweet-alyssum-lobularia-maritima-malta-mediterranean.jpg)
+
+#### Symmetry and Flow
+
+The layout has a **mirrored structure**, which helps guide the eye across the bed and gives it an intentional, restful feel, even when it’s bursting with blooms.
+
+* **Snapdragons** bloom early.
+* **Cosmos and Bee Balm** take over in midsummer.
+* **Dahlias** bring the season to a grand finale.
+* **Nasturtiums and Alyssum** offer continuous color and scent with minimal effort.
+
+Layering bloom times means there’s always something happening in the bed. And if you keep up with deadheading, many of these plants will bloom more than once.
+
+The symmetry here is almost—but not perfectly—balanced. That’s intentional. Perfect symmetry can feel stiff, and if one plant fails, it becomes obvious. Slight variation helps the design feel natural.
+
+![Garden bed markup with solid colors](https://ucarecdn.com/f36bd667-bd19-4af6-a749-b080dc1f36a3/tempsnip1.png "Another markup in MS Paint. This helps me visualize how balanced the bed will feel.")
+
+#### Plant Numbers
+
+With flowers, you have a little more wiggle room than with vegetables, in terms of space. I always plant more than I need so I can adjust as things grow (or don’t). Here's what I’m planning for this bed:
+
+* **Dahlias**: 4-6
+* **Bee Balm**: 4–5
+* **Cosmos**: 6–8
+* **Nasturtiums**: 5-10 (size varies a lot)
+* **Alyssum**: 16-18
+* **Snapdragons**: Same as original plan
+
+Since I’m starting from seed (and tubers for the dahlias), some loss and thinning are expected. The key to flower gardening is flexibility—you can always thin or expand a patch if something doesn’t thrive.
+
+### Tips For Success
+
+* **Staking**: Dahlias and Cosmos may need support midseason.
+* **Thinning**: Bee Balm can get mildew if crowded. Improve airflow by removing a few plants if needed.
+* **Deadheading**: Keep Alyssum, Cosmos, and Snapdragons blooming by removing spent flowers.
+
+**Feeding**: Nasturtiums prefer poor soil and minimal feeding. Dahlias, on the other hand, are heavy feeders.
+
+
+![Gardener deadheading some small flowers.](https://ucarecdn.com/f0ad8d68-f6ef-437d-b83c-6e405802b741/close-up-male-gardener-s-hand-pruning-flowers.jpg)
+
+
+
+### Adapting This for Your Garden
+
+This style of layering and massing works in **beds of any size**, though smaller beds benefit from fewer large plants. In this 4×8, I’ve included three tall species: dahlia, bee balm, and snapdragon, which might be too much for, say, a 2×4 ft bed.
+
+For a **smaller version**, you could:
+
+* Keep the Alyssum and Nasturtium at the front.
+* Mix Bee Balm and Cosmos together more densely.
+* Add 4–5 scattered Snapdragons to break up the display.
+
+Or
+
+* Offset five Dahlias in a staggered pattern. 
+* Fill in with Alyssum and Marigolds at the front.
+* Fill in with Snapdragons at the rear.
+
+Don't be afraid to get out some pencils and paper. Sketch out designs and get a feel for the space; a small bed can accommodate a lot of flowers. 
+
+### Wrapping Up
+
+This 4×8 design shows how even a modest flower bed can feel lush, layered, and pollinator-friendly. With attention to grouping, height, and bloom timing, you can create a garden that feels both abundant and thoughtfully composed—one that thrives even if a few surprises pop up. 
+
+Even a modest bed, when layered with care, can overflow with beauty, life, and the quiet satisfaction of a thriving garden. 
+
+####
