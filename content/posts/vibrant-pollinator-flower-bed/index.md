@@ -131,6 +131,4 @@ Don't be afraid to get out some pencils and paper. Sketch out designs and get a 
 
 ### Wrapping Up
 
-This 4×8 design shows how even a modest flower bed can feel lush, layered, and pollinator-friendly. With attention to grouping, height, and bloom timing, you can create a garden that feels both abundant and thoughtfully composed—one that thrives even if a few surprises pop up. 
-
-Even a modest bed, when layered with care, can overflow with beauty, life, and the quiet rhythm of a flourishing garden.
+This 4×8 design shows how even a modest flower bed can feel lush, layered, and pollinator-friendly. With attention to grouping, height, and bloom timing, you can create a garden that feels both abundant and thoughtfully composed—one that thrives even if a few surprises pop up.
