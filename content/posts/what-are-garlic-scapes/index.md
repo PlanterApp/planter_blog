@@ -11,7 +11,7 @@ relative = false
 image = "https://ucarecdn.com/01ca8f61-85ad-4d8b-a417-83faea34d680/garlic.jpg"
 alt = "A dried bundle of garlic"
 +++
-If you planted a hardneck variety of garlic last fall or late winter, you might have noticed the tops are starting to get curly. These curvy tops are known as scapes. When scapes form, the garlic bulbs begin to create their flowering heads.  Softneck varieties do not have scapes, and their stalk stays soft. Garlic scapes are sought after by professional and home chefs alike because they are available for such a short period. Scapes are usually harvested in late spring or early summer before the garlic bulbs are fully mature.
+If you planted a hardneck variety of garlic last fall or late winter, you might have noticed the tops are starting to get curly. These curvy tops are known as scapes. When scapes form, the garlic bulbs begin to create their flowering heads.  Softneck varieties do not have scapes, and their stalk stays soft. Garlic scapes are sought after by professional and home chefs alike because they are delicious and only available for such a short period. Scapes are usually harvested in late spring or early summer before the garlic bulbs are fully mature.
 
 ![Garlic growing in the garden forming scapes](https://ucarecdn.com/bfb6be4a-1e3a-4c27-94d4-0846f27ccd1d/garlicscapes.JPEG)
 
@@ -66,7 +66,7 @@ As a dip for crackers
 
 ### More Reasons to Harvest Scapes
 
-* Since you can only harvest scapes once and only at one time a year, you can sell them at your farmer’s markets or local restaurants for extra money on your hobby farm. 
+* Since you can only harvest scapes once a year,  they are seen as a rare treat. You can sell them at your farmer’s markets or local restaurants to earn extra money if you have a hobby farm.
 * Like garlic bulbs, scapes have high levels of antioxidants and may support heart or immune system health. 
 * If you’re into making floral arrangements and don’t want to eat the scapes, put them in a vase with water and watch them bloom into an interesting bouquet. You can also store the scapes this way for a couple of days until you are ready to use them. 
 
