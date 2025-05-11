@@ -1,17 +1,21 @@
 +++
 draft = true
 title = "DIY Plant Trellises"
-slug = "DIY Plant Trellises"
+slug = "diy-plant-trellis"
 author = "Sam Liddicott"
 
 [cover]
 relative = false
+image = "https://ucarecdn.com/bf1c0110-2634-4563-934a-c8938ad21449/closeup-leaves-wooden-fences-lights.jpg"
+alt = "Garden trellis with vining plant"
 +++
 Using Woody Cuttings for Plant Trellis
 
 Many plants — beans, tomatoes, peas, and more — need support to grow. Trellises and supports can add up in cost, and it’s not always easy to find the right one. Here we’ll run through some tips and ideas for using woody plant cuttings (and plants themselves) as growing supports.
 
 If you don’t have any trees or shrubs in your garden, consider asking a neighbour or friend. Don’t cut back any plants without permission. Additionally, bamboo garden canes can be bought from most hardware stores, and work well too.
+
+![min 'A' trellis](https://ucarecdn.com/5843217b-8b93-4c58-91ec-e25952644763/PXL_20250510_233050355.RAW-01.COVER.jpg "A miniature 'A' trellis. This can be leant against a wall, or staked into the ground.")
 
 ### Live Plant Supports vs Woody Cuttings
 
@@ -30,6 +34,8 @@ Woody cuttings offer a lot of flexibility for gardeners. Unlike live plants, the
 As a rule of thumb, cuttings should be at least pencil-thick and sturdier for heavier climbers like indeterminate tomatoes or cucumbers.
 
 As we walk through this article, we’ll dive into more specifics for each method.
+
+![mini woven trellis](https://ucarecdn.com/79ec764a-d77f-4605-ab57-9f8cd107ebf3/PXL_20250510_223031496.RAW-01.COVER.jpg "A miniature example of a woven trellis. An actual one would have more cross members.")
 
 ### How to Make the Most of Live Supports
 
@@ -65,12 +71,14 @@ Some woods, like willow or poplar, may start to root when pushed into moist soil
 
 Once your plants begin to grow, you can gently tease them to grow up your support. Garden twine, or jute, is excellent for this. I love using natural jute as it will compost into the soil once it’s no longer usable.
 
+![](https://ucarecdn.com/12b04e8f-f516-4459-ad59-82e3cd1ad35b/PXL_20250510_233034837.RAW-01.COVER.jpg "A miniature ladder trellis. Full size versions are excellent for a variety of plants.")
+
 ### Simple Structures to Try
 
 Using woody cuttings, you can build a surprising variety of structures with minimal tools. Here are a few beginner-friendly ideas:
 
-**Teepee Frames**
-Teepee supports are perfect for climbing beans, peas, or even flowering vines. Gather 3–6 similar-length branches and tie them together in a pyramid-like formation at the top with garden twine or jute. Fan the bases evenly and press them firmly into the soil. You can add horizontal cross braces too, if needed. Teepees are especially helpful in small gardens or raised beds, as they create vertical growing space without crowding.
+**Tent Frames**
+Tent supports are perfect for climbing beans, peas, or even flowering vines. Gather 3–6 similar-length branches and tie them together in a pyramid-like formation at the top with garden twine or jute. Fan the bases evenly and press them firmly into the soil. You can add horizontal cross braces too, if needed. Teepees are especially helpful in small gardens or raised beds, as they create vertical growing space without crowding.
 
 **A-Frames and Ladders**
 Form two branches into a wide ‘A’ shape, or place them parallel, and connect them with horizontal rungs using smaller twigs and twine. This type of structure can be leaned over a bed or stood upright like a ladder. It works well for cucumbers or smaller squash varieties and can be adapted in size depending on your available cuttings. 
@@ -87,6 +95,8 @@ For tomatoes, peppers, or single-stem sunflowers, simple upright stakes work wel
 Take four sturdy sticks, about 6 inches to a foot taller than your plants will grow, and stake them around your plant at a width suitable for its size. Using twine or willow, create rungs around the cage. To keep the rungs tight, loop around each stake and then twist or tie the loose end firmly.
 
 These structures not only save money and reduce waste but also add a handmade, natural charm to the garden that fits right in with an organic or cottage-style aesthetic. 
+
+![mini tent trellis](https://ucarecdn.com/01649ff7-75af-4a6e-b2d6-edad804a7e6c/PXL_20250510_233019103.RAW-01.COVER.jpg "A miniature example of a tent trellis. A full size version would be excellent for beans.")
 
 ### Caring for Your DIY Supports
 
