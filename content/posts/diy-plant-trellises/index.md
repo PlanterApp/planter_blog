@@ -2,7 +2,7 @@
 draft = true
 title = "DIY Plant Trellises"
 slug = "diy-plant-trellis"
-date = "2025-05-12T17:00:00.000Z"
+date = "2025-05-12T16:58:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
@@ -76,22 +76,22 @@ Once your plants begin to grow, you can gently tease them to grow up your suppor
 
 Using woody cuttings, you can build a surprising variety of structures with minimal tools. Here are a few beginner-friendly ideas:
 
-**Tent Frames**
+**Tent Frames:**
 Tent supports are perfect for climbing beans, peas, or even flowering vines. Gather 3–6 similar-length branches and tie them together in a pyramid-like formation at the top with garden twine or jute. Fan the bases evenly and press them firmly into the soil. You can add horizontal cross braces too, if needed. Teepees are especially helpful in small gardens or raised beds, as they create vertical growing space without crowding.
 
-**A-Frames and Ladders**
+**A-Frames and Ladders:**
 Form two branches into a wide ‘A’ shape, or place them parallel, and connect them with horizontal rungs using smaller twigs and twine. This type of structure can be leaned over a bed or stood upright like a ladder. It works well for cucumbers or smaller squash varieties and can be adapted in size depending on your available cuttings. 
 
-**Woven Panels**
+**Woven Panels:**
 If you have flexible branches like willow or dogwood, try weaving them horizontally between upright stakes to create a rustic lattice. These panels can support sweet peas, nasturtiums, or even leafy crops like chard when positioned as a backdrop. You can also use woven panels to edge off a bed or provide shade for tender seedlings. Typically, you'll need at least 5-7 upright poles for good rigidity, with as many crossmembers as you'd like. Trailing vine plants will appreciate larger gaps for example.
 
 {{< notice note >}}For these types of supports, plan the spacing of your cross-braces to suit what you're growing. Tomatoes will need smaller ‘rungs’ while beans will need far fewer. {{< /notice >}}
 
-**Single-Stake Supports**
+**Single-Stake Supports:**
 For tomatoes, peppers, or single-stem sunflowers, simple upright stakes work well. Just be sure the branch is thick and long enough to support mature growth — 3 to 4 feet above ground is a good target.
 
-**Cages**
-Take four sturdy sticks, about 6 inches to a foot taller than your plants will grow, and stake them around your plant at a width suitable for its size. Using twine or willow, create rungs around the cage. To keep the rungs tight, loop around each stake and then twist or tie the loose end firmly.
+**Cages:**
+Take four sturdy sticks, at least 6 inches taller than your plants will grow, and stake them around your plant at a width suitable for its size. Using twine or willow, create rungs around the cage. To keep the rungs tight, loop around each stake and then twist or tie the loose end firmly.
 
 These structures not only save money and reduce waste but also add a handmade, natural charm to the garden that fits right in with an organic or cottage-style aesthetic. 
 
