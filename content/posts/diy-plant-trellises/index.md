@@ -2,6 +2,7 @@
 draft = true
 title = "DIY Plant Trellises"
 slug = "diy-plant-trellis"
+date = "2025-05-12T17:00:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
