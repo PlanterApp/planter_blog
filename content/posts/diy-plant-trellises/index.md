@@ -11,7 +11,7 @@ alt = "Garden trellis with vining plant"
 +++
 Using Woody Cuttings for Plant Trellis
 
-Many plants — beans, tomatoes, peas, and more — need support to grow. Trellises and supports can add up in cost, and it’s not always easy to find the right one. Here we’ll run through some tips and ideas for using woody plant cuttings (and plants themselves) as growing supports.
+Many plants — beans, tomatoes, peas, and more — grow best with support. Trellises and supports can add up in cost, and it’s not always easy to find the right one. Here we’ll run through some tips and ideas for using woody plant cuttings (and plants themselves) as growing supports.
 
 If you don’t have any trees or shrubs in your garden, consider asking a neighbour or friend. Don’t cut back any plants without permission. Additionally, bamboo garden canes can be bought from most hardware stores, and work well too.
 
@@ -25,11 +25,9 @@ Live plant supports are a clever and space-saving way to grow more vertically. T
 * Malabar spinach using cane raspberries for support
 * Garden peas twining up amaranth
 
-These pairings tend not to compete, as long as the support plant is mature enough when the climber starts growing in earnest. Careful timing is key — planting schedules should be adjusted so both plants thrive.
+These pairings won't compete, as long as the support plant is mature enough when the climber starts growing in earnest. Careful timing is key — planting schedules should be adjusted so both plants thrive.
 
-While live plant pairings offer dynamic, seasonal support, woody cuttings provide a reusable and customizable alternative.
-
-Woody cuttings offer a lot of flexibility for gardeners. Unlike live plants, they can be arranged however you like, trimmed to shape, and won’t be affected by seasonal die-back, pests, or unexpected weather.
+While live plant pairings offer dynamic, seasonal support, woody cuttings provide a reusable and customizable alternative. They also offer a lot of flexibility for gardeners. Unlike live plants, they can be arranged however you like, trimmed to shape, and won’t be affected by seasonal die-back, pests, or unexpected weather.
 
 As a rule of thumb, cuttings should be at least pencil-thick and sturdier for heavier climbers like indeterminate tomatoes or cucumbers.
 
