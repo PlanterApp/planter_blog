@@ -17,9 +17,9 @@ If you don’t have any trees or shrubs in your garden, consider asking a neighb
 
 ![min 'A' trellis](https://ucarecdn.com/5843217b-8b93-4c58-91ec-e25952644763/PXL_20250510_233050355.RAW-01.COVER.jpg "A miniature 'A' trellis. This can be leant against a wall, or staked into the ground.")
 
-### Live Plant Supports vs Woody Cuttings
+### Living Trellis vs Woody Cuttings
 
-Live plant supports are a clever and space-saving way to grow more vertically. This technique is a form of companion planting, where one plant is a structural aid to another. Here are a few common and effective pairings:
+Living trellises are a clever and space-saving way to grow more vertically. This technique is a form of companion planting, where one plant is a structural aid to another. Here are a few common and effective pairings:
 
 * Pole beans climbing up sunflowers or corn
 * Malabar spinach using cane raspberries for support
@@ -33,7 +33,7 @@ As a rule of thumb, cuttings should be at least pencil-thick and sturdier for he
 
 As we walk through this article, we’ll dive into more specifics for each method.
 
-![mini woven trellis](https://ucarecdn.com/79ec764a-d77f-4605-ab57-9f8cd107ebf3/PXL_20250510_223031496.RAW-01.COVER.jpg "A miniature example of a woven trellis. An actual one would have more cross members.")
+![mini woven trellis](https://ucarecdn.com/79ec764a-d77f-4605-ab57-9f8cd107ebf3/PXL_20250510_223031496.RAW-01.COVER.jpg "A miniature example of a woven trellis. An actual one would have more cross members; my bamboo skewers kept 'pinging' out.")
 
 ### How to Make the Most of Live Supports
 
@@ -69,7 +69,7 @@ Some woods, like willow or poplar, may start to root when pushed into moist soil
 
 Once your plants begin to grow, you can gently tease them to grow up your support. Garden twine, or jute, is excellent for this. I love using natural jute as it will compost into the soil once it’s no longer usable.
 
-![](https://ucarecdn.com/12b04e8f-f516-4459-ad59-82e3cd1ad35b/PXL_20250510_233034837.RAW-01.COVER.jpg "A miniature ladder trellis. Full size versions are excellent for a variety of plants.")
+![](https://ucarecdn.com/12b04e8f-f516-4459-ad59-82e3cd1ad35b/PXL_20250510_233034837.RAW-01.COVER.jpg "A miniature ladder trellis. Full-size versions are excellent for a variety of plants, and can be staked upright or leaned back.")
 
 ### Simple Structures to Try
 
@@ -82,7 +82,7 @@ Tent supports are perfect for climbing beans, peas, or even flowering vines. Gat
 Form two branches into a wide ‘A’ shape, or place them parallel, and connect them with horizontal rungs using smaller twigs and twine. This type of structure can be leaned over a bed or stood upright like a ladder. It works well for cucumbers or smaller squash varieties and can be adapted in size depending on your available cuttings. 
 
 **Woven Panels**
-If you have flexible branches like willow or dogwood, try weaving them horizontally between upright stakes to create a rustic lattice. These panels can support sweet peas, nasturtiums, or even leafy crops like chard when positioned as a backdrop. You can also use woven panels to edge off a bed or provide shade for tender seedlings.
+If you have flexible branches like willow or dogwood, try weaving them horizontally between upright stakes to create a rustic lattice. These panels can support sweet peas, nasturtiums, or even leafy crops like chard when positioned as a backdrop. You can also use woven panels to edge off a bed or provide shade for tender seedlings. Typically, you'll need at least 5-7 upright poles for good rigidity, with as many crossmembers as you'd like. Trailing vine plants will appreciate larger gaps for example.
 
 {{< notice note >}}For these types of supports, plan the spacing of your cross-braces to suit what you're growing. Tomatoes will need smaller ‘rungs’ while beans will need far fewer. {{< /notice >}}
 
@@ -94,7 +94,7 @@ Take four sturdy sticks, about 6 inches to a foot taller than your plants will g
 
 These structures not only save money and reduce waste but also add a handmade, natural charm to the garden that fits right in with an organic or cottage-style aesthetic. 
 
-![mini tent trellis](https://ucarecdn.com/01649ff7-75af-4a6e-b2d6-edad804a7e6c/PXL_20250510_233019103.RAW-01.COVER.jpg "A miniature example of a tent trellis. A full size version would be excellent for beans.")
+![mini tent trellis](https://ucarecdn.com/01649ff7-75af-4a6e-b2d6-edad804a7e6c/PXL_20250510_233019103.RAW-01.COVER.jpg "A miniature example of a tent trellis. A full-size version would be excellent for pole beans. You can use the shaded area created underneath for some leafy greens or herbs.")
 
 ### Caring for Your DIY Supports
 
@@ -102,4 +102,6 @@ Woody cuttings, like any garden structure, need occasional maintenance. Check th
 
 At the end of the season, you can compost smaller branches or store the sturdiest pieces for reuse next year. If you’re using live supports like sunflowers or corn, simply cut them back after harvest, and plan your planting calendar for the following season with new pairings in mind.
 
-What I love most about making my own trellises is the imperfectness of it all. It's also really fun. I hope you have fun making your own as well.
+What I love most about making my own trellises is the imperfectness of it all. It's also really fun and helps reduce waste and plastic in the garden.
+
+ I hope you have fun making your own as well.
