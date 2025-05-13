@@ -77,7 +77,7 @@ Once your plants begin to grow, you can gently tease them to grow up your suppor
 Using woody cuttings, you can build a surprising variety of structures with minimal tools. Here are a few beginner-friendly ideas:
 
 **Tent Frames:**
-Tent supports are perfect for climbing beans, peas, or even flowering vines. Gather 3–6 similar-length branches and tie them together in a pyramid-like formation at the top with garden twine or jute. Fan the bases evenly and press them firmly into the soil. You can add horizontal cross braces too, if needed. Teepees are especially helpful in small gardens or raised beds, as they create vertical growing space without crowding.
+Tent supports are perfect for climbing beans, peas, or even flowering vines. Gather 3–6 similar-length branches and tie them together in a pyramid-like formation at the top with garden twine or jute. Fan the bases evenly and press them firmly into the soil. You can add horizontal cross braces too, if needed. Tents are especially helpful in small gardens or raised beds, as they create vertical growing space without crowding.
 
 **A-Frames and Ladders:**
 Form two branches into a wide ‘A’ shape, or place them parallel, and connect them with horizontal rungs using smaller twigs and twine. This type of structure can be leaned over a bed or stood upright like a ladder. It works well for cucumbers or smaller squash varieties and can be adapted in size depending on your available cuttings. 
