@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "DIY Plant Trellises"
 slug = "diy-plant-trellis"
-date = "2025-05-12T16:58:00.000Z"
+date = "2025-05-12T17:07:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
