@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Erin's Spring Garden Journal"
-slug = "erin-spring-journal"
+slug = "erins-spring-garden-journal"
 date = "2025-05-26T11:13:00.000Z"
 author = "Erin Thomson"
 tags = ["Garden Journals"]
@@ -9,13 +9,15 @@ tags = ["Garden Journals"]
 [cover]
 relative = false
 +++
-2025 has been a year of major change for my husband and I and our four kitties. We moved to a new home, took on renovations, and started a market garden (small-scale farm). Who doesn't love a good challenge?! 
+2025 has been a year of big changes for my husband and I and our four kitties. We moved to a new home, took on renovations, and started a market garden (small-scale farm). Who doesn't love a challenge?!
 
-We moved in the dead of winter, which meant that some of our furniture had to live in the garage until the snow melted enough to carry it in the (wider) back door! As the wind howled and the snow fell outside, we hunkered down inside working, planning, and dreaming of all the things we would grow come spring. 
+We moved in the dead of winter, which in Ontario, Canada presents unique challenges. For example, some of our furniture had to live in the garage until the snow drifts melted down enough to carry it in the (wider) back door! As the wind howled and snow fell outside, we hunkered down inside working, planning, and dreaming of all the things we would grow in the garden come spring.
 
-Starting a market garden the first year after moving is admittedly ambitious (or is that a nice way of putting it?) but after a lengthy property search we didn't want to waste any time getting going. In a perfect world we would have had at least the fall to start preparing beds so everything would be ready for planting come spring, but we worked with the time we had.  In late February I sowed the first seeds indoors in our shop- onions and parsley to start. Starting seeds indoors is always exciting- it's a reminder in one of the toughest parts of the year that sunshine and warmth is coming back again. This time it was extra exciting as we were taking a major step towards fulfilling our dream of starting a market garden.
+Starting a market garden the first year after moving is admittedly ambitious (or is that a nice way of putting it?) but after a lengthy property search we didn't want to waste any time getting going. Ideally we would have had at least the fall to start preparing beds so everything would be more or less ready for planting come spring, but we worked with the time we had. In late February I sowed the first seeds indoors in our shop- onions and parsley to start. Starting seeds indoors in the winter is always exciting. It's a reminder that sunshine, warmth, and greenery is coming back again. This time though it was **extra exciting** as we were taking one of the first steps towards our goal of starting a market garden.
 
-I tended the little seeds with extra care, trying to optimize the growing medium, heat, and light to ensure their success. Gardening as work is a labor of love, but it comes with a degree of expectation that is different from gardening as a hobby. All the joys of gardening are exponentially increased- watching seedlings emerge, seeing plants growing healthily, enjoying beautiful sunny days with birds singing outside, and eating fresh produce that you grew yourself. But as with any enterprise, there are also fears. What if it's a flop? What if we don't sell much, or don't have much to sell? I have to push aside these worries to focus on what needs to get done in the moment.
+
+
+I tended the little seeds with extra care, trying to optimize the growing medium, heat, and light to ensure their success. Gardening as work is a labor of love, but it comes with a degree of expectation that is different from gardening purely for **enjoyment**. All the joys of gardening are exponentially increased- watching seedlings emerge, seeing plants growing healthily, enjoying beautiful sunny days with birds singing outside, and eating fresh produce that you grew yourself. But as with any enterprise, there are also fears. What if it's a flop? What if we don't sell much, or don't have much to sell? I have to push aside these worries to focus on what needs to get done in the moment.
 
 I continued on sowing peppers, eggplant, tomatoes, and tomatillos indoors. By this point I was experiencing some challenges with my seed starting operation. The earliest planted seedlings were starting to look a bit sickly. I changed a few things in my regular seed starting process as part of 'scaling up' but despite tweaking the heat, water, and nutrients there was not much improvement. I continued on, trying everything I could and taking solace that the younger seedlings were still looking OK.
 
