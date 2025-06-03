@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Erin's Spring Garden Journal"
 slug = "erins-spring-garden-journal"
 date = "2025-05-26T11:13:00.000Z"
@@ -8,12 +8,13 @@ tags = ["Garden Journals"]
 
 [cover]
 relative = false
+image = "https://ucarecdn.com/c151b8f9-ea98-4d8c-96d4-5cde0f1fcc51/Erin-garden.jpg"
 +++
 2025 has been a year full of changes for my husband and I and our four kitties. We moved to a new home, took on renovations, and started a market garden (small-scale farm). Who doesn't love a challenge?!
 
-We moved in the dead of winter, which in Ontario, Canada presents unique obstacles. Some of our furniture had to live in the garage until the snow drifts melted down enough to carry it in the (wider) back door! As the wind howled and snow fell outside, we hunkered down inside working, planning, and dreaming of all the things we would grow in the garden come spring.
+We moved in the dead of winter, which in Ontario, Canada presents unique obstacles. For example, some of our furniture had to live in the garage until the snow drifts melted down enough to carry it in the (wider) back door! As the wind howled and snow fell outside, we hunkered down inside working, planning, and dreaming of all the things we would grow in the garden come spring.
 
-Starting a market garden the first year after moving is admittedly ambitious (or is that a nice way of putting it?) but after a lengthy property search we didn't want to waste any time getting going. Ideally we would have had at least the fall to start preparing beds so everything would be more or less ready for planting come spring, but we worked with the time we had. In late February I sowed the first seeds indoors in our shop- onions and parsley to start. Starting seeds indoors in the winter is always exciting. It's a reminder that sunshine, warmth, and greenery is coming back again. This time though it was extra meaningful as we were taking one of the first steps towards our goal of starting a market garden.
+Starting a market garden the first year after moving is admittedly ambitious (or is that a nice way of putting it?) but after a lengthy property search we didn't want to waste any time getting going. Ideally we would have had the fall to start preparing beds so everything would be more or less ready for planting come spring, but we worked with the time we had. In late February I sowed the first seeds indoors in our shop- onions and parsley to start. Starting seeds indoors in the winter is always exciting. It's a reminder that sunshine, warmth, and greenery is coming back again. This time though it was extra meaningful as we were taking one of the first steps towards our goal of starting a market garden.
 
 ![The author, Erin, seated at a table sowing seeds with an orange cat behind her back.](https://ucarecdn.com/f52eadaf-404b-45ac-883b-4757424d083d/Erin-seeding.jpg "Sowing seeds with a helper!")
 
@@ -23,7 +24,7 @@ All I could do was push the worries aside and continue on. I started sowing the 
 
 ![Tomato and pepper seedlings in soil blocks under grow lights.](https://ucarecdn.com/ed355da2-192f-4e73-8d07-ce6a05140c12/Tomato-pepper-seedlings.jpg "Perky tomato and pepper seedlings.")
 
-It was relatively late in spring by the time we were able to get into the field to start planting. Significant snowfall, combined with an unusually cold and wet spring, put us several weeks behind schedule. We didn't have tarps or hoop houses in place in the fall to help the ground dry out and warm up faster, so we were bound to mother nature's schedule. When we finally got into the field it felt like a huge milestone- getting to work the land as we had so eagerly anticipated. We sowed cool-season favorites like peas, carrots, spinach, lettuce, and arugula, ironically now hoping that the warm weather wouldn't come too quickly and finish them off prematurely.
+It was relatively late in spring by the time we were able to get into the field to start planting. Significant snowfall, combined with an unusually cold and wet spring, put us several weeks behind schedule. We didn't have tarps or hoop houses in place to help the ground dry out and warm up faster, so we were bound to mother nature's schedule. When we finally got into the field it felt like a huge milestone- getting to work the land as we had so eagerly anticipated. We sowed cool-season favorites like peas, carrots, spinach, lettuce, and arugula, ironically now hoping that the warm weather wouldn't come too quickly and finish them off prematurely.
 
 ![The author, Erin, in the field with a garden bed in the background covered in insect netting.](https://ucarecdn.com/34f61221-d33f-4ee4-9191-820f09c09308/First-garden-bed.jpg "Prepping the first bed!")
 
@@ -31,6 +32,6 @@ Not long after planting we did get an unusual spring heatwave- with daytime high
 
 ![Three seed starting racks with grow lights and young seedlings and a grow light placed on buckets over tomato transplants.](https://ucarecdn.com/3307a262-acc4-4539-9240-1d7437171c60/Seedlings-growing.jpg "The peppers are still struggling but the tomatoes are crawling out of their trays!")
 
-Around this time the garden outside was starting to take off as the cooler spring temps continued on, save the one hot week. During the mini heatwave, I'd fretted and fussed over the peas, the spinach, and especially the carrots. I was still getting familiar with the sandy loam soil and how often it needed watering, especially with a drying wind coming off the lake nearby. After that week we had a week of glorious, continuous, gentle rain which, although it put a damper on planting, provided relief from watering. The watering efforts were not in vain though as the carrots finally germinated (hooray!), the spinach poked through, and the peas tripled in size.
+Around this time the garden outside was starting to take off as the cooler spring temps continued on, save the one hot week. During the mini heatwave, I'd fretted and fussed over the peas, the spinach, and especially the carrots. I was still getting familiar with the sandy loam soil and how often it needed watering, especially with a drying wind coming off the lake nearby. After that we had nearly a week of glorious, continuous, gentle rain which, although it put a damper on planting, provided relief from watering. The watering efforts were not in vain though as the carrots finally germinated (hooray!), the spinach poked through, and the peas tripled in size.
 
-We've finally reached a point in the season where it feels like the garden is coming together. More and more of the field is turning into usable growing space, the previously planted crops are starting to flourish, and the overall picture is becoming less of a blurry vision and more of a reality. There will certainly be more challenges to come- I'm not-so-eagerly waiting to see what kind of pest and disease pressure we have here- but we'll just keep planting, just keep watering, and just keep swimming (OK maybe not that last one...although there is a beach nearby!)
+We've finally reached a point in the season where it feels like the garden is coming together. More and more of the field has been turned into usable growing space, the previously planted crops are starting to flourish, and the overall picture is becoming less of a blurry vision and more of a reality. There will certainly be more challenges to come- I'm not-so-eagerly waiting to see what kind of pest and disease pressure we have- but no matter what happens we'll just keep planting, just keep watering, and just keep weeding!
