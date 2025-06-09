@@ -1,13 +1,14 @@
 +++
-author = "Erin Thomson"
-date = 2022-05-11T04:00:00Z
+draft = false
 title = "Mulching: A Must for Your Garden"
+date = 2022-05-11T04:00:00.000Z
+author = "Erin Thomson"
+slug = "Mulching: A Must for Your Garden"
 
 [cover]
 alt = ""
 caption = "A gardener spreading mulch"
 image = "https://ucarecdn.com/9906f070-866c-4df7-946a-870d1cc8d822/digging-in-mulch.jpg"
-
 +++
 Soil is one of the most precious resources in the garden. Building healthy soil is key to healthy plants, and an important step in building healthy soil is to use mulch. Mulch is a layer of material placed on top of the soil to protect it. While mulching your vegetable garden is a must-do, the materials can vary based on your local growing conditions and what’s readily available.
 
@@ -37,7 +38,7 @@ Mulch materials commonly used in vegetable gardening include:
 
 ![](https://ucarecdn.com/630e7e51-8ea7-4da4-9776-fb57e9d75f58/lettuce-in-leaves.jpg)
 
-**Wood chips:** wood chips make a good garden mulch that helps feed soil life, especially fungi, as they break down. Wood chip mulches used in a veggie garden must be entirely natural; do not use dyed wood chip mulches or wood that has been chemically treated. Some gardeners worry that wood chips will acidify their soil or release natural chemicals that inhibit plant growth, but generally this is a non-issue. Wood chip mulches can ‘rob’ nitrogen from the soil as they break down, but this effect is minimal and concentrated near the soil surface. Wood chip mulch will need to be moved out of the planting area when planting veggies, and you can apply nitrogen-rich fertilizer to counteract any nitrogen loss.
+**Wood chips:** wood chips make a good garden mulch that helps feed soil life, especially fungi, as they break down. Wood chip mulches used in a veggie garden must be entirely natural; do not use dyed wood chip mulches or wood that has been chemically treated. Some gardeners worry that wood chips will acidify their soil or release natural chemicals that inhibit plant growth, but generally this is a non-issue. Wood chip mulches can ‘rob’ nitrogen from the soil as they break down, but this effect is usually minimal and concentrated near the soil surface. Wood chip mulch will need to be temporarily moved out of the planting area when transplanting or seeding veggies, and you can add nitrogen-rich fertilizer to help counteract any nitrogen tie-up. Once the plants are up and established the mulch can be moved back.
 
 **Grass clippings:** grass clippings are a great mulch material, provided they are collected from a lawn that does not use herbicides or pesticides. Allow the grass to dry out a bit before applying; if it is too wet it may start to smell as it decomposes. Apply a thick layer to avoid it blowing away in the wind.
 
