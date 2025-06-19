@@ -7,6 +7,8 @@ author = "Sam Liddicott"
 [cover]
 relative = false
 caption = ""
+image = "https://ucarecdn.com/17ad0e8d-0365-4f62-a2ae-63e4b23d56e4/leaves-ground.jpg"
+alt = "Dried, decaying leaves covering the ground"
 +++
 We’ve all envisioned the perfect garden—neatly trimmed beds, clean lines, and not a leaf out of place. Perhaps you’ve admired the stunning show gardens at the Chelsea Flower Show, with their carefully curated designs and lush plantings (I have). These spaces *are* beautiful, and they do attract a host of wildlife.
 
@@ -20,6 +22,8 @@ If you have trees or shrubs in your garden, chances are you prune them once a ye
 
 Decaying wood acts as a slow-release fertilizer, gradually returning valuable nutrients like carbon, nitrogen, and phosphorus to the soil. As fungi and microbes break it down, they help convert locked-up nutrients into forms that plants can use—a natural form of nutrient cycling that keeps your garden’s ecosystem self-sustaining.
 
+![A decaying tree stump covered in ivy](https://ucarecdn.com/01614760-75d5-4ca1-a068-6fef61412438/close-up-leaves.jpg "Fallen wood also supports additional plant species.")
+
 As it decomposes, wood also improves soil structure by increasing porosity and helping with moisture retention. After rainfall, rotting logs and branches can hold onto water, keeping the surrounding soil damp for longer.
 
 Just as importantly, decaying wood provides habitat. Insects, fungi, mosses, and sometimes even birds rely on it for food and shelter. These organisms are part of a vibrant underground and surface ecosystem that supports plant health and keeps your soil biologically active.
@@ -30,9 +34,11 @@ Just as importantly, decaying wood provides habitat. Insects, fungi, mosses, and
 
 Leaves are plentiful in most gardens. Trees, shrubs, flowers, vegetables, and more all have them. Over the year, some get munched by insects, many fall off, and more get trimmed. It’s easy to clear these away as you’re trimming, and with some plants like tomatoes and roses, this is the best option as you want the base of the plant to be exposed to the air, as they’re very susceptible to disease. 
 
-Many flowers, such as hydrangeas benefit from their leaf litter as it help to regulate soil pH and moisture. Hostas, which are a favorite delicacy for slugs benfit massively from leaf litter as the drier surface and deter them, and provide habitat for predatory beetles, which in turn will deter the slugs.
+Many flowers, such as hydrangeas, benefit from their leaf litter as it helps to regulate soil pH and moisture. Hostas, which are a favorite delicacy for slugs, benefit massively from leaf litter as the drier surface deters them and provides habitat for predatory beetles.
 
 Leaf litter also decays into the soil, returning key nutrients, can be used as mulch, and is perfect for insulating plants against cold weather. 
+
+![Muddy leaves on a garden floor](https://ucarecdn.com/bd76b60b-0192-4c4b-84ad-3c90599c06f0/low-angle-view-muddy-yellow-leaves-ground-mixed-with-wooden-sticks-fall.jpg)
 
 ### Organic Litter for Self Seeders
 
@@ -42,9 +48,11 @@ I adore self-seeding annuals. Flowers like cosmos, calendula, and alyssum create
 
 It’s more than a little tempting to snip off dead flowers as soon as they’re done to maintain a tidy garden bed (I'm often quick to do this). However, if there is a time not to do it, it’s fall. 
 
+
+
 As winter approaches, animals of all kinds are looking for nourishment, and flower heads are great for birds, insects, and even small mice. Leaving them for a few days gives nature the chance to use them. You might also cut them down and leave them to decay around where they grew, or leave them standing over the winter and cut them down in the spring. Frosty stems can look quite beautiful. 
 
-Some flowers, such as bee balm are excellent overwintering spots for native solitary bees, and leaving leaf litter can provide additional warmth. 
+Some flowers, such as bee balm, are excellent overwintering spots for native solitary bees, and leaving leaf litter can provide additional warmth. 
 
 ### Keeping the Litter Tidy
 
@@ -75,16 +83,14 @@ Fall (autumn) is often the time to *let things lie*. Insects lay eggs in dead st
 
 **Guiding Principle:** Think mosaic, not monoculture. You don’t have to leave *everything* or clean up *everything*. A mix of tidy and wild spaces—what some call “messy gardening with intent”—can offer the best of both worlds: healthy plants and thriving wildlife.
 
-
-
 ### A Look at What I’m Doing
 
-My current yard has a lot of trees. Bloom season in Arizona is plentiful, and they all fall to the ground quickly. I’ve raked this detritus into a ring around the trees, making sure the root flare is left exposed to the air around the trunk, which will help the soil hold water, and return nutrients. 
+My current yard has a lot of trees. The bloom season in Arizona is plentiful, and they all fall to the ground quickly. I’ve raked this detritus into a ring around the trees, making sure the root flare is left exposed to the air around the trunk, which will help the soil hold water, and return nutrients. 
 
-It’s been hot the past few years, so some cactus are struggling. Cacti don’t love damp soil, so I’m using leaves to cover the surface around them to lower the spoil temperatures. Leaves dry out quickly here after rain, so this will prevent rot and decay onset.
+It’s been hot the past few years, so some cacti are struggling. Cacti don’t love damp soil, so I’m using leaves to cover the surface around them to lower the soil temperatures. Leaves dry out quickly here after rain, so this will prevent rot and decay from affecting the cacti.
 
-Where I work has numerous ornamental Oleander. Instead of removing the cut leaves after I shape them, I sweep them out of sight under the shrubs. They’ve been growing more prolifically than ever, and the number of lizards that call them home has increased. 
+Where I work has numerous ornamental oleanders. Instead of removing the cut leaves after I shape them, I sweep them out of sight under the shrubs. They’ve been growing more prolifically than ever now that the soil holds moisture better, and the number of lizards that call them home has increased, who in turn snack on the bugs in the area.
 
 ### A Balancing Act
 
-Start small, start today is an old saying that bears weight here. Perhaps you have a small shaded corner that would be perfect for leaf litter and some dead wood. Maybe you have a damp spot near a drainspout for some mossy rocks, or a flower bed that could be nourished by some detritus. Picking just one area can bring vibrancy and more life to your garden, and replenish your soil affordably.
+Start small, start today is an old saying that bears weight here. Perhaps you have a small shaded corner that would be perfect for leaf litter and some dead wood. Maybe you have a damp spot near a drainspout for some mossy rocks, or a flower bed that could be nourished by some detritus. Picking just one area can bring vibrancy and more life to your garden, create habitat for pollinators, and improve soil health in simple, straightforward ways.
