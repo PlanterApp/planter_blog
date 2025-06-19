@@ -48,11 +48,20 @@ I adore self-seeding annuals. Flowers like cosmos, calendula, and alyssum create
 
 It’s more than a little tempting to snip off dead flowers as soon as they’re done to maintain a tidy garden bed (I'm often quick to do this). However, if there is a time not to do it, it’s fall. 
 
-![Frost covered sunflower](https://ucarecdn.com/96ef6fff-fbaf-4267-a5a8-6d54937d42f4/close-up-frozen-ice.jpg "Sunflowers, coneflowers, asters, and more are excellent winter food sources.")
+
+
 
 As winter approaches, animals of all kinds are looking for nourishment, and flower heads are great for birds, insects, and even small mice. Leaving them for a few days gives nature the chance to use them. You might also cut them down and leave them to decay around where they grew, or leave them standing over the winter and cut them down in the spring. Frosty stems can look quite beautiful. 
 
 Some flowers, such as bee balm, are excellent overwintering spots for native solitary bees, and leaving leaf litter can provide additional warmth. 
+
+
+
+
+
+![Frost covered sunflower](https://ucarecdn.com/96ef6fff-fbaf-4267-a5a8-6d54937d42f4/close-up-frozen-ice.jpg "Sunflowers, coneflowers, asters, and more are excellent winter food sources.")
+
+
 
 ### Keeping the Litter Tidy
 
@@ -69,6 +78,8 @@ While leaving organic matter in the garden is often beneficial, there *are* time
 **1. To Reduce Disease Pressure**
 Some plants, like tomatoes, roses, and peonies, are especially prone to fungal diseases and benefit from a tidier base. Removing diseased foliage, spent flowers, or stems can prevent the spread of pathogens from year to year. Always discard infected material—don’t compost it unless your compost gets hot enough to kill pathogens (many home piles don’t).
 
+![Roses growing along a stone garden path](https://ucarecdn.com/dad3fd30-76a4-476a-b4ad-5e3a488a3eeb/close-up-red-flowering-plants-footpath.jpg)
+
 **2. After Pest Infestations**
 If you’ve had a heavy infestation of aphids, caterpillars, or beetles, it can be helpful to clear away some of the affected plant matter. This reduces the number of overwintering sites and breaks the pest’s lifecycle. You don’t need to strip the bed bare, but a thoughtful tidy-up around troubled plants can set the stage for a better spring.
 
@@ -78,7 +89,7 @@ When rotating crops or replanting flower beds, removing the bulk of spent annual
 **4. To Make Room for Spring Growth**
 Early spring is one of the best times to gently clear paths, remove mats of soggy leaves from the crowns of perennials, and thin out overgrown mulch. This allows emerging shoots to develop while still retaining the protective benefits of litter, particularly water retention and frost protection, elsewhere.
 
-![Spring flowers blooming through leaf mulch](https://ucarecdn.com/2a14ab37-0033-4226-a4f8-74db4edc60fb/lot-beautiful-early-spring-flowers-nature-park-maksimir.jpg)
+![Spring flowers blooming through leaf mulch](https://ucarecdn.com/dc99d51e-c510-4f90-8be2-e60f7ff1ca3c/lot-beautiful-early-spring-flowers-nature-park-maksimir.jpg)
 
 **5. Mind the Seasons** \
 Fall (autumn) is often the time to *let things lie*. Insects lay eggs in dead stems, frogs tuck into leaf piles, and beneficial beetles nest beneath bark. Winter landscapes don’t need to be bare—they can be layered, textured, and alive with sheltering creatures.
@@ -93,7 +104,7 @@ My current yard has a lot of trees. The bloom season in Arizona is plentiful, an
 
 It’s been hot the past few years, so some cacti are struggling. Cacti don’t love damp soil, so I’m using leaves to cover the surface around them to lower the soil temperatures. Leaves dry out quickly here after rain, so this will prevent rot and decay from affecting the cacti.
 
-Where I work has numerous ornamental oleanders. Instead of removing the cut leaves after I shape them, I sweep them out of sight under the shrubs. They’ve been growing more prolifically than ever now that the soil holds moisture better, and the number of lizards that call them home has increased, who in turn snack on the bugs in the area.
+Where I work has numerous ornamental oleanders. Instead of removing the cut leaves after I shape them, I sweep them out of sight under the shrubs. They’ve been growing more prolifically than ever now that the soil holds moisture better, and the number of lizards that call them home has increased, who in turn snack on the bugs 
 
 
 ### Final Thoughts: Let a Little Litter Lie
