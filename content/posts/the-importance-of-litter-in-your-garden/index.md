@@ -98,7 +98,7 @@ Fall (autumn) is often the time to *let things lie*. Insects lay eggs in dead st
 
 ### A Look at What I’m Doing
 
-My current yard has a lot of trees. The bloom season in Arizona is plentiful, and they all fall to the ground quickly. I’ve raked this detritus into a ring around the trees, making sure the root flare is left exposed to the air around the trunk, which will help the soil hold water and return nutrients. 
+My current yard has a lot of trees. The bloom season in Arizona is plentiful, and they all fall to the ground quickly when the summer heat comes in. I’ve raked this detritus into a ring around the trees, making sure the root flare is left exposed to the air around the trunk, which will help the soil hold water and return nutrients. 
 
 ![Acacia tree with organic detritus](https://ucarecdn.com/a3fa2fca-e508-47c5-b599-7daf2d438d14/PXL_20250619_162530683.RAW-01.COVER.jpg)
 
