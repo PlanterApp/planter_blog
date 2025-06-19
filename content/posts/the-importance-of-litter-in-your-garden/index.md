@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "The Importance of Litter in Your Garden"
 slug = "the-importance-of-garden-litter"
 date = "2025-06-19T12:00:00.000Z"
