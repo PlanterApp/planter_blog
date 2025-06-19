@@ -48,7 +48,7 @@ I adore self-seeding annuals. Flowers like cosmos, calendula, and alyssum create
 
 It’s more than a little tempting to snip off dead flowers as soon as they’re done to maintain a tidy garden bed (I'm often quick to do this). However, if there is a time not to do it, it’s fall. 
 
-
+![Frost covered sunflower](https://ucarecdn.com/96ef6fff-fbaf-4267-a5a8-6d54937d42f4/close-up-frozen-ice.jpg "Sunflowers, coneflowers, asters, and more are excellent winter food sources.")
 
 As winter approaches, animals of all kinds are looking for nourishment, and flower heads are great for birds, insects, and even small mice. Leaving them for a few days gives nature the chance to use them. You might also cut them down and leave them to decay around where they grew, or leave them standing over the winter and cut them down in the spring. Frosty stems can look quite beautiful. 
 
@@ -62,7 +62,7 @@ Shapes are good visual breakers. Raking leaf litter into piles around shrubs, or
 
 Heavier, denser plants such as Dahlias will hide leaf litter better than open plants such as Rudbeckia, so you can tailor this to suit your garden. 
 
-### When and How to Clean Up (if Needed)
+### When and How to Clean Up (if needed)
 
 While leaving organic matter in the garden is often beneficial, there *are* times when a bit of cleanup is necessary to maintain plant health and balance. The key is knowing when you're helping the ecosystem—and when you're unintentionally hindering it.
 
@@ -70,13 +70,15 @@ While leaving organic matter in the garden is often beneficial, there *are* time
 Some plants, like tomatoes, roses, and peonies, are especially prone to fungal diseases and benefit from a tidier base. Removing diseased foliage, spent flowers, or stems can prevent the spread of pathogens from year to year. Always discard infected material—don’t compost it unless your compost gets hot enough to kill pathogens (many home piles don’t).
 
 **2. After Pest Infestations**
-If you’ve had a heavy infestation of aphids, caterpillars, or beetles, it can be helpful to clear away some of the affected plant matter. This reduces overwintering sites and breaks the pest’s lifecycle. You don’t need to strip the bed bare, but a thoughtful tidy-up around troubled plants can set the stage for a better spring.
+If you’ve had a heavy infestation of aphids, caterpillars, or beetles, it can be helpful to clear away some of the affected plant matter. This reduces the number of overwintering sites and breaks the pest’s lifecycle. You don’t need to strip the bed bare, but a thoughtful tidy-up around troubled plants can set the stage for a better spring.
 
 **3. To Prep Annual Beds**
 When rotating crops or replanting flower beds, removing the bulk of spent annuals may be helpful, especially if you're planting seeds or young transplants that need light and space. In this case, consider chopping old stems and layering them over other areas of the garden instead of hauling everything to the bin. That way, you're still recycling the nutrients.
 
 **4. To Make Room for Spring Growth**
 Early spring is one of the best times to gently clear paths, remove mats of soggy leaves from the crowns of perennials, and thin out overgrown mulch. This allows emerging shoots to develop while still retaining the protective benefits of litter, particularly water retention and frost protection, elsewhere.
+
+![Spring flowers blooming through leaf mulch](https://ucarecdn.com/2a14ab37-0033-4226-a4f8-74db4edc60fb/lot-beautiful-early-spring-flowers-nature-park-maksimir.jpg)
 
 **5. Mind the Seasons** \
 Fall (autumn) is often the time to *let things lie*. Insects lay eggs in dead stems, frogs tuck into leaf piles, and beneficial beetles nest beneath bark. Winter landscapes don’t need to be bare—they can be layered, textured, and alive with sheltering creatures.
@@ -85,12 +87,19 @@ Fall (autumn) is often the time to *let things lie*. Insects lay eggs in dead st
 
 ### A Look at What I’m Doing
 
-My current yard has a lot of trees. The bloom season in Arizona is plentiful, and they all fall to the ground quickly. I’ve raked this detritus into a ring around the trees, making sure the root flare is left exposed to the air around the trunk, which will help the soil hold water, and return nutrients. 
+My current yard has a lot of trees. The bloom season in Arizona is plentiful, and they all fall to the ground quickly. I’ve raked this detritus into a ring around the trees, making sure the root flare is left exposed to the air around the trunk, which will help the soil hold water and return nutrients. 
+
+![Acacia tree with organic detritus](https://ucarecdn.com/a3fa2fca-e508-47c5-b599-7daf2d438d14/PXL_20250619_162530683.RAW-01.COVER.jpg)
 
 It’s been hot the past few years, so some cacti are struggling. Cacti don’t love damp soil, so I’m using leaves to cover the surface around them to lower the soil temperatures. Leaves dry out quickly here after rain, so this will prevent rot and decay from affecting the cacti.
 
 Where I work has numerous ornamental oleanders. Instead of removing the cut leaves after I shape them, I sweep them out of sight under the shrubs. They’ve been growing more prolifically than ever now that the soil holds moisture better, and the number of lizards that call them home has increased, who in turn snack on the bugs in the area.
 
-### A Balancing Act
 
-Start small, start today is an old saying that bears weight here. Perhaps you have a small shaded corner that would be perfect for leaf litter and some dead wood. Maybe you have a damp spot near a drainspout for some mossy rocks, or a flower bed that could be nourished by some detritus. Picking just one area can bring vibrancy and more life to your garden, create habitat for pollinators, and improve soil health in simple, straightforward ways.
+### Final Thoughts: Let a Little Litter Lie
+
+Gardens don’t need to be pristine to be beautiful—or thriving. In fact, by letting a little organic litter remain, you're doing far more than saving yourself a cleanup. You’re building soil health, conserving moisture, cycling nutrients, and offering habitat to countless small but essential creatures.
+
+Whether it’s a ring of leaves beneath a tree, a log tucked into a shady corner, or flower heads left standing through winter, these small choices invite life back into the garden. They make your space more resilient, more dynamic, and more deeply connected to the natural world.
+
+So the next time you’re tempted to tidy, ask: could this “mess” be doing some good? Odds are, it already is.
