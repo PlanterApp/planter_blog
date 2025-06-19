@@ -13,7 +13,7 @@ caption = ""
 image = "https://ucarecdn.com/17ad0e8d-0365-4f62-a2ae-63e4b23d56e4/leaves-ground.jpg"
 alt = "Dried, decaying leaves covering the ground"
 +++
-We’ve all envisioned the perfect garden—neatly trimmed beds, clean lines, and not a leaf out of place. Perhaps you’ve admired the stunning show gardens at the Chelsea Flower Show, with their carefully curated designs and lush plantings (I have). These spaces *are* beautiful, and they do attract a host of wildlife.
+We’ve all envisioned the perfect garden—neatly trimmed beds, clean lines, and not a leaf out of place. Perhaps you’ve admired the stunning show gardens at the Chelsea Flower Show, with their carefully curated designs and lush plantings (I have). These spaces *are* beautiful and attract a diverse range of wildlife.
 
 But step into a wild woodland, meadow, or desert wash, and you’ll notice something different: there’s litter. Twigs, seed pods, spent blooms, and fallen leaves carpet the ground. This mess isn’t neglect—it’s nature’s way of building resilience.
 
