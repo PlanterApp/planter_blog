@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Love In The Veggie Patch: Understanding Cucurbit Reproduction"
+title = "Love in the Veggie Patch: Understanding Cucurbit Reproduction"
 slug = "love-in-the-veggie-patch-understanding-cucurbit-reproduction"
 date = "2025-07-12T09:00:00.000Z"
 author = "Sarah-Manon Blok"
@@ -33,7 +33,7 @@ So, how do you tell who’s who in this shared floral household? 
 
 ![Bright yellow male cucurbit flower ](https://4w1qaaek5t.ucarecd.net/1c5e1681-e0b8-4e56-8c41-46aec597156b/-/preview/-/rotate/270/zucchini-4400554_1280.jpg "*Male flower*")
 
-## The first to bloom: why male flowers show up early  
+## First to bloom: why male flowers show up early  
 
 If your zucchini plants are blooming but not fruiting, don't panic. Those first flowers are likely male, and yes, they're supposed to be early. Male flowers are like pollination scouts. They show up early to test the environment, check for pollinators, and throw a pre-party before the real stars (the female flowers) make their entrance. These early bloomers don’t grow fruit, but they do carry the pollen needed when the female flowers arrive. It’s nature’s way of being cautious.  
 
