@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Love In The Veggie Patch: Understanding Cucurbit Reproduction"
-slug = "Love In The Veggie Patch: Understanding Cucurbit Reproduction"
+slug = "love-in-the-veggie-patch-understanding-cucurbit-reproduction"
 date = "2025-07-12T09:00:00.000Z"
 author = "Sarah-Manon Blok"
 plants = ["Cucumbers", "Squash", "Gourds", "Watermelon", "Pumpkin", "Honeydew", "Cantaloupe", "Bitter Melon"]
@@ -20,7 +20,7 @@ As you prepare for a season of abundance, you've been nurturing your zucchini pl
 
 Welcome to the surprisingly steamy world of cucurbit reproduction. With around 965 species, the cucurbit family (also known as the gourd family) includes some of the most popular garden crops: zucchinis, pumpkins, melons, cucumbers, and more. Plants, it turns out, have their own version of a love story. And understanding how that story unfolds can make all the difference. In this blog, we’ll explore how cucurbits flirt, attract, and (with a little help) produce fruit, so you can help your garden grow into a truly fruitful affair. 
 
-**Meet the Cucurbits**  
+## Meet the Cucurbits  
 
 Cucurbits are what's known as monoecious (Greek for ''one house''). Meaning both male and female flowers grow on the same plant. Technically self-sufficient, they still need help getting pollen from one flower to another. Like from a native squash bee or the occasional butterfly.  
 
@@ -33,7 +33,7 @@ So, how do you tell who’s who in this shared floral household? 
 
 ![Bright yellow male cucurbit flower ](https://4w1qaaek5t.ucarecd.net/1c5e1681-e0b8-4e56-8c41-46aec597156b/-/preview/-/rotate/270/zucchini-4400554_1280.jpg "*Male flower*")
 
-**The first to bloom: why male flowers show up early**  
+## The first to bloom: why male flowers show up early  
 
 If your zucchini plants are blooming but not fruiting, don't panic. Those first flowers are likely male, and yes, they're supposed to be early. Male flowers are like pollination scouts. They show up early to test the environment, check for pollinators, and throw a pre-party before the real stars (the female flowers) make their entrance. These early bloomers don’t grow fruit, but they do carry the pollen needed when the female flowers arrive. It’s nature’s way of being cautious.  
 
@@ -41,7 +41,7 @@ After all, why invest in fruit if there’s no one around to help with the, *ahe
 
 Most of the time, bees and other insects do the job just fine. But in modern gardens, especially in containers, urban settings, or during poor weather, they sometimes need a little help from us. 
 
-**How to lend a human hand (literally)** 
+## How to lend a human hand (literally) 
 
 If it seems like your cucurbits’ pollination department could use a little help, that’s where you come in. Enter a process called hand-pollination: manually transferring pollen from the male flower to the female flower, mimicking what bees and other pollinators naturally do. It’s a simple, hands-on way to give nature a gentle nudge and make sure fertilisation actually happens. 
 
@@ -55,7 +55,7 @@ To hand-pollinate:  
 
 That’s it! Best to do this in the morning, when flowers are fresh and receptive. It's a simple act of floral matchmaking that can yield big results.
 
-**Embracing the weird romance of your garden**  
+## Embracing the weird romance of your garden  
 
 Who knew gardening could feel so intimate? The sex lives of your veggies may seem like a quirky curiosity but understanding them can be the difference between a fruitless season and a basket overflowing with zucchini, cucumbers, and pumpkins.
 
