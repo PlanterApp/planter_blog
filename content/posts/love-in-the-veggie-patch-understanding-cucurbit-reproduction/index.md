@@ -5,7 +5,7 @@ slug = "Love In The Veggie Patch: Understanding Cucurbit Reproduction"
 date = "2025-07-12T09:00:00.000Z"
 author = "Sarah-Manon Blok"
 plants = ["Cucurbit", "Zucchini", "Pumpkin", "Melon", "Cucumber"]
-series = ["Cucurbit family"]
+series = []
 
 [cover]
 relative = false
