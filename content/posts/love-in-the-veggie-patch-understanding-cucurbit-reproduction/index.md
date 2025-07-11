@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Love in the Veggie Patch: Understanding Cucurbit Reproduction"
 slug = "love-in-the-veggie-patch-understanding-cucurbit-reproduction"
 date = "2025-07-12T09:00:00.000Z"
