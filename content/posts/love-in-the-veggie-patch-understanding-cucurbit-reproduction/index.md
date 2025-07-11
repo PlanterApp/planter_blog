@@ -20,7 +20,7 @@ As you prepare for a season of abundance, you've been nurturing your zucchini pl
 
 Welcome to the surprisingly steamy world of cucurbit reproduction. With around 965 species, the cucurbit family (also known as the gourd family) includes some of the most popular garden crops: zucchinis, pumpkins, melons, cucumbers, and more. Plants, it turns out, have their own version of a love story. And understanding how that story unfolds can make all the difference. In this blog, we’ll explore how cucurbits flirt, attract, and (with a little help) produce fruit, so you can help your garden grow into a truly fruitful affair. 
 
-## Meet the Cucurbits  
+## Meet the cucurbits  
 
 Cucurbits are what's known as monoecious (Greek for ''one house''). Meaning both male and female flowers grow on the same plant. Technically self-sufficient, they still need help getting pollen from one flower to another. Like from a native squash bee or the occasional butterfly.  
 
@@ -33,7 +33,7 @@ So, how do you tell who’s who in this shared floral household? 
 
 ![Bright yellow male cucurbit flower ](https://4w1qaaek5t.ucarecd.net/1c5e1681-e0b8-4e56-8c41-46aec597156b/-/preview/-/rotate/270/zucchini-4400554_1280.jpg "*Male flower*")
 
-## First to bloom: why male flowers show up early  
+## First to bloom: why male flowers appear early  
 
 If your zucchini plants are blooming but not fruiting, don't panic. Those first flowers are likely male, and yes, they're supposed to be early. Male flowers are like pollination scouts. They show up early to test the environment, check for pollinators, and throw a pre-party before the real stars (the female flowers) make their entrance. These early bloomers don’t grow fruit, but they do carry the pollen needed when the female flowers arrive. It’s nature’s way of being cautious.  
 
