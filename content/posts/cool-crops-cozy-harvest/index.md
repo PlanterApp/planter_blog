@@ -9,7 +9,7 @@ plants = ["Carrots", "Arugula", "Mâche", "Rhubarb", "Spinach", "Kale", "Bok Cho
 [cover]
 relative = false
 image = "https://4w1qaaek5t.ucarecd.net/dafaf6fe-f23f-4cfb-8a27-221776ff2f5f/woman-farmer-plants-seeds-garden-selective-focus (1).jpg"
-alt = "Women's farmer hands planting seeds in soil"
+alt = "Woman's farmer hands planting seeds in soil"
 +++
 
 Oh, summer. How I love you.
