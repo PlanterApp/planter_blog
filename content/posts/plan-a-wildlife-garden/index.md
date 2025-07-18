@@ -17,7 +17,7 @@ If you have a garden, chances are you have wildlife. So why do you need to "crea
 
 A garden with a diverse population of insects, birds, and even small mammals indicates healthy soil and a good ecosystem. If you can draw birds into your garden, they can help keep the pesky bug population in control. The more pollinators you attract, the better the pollination of your crops. Small mammals can benefit the garden by aerating the soil, even if we don't always consider that to be helpful. Earthworms help break down dead plants and contribute to the soil's nutrient level. Let's look at how you can turn your garden into a thriving wildlife community.  
 
-![a mole popping up out of his hole](https://4w1qaaek5t.ucarecd.net/a08d312e-f876-4218-895f-9ea03f0f1f82/getty-images-IkBGUPeyKxg-unsplash.jpg "\"Heard your soil could use some help!\"")
+![a mole popping up out of his hole](https://4w1qaaek5t.ucarecd.net/a08d312e-f876-4218-895f-9ea03f0f1f82/getty-images-IkBGUPeyKxg-unsplash.jpg '"Heard your soil could use some help!"')
 
 ### Water
 
@@ -37,7 +37,7 @@ Bird houses offer birds a safe place to nest in the spring and summer months. If
 
 Bats conjure up spooky feelings in some people, but there's no reason to be afraid of these awesome creatures. One bat can eat thousands of bugs in one night. DIY tutorials exist on making a simple bat house, or you can purchase one assembled. Bat houses should be around 20 feet off the ground. 
 
-"Bug hotels" give beneficial bugs shelter to live and nest. You can buy cute bug hotels or make one yourself. They can be as simple as a pile of rotting logs, too. You can learn more about the benefits of leaving leaves, logs, and other materials in the garden over the winter here. 
+"Bug hotels" give beneficial bugs shelter to live and nest. You can buy cute bug hotels or make one yourself. They can be as simple as a pile of rotting logs, too. You can learn more about the benefits of leaving leaves, logs, and other materials in the garden over the winter [here](https://blog.planter.garden/posts/the-importance-of-garden-litter/). 
 
 ![A bug hotel in front of a green hedge](https://4w1qaaek5t.ucarecd.net/d6bacb96-5acb-4991-9df8-f7ded2029ca9/annie-spratt-gqoE8MOYSPs-unsplash.jpg)
 
