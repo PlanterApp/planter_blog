@@ -1,10 +1,10 @@
 +++
-draft = true
+draft = false
 title = "Plan a Wildlife Garden"
 slug = "plan-a-wildlife-garden"
 date = "2025-07-18T14:04:00.000-07:00"
 author = "Samantha Togstad"
-plants = ["echinacea"]
+plants = ["echinacea", "sunflowers", "zinnias", "asters"]
 
 [cover]
 relative = false
