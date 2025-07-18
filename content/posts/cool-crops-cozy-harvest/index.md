@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Cool Crops, Cozy Harvest"
-slug = "Cool Crops, Cozy Harvest"
-date = "2025-07-18T09:00:00.000+02:00"
+slug = "Cool-Crops-Cozy-Harvest"
+date = "2025-07-18T13:00:00.000-04:00"
 author = "Sarah-Manon Blok"
 plants = ["Carrots", "Arugula", "Mâche", "Rhubarb", "Spinach", "Kale", "Bok Choy", "Cilantro", "Kohlrabi", "Radishes", "Garlic", "Chives", "Echinacea"]
 
@@ -11,7 +11,6 @@ relative = false
 image = "https://4w1qaaek5t.ucarecd.net/dafaf6fe-f23f-4cfb-8a27-221776ff2f5f/woman-farmer-plants-seeds-garden-selective-focus (1).jpg"
 alt = "Woman's farmer hands planting seeds in soil"
 +++
-
 Oh, summer. How I love you.
 
 It’s mid-July, and the breeze here in the mountains feels like a warm hug. Most folks are busy harvesting courgettes the size of baguettes and, no doubt, cursing their once-again runaway mint. I’m standing in my garden with a fresh cup of (yes, mint) tea and a question: *What do I want to eat in the fall?*
@@ -22,17 +21,19 @@ So I thought I’d take you along. Let’s chat about what you can still plant n
 
 ## Let's Talk About Frost, Baby
 
-As we tiptoe toward fall, it’s a great time to start plotting your autumn garden. If you want the full how-to, we’ve got you covered! Check out our article “Don’t Forget Your Fall Garden” for a step-by-step on what to plant, when to plant it, and how Planter can help you nail the timing.
+As we tiptoe toward fall, it’s a great time to start plotting your autumn garden. For an overview of the types of crops that are generally best suited for a fall garden, and how Planter can help you to double check the timing, have a read of the article: [Don’t Forget Your Fall Garden](https://blog.planter.garden/posts/don-t-forget-your-fall-garden/).
 
-One of my favorite features? In the settings tab, Planter shows a countdown to your first expected fall frost, like a tiny ticking clock for gardeners. Super useful for figuring out what you can still grow in time… and also mildly panic-inducing (in the best way). Here’s mine:
+One of my favorite newer(ish) Planter features? In the settings tab, Planter shows a countdown to your first expected fall frost, like a tiny ticking clock for gardeners. Super useful for figuring out what you can still grow in time… and also mildly panic-inducing (in the best way). Here’s mine:
 
-![Growing season clock showing a total of 148 frost-free days, with 78 growing days remaining until the fall frost date.](https://4w1qaaek5t.ucarecd.net/eeff2c41-9a0b-402c-baba-4f293cf129b9/WhatsApp%20Image%202025-07-18%20at%2008.52.36.jpeg)
+![A screenshot of the growing season counter in Planter](https://4w1qaaek5t.ucarecd.net/700d9423-72dc-44bc-bf92-b95d83051984/Growing-season-screenshot.jpeg)
+
+
 
 ## My Fall Planting Picks
 
 Ideally, I want to plant everything, have maximum diversity, and eat 23 different crunchy things in my salad bowls. But sometimes, less really is more. Expanding gradually keeps gardening fun and avoids unnecessary stress on both your soil and your (possibly receding) hairline.
 
-With the internet offering abazillion planting guides (plus whatever gardening books you’ve got lying around), there’s no shortage of info.  For this round, I’m keeping it simple and using the Planter app to guide my choices. It already knows my local frost dates, and I love that you can filter for things like frost-tolerant crops or perennials. One of my favorite features? The "Sow Outside Now" calendar, it shows exactly what you can still plant, and how much time you’ve got left to do it.
+With the internet offering a bazillion planting guides (plus whatever gardening books you’ve got lying around), there’s no shortage of info. For this round, I’m keeping it simple and using the Planter app to guide my choices. It already knows my local frost dates, and I love that you can filter for things like frost-tolerant crops or perennials. The Growing Calendar shows which crops you can still plant, and how much time you’ve got left to do it.
 
 So, without further rambling… 
 
@@ -58,7 +59,9 @@ Here are some of the fast-growing cool-season crops I’ve chosen for an abundan
 
 **10. Wasabi Arugula.** Want to keep it mild? Use young baby leaves. Want it spicier? Let the leaves get bigger or use the flower buds, they’re often even punchier.
 
-![Mixed green and purple salad ](https://4w1qaaek5t.ucarecd.net/ad792707-0d99-48ea-bc8c-878905532a8b/mix-variety-healthy-fresh-green-salad.jpg)
+![A mix of various lettuce leaves and other greens](https://4w1qaaek5t.ucarecd.net/b52ff5d9-9f82-4369-ab0e-242657670ca8/mix-variety-healthy-fresh-green-salad.jpg)
+
+
 
 A few slow-burners I’m adding anyway.  These won’t feed me this year, but they’re future-you gold:
 
@@ -73,7 +76,7 @@ A few slow-burners I’m adding anyway.  These won’t feed me this year, but t
 1. **Choose fast-growing or frost-tolerant crops**
    Look for varieties that mature in 60 days or less, or that can handle light frost.
 2. **Sow directly in the soil**
-   It’s too late for transplants unless you’ve already got them. So I’m going with direct sowing only.
+   Depending on where you live, it might too late for longer-growing transplants unless you’ve already got them ready. To be safe, I’m going with direct sowing only.
 3. **Germination can be tricky in summer heat**
    Sow in the evening, water well, and consider adding light shade over freshly seeded areas to keep the soil cool.
 4. **Keep watering consistent**
