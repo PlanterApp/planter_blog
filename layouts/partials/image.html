@@ -34,7 +34,7 @@
             {{ $pathDir := $path.Dir }}
             {{ $pathFile := replaceRE `\s` "%20" $path.File }}
             {{ $pathExt := path.Ext $path}}
-            {{ $uploadCare := strings.Contains $fullUrl "ucarecdn.com" }}
+            {{ $uploadCare := strings.Contains $fullUrl "ucarecd" }}
             {{ $isAnimated := eq $pathExt ".gif" }}
             {{ $gif2Video := false }}
             {{ if $addLink }}
