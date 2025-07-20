@@ -54,7 +54,7 @@ Thai food is vibrant and features an array of different veggies. To prepare some
 * Peanuts
 * Dwarf lime
 
-![Screenshot of a Thai curry garden plan in Planter](thai-https://ucarecdn.com/57faef8f-8836-4044-bc48-4482ccbf9f15/curry-garden.jpg)
+![Screenshot of a Thai curry garden plan in Planter](https://ucarecdn.com/16d0e53d-68f7-43ca-a435-e4b74a44d559/thai-curry-garden.jpg)
 
 The Thai curry garden plan incorporates most of the plants from the base curry garden plan and adds on from there. The serrano chiles were swapped for Thai chiles, and more garlic and onions were added. Lemongrass is a staple ingredient in many Thai dishes- its included in a container so it can be started early indoors and easily transitioned outside. Mint was also added in a container to prevent it from spreading and taking over the entire garden! Basil plays more nicely so it can be incorporated right into the garden bed. If possible, try to find Thai varieties of mint and basil for a more authentic flavor. 
 
@@ -74,7 +74,7 @@ The Indian curry garden plan also works off the same base curry garden plan, but
 * Mustard
 * Spinach
 
-![A screenshot of an Indian curry garden plan in Planter](indian-https://ucarecdn.com/57faef8f-8836-4044-bc48-4482ccbf9f15/curry-garden.jpg)
+![A screenshot of an Indian curry garden plan in Planter](https://ucarecdn.com/b8913139-4872-4db3-9dbc-001ae68beae4/indian-curry-garden.jpg)
 
 Turmeric is a plant that spreads and grows by rhizomes, similar to ginger. Since turmeric isn’t available in Planter (yet!) one workaround is to create a custom variety of ginger and name it turmeric (turmeric isn't technically a ginger variety but this is just a quick fix). Like ginger, turmeric is grown in pots so it can be started well in advance and moved around in the garden to capture the perfect balance of sun and shade.
 
