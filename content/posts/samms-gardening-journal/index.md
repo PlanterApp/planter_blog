@@ -55,7 +55,7 @@ All but one were snaffled while I was at work. The remaining one now lives insid
 
 I also tried to grow amaranth, and they all suffered the same fate as the loofah. 
 
-I’m also growing some native grasses and some Jewels of Opar from seed, both of which are very healthy and will be planted outside next year.
+I’m also growing some native grasses and some Jewels of Opar from seed, both of which are very healthy and will be planted outside next year, or mid-Fall if they are ready.
 
 ![Loofah seedling](https://4w1qaaek5t.ucarecd.net/4e089b54-847e-4803-a6e8-7c6220db89bb/PXL_20250725_221051495.RAW-01.COVER.jpg "It's almost a foot tall and should start producing buds soon.")
 
