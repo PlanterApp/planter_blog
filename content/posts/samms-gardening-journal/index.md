@@ -7,7 +7,7 @@ author = "Sam Liddicott"
 [cover]
 relative = false
 +++
-It’s been a dry year for the Southwest so far, though things are looking up with a fairly active monsoon season underway. I’ve been helping my garden adjust to the heat, use water sustainably, and improve the availability of wildlife habitat. I’ve lost some plants, but plenty have still thrived. Here's a look at what I've been doing in my Sonoran Desert, zone 9a garden.
+It’s been a dry year for the Southwest so far, though things are looking up with a fairly active monsoon season underway. I’ve been helping my garden adjust to the heat, use water more sustainably, and provide better habitat for local wildlife. I’ve lost some plants, but plenty have still thrived. Here’s a look at what I’ve been doing in my Sonoran Desert, zone 9a garden.
 
 ![Plains coreopsis](https://4w1qaaek5t.ucarecd.net/989663a3-c81c-4e75-bb27-ed4da88ff317/PXL_20250725_215919570.RAW-01.COVER.jpg "Some plains coreopsis winning against the heat.")
 
