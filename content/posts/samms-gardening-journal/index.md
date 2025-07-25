@@ -49,7 +49,7 @@ Take a cutting from a cactus, dry it out for a couple of days, and stick it in t
 
 This year, I also attempted to grow Loofah. I started with 16 seeds, which I grew in two stages. The first 8 I planted directly outside in my newly dug and amended sunken garden bed in mid-spring. These were all devoured by the cardinals. 
 
-I started the next batch inside to great success using the damp paper towel method. Once they were in pots and had grown to around an inch tall, I began hardening them off. 
+I started the next batch inside to great success using the damp paper towel method. Once they were in pots and had grown to around an inch tall, I began hardening them off so I could keep them in pots outside, as the weather was quickly becoming blisteringly hot.
 
 All but one were snaffled while I was at work. The remaining one now lives inside and is doing very well. 
 
