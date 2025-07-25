@@ -6,6 +6,8 @@ author = "Sam Liddicott"
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/708e5977-cfe3-47b8-a019-04ce293ee66a/20220414_095330.jpg"
+alt = "Hedgehog Cactus in bloom with red flowers"
 +++
 It’s been a dry year for the Southwest so far, though things are looking up with a fairly active monsoon season underway. I’ve been helping my garden adjust to the heat, use water more sustainably, and provide better habitat for local wildlife. I’ve lost some plants, but plenty have still thrived. Here’s a look at what I’ve been doing in my Sonoran Desert, zone 9a garden.
 
