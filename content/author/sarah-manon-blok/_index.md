@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Sarah-Manon Blok"
 slug = "Sarah-Manon Blok"
 
