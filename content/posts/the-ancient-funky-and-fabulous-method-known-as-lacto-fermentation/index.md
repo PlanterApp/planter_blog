@@ -105,7 +105,7 @@ Each culture adds its own twist: garlic, dill, oak leaves, horseradish, grape le
 You can lacto-ferment almost any fresh vegetable, root, or garden crop. Think garlic, carrots, radishes, beans, beets, cauliflower, green tomatoes, or cucumbers. The method is simple:
 
 1. **Chop or grate your veggies** (or leave them whole if they’re small).
-2. **Add salt**. Around **2% of the total weight** of the vegetables (e.g. 20g salt per 1kg veggies). This draws out moisture and creates the right environment for good bacteria to thrive.
+2. **Add salt**. Around **2% of the total weight** of the vegetables (e.g. 20g salt per 1kg veggies). This draws out moisture and creates the right environment for good bacteria to thrive. Make sure to use **non-iodized salt** (like sea salt or pickling salt). Iodine and anti-caking agents in regular table salt can inhibit fermentation by slowing down the beneficial bacteria.
 3. **Pack tightly into a clean jar**, pressing the vegetables down so they release their juices.
 4. If the veggies don’t release enough liquid to fully submerge, **top up with filtered water** until everything is covered.
 5. **Weigh them down** using a fermentation weight or a small clean jar, so the veggies stay submerged in the brine.
@@ -114,8 +114,7 @@ You can lacto-ferment almost any fresh vegetable, root, or garden crop. Think ga
 
 Note: You could also use fruit, but if you let fruit ferment too long or if wild yeast takes over, it can start to turn into alcohol (aka fruit wine). Which is fun, but not quite what you're aiming for with lacto-fermentation!
 
-### 
-**How to Store Ferments Long-Term**
+### **How to Store Ferments Long-Term**
 
 Once your lacto-ferment tastes just right (tangy, sour, delicious), it's time to slow down the fermentation to preserve it.
 
@@ -137,7 +136,7 @@ Once your lacto-ferment tastes just right (tangy, sour, delicious), it's time to
 * **Ferment in large batches**, keep sealed jars in a cold cellar or fridge.
 * You can also **can** fermented foods using water-bath canning, but note: this **kills probiotics**, so it’s good for flavor and shelf-life, but not for gut health.
 
-### **! Safety Guidelines !** 
+### **! Safety Guidelines !**
 
 It’s incredibly important to follow safety guidelines when working on projects like these, especially if you’re just getting started.
 
@@ -152,16 +151,6 @@ Fermenting at home can be simple, safe, and deeply rewarding, as long as you sti
 
 **Remember: If it looks, smells, or tastes truly off: trust your gut and don’t eat it. A good ferment should smell pleasantly sour and make you want to dig in!**
 
-It would make me *so* super-duper happy to see what you’ve been fermenting!
+It would make us super-duper happy to see what you’ve been fermenting!
 
-If you feel like sharing your creations, asking questions, or just chatting about funky jars and bubbly brine, feel free to drop me an email:
-
-Sarah-Manon@planter.garden
-
-
-
-
-
-
-
-###
+If you feel like sharing your creations, asking questions, or just chatting about funky jars and bubbly brine, come say hi on or tag us on Instagram @planterapp. We'd love to see what’s bubbling in your kitchen! :)
