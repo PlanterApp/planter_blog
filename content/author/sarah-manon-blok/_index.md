@@ -4,8 +4,9 @@ title = "Sarah-Manon Blok"
 slug = "Sarah-Manon Blok"
 
 [cover]
-caption = "Author Sarah-Manon, all smiles while harvesting broad beans."
+caption = ""
 image = "https://4w1qaaek5t.ucarecd.net/92d7343f-b8ac-43cf-a918-35b594a11bd1/-/crop/1011x834/211,246/-/preview/WhatsApp Image 2024-09-04 at 14.20.47.jpeg"
+alt = "Author Sarah-Manon, all smiles while harvesting broad beans."
 +++
 **Hi beautiful creatures!**
 
