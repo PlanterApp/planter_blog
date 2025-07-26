@@ -1,7 +1,7 @@
 +++
 draft = true
-title = "The ancient, funky, and fabulous method known as: lacto-fermentation "
-slug = "The ancient, funky, and fabulous method known as: lacto-fermentation "
+title = "The Ancient, Funky, and Fabulous Method Known As: Lacto-Fermentation "
+slug = "lacto-fermentation"
 date = "2025-07-27T08:58:00.000Z"
 author = "Sarah-Manon Blok"
 plants = ["Cabbage", "Carrots"]
@@ -100,7 +100,7 @@ Each culture adds its own twist: garlic, dill, oak leaves, horseradish, grape le
 
 ![3 different jars of pickles: fermented cucumbers. The middle one is lighter in color.](https://4w1qaaek5t.ucarecd.net/14a46ab6-7020-48c2-9d6d-3d930f8ee07f/pickled-cucumbers-glass-jars-blue-wall.jpg)
 
-### **So, what can YOU make?** 
+### **So, What Can YOU Make?** 
 
 You can lacto-ferment almost any fresh vegetable, root, or garden crop. Think garlic, carrots, radishes, beans, beets, cauliflower, green tomatoes, or cucumbers. The method is simple:
 
@@ -109,7 +109,7 @@ You can lacto-ferment almost any fresh vegetable, root, or garden crop. Think ga
 3. **Pack tightly into a clean jar**, pressing the vegetables down so they release their juices.
 4. If the veggies don’t release enough liquid to fully submerge, **top up with filtered water** until everything is covered.
 5. **Weigh them down** using a fermentation weight or a small clean jar, so the veggies stay submerged in the brine.
-6. Cover loosely (with a lid or cloth) to let gases escape, and let ferment at **room temperature** (18–22°C) for 5–14 days, depending on taste and ambient temperature. I have accidentally forgotten some of my ferments for quite a bit longer than that, and they turned out even better than I hoped! 
+6. Cover loosely (with a lid or cloth) to let gases escape, and let ferment at **room temperature** (65-72°F or 18–22°C) for 5–14 days, depending on taste and ambient temperature. I have accidentally forgotten some of my ferments for quite a bit longer than that, and they turned out even better than I hoped! 
 7. Once it smells sour and tastes good to you, **move it to the fridge** to slow fermentation and enjoy!
 
 Note: You could also use fruit, but if you let fruit ferment too long or if wild yeast takes over, it can start to turn into alcohol (aka fruit wine). Which is fun, but not quite what you're aiming for with lacto-fermentation!
@@ -120,16 +120,16 @@ Once your lacto-ferment tastes just right (tangy, sour, delicious), it's time to
 
 **The basics:** 
 
-* **Refrigerate it**: Move the jar to the fridge (or a cool cellar if you have one under 10°C). Cold temperatures slow fermentation to almost a stop.
+* **Refrigerate it**: Move the jar to the fridge (or a cool cellar if you have one under 50°F or 10°C). Cold temperatures slow fermentation to almost a stop.
 * **Keep veggies submerged**: Make sure everything stays under the brine, even in the fridge. This keeps mold away and preserves flavor.
 * **Use a clean utensil every time**: Never dip in with fingers, this prevents contamination.
 
 **How long does it last?** 
 
 * Most ferments will stay good for **several months** in the fridge, often even **6 months to a year**, depending on:
-* \- Salt level (more salt = longer preservation)
-* \- Veggie type (firm veggies last longer)
-* \- Storage temperature (colder = better)
+* Salt level (more salt = longer preservation)
+* Veggie type (firm veggies last longer)
+* Storage temperature (colder = better)
 
 **Want to store it really long?** 
 
@@ -144,7 +144,7 @@ Fermenting at home can be simple, safe, and deeply rewarding, as long as you sti
 
 1. Always use clean utensils and jars to avoid contamination.
 2. Make sure all vegetables stay fully submerged in the brine. *E*xposure to air can lead to mold.
-3. A thin white film (called *kahm yeast*) is harmless, but fuzzy mold (green, black, or pink) is a sign to throw it out. The Fermentation Podcast has an entire piece dedicated to mold, definitely worth a read! Checking it out [here! ](https://fermentationpodcast.com/five-questions-mold-food-safety/) 
+3. A thin white film (called *kahm yeast*) is harmless, but fuzzy mold (green, black, or pink) is a sign to throw it out. The Fermentation Podcast has an entire piece dedicated to mold, definitely worth a read! Checking it out [here!](https://fermentationpodcast.com/five-questions-mold-food-safety/) 
 4. If it smells rotten or off (not just sour), don’t eat it.
 5. Keep ferments out of direct sunlight during the process.
 6. Once opened or ready, store in the refrigerator.
@@ -153,4 +153,4 @@ Fermenting at home can be simple, safe, and deeply rewarding, as long as you sti
 
 It would make us super-duper happy to see what you’ve been fermenting!
 
-If you feel like sharing your creations, asking questions, or just chatting about funky jars and bubbly brine, come say hi on or tag us on Instagram @planterapp. We'd love to see what’s bubbling in your kitchen! :)
+If you feel like sharing your creations, asking questions, or just chatting about funky jars and bubbly brine, come say hi on or tag us on Facebook or Instagram @planterapp. We'd love to see what’s bubbling in your kitchen! :)
