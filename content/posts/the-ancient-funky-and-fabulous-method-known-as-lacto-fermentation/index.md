@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "The Ancient, Funky, and Fabulous Method Known As: Lacto-Fermentation "
 slug = "lacto-fermentation"
 date = "2025-07-27T08:58:00.000Z"
