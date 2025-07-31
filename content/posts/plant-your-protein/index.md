@@ -55,29 +55,27 @@ Whether you're gardening in chilly Maine or sunbaked Arizona, there’s a protei
 * **Kale & Spinach** – While not high-protein (about 3g per cooked cup), they add valuable nutrients and support overall protein intake. 
 * **Peas** – Cool-weather champs. Snap, snow, or shelling varieties are easy to grow 
 
-
-
- 
+![A pea pod hanging on a green plant ](https://4w1qaaek5t.ucarecd.net/bc43222c-40f6-47c0-a761-09dd5862e481/plants-field-healthy-farming-concept.jpg)
 
 **Temperate Zones (USDA Zones 6–8)** 
 
 * **Soybeans (Edamame)** – Thrive in warm summers and are rich in complete protein (~17g per cooked cup). Harvest young for edamame. 
 * **Chickpeas (Garbanzo Beans)** – Prefer hot, dry summers and well-drained soil. Protein-rich (~15g per cooked cup) and good for small-scale growers. 
-* **Amaranth** – Both the leaves (protein-rich greens) and seeds (complete protein) are edible. Adaptable and ornamental. 
 * **Runner Beans** – Heat-tolerant, vining, and beautiful. High yields and moderate protein (~13g per cooked cup). 
 * **Sunflower Seeds** – Grown for seeds, not the flower! ~6g of protein per ¼ cup shelled seeds. Full sun and space to grow tall. 
+* **Amaranth** – Both the leaves (protein-rich greens) and seeds (complete protein) are edible. Adaptable and ornamental. 
 
- 
+  ![Amaranth Plant, beautiful purple/red color](https://4w1qaaek5t.ucarecd.net/e20162b6-717a-4707-a764-7a3cff15402c/pexels-paige-thompson-313369049-14448235.jpg)
 
 **Warm Climates (USDA Zones 9–11)** 
 
-* **Cowpeas (Black-eyed peas)** – Extremely drought-tolerant and thrive in heat. ~13g protein per cooked cup. 
 * **Pigeon Peas** – Perennial in the tropics, annual in mild climates. Popular in Caribbean, African, and Indian cooking. Great nitrogen fixer. 
 * **Moringa** – Fast-growing tree with edible leaves high in protein (~2–3g per 100g fresh). Also rich in vitamins and minerals. 
 * **Peanuts** – Technically a legume, not a nut! Grows well in sandy, well-drained soil. ~25g protein per cup (roasted). 
 * **Sesame** – Grown for its oil-rich, high-protein seeds (~5g per tablespoon). Needs a long, hot growing season. 
+* **Cowpeas (Black-eyed peas)** – Extremely drought-tolerant and thrive in heat. ~13g protein per cooked cup. 
 
- 
+![Hands planting Black-Eyed Peas](https://4w1qaaek5t.ucarecd.net/c43e04b1-d4e1-405c-95f7-db5ba72b2a26/pexels-joicerivas-14251408.jpg)
 
 **Backyard Protein Hacks** 
 
