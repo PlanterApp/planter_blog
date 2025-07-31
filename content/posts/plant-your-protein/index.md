@@ -84,7 +84,7 @@ Whether you're gardening in chilly Maine or sunbaked Arizona, there’s a protei
 * **Let it dry**: For storage crops like lentils or chickpeas, leave pods to dry on the plant before harvesting. 
 * **Save seeds**: Dry beans and grains store well all year and can be replanted. 
 
-Many legumes, including **soybeans, chickpeas, peas, lentils, and fava beans**, are **nitrogen-fixers**. That means they work with bacteria in the soil to pull nitrogen from the air and convert it into a form plants can use. This natural fertilization reduces the need for synthetic nitrogen fertilizers, which are energy-intensive to produce and can pollute water systems!  
+**Bonus fact:** Many legumes, including soybeans, chickpeas, peas, lentils, and fava beans, are nitrogen-fixers. That means they work with bacteria in the soil to pull nitrogen from the air and convert it into a form plants can use. This natural fertilization reduces the need for synthetic nitrogen fertilizers, which are energy-intensive to produce and can pollute water systems!  
 
 Start small, experiment wildly, and celebrate the fact that your dinner might start from a single sprout. 
 
