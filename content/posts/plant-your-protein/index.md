@@ -17,7 +17,7 @@ It also made me think more deeply about what nourishes me. And if there’s one 
 
 This blog isn’t here to shame your protein powders or tell you to ditch your favorite snack bars, do what feels right for your body. **But** if you have access to a garden and want to add something amazing to both your nutrition and your soil, keep reading. 
 
-# **Firstly, what is protein?**  
+# **Firstly, What is Protein?**  
 
 Let’s break it down. Protein is one of the three macronutrients your body needs in large amounts (the others being carbs and fats). It's made up of building blocks called amino acids and these little molecules are what your body uses to: 
 
@@ -32,7 +32,7 @@ Your body needs 20 different amino acids to function properly. It can make most 
 
 *Disclaimer: this is supported by the [Academy of Nutrition and Dietetics](https://www.jandonline.org/article/S2212-2672(16)31192-3/abstract), which confirms that well-planned plant-based diets provide all the protein your body needs, at every life stage.* 
 
-# **What counts as protein in the garden?** 
+# **What Counts as Protein in the Garden?** 
 
 When we talk about protein, we’re usually thinking beans (and beans are stars) but they’re not alone. Protein in plants comes from a whole cast of characters: 
 
@@ -43,7 +43,7 @@ When we talk about protein, we’re usually thinking beans (and beans are stars)
 
 Some have complete proteins, others don’t but together they build a well-rounded cast for your diet.  
 
-# **What to grow, where: protein crops by climate zone** 
+# **What to Grow, Where: Protein Crops by Climate Zone** 
 
 Whether you're gardening in chilly Maine or sunbaked Arizona, there’s a protein-rich plant waiting to thrive in your zone. 
 
@@ -77,7 +77,7 @@ Whether you're gardening in chilly Maine or sunbaked Arizona, there’s a protei
 
 ![Hands planting Black-Eyed Peas](https://4w1qaaek5t.ucarecd.net/c43e04b1-d4e1-405c-95f7-db5ba72b2a26/pexels-joicerivas-14251408.jpg)
 
-# **Backyard protein hacks** 
+# **Backyard Protein Hacks** 
 
 * **Go vertical**: Beans and peas love to climb. Save space with trellises or garden arches. 
 * **Mix it up**: Try the **Three Sisters** method. Corn, beans, and squash grown together to support each other. 
