@@ -1,7 +1,7 @@
 +++
-draft = true
+draft = false
 title = "Plant Your Protein"
-slug = "Plant Your Protein"
+slug = "Plant-Your-Protein"
 date = "2025-08-02T09:00:00.000Z"
 author = "Sarah-Manon Blok"
 plants = ["Beans", "Peanuts", "Peas", "Kale", "Spinach", "Amaranth", "Sunflower"]
@@ -17,7 +17,7 @@ It also made me think more deeply about what nourishes me. And if there’s one 
 
 This blog isn’t here to shame your protein powders or tell you to ditch your favorite snack bars, do what feels right for your body. **But** if you have access to a garden and want to add something amazing to both your nutrition and your soil, keep reading. 
 
-### **Firstly, what is protein?**  
+# **Firstly, what is protein?**  
 
 Let’s break it down. Protein is one of the three macronutrients your body needs in large amounts (the others being carbs and fats). It's made up of building blocks called amino acids and these little molecules are what your body uses to: 
 
@@ -32,22 +32,22 @@ Your body needs 20 different amino acids to function properly. It can make most 
 
 *Disclaimer: this is supported by the [Academy of Nutrition and Dietetics](https://www.jandonline.org/article/S2212-2672(16)31192-3/abstract), which confirms that well-planned plant-based diets provide all the protein your body needs, at every life stage.* 
 
-### **What Counts as Protein in the Garden?** 
+# **What counts as protein in the garden?** 
 
 When we talk about protein, we’re usually thinking beans (and beans are stars) but they’re not alone. Protein in plants comes from a whole cast of characters: 
 
-* **Legumes** like peas, chickpeas, and lentils. They are also nitogren fixation plants!  
+* **Legumes** like peas, chickpeas, and lentils. They are also nitrogen fixation plants!  
 * **Seeds & grains** like quinoa, amaranth, and peanuts 
 * **Nuts** (if you’ve got the space!) 
 * **Leafy greens** that chip in smaller amounts 
 
 Some have complete proteins, others don’t but together they build a well-rounded cast for your diet.  
 
-### **What to Grow, Where: Protein Crops by Climate Zone** 
+# **What to grow, where: protein crops by climate zone** 
 
 Whether you're gardening in chilly Maine or sunbaked Arizona, there’s a protein-rich plant waiting to thrive in your zone. 
 
-**Cooler Climates (USDA Zones 3–5)**  
+## **Cooler climates (USDA Zones 3–5)**  
 
 * **Lentils** – Hardy, drought-tolerant, and nutrient-dense. A great early-season crop in northern zones. 
 * **Fava Beans** – One of the most cold-hardy legumes, with a rich, meaty flavor. Best planted in early spring or fall. 
@@ -57,7 +57,7 @@ Whether you're gardening in chilly Maine or sunbaked Arizona, there’s a protei
 
 ![A pea pod hanging on a green plant ](https://4w1qaaek5t.ucarecd.net/bc43222c-40f6-47c0-a761-09dd5862e481/plants-field-healthy-farming-concept.jpg)
 
-**Temperate Zones (USDA Zones 6–8)** 
+## **Temperate climates (USDA Zones 6–8)** 
 
 * **Soybeans (Edamame)** – Thrive in warm summers and are rich in complete protein (~17g per cooked cup). Harvest young for edamame. 
 * **Chickpeas (Garbanzo Beans)** – Prefer hot, dry summers and well-drained soil. Protein-rich (~15g per cooked cup) and good for small-scale growers. 
@@ -67,7 +67,7 @@ Whether you're gardening in chilly Maine or sunbaked Arizona, there’s a protei
 
   ![Amaranth Plant, beautiful purple/red color](https://4w1qaaek5t.ucarecd.net/e20162b6-717a-4707-a764-7a3cff15402c/pexels-paige-thompson-313369049-14448235.jpg)
 
-**Warm Climates (USDA Zones 9–11)** 
+## **Warm climates (USDA Zones 9–11)** 
 
 * **Pigeon Peas** – Perennial in the tropics, annual in mild climates. Popular in Caribbean, African, and Indian cooking. Great nitrogen fixer. 
 * **Moringa** – Fast-growing tree with edible leaves high in protein (~2–3g per 100g fresh). Also rich in vitamins and minerals. 
@@ -77,7 +77,7 @@ Whether you're gardening in chilly Maine or sunbaked Arizona, there’s a protei
 
 ![Hands planting Black-Eyed Peas](https://4w1qaaek5t.ucarecd.net/c43e04b1-d4e1-405c-95f7-db5ba72b2a26/pexels-joicerivas-14251408.jpg)
 
-**Backyard Protein Hacks** 
+# **Backyard protein hacks** 
 
 * **Go vertical**: Beans and peas love to climb. Save space with trellises or garden arches. 
 * **Mix it up**: Try the **Three Sisters** method. Corn, beans, and squash grown together to support each other. 
