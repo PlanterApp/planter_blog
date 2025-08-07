@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Samantha's Summer Garden Journal"
 slug = "samanthas-summer-garden-journal"
 date = "2025-08-07T01:22:00.000Z"
