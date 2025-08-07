@@ -42,6 +42,10 @@ For some reason, I added to my list of things to take care of and decided to try
 
 ![Woman in rows of lavender about to bloom](https://4w1qaaek5t.ucarecd.net/a371e075-29bd-4b9e-ab06-532b3cffe024/-/crop/2316x1756/0,866/-/preview/lavender2025.JPEG "The bees had a buffet of 6 varieties of lavender to choose from")
 
+### Speaking of Wildlife
+
+I've been actively trying to invite more wildlife into my garden lately by doing some of the things mentioned in [this post ](https://blog.planter.garden/posts/plan-a-wildlife-garden/) that I put together.  I have a lot of birds that help keep the bug population down.  Ladybugs are all over my dill plants this summer, helping to control the aphids. My birdhouses have been at full capacity with the next generation hatching along. One animal I'm not too thrilled to welcome is a gopher. It's been pushing around some of my plants. I haven't done anything to control it because it hasn't been too bothersome. But I'm hoping he packs up and moves along soon. I am guessing that won't be the case though.  I was delighted to see a family of skunks in my field but then remembered that skunks love honey and will break into hives.  Luckily, it seems they were just passing through and they haven't caused any trouble. 
+
 ### Looking Forward
 
 Going into fall, I've been clearing out some old spring plants and planting a few fall crops like carrots and lettuce. My fall crops never tend to do that well; they tend to be small plants by the time the frost arrives. Some things I overwinter, like carrots and kale. 
