@@ -4,13 +4,13 @@ title = "Samantha's Summer Garden Journal"
 slug = "samanthas-summer-garden-journal"
 date = "2025-08-07T01:22:00.000Z"
 author = "Samantha Togstad"
-plants = ["tomatoes", "calendula"]
+plants = ["tomatoes", "calendula", "horseradish"]
 series = []
 
 [cover]
 relative = false
-image = "https://4w1qaaek5t.ucarecd.net/0ccb72b5-0853-47df-95f1-d6eb18011804/plantertwosunflowers.JPEG"
-alt = "Two tall sunflowers in front of a pear tree in a garden"
+image = "https://4w1qaaek5t.ucarecd.net/2c58e188-6df7-4883-b00a-4efc0937b8b4/-/crop/1527x1195/9,702/-/preview/lavender25.JPEG"
+alt = "Rows of purple lavender in a garden setting"
 +++
 Hi it's Samantha with Planter! Welcome to my second journal entry. I'm talking about how my summer in my Pacific Northwest garden has been going. Our spring seemed a little drier, and parts of it were definitely hotter. So some of my cool-weather crops, like lettuce, didn't do the best. In the beginning, I had nice and steady growth of my lettuce and peas. Then we got a random heat wave in May, and it caused some problems like bolting and wilting. "No big deal," I thought. "At least prime time gardening is here". 
 
@@ -22,11 +22,11 @@ I planted my tomatoes, peppers, zucchini, and more. Things were going well. Then
 
 ![Tomato plant with green tomatoes](https://4w1qaaek5t.ucarecd.net/861f9d8d-c6c0-434b-b07f-7c2ad6ffb9e5/fe64027e-0f58-4684-aba8-4b0dd47a2f81.jpg)
 
-### Calendual Tries to Takeover
+### Calendula Tries to Takeover
 
 Calendula flowers continue to pop up everywhere, and I continue to pull them out. I have let a dozen or more survive because I like to have a lot of dried flowers for the winter. 
 
-### Horseradish 
+### Horseradish
 
 One plant doing good this summer is horseradish. It's supposed to be easy to take care of and often spreads vigorously, but I've never actually successfully grown it for some reason. So I'm happy to see it's still alive. It looks a little rough and I think some bugs have gotten to it, but it's still growing.  I can't wait to harvest some! I planted it in a raised garden bed so it can't get too out of control.
 
