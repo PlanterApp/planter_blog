@@ -43,6 +43,8 @@ The fragrance of the garden deepens, less green now, more dry and mineral. If th
 
 This is the ideal time to assess your garden: what thrived, what struggled. Take notes or photos. Harvest anything nearing its peak before it passes. Watch for self-seeding plants and decide if you want to let them spread.
 
+![Clusters of ripening apples hanging from a branch, their skins blushing red and green among vibrant leaves. ](https://4w1qaaek5t.ucarecd.net/f7390b74-0df7-4c23-babc-6765060f84b6/apples-8306677_1280.jpg)
+
 ### 3. The art of letting go
 
 Seed-saving has become a quiet ritual for me. If you're someone who enjoys ASMR videos, you'll probably love this process too. There's something almost sacred in plucking dried pods from spent pea plants, in gently cracking open calendula heads, and tucking their seeds into envelopes. I label each one, not just with the name and date, but often with a little note: 'grew well near the tomatoes' or 'best bloom after early rain.' Something personal. 
@@ -62,6 +64,8 @@ Not everything fades. Some plants thrive in this in-between time. The thyme, the
 **Gardener's Tip:** 
 
 Keep harvesting herbs and tomatoes regularly to encourage further growth. Let sunflowers and some annuals dry out fully, they’ll feed the birds or provide seed. Cut back overgrown herbs lightly to prevent woodiness.
+
+![Close-up of a dried sunflower head with curling petals and visible seeds, set against a blurred background of faded garden plants in late summer.](https://4w1qaaek5t.ucarecd.net/4e07e494-96f4-4401-8e9c-bcd1c2d793b0/close-up-wilted-plant.jpg)
 
 ### **5. Looking Ahead** 
 
