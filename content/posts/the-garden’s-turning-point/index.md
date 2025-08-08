@@ -4,10 +4,13 @@ title = "The Garden’s Turning Point"
 slug = "The Garden’s Turning Point"
 date = "2025-08-09T09:00:00.000Z"
 author = "Sarah-Manon Blok"
+plants = ["tomatoes", "sunflower", "herbs"]
 weight = 3
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/234c53b1-5995-4309-9877-4e9aad35f1cc/close-up-flowering-plant-field.jpg"
+alt = "Globe thistle plants with round, spiky blue flower heads in the foreground, set in a garden at dusk with a white wooden trellis structure in the background. The soft light suggests a late summer evening."
 +++
 Gardening is not just about following a set of guidelines, it’s much more than that. It’s about observing, listening, and building relationships with those we’re working alongside: the plants, the soil, the weather. This post will be a little different than usual. Let me take you with me as I reflect on a quiet but significant shift, my garden’s turning point.
 
