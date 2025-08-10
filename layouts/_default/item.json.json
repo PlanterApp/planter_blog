@@ -20,7 +20,7 @@
   {{ $pathDir := $path.Dir }}
   {{ $pathFile := $path.File }}
   {{ $pathExt := path.Ext $path}}
-  {{ $uploadCare := strings.Contains $fullUrl "ucarecdn.com" }}
+  {{ $uploadCare := strings.Contains $fullUrl "ucarecd" }}
   {{ $urlWithoutFileName := printf "https://ucarecdn.com%s" $pathDir }}
   {{ $params := "-/format/webp/" }}
   {{ if $uploadCare }}
