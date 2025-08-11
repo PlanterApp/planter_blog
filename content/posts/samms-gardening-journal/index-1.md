@@ -1,18 +1,17 @@
 +++
 draft = true
-title = "At-Home Fertilizers and Plant Food"
-slug = "Samms-gardening-journal"
+title = "At Home Fertilizers and Plant Food"
+slug = "at-home-fertilizers"
 author = "Sam Liddicott"
 
 [cover]
 relative = false
 +++
+![Pile of compost materials next to rich brown soil](https://4w1qaaek5t.ucarecd.net/673a5d55-8479-4e6a-8b7f-f3d9deed6369/organic-waste-composting.jpg)
+
 Plants love to grow; it’s what they do. However, sometimes conditions are less than ideal. Fertilizers help to optimize plant growth by maximizing the growing conditions and helping to stave off pests and diseases.
 
 In this article, we’ll go through some easy **at-home fertilizers** you can make that are more environmentally friendly than most commercial options and can be more affordable.
-
-
-
 
 ### **What Do Fertilizers Do?**
 
@@ -24,7 +23,6 @@ As a quick overview:
 * **Phosphorus:** Supports root development, flowering, and fruiting.
 * **Potassium:** Enhances overall plant health, disease resistance, and water retention.
 
-
 These are classed as *major nutrients*.
 
 The *minor nutrients* are calcium, magnesium, and sulfur.
@@ -32,9 +30,7 @@ The *minor nutrients* are calcium, magnesium, and sulfur.
 
 The availability of nutrients already in your soil is somewhat dependent on the pH, a measurement of acidity or alkalinity. If it is too high or too low, the nutrients may be locked up and not available to plants. Fertilizers are one way to correct this imbalance.
 
-
-
-
+![Soil with imposed elemental symbols to indicate nutrient compostion.](https://4w1qaaek5t.ucarecd.net/fc252bc1-3d96-4280-93cb-9fb429360ca6/fertile-loamy-soil-planting-with-iconic-technology-soil-is-essential-food-plants.jpg)
 
 ### **Fertilizer Cautions**
 
@@ -50,7 +46,9 @@ For most vegetables, a soil pH between 6.2–6.8, or slightly acidic, is ideal. 
 
 Second, make sure your soil is rich and healthy. Healthy, micro-organism-rich soil is essential for proper nutrient take-up by plants, and will help as many nutrients as possible be available when you fertilize.
 
-Quality compost (bought or home-composted) is excellent, along with worm castings, shredded wood, coir, and properly sourced manure. You can also get your compost pH tested, and some commercially available types will list their approximate pH.
+Quality compost (bought or home-composted) is excellent, along with worm castings, shredded wood, coir, leaves, and properly sourced manure. You can also get your compost pH tested, and some commercially available types will list their approximate pH.
+
+![Earthworms in soil.](https://4w1qaaek5t.ucarecd.net/d49933ef-9521-4b67-8450-6825eeec74e9/two-earthworms-wet-soil-space-text.jpg)
 
 ### Compost Teas
 
@@ -88,9 +86,11 @@ This is one of my favorites, as it reduces water waste, too. The next time you c
 
 Be sure the vegetables are organic or haven’t been sprayed with pesticides.
 
+![Person peeling vegetables and composting the scraps.](https://4w1qaaek5t.ucarecd.net/8e1e3e5c-e115-4ee7-b111-9b38acf9576b/midsection-person-preparing-food.jpg)
 
 
 Our final few recipes are non-compost tea options.
+
 
 #### Molasses
 
@@ -114,6 +114,8 @@ This is perfect if you live near the coast, especially the north-eastern USA, or
 
 Your options vary from here. You can slice it up and mix it into your compost, or slice it even finer and apply it directly around your plants. The quickest way to help your plants absorb the nutrients is to create a liquid fertilizer by soaking the seaweed or kelp in a bucket for 1–3 weeks. The seaweed can either be removed or blended into the mix with an old food processor. Strain the liquid, and apply to the topsoil, or use a diluted mix in a spray bottle and use as a foliar spray; it’s very effective.
 
+![Beach with kelp.](https://4w1qaaek5t.ucarecd.net/f62a32bb-8909-47c5-af51-1af115b5f2fe/seaweed-beach-with-sand-alga.jpg)
+
 ### **When to Apply Fertilizer**
 
 Fertilizers are best applied in the early morning when the sun is coming up. High temperatures and intense sun restrict nutrient take-up and can sometimes cause fertilizer burn if it’s accidentally over-applied.
@@ -121,6 +123,8 @@ Fertilizers are best applied in the early morning when the sun is coming up. Hig
 Apply fertilizer during key growth seasons when the plant is actively growing for best results, though this can vary depending on the plant. Roses are much more fickle, and many appreciate year-round nourishment.
 
 It’s important not to apply too much fertilizer at once, or too many different types. A ‘less is more’ approach is a good way to start, and increase doses as necessary. Test your soil pH periodically (once a season is plenty) to check how your soil is changing. Remember to add nutrients to your soil with compost and other organic materials.
+
+![Kale in the early morning sun.](https://4w1qaaek5t.ucarecd.net/98b8400b-0cf4-4205-8349-81ce61b500e1/close-up-green-curly-kale-plant-vegetable-garden.jpg)
 
 ### **Final Thoughts**
 
