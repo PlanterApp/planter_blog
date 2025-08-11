@@ -2,7 +2,7 @@
 draft = false
 title = "At Home Fertilizers and Plant Foods"
 slug = "at-home-fertilizers"
-date = "2025-08-11T11:08:00.000Z"
+date = "2025-08-11T11:10:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
