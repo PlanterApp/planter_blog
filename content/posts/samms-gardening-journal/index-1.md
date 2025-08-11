@@ -112,7 +112,7 @@ For tea, you can remove the tea leaves from the bag and mix them into your compo
 
 This is perfect if you live near the coast, especially the north-eastern USA, or the UK. You can collect seaweed from permissible places on the coast, or buy it if you’d prefer. To prepare the seaweed, rinse it well to remove sand and salt, and then leave to dry out a little in the sun to kill any bacteria.
 
-Your options vary from here. You can slice it up and mix it into your compost, or slice it even finer and apply it directly around your plants. The quickest way to help your plants absorb the nutrients is to create a liquid fertilizer by soaking the seaweed or kelp in a bucket for 1–3 weeks. The seaweed can either be removed or blended into the mix with an old food processor. Strain the liquid, and apply to the topsoil, or use a diluted mix in a spray bottle and use as a foliar spray; it’s very effective.
+The quickest way to help your plants absorb the nutrients is to create a liquid fertilizer by soaking the seaweed or kelp in a bucket for 1–3 weeks. The seaweed can either be removed or blended into the mix with an old food processor. Strain the liquid and apply to the topsoil no more than twice a week. You can also use a diluted mix in a spray bottle as a foliar spray. 
 
 ![Beach with kelp.](https://4w1qaaek5t.ucarecd.net/f62a32bb-8909-47c5-af51-1af115b5f2fe/seaweed-beach-with-sand-alga.jpg)
 
@@ -122,7 +122,7 @@ Fertilizers are best applied in the early morning when the sun is coming up. Hig
 
 Apply fertilizer during key growth seasons when the plant is actively growing for best results, though this can vary depending on the plant. Roses are much more fickle, and many appreciate year-round nourishment.
 
-It’s important not to apply too much fertilizer at once, or too many different types. A ‘less is more’ approach is a good way to start, increasing doses as necessary. Test your soil pH periodically (once a season is a good start) to check how your soil is changing. Remember to add nutrients to your soil with compost and other organic materials.
+It’s important not to apply too much fertilizer at once, or too many different types. A ‘less is more’ approach is a good way to start, increasing doses as necessary. Test your soil pH periodically (once a season is a good start) to check how your soil is changing. Remember to add nutrients to your soil with compost and other organic materials throughout the year.
 
 ![Kale in the early morning sun.](https://4w1qaaek5t.ucarecd.net/98b8400b-0cf4-4205-8349-81ce61b500e1/close-up-green-curly-kale-plant-vegetable-garden.jpg)
 
