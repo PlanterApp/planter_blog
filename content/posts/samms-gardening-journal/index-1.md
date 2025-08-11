@@ -72,6 +72,8 @@ Put your collected weeds into a bucket, fill with water, and let sit until the w
 
 Weed tea can also be used as foliar (leaf) feed if you dilute it further. Apply sparingly.
 
+![Dandelions in grass.](https://4w1qaaek5t.ucarecd.net/91b63d11-e567-47d3-b500-3b2cf0cb4794/selective-focus-shot-beautiful-yellow-flowers-grass-covered-field.jpg)
+
 #### Eggshell Tea
 
 Ah, eggshells, the calcium-rich item that takes so long to break down in your compost. Making boiled tea unlocks the calcium much quicker.
@@ -122,7 +124,7 @@ Fertilizers are best applied in the early morning when the sun is coming up. Hig
 
 Apply fertilizer during key growth seasons when the plant is actively growing for best results, though this can vary depending on the plant. Roses are much more fickle, and many appreciate year-round nourishment.
 
-It’s important not to apply too much fertilizer at once, or too many different types. A ‘less is more’ approach is a good way to start, and increase doses as necessary. Test your soil pH periodically (once a season is plenty) to check how your soil is changing. Remember to add nutrients to your soil with compost and other organic materials.
+It’s important not to apply too much fertilizer at once, or too many different types. A ‘less is more’ approach is a good way to start, and increase doses as necessary. Test your soil pH periodically (once a season is a good start) to check how your soil is changing. Remember to add nutrients to your soil with compost and other organic materials.
 
 ![Kale in the early morning sun.](https://4w1qaaek5t.ucarecd.net/98b8400b-0cf4-4205-8349-81ce61b500e1/close-up-green-curly-kale-plant-vegetable-garden.jpg)
 
