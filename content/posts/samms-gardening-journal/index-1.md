@@ -1,14 +1,15 @@
 +++
-draft = true
-title = "At Home Fertilizers and Plant Food"
+draft = false
+title = "At Home Fertilizers and Plant Foods"
 slug = "at-home-fertilizers"
+date = "2025-08-11T11:08:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/f3e01fe9-ecb9-4eaa-964f-a88dda3c45b6/organic-waste-composting.jpg"
+alt = "Organic compost waste"
 +++
-![Pile of compost materials next to rich brown soil](https://4w1qaaek5t.ucarecd.net/673a5d55-8479-4e6a-8b7f-f3d9deed6369/organic-waste-composting.jpg)
-
 Plants love to grow; it’s what they do. However, sometimes conditions are less than ideal. Fertilizers help to optimize plant growth by maximizing the growing conditions and helping to stave off pests and diseases.
 
 In this article, we’ll go through some easy **at-home fertilizers** you can make that are more environmentally friendly than most commercial options and can be more affordable, too.
