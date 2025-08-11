@@ -11,11 +11,11 @@ relative = false
 
 Plants love to grow; it’s what they do. However, sometimes conditions are less than ideal. Fertilizers help to optimize plant growth by maximizing the growing conditions and helping to stave off pests and diseases.
 
-In this article, we’ll go through some easy **at-home fertilizers** you can make that are more environmentally friendly than most commercial options and can be more affordable.
+In this article, we’ll go through some easy **at-home fertilizers** you can make that are more environmentally friendly than most commercial options and can be more affordable, too.
 
 ### **What Do Fertilizers Do?**
 
-Fertilizers are food for plants: they provide nutrients for them to grow and thrive. Nitrogen, phosphorus, and potassium are the three key fertilizer nutrients, with magnesium, calcium, copper, zinc, and iron being very common too.
+Fertilizers are food for plants: they provide nutrients for them to grow and thrive. Nitrogen, phosphorus, and potassium are the three key fertilizer nutrients.
 
 As a quick overview:
 
@@ -26,27 +26,27 @@ As a quick overview:
 These are classed as *major nutrients*.
 
 The *minor nutrients* are calcium, magnesium, and sulfur.
- The *micro-nutrients* are: boron, copper, iron, manganese, zinc, chlorine, and cobalt in tiny amounts.
+The *micro-nutrients* are: boron, copper, iron, manganese, zinc, chlorine, and cobalt in tiny amounts.
 
-The availability of nutrients already in your soil is somewhat dependent on the pH, a measurement of acidity or alkalinity. If it is too high or too low, the nutrients may be locked up and not available to plants. Fertilizers are one way to correct this imbalance.
+The availability of nutrients in your soil is partly linked to the pH, a measurement of acidity or alkalinity. If it is too high or too low, the nutrients may be locked up and not available to plants. Fertilizers are one way to correct this imbalance.
 
 ![Soil with imposed elemental symbols to indicate nutrient compostion.](https://4w1qaaek5t.ucarecd.net/fc252bc1-3d96-4280-93cb-9fb429360ca6/fertile-loamy-soil-planting-with-iconic-technology-soil-is-essential-food-plants.jpg)
 
-### **Fertilizer Cautions**
+### Fertilizer Cautions
 
-Even **homemade garden fertilizers**, generally considered safer than synthetic fertilizers, can pollute waterways and the wider environment. Take care not to overapply. Additionally, store all products in a safe place and handle them responsibly; some ingredients can be harmful to skin or health in large quantities.
+Even homemade garden fertilizers, generally considered safer than synthetic fertilizers, can pollute waterways and the wider environment. Take care not to overapply. Additionally, store all products in a safe place and handle them responsibly; some ingredients can be harmful to skin or health in large quantities.
 
 These homemade fertilizers are not ideal for indoor plants as they can mold the soil if there isn’t enough light or airflow.
 
 ### Pre-Fertilizing
 
-Before you start fertilizing your soil, you need to gather some information. First, collect a soil sample and conduct a pH test. There are at-home kits for this, with varying reliability, but the best results can be obtained through your local university extension or local authority. Many businesses also offer pH testing. Take samples from different areas of your yard; soil pH can vary even in small gardens.
+Before you start fertilizing, you should check how your soil is already. First, collect a soil sample and conduct a pH test. There are at-home kits for this, with varying reliability, but the best results can be obtained through your local university extension or local authority. Many businesses also offer pH testing. 
 
-For most vegetables, a soil pH between 6.2–6.8, or slightly acidic, is ideal. Many ornamentals and flowers prefer more alkaline conditions, while others can tolerate either.
+Take samples from different areas of your yard because soil pH can vary even in small gardens.
 
-Second, make sure your soil is rich and healthy. Healthy, micro-organism-rich soil is essential for proper nutrient take-up by plants, and will help as many nutrients as possible be available when you fertilize.
+For most vegetables, a soil pH between 6.2–6.8, or slightly acidic, is ideal. Many ornamentals and flowers prefer more alkaline conditions, while others can tolerate either. If your soil pH is very far away, you may need to amend your soil. Your university extension can advise you on this.
 
-Quality compost (bought or home-composted) is excellent, along with worm castings, shredded wood, coir, leaves, and properly sourced manure. You can also get your compost pH tested, and some commercially available types will list their approximate pH.
+Second, make sure your soil is rich and healthy. Healthy, microorganism-rich soil is essential for proper nutrient uptake by plants. Quality compost is excellent, along with worm castings, shredded wood, coir, leaves, and properly sourced manure.
 
 ![Earthworms in soil.](https://4w1qaaek5t.ucarecd.net/d49933ef-9521-4b67-8450-6825eeec74e9/two-earthworms-wet-soil-space-text.jpg)
 
@@ -60,7 +60,7 @@ You shouldn’t drink these teas, but your plants will love them. While organic 
 
 Aged manure is available in most garden centers, or if you know a local farmer/rancher, you may be able to get some there. In a large bucket (probably at the back of your garden, as this can smell a bit), mix manure and water in a 1:2 ratio (fill the bucket about ⅓ full of manure, and ⅔ full of water). Stir well, and leave to steep for a few days, stirring every day.
 
-Once steeped, let as many solids as possible settle, and then separate the liquid, which should be a medium-brown tannin color. Add the solids to your compost pile, and water your plants with a diluted tea mix once a week. Dilute in your watering can to the color of ‘iced tea’ as full strength will overwhelm your plants.
+Once steeped (the liquid should be a medium brown), separate the liquid into a separate container. Add the solids to your compost pile, and water your plants with a **diluted** tea mix once a week. Dilute the tea to the color of ‘iced tea’ when you water, as full strength will overwhelm your plants.
 
 Wear gloves when working with manure.
 
@@ -90,9 +90,7 @@ Be sure the vegetables are organic or haven’t been sprayed with pesticides.
 
 ![Person peeling vegetables and composting the scraps.](https://4w1qaaek5t.ucarecd.net/8e1e3e5c-e115-4ee7-b111-9b38acf9576b/midsection-person-preparing-food.jpg)
 
-
-Our final few recipes are non-compost tea options.
-
+The final few recipes are non-compost tea options.
 
 #### Molasses
 
@@ -124,7 +122,7 @@ Fertilizers are best applied in the early morning when the sun is coming up. Hig
 
 Apply fertilizer during key growth seasons when the plant is actively growing for best results, though this can vary depending on the plant. Roses are much more fickle, and many appreciate year-round nourishment.
 
-It’s important not to apply too much fertilizer at once, or too many different types. A ‘less is more’ approach is a good way to start, and increase doses as necessary. Test your soil pH periodically (once a season is a good start) to check how your soil is changing. Remember to add nutrients to your soil with compost and other organic materials.
+It’s important not to apply too much fertilizer at once, or too many different types. A ‘less is more’ approach is a good way to start, increasing doses as necessary. Test your soil pH periodically (once a season is a good start) to check how your soil is changing. Remember to add nutrients to your soil with compost and other organic materials.
 
 ![Kale in the early morning sun.](https://4w1qaaek5t.ucarecd.net/98b8400b-0cf4-4205-8349-81ce61b500e1/close-up-green-curly-kale-plant-vegetable-garden.jpg)
 
