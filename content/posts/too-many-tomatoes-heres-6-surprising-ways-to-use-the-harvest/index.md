@@ -1,8 +1,8 @@
 +++
 draft = false
-title = "Too Many Tomatoes? Here's 6 Surprising Ways to Use the Harvest! "
-slug = "Too Many Tomatoes? Here's 6 Surprising Ways to Use the Harvest! "
-date = "2025-08-18T03:11:00.000Z"
+title = "Too Many Tomatoes? Here Are 6 Surprising Ways to Use Your Harvest!"
+slug = "Too Many Tomatoes? Here Are 6 Surprising Ways to Use Your Harvest!"
+date = "2025-08-21T01:35:00.000Z"
 author = "Sarah-Manon Blok"
 plants = ["Tomatoes"]
 
