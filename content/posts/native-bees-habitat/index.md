@@ -20,9 +20,9 @@ Honeybees are now a common sight across the world, and while they are incredibly
 
 Most native bees are solitary and produce neither honey nor beeswax. As such, they are considerably less aggressive than honey bees, who are actively defending themselves and their hive.
 
-Some key native bee species across the globe are: mason bees, leafcutter bees, bumblebees, and carpenter bees (but there are over 20,000 total!) As native bees evolved with native plants, they are more effective pollinators. Mason bees, for example, pollinate 95% of the plants they visit, which is far greater than the average 55% for honeybees. A single mason bee can also pollinate as many flowers as 100 honeybees because they carry pollen on their underside as opposed to just their legs. 
+Some key native bee species across the globe are: mason bees, leafcutter bees, bumblebees, and carpenter bees (but there are over 20,000 total!) 
 
-I find bees fascinating, if you couldn’t tell already.
+As native bees evolved with native plants, they are more effective pollinators. Mason bees, for example, pollinate 95% of the plants they visit, which is far greater than the average 55% for honeybees. A single mason bee can also pollinate as many flowers as 100 honeybees because they carry pollen on their underside as opposed to just their legs. 
 
 ![Horned Mason Bee on a green leaf](https://4w1qaaek5t.ucarecd.net/2ebab302-b78d-4e28-a6fd-f16adb169701/closeup-female-horned-mason-bee-osmia-cornuta-green-leaf.jpg)
 
@@ -41,7 +41,7 @@ Depending on the species, nesting sites may be in undisturbed ground, decaying w
 
 #### Bare Ground
 
-Ground-nesting bees generally prefer sunny spots with a gentle slope. This helps them survive heavy rains. Soft, sandy-loam soil is key too, so if you have heavy clay or very silty soil, you can amend a small area. The soft soil makes it easier for the bees to dig, while still providing enough structural integrity. 
+Ground-nesting bees generally prefer sunny spots with a gentle slope. This helps them survive heavy rains. Soft, sandy-loam soil is key, too, so if you have heavy clay or very silty soil, you can amend a small area. The soft soil makes it easier for the bees to dig, while still providing enough structural integrity. 
 
 What that looks like will vary depending on where you live. In deserts, this may mean sandy washes or dry slopes; in temperate regions, a small cleared patch of sandy loam works well; and in wetter rainforest climates, a slightly raised mound can prevent nests from flooding.
 
