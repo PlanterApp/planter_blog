@@ -108,3 +108,6 @@ Try leaving just one corner of bare soil, planting a cluster of native flowers, 
 
 ![Native green bee on yellow flower](https://4w1qaaek5t.ucarecd.net/3d45ac8e-2aa5-4815-bcb9-f75724f68f91/Metallic_Green_Bee_(Augochloropsis_sp.)_on_Coreopsis_(7173773106).jpg "
 \"[Metallic Green Bee (Augochloropsis sp.) on Coreopsis (7173773106)](https://commons.wikimedia.org/w/index.php?curid=24649792)\" by [Bob Peterson from North Palm Beach, Florida, Planet Earth!](https://www.flickr.com/people/50152666@N02) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse).")
+
+A helpful link for creating bee habitat: 
+[Nests for Native Bees | Xerces Society](https://www.xerces.org/publications/fact-sheets/nests-for-native-bees)
