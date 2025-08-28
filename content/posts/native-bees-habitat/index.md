@@ -34,7 +34,10 @@ Pesticides, loss of habitat, and ecosystem fragmentation are major drivers in lo
 
 Habitat is key for any species, and cities and neighborhoods have fragmented ecosystems. We can, however, bridge the gap. 
 
-Depending on the species, nesting sites may be in undisturbed ground, decaying wood, or small sheltered spaces. You can create all of these in your garden, and that faraway corner where the spiders like to gather could be the perfect spot. 
+Depending on the species, nesting sites may be in undisturbed ground, decaying wood, or small sheltered spaces. You can create all of these in your garden, with natural materials or by making 'houses' for them.
+
+![Mason Bee houses](https://4w1qaaek5t.ucarecd.net/41a8c2a9-3088-446d-b269-628572cde39f/7167413751_7e784ba6bc_o.jpg "
+\"[Mason bee houses](https://www.flickr.com/photos/95142644@N00/7167413751)\" by [Ruth and Dave](https://www.flickr.com/photos/95142644@N00) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).")
 
 #### Bare Ground
 
@@ -71,7 +74,7 @@ Beyond nesting, bees also need reliable food and water sources to thrive.
 
 ### Food and Water
 
-A variety of native flowers will provide time-of-year-accurate food sources for your bees, and you can match the plants to the bees through your local university extension or many online resources. Most native flowering plants will attract native bees, and many university extensions have data sheets on native bees and the plants they frequent. 
+A variety of native flowers will provide time-of-year-accurate food sources for your bees, and you can match the plants to the bees through your local university extension or many online resources. Most native flowering plants will attract native bees, and many university extension services have data sheets on native bees and the plants they frequent. 
 
 Finally, shallow pools of water will provide spaces to drink. The dish or pool should have plenty of rocks that the bees can land on and climb onto, should they fall in. Line the base with pebbles and add a few taller stones for safe landing spots. A dish less than ½ inch deep is perfect, as it mimics woodland rain pools and the edges of shallow streams.
 
@@ -83,9 +86,11 @@ Provide water in both sunny and shaded areas, too, and refill every few days. 
 
 ### Bee-friendly Plantings
 
-The right mix of plants also depends on your region. The biggest first step to support native bees is to plant lots of the same types of flowers or flowering plants in mass plantings. Bees love to conserve energy, and when they find a plant they like, they’ll keep coming back to it. Try to plant at least three of a plant together, unless it’s a large shrub or similar, so there are plenty of blooms together.
+The right mix of plants also depends on your region. The first step in supporting native bees is to plant large numbers of the same types of flowers or flowering plants in mass plantings. Bees love to conserve energy, and when they find a plant they like, they’ll keep coming back to it. Try to plant at least three of a plant together, unless it’s a large shrub or similar, so there are plenty of blooms together.
 
-Plan groups that flower at slightly different intervals, too, some very early flowering plants, and some late summer ones, so there is a food source available throughout the year. For example, desert gardeners might stagger cactus and spring wildflowers; temperate gardeners can mix early bulbs with summer perennials; rainforest gardeners can layer berry bushes with late-season woodland blooms; and in Australia, staggered grevillea or eucalyptus varieties can provide nectar almost year-round.
+Plan groups that flower at slightly different intervals, too, some very early flowering plants, and some late summer ones, so there is a food source available throughout the year. 
+
+For example, desert gardeners might stagger cactus and spring wildflowers; temperate gardeners can mix early bulbs with summer perennials; rainforest gardeners can layer berry bushes with late-season woodland blooms; and in Australia, staggered grevillea or eucalyptus varieties can provide nectar almost year-round.
 
 If you’re unsure about what native flowers are best for your area, local gardening groups and your local university extension have a wealth of information for you.
 
