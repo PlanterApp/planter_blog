@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Native and Needed: Creating Habitat for Bees"
 slug = "native-bees-habitat"
 date = "2025-08-28T09:00:00.000Z"
@@ -105,3 +105,6 @@ Native bees will also increase the pollination of your plants, both because many
 Plus, you get to see all kinds of fun bees. Did you know that there are metallic green bees? Iridescent black bees? There are so, so many out there, and I could talk all day about bees because I love them so much. 
 
 Try leaving just one corner of bare soil, planting a cluster of native flowers, or setting out a shallow dish of water this week — and watch how quickly the bees find you.
+
+![Native green bee on yellow flower](https://4w1qaaek5t.ucarecd.net/3d45ac8e-2aa5-4815-bcb9-f75724f68f91/Metallic_Green_Bee_(Augochloropsis_sp.)_on_Coreopsis_(7173773106).jpg "
+\"[Metallic Green Bee (Augochloropsis sp.) on Coreopsis (7173773106)](https://commons.wikimedia.org/w/index.php?curid=24649792)\" by [Bob Peterson from North Palm Beach, Florida, Planet Earth!](https://www.flickr.com/people/50152666@N02) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse).")
