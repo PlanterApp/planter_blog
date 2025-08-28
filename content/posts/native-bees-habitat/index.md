@@ -59,7 +59,7 @@ Piles of brush are also great habitat, along with shrub and hedge clippings, yea
 
 In dry desert regions, bees may use hollow agave stalks or yucca stems; in temperate woodlands, old orchard prunings or fallen logs provide perfect shelter; in rainforest regions, decaying logs and mossy branches are especially valuable.
 
-You can also make your own nesting sites using a block of untreated wood. You can check with your local university extension to find what size holes are best for wood nesting bees; however, holes drilled 5/16–3/8 inch in diameter and 4–6 inches deep cover most bees. The holes should be smooth, and a ‘roof’ that overhangs the front is very beneficial in helping them survive rainstorms.
+You can also make your own nesting sites using a block of untreated wood. You can check with your local university extension to find what size holes are best for wood nesting bees; however, holes drilled 3/32–3/8 inch in diameter and 4–6 inches deep cover most bees. The holes should be smooth, and a ‘roof’ that overhangs the front is very beneficial in helping them survive rainstorms.
 
 ![Tropical Carpenter Bee](https://4w1qaaek5t.ucarecd.net/06cc590c-dd19-4d46-8458-ea8f2dfc77b1/Tropical_Carpenter_Bee_(Xylocopa_tenuiscapa).jpg "
 [Tropical Carpenter Bee (Xylocopa tenuiscapa)](https://commons.wikimedia.org/w/index.php?curid=95052602)\" by [Charles J. Sharp](https://www.wikidata.org/wiki/Q54800218) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse).")
