@@ -2,6 +2,7 @@
 draft = true
 title = "Native and Needed: Creating Habitat for Bees"
 slug = "native-bees-habitat"
+date = "2025-08-28T09:00:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
@@ -45,6 +46,8 @@ The area should be free of large vegetation, as they prefer exposed soil. Bunch 
 
 It’s important to till and disturb the soil in this area as little as possible. Once you’re set up, you’re ready to go. Light weeding will keep the area clear, and the bees should hopefully arrive.
 
+![Ground nesting bee in grass](https://4w1qaaek5t.ucarecd.net/c7e5a6d9-e998-4210-830b-91d7a563de7d/2022-03-18_17_01_10_A_ground-nesting_bee_next_to_a_nest_along_Hidden_Meadow_Drive_in_the_Franklin_Glen_section_of_Chantilly,_Fairfax_County,_Virginia.jpg "Ground-nesting bee next to its nest — photo by Famartin, March 18 2022, via Wikimedia Commons (CC BY-SA 4.0).")
+
 #### Wood
 
 This is a general term, and many ‘wood’ nesting bees will also make their homes in large-stemmed plants such as old hydrangeas and raspberries. The key is anything that is round-shaped and large enough that it can fit in, without being too large.
@@ -54,6 +57,9 @@ Piles of brush are also great habitat, along with shrub and hedge clippings, yea
 In dry desert regions, bees may use hollow agave stalks or yucca stems; in temperate woodlands, old orchard prunings or fallen logs provide perfect shelter; in rainforest regions, decaying logs and mossy branches are especially valuable.
 
 You can also make your own nesting sites using a block of untreated wood. You can check with your local university extension to find what size holes are best for wood nesting bees; however, holes drilled 5/16–3/8 inch in diameter and 4–6 inches deep cover most bees. The holes should be smooth, and a ‘roof’ that overhangs the front is very beneficial in helping them survive rainstorms.
+
+![Tropical Carpenter Bee](https://4w1qaaek5t.ucarecd.net/06cc590c-dd19-4d46-8458-ea8f2dfc77b1/Tropical_Carpenter_Bee_(Xylocopa_tenuiscapa).jpg "
+[Tropical Carpenter Bee (Xylocopa tenuiscapa)](https://commons.wikimedia.org/w/index.php?curid=95052602)\" by [Charles J. Sharp](https://www.wikidata.org/wiki/Q54800218) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse).")
 
 #### Sheltered Spaces
 
@@ -73,6 +79,8 @@ In drier climates, place dishes in the shade to slow evaporation; in cooler, wet
 
 Provide water in both sunny and shaded areas, too, and refill every few days. 
 
+![Bees drinking from a pool of water](https://4w1qaaek5t.ucarecd.net/0000e22c-4b6f-4ba6-abc2-0090729ed9ae/bees-drinking-water-from-pool-water.jpg)
+
 ### Bee-friendly Plantings
 
 The right mix of plants also depends on your region. The biggest first step to support native bees is to plant lots of the same types of flowers or flowering plants in mass plantings. Bees love to conserve energy, and when they find a plant they like, they’ll keep coming back to it. Try to plant at least three of a plant together, unless it’s a large shrub or similar, so there are plenty of blooms together.
@@ -81,13 +89,13 @@ Plan groups that flower at slightly different intervals, too, some very early fl
 
 If you’re unsure about what native flowers are best for your area, local gardening groups and your local university extension have a wealth of information for you.
 
+![Yellow tomato flower](https://4w1qaaek5t.ucarecd.net/1bead4ce-3a9e-44c2-a49d-850b9d773be1/flower-small-cucumber.jpg)
+
 ### Benefits for You
 
 Having friendly bees in your garden will help all of your plants, from the smallest flowers to your largest trees, to grow. Native bees are also an indicator species, indirectly supporting insects and bugs that help keep out invasive species by fostering a healthy habitat.
 
-
 Native bees will also increase the pollination of your plants, both because many of them emerge earlier in the season than introduced bees and because they’re often more efficient pollinators. Additionally — and I think this is rather cool — many native bees vibrate at different frequencies from honeybees, which helps certain plants (tomatoes are a great example) release pollen more effectively.
-
 
 Plus, you get to see all kinds of fun bees. Did you know that there are metallic green bees? Iridescent black bees? There are so, so many out there, and I could talk all day about bees because I love them so much. 
 
