@@ -9,7 +9,7 @@ title = "Fall Garden Chores"
 [cover]
 alt = "A raised bed garden in the fall"
 caption = "A raised bed garden in the fall"
-image = "https://ucarecdn.com/3ec260b0-357d-4bb4-81be-5d8d176c13df/fall-garden.jpg"
+image = "https://ucarecdn.com/ac46704f-9c60-44b8-bdb6-22ba91603a2f/mulched-kohlrabi.jpg"
 
 +++
 Don’t let shorter days and crisp fall weather deter you from getting out in the garden! There's almost as much to be done in the garden in fall as there is in spring. While gardening in the fall might not have the ‘new and shiny’ feeling that gardening in spring does, every garden chore you manage to get done in the fall will help make your garden even more successful next year!
