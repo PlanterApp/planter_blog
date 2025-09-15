@@ -1,11 +1,11 @@
 +++
 draft = false
 title = "The Garden’s Turning Point"
-slug = "The Garden’s Turning Point"
+slug = "the-gardens-turning-point"
 date = "2025-08-11T10:47:00.000Z"
 author = "Sarah-Manon Blok"
 plants = ["tomatoes", "sunflower", "herbs"]
-weight = 3
+weight = ""
 
 [cover]
 relative = false
