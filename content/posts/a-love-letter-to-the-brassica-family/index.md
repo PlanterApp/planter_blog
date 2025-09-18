@@ -5,6 +5,7 @@ slug = "A Love Letter to the Brassica Family "
 date = "2025-08-29T09:00:00.000Z"
 author = "Sarah-Manon Blok"
 plants = ["Cole Crops", "Broccoli", "Turnip", "Radish", "Bok choy", "Arugula"]
+series = ["Plant Families"]
 
 [cover]
 relative = false
