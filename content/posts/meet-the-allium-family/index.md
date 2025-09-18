@@ -9,6 +9,8 @@ series = ["Plant Families"]
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/2c536d1d-2322-4987-8e5e-6b29400e2efc/fish-curry-garnished-with-fresh-herbs.jpg"
+caption = "Bowl with red, white and yellow onions "
 +++
 Again and again, gardening confirms how incredibly minimal our consumption of species diversity is. In my household, there’s someone cutting an onion for dinner every single night. And to be fair, I guess most people do. It’s always there. Yet the diversity we actually use is pretty much… yellow or red. Like what?! There are *so* many varieties in this amazing family. And in my opunion (sorry, couldn’t resist), there’s a whole world of flavor, beauty, and history we’re missing out on.
 
@@ -32,6 +34,8 @@ Garlic, leeks, and chives share similar pedigrees, all part of the Allium family
 * Shallots: Brought to Europe by Crusaders from the Middle East. Cluster-forming, sweet and subtle. 
 * Cipollini Onions: From Italy, bred for their high sugar content. 
 
+![upright bright green onion leaves ](https://4w1qaaek5t.ucarecd.net/73d3f1a8-b825-4e9b-a03e-21d83775065f/onion-leaves-farming-concept.jpg)
+
 ### The Perennial Oddballs
 
 * Welsh Onion (Allium fistulosum): Despite the name, this perennial comes from China, cultivated there for over 1,000 years. Never bulbs, just keeps giving green shoots every spring. 
@@ -47,8 +51,9 @@ Not everything onion-y looks like an onion!
 * Garlic: Traced back over 4,000 years, used in medicine and rituals. Egyptians fed it to pyramid builders for strength.
 * Ornamental Alliums: Those tall garden fireworks with purple globe flowers? Still onions. They were first popularized in Victorian ornamental gardens.
 
-### 
-Why do onions make us cry?
+![Ornamental Allium, with bright purple flower heads. ](https://4w1qaaek5t.ucarecd.net/9d7450f8-64b1-433f-8a0d-a069126ff24c/flowers-allium-allium-giganteum-rocambole-anzur-spring-garden.jpg "Ornamental Allium")
+
+### Why do onions make us cry?
 
 It’s all chemistry. 
 
@@ -61,14 +66,13 @@ Cooking, chilling or soaking onions in water before chopping can reduce that rea
 
 Which makes me suddenly realize that I’m the predator here. Chopping through their defenses every evening. Now I feel kinda bad for the fam. 
 
-### 
-Why plant diverse Alliums?
+### Why plant diverse Alliums?
 
 Each variety in the Allium family brings its own flavor to the table, from the fiery kick of white onions to the candy-like sweetness of Cipollini. By mixing annuals with perennials, you can enjoy harvests almost all year round. 
 
 Growing heirloom varieties also means you’re keeping history alive in your garden, connecting directly to thousands of years of food culture! It’s not just about the kitchen either; ornamental Alliums draw in pollinators, while diversity in your beds makes your crops more resilient and less likely to be wiped out by disease.
 
-Planting Now (September–October)
+### Planting Now (September–October)
 
 This is the perfect time to:
 
@@ -77,11 +81,9 @@ This is the perfect time to:
 * Put in overwintering onion sets for an early summer harvest.
 * Establish perennial Alliums like Welsh onions and walking onions.
 
-
 Wanna know more about how to plant them? Check out this piece by Erin on** [how to grow amazing Alliums](https://blog.planter.garden/posts/grow-amazing-alliums/),** full of practical tips to get your onion patch thriving.
 
-### 
-Final Thought
+### Final Thought
 
 The Allium family is ancient and diverse. From the reliable yellow onion to the flamboyant red, the wandering Egyptian, and the delicate chive, this clan has shaped kitchens and cultures for millennia. Planting a few new varieties this autumn means you’ll not only expand your harvest, you’ll also be growing a slice of history, resilience, and flavor that goes far beyond the supermarket net bag.
 
