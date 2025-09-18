@@ -4,6 +4,8 @@ title = "Meet the Allium Family"
 slug = "Meet the Allium Family"
 date = "2025-09-19T09:00:00.000Z"
 author = "Sarah-Manon Blok"
+plants = ["Onions", "Shallots", "Chives", "Garlic", "Leeks"]
+series = ["Plant Families"]
 
 [cover]
 relative = false
