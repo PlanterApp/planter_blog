@@ -23,7 +23,7 @@ Despite its name, leaf mold isn’t slimy, smelly, or unpleasant. It’s simply 
 
 ### Why Use Leaf Mold in Your Garden?
 
-Fallen leaves naturally decompose over one to two years, returning nutrients to the soil and conditioning it to be more suitable for plant growth. By actively making leaf mold, you speed up this process and gain several key benefits:
+Fallen leaves naturally decompose over a period of one to two years, returning essential nutrients to the soil and conditioning it to be more suitable for plant growth. By actively making leaf mold, you speed up this process and gain several key benefits:
 
 * **Improved soil structure** – Leaf mold makes soil more porous by creating air pockets and adding structure, helping roots grow deeper and stronger.
 * **Enhanced moisture retention** – Leaf mold can hold several times its weight in water (and it releases it slowly), reducing the need for frequent watering—especially useful in dry seasons.
