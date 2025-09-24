@@ -21,7 +21,7 @@ Despite its name, leaf mold isn’t slimy, smelly, or unpleasant. It’s simply 
 
 ### Why Use Leaf Mold in Your Garden?
 
-Fallen leaves naturally decompose over one to two years, returning nutrients to the soil. By actively making leaf mold, you speed up this process and gain several key benefits:
+Fallen leaves naturally decompose over one to two years, returning nutrients to the soil and conditioning it to be more suitable for plant growth. By actively making leaf mold, you speed up this process and gain several key benefits:
 
 * **Improved soil structure** – Leaf mold makes soil more porous by creating air pockets and adding structure, helping roots grow deeper and stronger.
 * **Enhanced moisture retention** – Leaf mold can hold several times its weight in water (and it releases it slowly), reducing the need for frequent watering—especially useful in dry seasons.
@@ -59,12 +59,12 @@ All you need are **leaves, water, and time**. With a few simple steps, you can s
 
 Leaves are carbon-rich, which makes them delicious to carbon-consuming micro-organisms, like fungi. Because fallen leaves are either dead or mostly dead, they have lost most of their nitrogen, and are now considered 'brown' garden material as opposed to the traditional 'green' garden material traditionally used for compost. 
 
-
-
-
+Enzymes released by the fungi break down the leaf matter, releasing very little heat. The resulting lead mold is a humus-rich, high-carbon soil conditioner that helps to optimize growing conditions.
 
 ### Final Thoughts
 
-Leaf mold is an easy, low-cost way to improve soil health while recycling what nature provides. With minimal effort, you can transform fallen leaves into a powerhouse soil amendment that keeps your garden thriving.
+Leaf mold is an easy, low-cost way to improve soil health while recycling what nature provides. With minimal effort, you can transform fallen leaves into a powerhouse soil conditioner that keeps your garden thriving.
 
-So next time autumn rolls around, save—don’t toss—those leaves, and start making leaf mold for healthier soil and stronger plants!
+So next time autumn rolls around, save—don’t toss—the leaves from your garden, or your neighbour's garden, and start making leaf mold for healthier soil and stronger plants!
+
+For extra bonus points, leave some leaves to decompose naturally. This is good both for the plants they fell from and for the host of critters that call leaf piles home.
