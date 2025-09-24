@@ -40,7 +40,7 @@ All you need are **leaves, water, and time**. With a few simple steps, you can s
 **Step 2: Shred and Contain**
 
 * Shred some of the leaves by running over them with a lawnmower a couple of times, or by rubbing them between your hands. This increases the decomposable surface area. Some leaves should be left whole.
-* Stuff the leaves into your bag of choice (plastic or paper \[I prefer paper]) or a dedicated leaf pile in a shady area.
+* Stuff the leaves into your bag of choice (plastic or paper \[I prefer paper]) or a dedicated leaf pile in a cool, shady area. Paper bags may start to decompose, so you may need to double-bag.
 * If you are creating your leaf mold in a pile, placing a waterproof or weed-suppressing membrane, such as burlap, underneath the leaf pile helps the pile to retain moisture.
 * If using bags, poke a few small holes near the top for airflow and the bottom for drainage. A pencil works well for this.
 
@@ -53,13 +53,24 @@ All you need are **leaves, water, and time**. With a few simple steps, you can s
 **Step 4: Use in Your Garden**
 
 * Your leaf mold is ready when most of the leaves have broken down into dark, crumbly material (typically within 6–12 months).
-* Spread it as mulch on top of soil or mix it into garden beds to improve soil texture, water retention, and plant health.
+* Spread it as mulch on top of soil or mix it into garden beds.
+
+
+### Top Uses for Leaf Mold in the Garden
+
+* **Mulch:** Spread 2–3 inches thick around plants and trees to conserve moisture, suppress weeds, and regulate soil temperature.
+* **Soil Amendment:** Mix into garden beds or containers to improve soil texture, aeration, and water-holding capacity.
+* **Seed Starting Mix:** Blend sifted leaf mold with sand or compost for a light, moisture-retentive seedling medium.
+* **Potting Mix Ingredient:** Combine with compost and perlite/vermiculite for a balanced, nutrient-rich potting soil.
+* **Worm Bin Bedding:** Use as a soft, moisture-holding bedding for composting worms.
 
 ### The Science
 
 Leaves are carbon-rich, which makes them delicious to carbon-consuming micro-organisms, like fungi. Because fallen leaves are either dead or mostly dead, they have lost most of their nitrogen, and are now considered 'brown' garden material as opposed to the traditional 'green' garden material traditionally used for compost. 
 
-Enzymes released by the fungi break down the leaf matter, releasing very little heat. The resulting lead mold is a humus-rich, high-carbon soil conditioner that helps to optimize growing conditions.
+Enzymes released by the fungi break down the leaf matter, releasing very little heat. That’s why leaf mold doesn’t ‘cook’ like compost—it stays cool and works slowly, leaving you with a stable, humus-rich conditioner
+
+
 
 ### Final Thoughts
 
