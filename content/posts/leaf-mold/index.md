@@ -27,6 +27,8 @@ Fallen leaves naturally decompose over one to two years, returning nutrients to 
 * **Enhanced moisture retention** – Leaf mold can hold several times its weight in water (and it releases it slowly), reducing the need for frequent watering—especially useful in dry seasons.
 * **Boosted soil biodiversity** – By introducing beneficial fungi and microbes that work alongside worms and other decomposers, leaf mold creates healthy, aerated soil that has readily available nutrients.
 
+![Composting leaves](https://4w1qaaek5t.ucarecd.net/6f53a934-e6d6-495b-ad63-49da22de4bdf/compost-autumn-leaves-throwing-fallen-leaves-compost-bin-green-city-recycling-fall-leaves.jpg)
+
 ### How to Make Leaf Mold
 
 All you need are **leaves, water, and time**. With a few simple steps, you can speed up the decomposition process and have nutrient-rich leaf mold ready in as little as six months. 
@@ -41,7 +43,7 @@ All you need are **leaves, water, and time**. With a few simple steps, you can s
 
 * Shred some of the leaves by running over them with a lawnmower a couple of times, or by rubbing them between your hands. This increases the decomposable surface area. Some leaves should be left whole.
 * Stuff the leaves into your bag of choice (plastic or paper \[I prefer paper]) or a dedicated leaf pile in a cool, shady area. Paper bags may start to decompose, so you may need to double-bag.
-* If you are creating your leaf mold in a pile, placing a waterproof or weed-suppressing membrane, such as burlap, underneath the leaf pile helps the pile to retain moisture.
+* If you are creating your leaf mold in a pile (or compost bin), placing a waterproof or weed-suppressing membrane, such as burlap, underneath the leaf pile helps the pile to retain moisture.
 * If using bags, poke a few small holes near the top for airflow and the bottom for drainage. A pencil works well for this.
 
 **Step 3: Add Water and Wait**
@@ -55,6 +57,7 @@ All you need are **leaves, water, and time**. With a few simple steps, you can s
 * Your leaf mold is ready when most of the leaves have broken down into dark, crumbly material (typically within 6–12 months).
 * Spread it as mulch on top of soil or mix it into garden beds.
 
+{{< notice info >}}You can also simply pile leaves in a cool, shady corner and keep them damp. They will mold more slowly, but the results are just as good.{{< /notice >}}
 
 ### Top Uses for Leaf Mold in the Garden
 
@@ -70,7 +73,7 @@ Leaves are carbon-rich, which makes them delicious to carbon-consuming micro-org
 
 Enzymes released by the fungi break down the leaf matter, releasing very little heat. That’s why leaf mold doesn’t ‘cook’ like compost—it stays cool and works slowly, leaving you with a stable, humus-rich conditioner
 
-
+![Plastic fan rake atop a pile of leaves](https://4w1qaaek5t.ucarecd.net/4ea66b30-d7ff-4e08-92c8-2f9d7ded76e6/plastic-fan-rake-pile-dry-golden-leaves-autumn-season-view-from-raked-leaves-with.jpg)
 
 ### Final Thoughts
 
