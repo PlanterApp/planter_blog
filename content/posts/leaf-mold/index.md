@@ -15,6 +15,8 @@ If you live anywhere with deciduous trees, then you have the key ingredient for 
 
 In this article, we'll run through the simple process and break down (pun intended) some of the science behind it.
 
+![Tree with dead leaves in the Fall](https://4w1qaaek5t.ucarecd.net/61631aab-8e59-4f26-8184-2aa1f101f386/leaf-sky-background.jpg)
+
 ### What is Leaf Mold?
 
 Despite its name, leaf mold isn’t slimy, smelly, or unpleasant. It’s simply decomposed leaves broken down by fungal activity rather than bacteria, as happens in traditional composting. Unlike compost, leaf mold doesn’t require “green” materials like vegetable scraps—it’s just leaves. The result is a dark, earthy-smelling material packed with nutrients that enriches the soil and supports plant health.
@@ -42,14 +44,14 @@ All you need are **leaves, water, and time**. With a few simple steps, you can s
 **Step 2: Shred and Contain**
 
 * Shred some of the leaves by running over them with a lawnmower a couple of times, or by rubbing them between your hands. This increases the decomposable surface area. Some leaves should be left whole.
-* Stuff the leaves into your bag of choice (plastic or paper \[I prefer paper]) or a dedicated leaf pile in a cool, shady area. Paper bags may start to decompose, so you may need to double-bag.
-* If you are creating your leaf mold in a pile (or compost bin), placing a waterproof or weed-suppressing membrane, such as burlap, underneath the leaf pile helps the pile to retain moisture.
+* Stuff the leaves into your bag of choice (plastic or paper \[I prefer paper]) or a dedicated leaf pile in a cool, shady area.  Both methods work well—it’s mostly about space and convenience. Note that paper bags may start to decompose, so you may need to double-bag.
+* If you are creating your leaf mold in a pile (or compost bin), placing a waterproof or weed-suppressing membrane, such as burlap, underneath the leaf pile helps the pile to stay damp.
 * If using bags, poke a few small holes near the top for airflow and the bottom for drainage. A pencil works well for this.
 
 **Step 3: Add Water and Wait**
 
 * Lightly moisten the leaves—they should be damp but not soaking wet.
-* Store the filled bags of leaves or pile in a cool, shady spot and check every few weeks, adding water as needed to maintain moisture.
+* Store the filled bags of leaves or pile in your chosen shady spot and check every few weeks, adding water as needed to maintain moisture.
 * Turn the leaves (by shaking or with a trowel) occasionally to encourage healthy fungi (both aerobic and anaerobic, for you fungi enthusiasts) to decompose the leaves more quickly and efficiently.
 
 **Step 4: Use in Your Garden**
@@ -59,13 +61,14 @@ All you need are **leaves, water, and time**. With a few simple steps, you can s
 
 {{< notice info >}}You can also simply pile leaves in a cool, shady corner and keep them damp. They will mold more slowly, but the results are just as good.{{< /notice >}}
 
+![Plant with leaf mulch](https://4w1qaaek5t.ucarecd.net/8c7cfa5f-61b2-44c7-9095-485539b2631f/focused-plant-outdoors-with-blurred-ground.jpg)
+
 ### Top Uses for Leaf Mold in the Garden
 
-* **Mulch:** Spread 2–3 inches thick around plants and trees to conserve moisture, suppress weeds, and regulate soil temperature.
+* **Mulch:** Spread 2–3 inches thick around plants and trees to conserve water, suppress weeds, and regulate soil temperature.
 * **Soil Amendment:** Mix into garden beds or containers to improve soil texture, aeration, and water-holding capacity.
 * **Seed Starting Mix:** Blend sifted leaf mold with sand or compost for a light, moisture-retentive seedling medium.
 * **Potting Mix Ingredient:** Combine with compost and perlite/vermiculite for a balanced, nutrient-rich potting soil.
-* **Worm Bin Bedding:** Use as a soft, moisture-holding bedding for composting worms.
 
 ### The Science
 
