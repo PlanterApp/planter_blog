@@ -15,11 +15,17 @@ If you live anywhere with deciduous trees, then you have the key ingredient for 
 
 In this article, we'll run through the simple process and break down (pun intended) some of the science behind it.
 
-![Tree with dead leaves in the Fall](https://4w1qaaek5t.ucarecd.net/61631aab-8e59-4f26-8184-2aa1f101f386/leaf-sky-background.jpg)
+
+
 
 ### What is Leaf Mold?
 
 Despite its name, leaf mold isn’t slimy, smelly, or unpleasant. It’s simply decomposed leaves broken down by fungal activity rather than bacteria, as happens in traditional composting. Unlike compost, leaf mold doesn’t require “green” materials like vegetable scraps—it’s just leaves. The result is a dark, earthy-smelling material packed with nutrients that enriches the soil and supports plant health.
+
+
+![Tree with dead leaves in the Fall](https://4w1qaaek5t.ucarecd.net/61631aab-8e59-4f26-8184-2aa1f101f386/leaf-sky-background.jpg)
+
+
 
 ### Why Use Leaf Mold in Your Garden?
 
@@ -59,7 +65,7 @@ All you need are **leaves, water, and time**. With a few simple steps, you can s
 * Your leaf mold is ready when most of the leaves have broken down into dark, crumbly material (typically within 6–12 months).
 * Spread it as mulch on top of soil or mix it into garden beds.
 
-{{< notice info >}}You can also simply pile leaves in a cool, shady corner and keep them damp. They will mold more slowly, but the results are just as good.{{< /notice >}}
+{{< notice tip >}}You can also simply pile leaves in a cool, shady corner and keep them damp. They will mold more slowly, but the results are just as good.{{< /notice >}}
 
 ![Plant with leaf mulch](https://4w1qaaek5t.ucarecd.net/8c7cfa5f-61b2-44c7-9095-485539b2631f/focused-plant-outdoors-with-blurred-ground.jpg)
 
