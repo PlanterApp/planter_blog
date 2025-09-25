@@ -73,7 +73,9 @@ Because mulch will be 2–3 inches deep, it’s a good idea to level the ring, e
 **Step 5: Spread the Mulch**
 Apply mulch evenly to a depth of 2–3 inches. Keep mulch 1–3 inches away from the trunk to prevent moisture from contacting the bark, which can encourage pests and disease. You should always be able to see the root flare clearly; if not, the mulch is too close or too deep.
 
-{{< notice tip >}}You can work out how much mulch you need by using this calculation. Area of tree ring: 3.14 x the radius (r) squared. The radius is half of the diameter, so a 6ft ring would be 3 ft squared, or 9 ft.
+{{< notice tip >}}You can work out how much mulch you need by using this calculation. 
+
+Area of tree ring: 3.14 x the radius (r) squared. The radius is half of the diameter, so a 6ft ring would be 3 ft squared, or 9 ft.
 
 Multiply the area by the depth of the mulch in feet. 3 inches would be 0.25 ft.
 
@@ -83,7 +85,7 @@ Example using a 6ft diameter circle.
 
 28.26 x 0.25 = 7.065 cubic feet of mulch. 
 
-I would buy 8 cubic feet to be on the safe side. {{< /notice >}}
+For this example, I would buy 8 cubic feet to be on the safe side. {{< /notice >}}
 
 **Step 6: Maintain and Reapply**
 Mulch breaks down over time, adding organic matter to the soil. In some climates, this may require refreshing the mulch once a year; in drier areas or with slower-decomposing mulch, every 2–3 years may be sufficient. When refreshing mulch, always check that it hasn’t crept up the trunk—mulch volcanoes can suffocate roots and invite decay.
