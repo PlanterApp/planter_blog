@@ -8,11 +8,14 @@ tags = ["trees", "mulch"]
 
 [cover]
 relative = false
-alt = "colorful leaves covering the ground"
+alt = "Palo Verde tree with leaf mulch"
+image = "https://4w1qaaek5t.ucarecd.net/f3554290-f6aa-404d-b4cd-0c8b5e9a3e41/PXL_20250925_180118992.RAW-01.MP.COVER.jpg"
 +++
 **Trees are wonderful.** They provide shade, structure, habitat, and beauty to a garden. But if you’ve planted a tree in your yard, it may not be in its natural or preferred environment. Supporting its growth means helping recreate those natural conditions wherever possible. While trees get around 90% of their mass from carbon in the air, the remaining 10% from the soil is equally vital.
 
 So, how can you mimic that natural nutrient cycle and the accumulation of organic matter on the ground at home? One of the simplest and most effective methods is mulching.
+
+![Decaying mulch on the ground](https://4w1qaaek5t.ucarecd.net/aec80cf4-3603-4bc0-9f0b-c87e045805d8/old-rotten-tree-branches-fallen-ground.jpg)
 
 ### Why Mulch Matters
 
@@ -101,14 +104,15 @@ Still apply a 2-3 inch thick layer of mulch to the drip line. I typically mulch 
 Even experienced gardeners sometimes make mistakes when mulching. 
 Here are a few pitfalls to watch for so your mulch works with your tree, not against it.
 
-
 **1: Weed Barriers and Over-Mulching.** Avoid using weed membranes or landscape fabric—they can suffocate the soil and disrupt natural microbial activity. Weeds are easy to pull from mulch since they take longer to root. Also, don’t overdo the mulch: more than 4 inches can smother roots and reduce oxygen flow.
 
 **2: Excessive Moisture Retention.** Fine-textured mulch like peat moss, grass clippings, or sawdust holds excessive moisture and can lead to fungal issues. These materials should only be used in combination with coarser mulch. A balanced blend improves drainage and aeration.
 
 **3: Heat Injury.** Dark-colored mulches absorb heat during the day and release it slowly at night, which can cause heat stress and tissue damage—especially in young trees. Undyed, natural mulch is a safer choice.
 
-**4: Root Collar Rot.** Mounding mulch around the base of a tree (a “mulch volcano”) can trap moisture against the bark, leading to decay at the root collar. Once this tissue is compromised, disease organisms can easily invade. Always keep mulch pulled back from the trunk and root flare.
+**4: Root Collar Rot.** Mounding mulch around the base of a tree (a “mulch volcano”) can trap moisture against the bark, leading to decay at the root collar or to root girdling. Once this tissue is compromised, disease organisms can easily invade, and girdled roots can eventually starve the tree.
+
+Always keep mulch pulled back from the trunk and root flare.
 
 ### Other Considerations
 
