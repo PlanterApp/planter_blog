@@ -67,7 +67,7 @@ The area marked for your mulch ring should be free of weeds and grass before you
 
 {{< notice tip >}}Work slowly when digging around roots, using a small shovel, hori-hori knife, or hand cultivator to avoid harming the tree.{{< /notice >}}
 
-![Palo Verde with exposed root flare](https://4w1qaaek5t.ucarecd.net/6985b66d-0442-44a7-847c-dba4d1070466/PXL_20250925_174931800.RAW-01.COVER.jpg "This Palo Verde only had three main buttress root flares.")
+![Palo Verde with exposed root flare](https://4w1qaaek5t.ucarecd.net/6985b66d-0442-44a7-847c-dba4d1070466/PXL_20250925_174931800.RAW-01.COVER.jpg "This Palo Verde only had a few main buttress root flares.")
 
 
 
