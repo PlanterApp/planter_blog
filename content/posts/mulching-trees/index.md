@@ -10,7 +10,7 @@ tags = ["trees", "mulch"]
 relative = false
 alt = "colorful leaves covering the ground"
 +++
-**Trees are wonderful.** They provide shade, structure, habitat, and beauty to a garden. But if you’ve planted a tree in your yard, it may not be in its natural or preferred environment. Supporting its growth means helping recreate those natural conditions wherever possible. While trees get around 90% of their nutrients from carbon in the air, the remaining 10% from the soil is equally vital.
+**Trees are wonderful.** They provide shade, structure, habitat, and beauty to a garden. But if you’ve planted a tree in your yard, it may not be in its natural or preferred environment. Supporting its growth means helping recreate those natural conditions wherever possible. While trees get around 90% of their mass from carbon in the air, the remaining 10% from the soil is equally vital.
 
 So, how can you mimic that natural nutrient cycle and the accumulation of organic matter on the ground at home? One of the simplest and most effective methods is mulching.
 
@@ -120,4 +120,4 @@ Avoid mulch from diseased plants and trees.
 
 ### Wrapping Up
 
-Mulching your trees will help them thrive. It’s an easy way to give them nutrients, support a healthy living environment, and create important habitats for a host of wildlife with a healthy host plant.
+Mulching your trees will help them thrive. It’s an easy way to give them nutrients, support a healthy living environment, and create a healthier environment not only for your trees, but also for the wildlife that depend on them.
