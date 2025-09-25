@@ -42,7 +42,9 @@ You can also make your own at home:
 
 {{< notice info >}}Coarse compost should be high in brown matter (twigs, woody stems, branches), which provides the main nitrogen source the tree draws from the soil.{{< /notice >}} 
 
-Avoid rocks and gravel unless you live in a desert environment such as the Desert Southwest. Care should still be taken, as lots of rocks and gravel around trees can create a localized heat island that can scald roots and reflect too much heat onto the trunk.
+Avoid rocks and gravel unless you live in a desert environment such as the Desert Southwest. Care should still be taken, however, (and should be mostly avoided), as the accumulation of rocks and gravel around trees can create a localized heat island that can scald roots and reflect excessive heat onto the trunk.
+
+Rock and gravel mulches also create prime growing spots for weeds, and while they need less new material added over time, they eventually compact the soil and starve the ground of oxygen and nutrients.
 
 #### General Mulch Advice
 
@@ -57,7 +59,7 @@ Always make sure organic material is disease-free.
 Mulching is best done in early spring or late fall when the soil is moist and temperatures are moderate. If you live in a climate with very hard frosts, some experts recommend waiting until after the first frost in fall, or after the last heavy frost in spring. 
 
 **Step 1: Size your Mulch Ring**
-The ideal mulch ring extends to the tree’s ‘drip line,’ or the general reach of the branches. For larger mature trees, this can get quite large, so a 4–6 ft ring is a good place to start, although extending mulch as far as practical toward the drip line provides the greatest benefit.
+The ideal mulch ring extends to the tree’s ‘drip line,’ or the general reach of the branches. For larger mature trees, this can get quite large, so a 4–6 ft diameter ring is a good place to start, although extending mulch as far as practical toward the drip line provides the greatest benefit.
 
 Mark the ring with stakes, non-toxic chalk paint, or simply eyeball it for a more natural look. You can always adjust it later if needed.
 
@@ -75,16 +77,28 @@ Because mulch will be 2–3 inches deep, it’s a good idea to level the ring, e
 **Step 5: Spread the Mulch**
 Apply mulch evenly to a depth of 2–3 inches. Keep mulch 1–3 inches away from the trunk to prevent moisture from contacting the bark, which can encourage pests and disease. You should always be able to see the root flare clearly; if not, the mulch is too close or too deep.
 
+To calculate how much mulch you need, you can use this set of calculations. A phone calculator can help with this. 
+
+Area of tree ring: 3.14 x the radius (r) squared. The radius is half of the diameter, so a 6ft ring would be 3 ft squared, or 9 ft.
+
+Multiply the area by the depth of the mulch in feet. 3 inches would be 0.25 ft.
+
+Example using a 6ft diameter circle.
+
+3.14 x (3x3) = 28.26
+
+28.26 x 0.25 = 7.065 cubic feet of mulch. 
+
+I would buy 8 cubic feet to be on the safe side.
+
 **Step 6: Maintain and Reapply**
 Mulch breaks down over time, adding organic matter to the soil. In some climates, this may require refreshing the mulch once a year; in drier areas or with slower-decomposing mulch, every 2–3 years may be sufficient. When refreshing mulch, always check that it hasn’t crept up the trunk—mulch volcanoes can suffocate roots and invite decay.
 
-#### For desert trees. 
+#### For desert trees 
 
-The steps are almost all the same for desert trees. However, with the sandier soil, less prep work will be required. Gravel is recommended as a soil amendment before applying mulch to condition the soil and provide good air and water circulation.
+The steps are almost all the same for desert trees. However, with the sandier soil, less prep work will be required. Gravel is recommended as a soil amendment in small amounts before applying mulch to condition the soil and provide good air and water circulation.
 
-Still apply a 2-3 inch thick layer of mulch to the drip line. As desert trees are generally more adapted to arid conditions, most will do well with no mulch at all, or a thinner layer.
-
-I typically mulch mine with the organic litter they create.
+Still apply a 2-3 inch thick layer of mulch to the drip line. I typically mulch mine with the organic litter they create, allowing the leaves to decompose a little in a pile before spreading, so they aren't carried so easily by the strong winds.
 
 ### Common Mulching Mistakes
 
