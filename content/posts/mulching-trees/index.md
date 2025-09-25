@@ -29,8 +29,6 @@ Mulching does more than make a tree look tidy. A proper layer of mulch:
 
 A good layer of mulch is generally at least 2–3 inches thick, though this can vary depending on your location. Mulching is best done in spring or fall, when the tree is free from the stresses of winter and summer. This timing also allows for careful digging around the tree without harming its roots.
 
-
-
 ### Choosing Your Mulch
 
 Organic, undyed mulch is always best for your garden. These mulches are free from chemicals or dyes that could contaminate the soil. Common store-bought options include:
@@ -55,7 +53,6 @@ Rock and gravel mulches also create prime growing spots for weeds, and while the
 
 {{< notice tip >}}Material from the tree itself—leaves, small branches, twigs—is often the best choice. Mixing different types of mulch, such as bark chips with leaves and twigs, creates a more diverse habitat for beneficial insects and microbes, supporting a healthy soil ecosystem. Layers and size variation create stable pockets for air, and give places for water to run through.{{< /notice >}}
 
-
 ### How to Mulch a Tree: Step by Step
 
 Mulching is best done in early spring or late fall when the soil is moist and temperatures are moderate. If you live in a climate with very hard frosts, some experts recommend waiting until after the first frost in fall, or after the last heavy frost in spring. 
@@ -70,17 +67,17 @@ The area marked for your mulch ring should be free of weeds and grass before you
 
 {{< notice tip >}}Work slowly when digging around roots, using a small shovel, hori-hori knife, or hand cultivator to avoid harming the tree.{{< /notice >}}
 
-![Palo Verde with exposed root flare](https://4w1qaaek5t.ucarecd.net/6985b66d-0442-44a7-847c-dba4d1070466/PXL_20250925_174931800.RAW-01.COVER.jpg)
+![Palo Verde with exposed root flare](https://4w1qaaek5t.ucarecd.net/6985b66d-0442-44a7-847c-dba4d1070466/PXL_20250925_174931800.RAW-01.COVER.jpg "This Palo Verde only had three main buttress root flares.")
+
 
 
 **Step 3: Expose the Root Flare and Main Roots**
 Look for the root flare—the area where the trunk widens and transitions into the main buttress roots. This part should always be visible above the soil surface, never buried. Carefully dig around the flare and main roots to fully expose them, giving them access to oxygen. This prevents rot or girdling roots caused by the buried flare.
 
-
 **Step 4: Remove Additional Soil if Needed**
 Because mulch will be 2–3 inches deep, it’s a good idea to level the ring, especially if the topsoil covers roots too deeply. If the area is raised or compacted, gently remove excess soil to expose the root flare and avoid smothering roots.
 
-![Palo Verde with old bury mark line](https://4w1qaaek5t.ucarecd.net/3d667acf-bba1-4063-9f03-e4e6fbc47262/PXL_20250925_215150468.RAW-01.COVER.jpg "You can see the old dirt line where the soil surface used to be. I removed about an inch of dirt up to 2 ft away to level the soil.")
+![Palo Verde with old bury mark line](https://4w1qaaek5t.ucarecd.net/3d667acf-bba1-4063-9f03-e4e6fbc47262/PXL_20250925_215150468.RAW-01.COVER.jpg "You can see the old dirt line where the soil surface used to be. I removed about an inch of dirt to level the area.")
 
 **Step 5: Spread the Mulch**
 Apply mulch evenly to a depth of 2–3 inches. Keep mulch 1–3 inches away from the trunk to prevent moisture from contacting the bark, which can encourage pests and disease. You should always be able to see the first part of the root flare clearly; if not, the mulch is too close or too deep.
@@ -102,7 +99,7 @@ For this example, I would buy 8 cubic feet to be on the safe side. {{< /notice >
 **Step 6: Maintain and Reapply**
 Mulch breaks down over time, adding organic matter to the soil. In some climates, this may require refreshing the mulch once a year; in drier areas or with slower-decomposing mulch, every 2–3 years may be sufficient. When refreshing mulch, always check that it hasn’t crept up the trunk—mulch volcanoes can suffocate roots and invite decay.
 
-![Palo Verde with mulch](https://4w1qaaek5t.ucarecd.net/59b83a76-5d6c-4cdc-826d-1bc7c1aa1967/PXL_20250925_180118992.RAW-01.MP.COVER.jpg)
+![Palo Verde with mulch](https://4w1qaaek5t.ucarecd.net/59b83a76-5d6c-4cdc-826d-1bc7c1aa1967/PXL_20250925_180118992.RAW-01.MP.COVER.jpg "The mulch is pulled back from the tree to prevent trunk rot.")
 
 #### For desert trees 
 
@@ -133,3 +130,5 @@ If you notice root girdling, you can often handle smaller cases yourself with ca
 ### Wrapping Up
 
 Mulching your trees will help them thrive. It’s an easy way to give them nutrients, support a healthy living environment, and create a healthier environment not only for your trees, but also for the wildlife that depend on them.
+
+Mulching also doesn't have to be done all at once. There are a lot of trees in my yard, so I've spread it out. I've started with a small ring around all of the trees and will slowly expand them to the right size, doing a little every year.
