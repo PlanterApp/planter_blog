@@ -47,15 +47,14 @@ You can also make your own at home:
 
 {{< notice info >}}Coarse compost should be high in brown matter (twigs, woody stems, branches), which provides the main nitrogen source the tree draws from the soil.{{< /notice >}} 
 
-Avoid rocks and gravel unless you live in a desert environment such as the Desert Southwest. Care should still be taken, however, (and should be mostly avoided), as the accumulation of rocks and gravel around trees can create a localized heat island that can scald roots and reflect excessive heat onto the trunk.
+Avoid rocks and gravel unless you live in a desert environment such as the Desert Southwest. Care should still be taken, however, (and should be mostly avoided), as the accumulation of rocks and gravel around trees can create a localized heat island that can scald roots and reflect heat onto the trunk.
 
 Rock and gravel mulches also create prime growing spots for weeds, and while they need less new material added over time, they eventually compact the soil and starve the ground of oxygen and nutrients.
 
 ![Compost mulch bin](https://4w1qaaek5t.ucarecd.net/e38965b6-9433-4ba6-b724-5e4fc80dd7f2/high-angle-view-insect-ground.jpg)
 
-#### General Mulch Advice
+{{< notice tip >}}Material from the tree itself—leaves, small branches, twigs—is often the best choice. Mixing different types of mulch, such as bark chips with leaves and twigs, creates a more diverse habitat for beneficial insects and microbes, supporting a healthy soil ecosystem. Layers and size variation create stable pockets for air, and give places for water to run through.{{< /notice >}}
 
-Material from the tree itself—leaves, small branches, twigs—is often the best choice. Mixing different types of mulch, such as bark chips with leaves and twigs, creates a more diverse habitat for beneficial insects and microbes, supporting a healthy soil ecosystem. Layers and size variation create stable pockets for air, and give places for water to run through.
 
 ### How to Mulch a Tree: Step by Step
 
