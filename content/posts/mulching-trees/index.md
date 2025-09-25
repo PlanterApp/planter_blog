@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Mulching Trees: A Guide"
 slug = "mulching-trees"
 date = "2025-09-25T03:25:00.000Z"
