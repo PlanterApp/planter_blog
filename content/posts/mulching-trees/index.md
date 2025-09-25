@@ -12,7 +12,7 @@ alt = "colorful leaves covering the ground"
 +++
 **Trees are wonderful.** They provide shade, structure, habitat, and beauty to a garden. But if you’ve planted a tree in your yard, it may not be in its natural or preferred environment. Supporting its growth means helping recreate those natural conditions wherever possible. While trees get around 90% of their nutrients from carbon in the air, the remaining 10% from the soil is equally vital.
 
-So how can you mimic that natural nutrient cycle at home? One of the simplest and most effective methods is mulching.
+So, how can you mimic that natural nutrient cycle and the accumulation of organic matter on the ground at home? One of the simplest and most effective methods is mulching.
 
 ### Why Mulch Matters
 
@@ -85,8 +85,6 @@ Example using a 6ft diameter circle.
 
 I would buy 8 cubic feet to be on the safe side. {{< /notice >}}
 
-
-
 **Step 6: Maintain and Reapply**
 Mulch breaks down over time, adding organic matter to the soil. In some climates, this may require refreshing the mulch once a year; in drier areas or with slower-decomposing mulch, every 2–3 years may be sufficient. When refreshing mulch, always check that it hasn’t crept up the trunk—mulch volcanoes can suffocate roots and invite decay.
 
@@ -98,7 +96,9 @@ Still apply a 2-3 inch thick layer of mulch to the drip line. I typically mulch 
 
 ### Common Mulching Mistakes
 
-Even experienced gardeners sometimes make mistakes when mulching. Here are the most common pitfalls to avoid.
+Even experienced gardeners sometimes make mistakes when mulching. 
+Here are a few pitfalls to watch for so your mulch works with your tree, not against it.
+
 
 **1: Weed Barriers and Over-Mulching.** Avoid using weed membranes or landscape fabric—they can suffocate the soil and disrupt natural microbial activity. Weeds are easy to pull from mulch since they take longer to root. Also, don’t overdo the mulch: more than 4 inches can smother roots and reduce oxygen flow.
 
