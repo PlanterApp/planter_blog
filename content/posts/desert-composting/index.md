@@ -11,7 +11,7 @@ relative = false
 +++
 Deserts are notoriously harsh environments. Hot and dry (excluding Antarctica), with low rainfall, desert soils are challenging for most plants and take years to naturally build fertility. Deserts are found on multiple continents, from Australia to the Desert Southwest in the USA.
 
-Compost is an excellent soil amendment and a powerful way to enrich impoverished soil. But as compost requires moisture and plenty of organisms, is it possible in the desert? The answer is yes—with a few adaptations. Adding extra shade and water, and customizing your pile’s shape and size, can produce rich compost that will greatly benefit your plants.
+Compost is an excellent soil amendment and a powerful way to enrich impoverished soil. But as compost requires moisture and plenty of organisms, is it possible in the desert? The answer is yes—with a few adaptations. With some extra shade and water, you can produce nutrient-rich compost in even the most inhospitable of deserts.
 
 ### The Desert Environment
 
