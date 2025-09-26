@@ -31,7 +31,7 @@ A light compost amendment each year for native plants will help them weather cha
 
 Composting in the desert is best done in the fall, after the long, hot summer. This allows plants to recover from extreme heat and lets nutrients settle into the soil over the cooler, wetter winter months. Adding around 10-20% mix to the general growing zone is plenty, and will keep the conditions on the scarce side, which most plants prefer. Mixing in pebbles or gravel in small quantities can keep the soil draining well, too.
 
-{{< notice info >}}Most desert plants do not need special fertilizers or amendments. For most situations, compost has the right mix of nutrients for the desert plants that need it.{{< /notice >}}
+{{< notice note >}}Most desert plants do not need special fertilizers or amendments. For most situations, compost has the right mix of nutrients for the desert plants that need it.{{< /notice >}}
 
 ### Starting your Desert Compost
 
