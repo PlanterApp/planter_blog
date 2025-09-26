@@ -37,11 +37,12 @@ Composting in the desert is best done in the fall, after the long, hot summer. T
 
 {{< notice note >}}Most desert plants do not need special fertilizers or amendments. For most situations, compost has the right mix of nutrients for the desert plants that need it.{{< /notice >}}
 
-![Large compost bin](https://4w1qaaek5t.ucarecd.net/e13be346-53f7-4bb7-b2ef-71e4b15360a9/gardening.jpg)
-
 ### Starting your Desert Compost
 
 Desert soil is, despite how it looks, incredibly high in microorganisms and fungi, and these are essential nutrient recyclers. A few shovelfuls of desert soil will provide your compost pile with all of the organisms you need to get going.
+
+
+![Large compost bin](https://4w1qaaek5t.ucarecd.net/e13be346-53f7-4bb7-b2ef-71e4b15360a9/gardening.jpg)
 
 #### The Container
 
@@ -63,7 +64,7 @@ To reduce water consumption, you can add waste coffee or tea water to the pile, 
 
 {{< notice note >}}Avoid using water with salt, soap, or other contaminants.{{< /notice >}}
 
-
+![Dry leaves and wood for composting](https://4w1qaaek5t.ucarecd.net/75d3f1a4-5d1e-49d4-890a-2f660447c085/full-frame-shot-dry-leaves-wood.jpg)
 
 #### Materials
 
@@ -98,7 +99,7 @@ The EPA has good reference tables for common compostable materials.
 The desert environment will add plenty of heat to your compost pile, so keeping it well aerated is essential to stop the microorganisms from starving. Adding twigs and small branches creates permanent airflow paths, and rigorous weekly ‘turn’ will mix up well-composted material with freshly added materials.
 
 
-![Man adding compost scraps to a larger pile.](https://4w1qaaek5t.ucarecd.net/5566f95c-d169-4d4f-9221-f55955048811/close-up-hands-holding-bowl.jpg)
+![Adding compost scraps to a larger pile.](https://4w1qaaek5t.ucarecd.net/b762b45d-0fdb-45a6-b01a-1caab707fddb/high-angle-view-food-barbecue-grill.jpg)
 
 #### Maintaining Your Compost
 
