@@ -1,8 +1,8 @@
 +++
-draft = true
-title = "Composting in the Deserts"
+draft = false
+title = "Composting in the Desert"
 slug = "desert-composting"
-date = "2025-09-26T03:04:00.000Z"
+date = "2025-09-26T02:15:00.000Z"
 author = "Sam Liddicott"
 tags = ["DesertSouthwest", "Australia", "DesertGardening"]
 
