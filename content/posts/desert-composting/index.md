@@ -31,6 +31,8 @@ Native cacti and succulent plants do not need compost amendment when being plant
 
 Most non-native plants will require compost when planting, and yearly additions to increase the nutrient levels around the plants. Vegetable and flower beds adore plentiful additions of compost, and this, combined with good mulching, will lower your water bill, too.
 
+![Rose bush with compost](https://4w1qaaek5t.ucarecd.net/ed4402b8-b16e-4cb6-8c7a-370ebc74b7e2/PXL_20250926_204900695.PORTRAIT.jpg)
+
 A light compost amendment each year for native plants will help them weather challenging conditions and put down stronger roots. The exception for this would be cacti and succulents; they do very well on their own. 
 
 Composting in the desert is best done in the fall, after the long, hot summer. This allows plants to recover from extreme heat and lets nutrients settle into the soil over the cooler, wetter winter months. Adding around 10-20% mix to the general growing zone is plenty, and will keep the conditions on the scarce side, which most plants prefer. Mixing in pebbles or gravel in small quantities can keep the soil draining well, too.
