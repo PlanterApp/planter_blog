@@ -15,6 +15,8 @@ Deserts are notoriously harsh environments. Hot and dry (excluding Antarctica), 
 
 Compost is an excellent soil amendment and a powerful way to enrich impoverished soil. But as compost requires moisture and plenty of organisms, is it possible in the desert? The answer is yes—with a few adaptations. With some extra shade and water, you can produce nutrient-rich compost in even the most inhospitable of deserts.
 
+![Compost pile](https://4w1qaaek5t.ucarecd.net/39d53adc-db47-4286-a295-8bb5932bf213/turning-compost-pile-community-garden-compost-full-microorganisms-sustainable-regenerative-agriculture-with-soil-sample.jpg)
+
 ### The Desert Environment
 
 To compost effectively, it helps to understand the nuances of desert conditions. Arid and harsh as they are, conditions can vary dramatically across desert environments. In the Desert Southwest of the USA, for example, there are over six major biomes, from extreme arid to high mountain deserts, to milder subtropical valleys and vast mountainous expanses. Many plants will grow across multiple biomes, and while they can survive the harshest conditions, they thrive even more under optimal ones.
@@ -61,6 +63,8 @@ To reduce water consumption, you can add waste coffee or tea water to the pile, 
 
 {{< notice note >}}Avoid using water with salt, soap, or other contaminants.{{< /notice >}}
 
+
+
 #### Materials
 
 Most organic kitchen and garden waste can be composted. Aim for a balance of “browns” and “greens” to maintain a healthy 20:1 carbon-to-nitrogen (C:N) ratio.
@@ -88,11 +92,13 @@ Most organic kitchen and garden waste can be composted. Aim for a balance of “
 
 The EPA has good reference tables for common compostable materials.
 
-![Man adding compost scraps to a larger pile.](https://4w1qaaek5t.ucarecd.net/5566f95c-d169-4d4f-9221-f55955048811/close-up-hands-holding-bowl.jpg)
 
 #### Adding Oxygen
 
 The desert environment will add plenty of heat to your compost pile, so keeping it well aerated is essential to stop the microorganisms from starving. Adding twigs and small branches creates permanent airflow paths, and rigorous weekly ‘turn’ will mix up well-composted material with freshly added materials.
+
+
+![Man adding compost scraps to a larger pile.](https://4w1qaaek5t.ucarecd.net/5566f95c-d169-4d4f-9221-f55955048811/close-up-hands-holding-bowl.jpg)
 
 #### Maintaining Your Compost
 
