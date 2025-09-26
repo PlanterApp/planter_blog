@@ -57,7 +57,6 @@ To reduce water consumption, you can add waste coffee or tea water to the pile, 
 
 {{< notice note >}}Avoid using water with salt, soap, or other contaminants.{{< /notice >}}
 
-
 #### Materials
 
 Most organic kitchen and garden waste can be composted. Aim for a balance of “browns” and “greens” to maintain a healthy 20:1 carbon-to-nitrogen (C:N) ratio.
@@ -95,7 +94,7 @@ Compost piles enjoy being fed, so try to add materials weekly, even if it’s on
 
 Turning ensures the pile stays mostly aerobic, preventing unpleasant odors and speeding decomposition. As you turn the pile, add water so that it is more consistently damp. 
 
-Your compost is ready when the material is a dark, earthy brown with a sweet smell. It should have reached an internal temperature of 130°F for at least 7 days to kill off any harmful organisms.
+Your compost is ready when the material is a dark, earthy brown with a sweet smell. It should have reached an internal temperature of 130°F for at least 7 days to kill off any harmful organisms. This is easy to achieve in the desert heat.
 
 ### Key-Point Roundup
 
