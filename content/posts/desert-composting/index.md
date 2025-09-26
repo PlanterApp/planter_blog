@@ -8,6 +8,8 @@ tags = ["DesertSouthwest", "Australia", "DesertGardening"]
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/5e150e97-2522-4263-8445-482c50f7efc3/335605676_f4c4ac1346_b.jpg"
+alt = "Composting a tree in an Arizona garden"
 +++
 Deserts are notoriously harsh environments. Hot and dry (excluding Antarctica), with low rainfall, desert soils are challenging for most plants and take years to naturally build fertility. Deserts are found on multiple continents, from Australia to the Desert Southwest in the USA.
 
@@ -32,6 +34,8 @@ A light compost amendment each year for native plants will help them weather cha
 Composting in the desert is best done in the fall, after the long, hot summer. This allows plants to recover from extreme heat and lets nutrients settle into the soil over the cooler, wetter winter months. Adding around 10-20% mix to the general growing zone is plenty, and will keep the conditions on the scarce side, which most plants prefer. Mixing in pebbles or gravel in small quantities can keep the soil draining well, too.
 
 {{< notice note >}}Most desert plants do not need special fertilizers or amendments. For most situations, compost has the right mix of nutrients for the desert plants that need it.{{< /notice >}}
+
+![Large compost bin](https://4w1qaaek5t.ucarecd.net/e13be346-53f7-4bb7-b2ef-71e4b15360a9/gardening.jpg)
 
 ### Starting your Desert Compost
 
@@ -84,6 +88,8 @@ Most organic kitchen and garden waste can be composted. Aim for a balance of “
 
 The EPA has good reference tables for common compostable materials.
 
+![Man adding compost scraps to a larger pile.](https://4w1qaaek5t.ucarecd.net/5566f95c-d169-4d4f-9221-f55955048811/close-up-hands-holding-bowl.jpg)
+
 #### Adding Oxygen
 
 The desert environment will add plenty of heat to your compost pile, so keeping it well aerated is essential to stop the microorganisms from starving. Adding twigs and small branches creates permanent airflow paths, and rigorous weekly ‘turn’ will mix up well-composted material with freshly added materials.
@@ -106,6 +112,8 @@ Your compost is ready when the material is a dark, earthy brown with a sweet sme
 * **Amend wisely:** Native desert plants need light annual compost; non-natives and vegetable/flower beds can handle more. Cacti and succulents do not need compost except in rare cases.
 * **Timing matters:** Compost in fall after the summer heat; this helps nutrients integrate into the soil and supports plant recovery.
 * **Ready when it’s dark and earthy:** Compost is finished when it smells sweet, is dark brown, and has been at ~130°F for at least 7 days.
+
+![Person holding fresh compost](https://4w1qaaek5t.ucarecd.net/b0d5c59c-0b30-46fa-972d-a81c8e03d66a/cropped-hand-person-planting-sapling.jpg)
 
 ### Wrapping Up
 
