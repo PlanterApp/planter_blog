@@ -1,7 +1,7 @@
 +++
 draft = false
 title = " Mycorrhizae 101: The Underground Network That Feeds the World And Your Garden! "
-slug = " Mycorrhizae 101: The Underground Network That Feeds the World And Your Garden! "
+slug = "Mycorrhizae-101"
 date = "2025-10-12T04:51:00.000Z"
 author = "Sarah-Manon Blok"
 
