@@ -70,7 +70,7 @@ And let’s carry that wisdom above ground too. Be kind, be generous, and rememb
 
 Want to learn more about this incredible symbiotic relationship? I'd recommended watching this vid! 
 
-{{< youtube :0-hS4HoW5fM >}}
+{{< youtube 0-hS4HoW5fM >}}
 
 
 Happy Gardening,
