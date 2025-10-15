@@ -1,7 +1,13 @@
 {{- $pc := .Page.Site.Config.Privacy.YouTube -}}
 {{- if not $pc.Disable -}}
 {{- $ytHost := cond $pc.PrivacyEnhanced  "www.youtube-nocookie.com" "www.youtube.com" -}}
-{{- $id := .Get "id" | default (.Get 0) -}}
+{{- $rawId := .Get "id" | default (.Get 0) -}}
+{{- $id := $rawId -}}
+{{- if (strings.Contains $rawId "youtube.com") -}}
+  {{- $id = (index (split (index (split $rawId "?v=") 1) "&") 0) -}}
+{{- else if (strings.Contains $rawId "youtu.be") -}}
+  {{- $id = (index (split (index (split $rawId "youtu.be/") 1) "?") 0) -}}
+{{- end -}}
 {{- $short := eq (.Get "short" | default "false") "true" -}}
 {{- $class := .Get "class" | default (.Get 1) -}}
 {{- $title := .Get "title" | default "YouTube Video" }}
