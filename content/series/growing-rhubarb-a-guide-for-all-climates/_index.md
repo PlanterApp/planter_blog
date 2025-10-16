@@ -6,7 +6,7 @@ slug = "Growing Rhubarb: A Guide for All Climates"
 
 [cover]
 alt = "Close up rhubarb stems. Colors range from bright red to soft yellow."
-image = "https://4w1qaaek5t.ucarecd.net/3cf763db-7112-41d1-9919-2482e0904187/full-frame-shot-rhubarbs.jpg"
+image = "https://4w1qaaek5t.ucarecd.net/5be7a362-6da3-4082-8a66-9788410dfc63/gardener-holding-freshly-harvested-rhubarb-stalks-garden.jpg"
 +++
 Rhubarb is a perennial vegetable in the buckwheat family. Modern culinary rhubarb is a hybrid of *Rheum* species native to Asia and Eastern Europe, with the first widely cultivated modern varieties appearing in England and Scandinavia.
 
