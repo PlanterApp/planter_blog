@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Growing Rhubarb Part 2: Adaptations for Different Climates"
 slug = "rhubarb-in-different-climates"
+date = "2025-10-16T11:25:00.000Z"
 author = "Sam Liddicott"
 plants = ["Rhubarb"]
 series = ["Growing Rhubarb: A Guide for All Climates"]
@@ -16,7 +17,9 @@ Although rhubarb prefers temperate environments, it can be grown outside its ide
 
 More so than in temperate climates, it’s vital to watch the weather. Extreme heat spells or cold snaps require forethought to protect your plants, and site selection is even more important. These tips cover key points for hot and cold climates, and how you can grow rhubarb successfully.
 
-### Rhubarb in Hot, Arid Regions
+![Close up of vegetable leaves](https://4w1qaaek5t.ucarecd.net/c3639c28-9355-4242-a1ca-bd91736dc31b/stem-leaves-closeup-farm-green-fresh-natural-food-crops-gardening-concept-agricultural-plants-growing-garden-beds.jpg)
+
+### Rhubarb in Hot, Arid Climates
 
 Rhubarb can grow in hot, dry climates such as Arizona, the high deserts of California, and parts of inland Australia, but it requires some adjustments to survive the intense summer heat while still receiving enough winter chill.
 
@@ -42,6 +45,8 @@ Water deeply and regularly to encourage robust root growth, making sure to water
 Hot, desert winds can desiccate leaves quickly. If you live in a flatter, more open area, watch the winds and provide protection against the prevailing winds. Shade cloth fixed vertically is an excellent wind screen.
 
 With careful management of light, mulch, water, and timing, rhubarb can thrive in hot, arid climates. Because rhubarb needs winter chill to survive as a perennial, plants in these regions may last 2–3 years rather than the usual 5+, which is normal. Using large pots gives flexibility to move plants to cooler spots during winter or summer.
+
+![Snow covered vegetables](https://4w1qaaek5t.ucarecd.net/098a290d-9c4f-4338-a2a9-99fe72afbd27/winter-garden-kale-broccoli-are-covered-fresh-blanket-snow.jpg)
 
 ### Rhubarb in Colder Climates
 
