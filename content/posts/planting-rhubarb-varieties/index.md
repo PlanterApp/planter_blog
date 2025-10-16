@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Part 1: Popular Rhubarb Varieties and Planting Guide"
 slug = "planting-rhubarb-varieties"
+date = "2025-10-16T10:47:00.000Z"
 author = "Sam Liddicott"
 plants = ["Rhubarb"]
 series = ["Growing Rhubarb: A Guide for All Climates"]
