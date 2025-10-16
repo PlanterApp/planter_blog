@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Part 1: Popular Rhubarb Varieties and Planting Guide"
+title = "Growing Rhubarb Part 1: Popular Rhubarb Varieties and Planting Guide"
 slug = "planting-rhubarb-varieties"
 date = "2025-10-16T10:47:00.000Z"
 author = "Sam Liddicott"
