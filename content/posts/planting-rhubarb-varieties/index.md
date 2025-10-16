@@ -46,11 +46,11 @@ Choosing varieties more suited to your growing needs and conditions will give yo
 **All-Around Variety**
 
 * **Victoria** — A dependable heirloom and one of the oldest named varieties, Victoria produces long, greenish-red stalks with a mild flavor. Forgiving of different soils and weather patterns, it tolerates moderate cold and, with some extra shade, can survive hot summers. It’s also less prone to bolting than most other varieties.
+* ![Rhubarb stalks laying horizontally](https://4w1qaaek5t.ucarecd.net/937f43cc-163a-4cd9-af57-102617339ca0/close-up-vegetable-rhubarb-sale-market.jpg)
 
 ### How to Plant Rhubarb
 
 Rhubarb can be planted as dormant crowns (typically sold November–March) or as potted plants later in the spring. Dormant crowns are ideal for establishing a strong root system, while potted plants give a head start on growth.
-
 
 Fall is the ideal time to plan your rhubarb garden, giving you time to prepare the planting site and source quality crowns. This allows you to prepare the planting site and find the best places to get your rhubarb crowns from. Many garden centers will sell them; however, you can always ask a neighbor if they have any crowns ready to divide.
 
