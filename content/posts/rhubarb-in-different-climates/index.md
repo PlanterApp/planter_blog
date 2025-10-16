@@ -9,6 +9,8 @@ tags = ["Rhubarb"]
 
 [cover]
 relative = false
+alt = "Rhubarb"
+image = "https://4w1qaaek5t.ucarecd.net/82fdbdab-75a5-42fe-9627-4439b51a8690/bunches-organic-rhubarb-farmers-market.jpg"
 +++
 Although rhubarb prefers temperate environments, it can be grown outside its ideal temperature range with some care. With additional winter prep in colder climates and careful planning for summer in hot regions, rhubarb can thrive almost anywhere.
 
