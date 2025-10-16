@@ -26,27 +26,28 @@ Choosing varieties more suited to your growing needs and conditions will give yo
 ![Rhubarb plant showing the underside of the leaves](https://4w1qaaek5t.ucarecd.net/bfada1c7-0e4b-4793-9b51-a5f67a766da2/17994852781_c69e82afeb_b.jpg '
 "[Rhubarb](https://www.flickr.com/photos/50826080@N00/17994852781)" by [SFB579 Namaste](https://www.flickr.com/photos/50826080@N00) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).')
 
-**Varieties for Warm Climates**
+#### Varieties for Warm Climates
 
 * **MacDonald Rhubarb** — Developed in the 1920s, this variety is less tart than most and shows excellent resistance to heat, wilt, and root rot. Performs best up to Zone 8 but can continue beyond that with attentive care.
 * **Canada Red Rhubarb** — A compact variety with shorter, tender stems and a naturally sweet flavor. Prefers cooler conditions up to Zone 8 but can be grown as an annual in warmer zones with partial shade and consistent watering.
 * **Crimson Red (Cherry Red)** — Known for its striking deep red stalks and good heat tolerance. While not ideal for desert zones, it performs well in areas with warm summers and mild winters.
 
-**Varieties for Temperate Climates**
+#### Varieties for Temperate Climates
 
 * **Timperley Early** — One of the first varieties ready for harvest, often by early spring. Perfect for gardeners eager to enjoy rhubarb pies and crumbles while other crops are still waking up.
 * **Sutton** — With vivid red stalks and a well-balanced tartness, Sutton is both ornamental and productive. Performs best in steady, temperate conditions without extreme heat or cold, and is a good option for smaller gardens.
 * **Champagne** — A classic English variety with slender, pinkish stems and a delicate flavor. Particularly good for forcing (growing in darkness to produce early, tender stalks) and favored by traditional kitchen gardeners.
 
-**Varieties for Cold Climates**
+#### Varieties for Cold Climates
 
 * **German Wine** — A hardy selection with strong, thick stalks that hold up well in late frosts. Has a deep, rosy hue and a pleasant balance of sweetness and acidity, making it a favorite for preserves and baking.
 * **Valentine** — Noted for its vivid crimson color and resilience, Valentine tolerates very cold winters and returns reliably each year. Less stringy than some other varieties, making it excellent for cooking.
 
-**All-Around Variety**
+#### All-Around Variety
 
 * **Victoria** — A dependable heirloom and one of the oldest named varieties, Victoria produces long, greenish-red stalks with a mild flavor. Forgiving of different soils and weather patterns, it tolerates moderate cold and, with some extra shade, can survive hot summers. It’s also less prone to bolting than most other varieties.
-* ![Rhubarb stalks laying horizontally](https://4w1qaaek5t.ucarecd.net/937f43cc-163a-4cd9-af57-102617339ca0/close-up-vegetable-rhubarb-sale-market.jpg)
+
+![Rhubarb laying horizontally](https://4w1qaaek5t.ucarecd.net/868055d3-5b7e-4153-8a0b-b8c8ba56b962/close-up-vegetable-rhubarb-sale-market.jpg)
 
 ### How to Plant Rhubarb
 
