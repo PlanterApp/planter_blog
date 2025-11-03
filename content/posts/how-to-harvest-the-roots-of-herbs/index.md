@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "How to Harvest the Roots of Herbs"
 slug = "how-to-harvest-the-roots-of-herbs"
-date = "2025-11-03T10:19:00.000Z"
+date = "2025-11-03T11:06:00.000Z"
 author = "Samantha Togstad"
 plants = ["marshmallow", "dandelion", "horseradish", "valerian", "parsley"]
 series = ["herbs"]
@@ -72,7 +72,7 @@ With herbal roots, you can make: 
 * Long ago, it's said that the first marshmallows were created from the marshmallow plant's roots. You can make an herbal syrup with the roots, which can then be made into the sweet treat we know today. There are vegan recipes and some made with gelatin. Search around for your favorite recipe. 
 * Use horseradish root to make your own classic condiment or as an addition to an herbal fire cider recipe.
 
-Sometimes, at the end of a long growing season, the last thing I want to do is get dirty and harvest the roots of my herbs, especially when it's getting colder. But every time I do, I'm so happy I did it. Harvesting roots isn't always glamorous work, but it's definitely rewarding.  
+Sometimes, at the end of a long growing season, the last thing I want to do is get dirty and harvest the roots of my herbs, especially when it's getting colder. But every time I do, I'm so happy I did it. Harvesting roots isn't always glamorous work, but it's definitely rewarding.  *Always consult with your healthcare professional before using herbs.*
 
 ![Close-up of a marshmallow plant roots](https://4w1qaaek5t.ucarecd.net/26b27409-6090-49fb-a2ac-387f7e5ccccc/marshmallowroot.jpg "Marshmallow roots")
 
