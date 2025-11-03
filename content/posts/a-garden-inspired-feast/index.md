@@ -37,4 +37,31 @@ Continue cooking, stirring all the ingredients in the pan to combine them and pr
 Serve with warm tortillas or toast, and if you have them refried beans!
 
 
+
+### Creamy Scandinavian Cucumber Salad- Contributed by Samantha
+
+For the last couple of summers, I've had a surplus of cucumbers from my garden. I am not really fond of cucumbers, so I grow them for my husband. But only he can eat so many cucumbers, and I didn't want all of the cucumbers to go to waste, so I looked for a way I would enjoy them, too. 
+
+I have a small collection of Scandinavian cookbooks and came across some cucumber salads. The traditional way is basically a quick-pickled style blend of cucumbers that's usually eaten with fish. Then I came across some recipes that involved adding sour cream, apparently popular with the American Midwestern Scandinavians. I like anything with sour cream, so I tried it and made that salad all summer. Even now, as summer's gone, I still make it! Cream makes everything delicious in my opinion. This recipe is a blend of several versions I've seen, and you can customize it to your liking. 
+
+\-2 Cucumbers, skin on or peeled 
+
+\-1/4 Cup of sour cream, more or less as desired
+
+\-1 TBSP of white vinegar, more or less as desired
+
+\-1 Tsp of lemon juice
+
+\-1 clove of chopped garlic
+
+\-1 Tsp of fresh dill or 1/2 tsp of dried, more or less to taste
+
+\-1 Tsp of salt and more to taste
+
+\-Pepper
+
+
+
+Slice the two peeled or unpeeled cucumbers fairly thin and place them in a bowl. Sprinkle about 1 Tsp of salt over the cucumbers and let them sit. After about 15 minutes, strain out the water from the bowl. Add the sour cream to the cucumbers, adding more or less as desired. Add the white vinegar, the lemon juice, the chopped garlic, the dill, and salt and pepper as desired. Gently stir the cucumbers to evenly coat. Let it chill in the refrigerator for 1 hour before serving. 
+
 <<Summary>>
