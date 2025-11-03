@@ -9,6 +9,8 @@ series = ["herbs"]
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/d1a07b2b-737e-4b8e-ba27-add32ee5dc3d/-/crop/1536x1305/0,671/-/preview/ash4.JPEG"
+alt = "Close-up of Ashwaghanda roots"
 +++
 The autumn season signals a time of preparing. Many of us make sure to get the most out of our gardens by making jams, pickled things, sauces, and more.  If you've been growing plants for herbal use, fall means it's time to harvest and dry the roots.    
 
@@ -26,13 +28,21 @@ The number one rule when harvesting a plant is to ensure you know what you are h
 
 Decide if you are going to harvest all of the roots or just some. If you want to replant, harvest ½ - ¾ of the root system and then replant at the depth you removed it from, removing any old stems or leaves so it can focus on rebuilding at the roots. 
 
+![A shovel digging up echinacea roots](https://4w1qaaek5t.ucarecd.net/69532aba-ff24-4242-a3ae-6c081e945a41/-/crop/1536x1279/0,333/-/preview/root4.jpg "Digging up echinacea")
+
+![Echinacea plant dug up for its roots](https://4w1qaaek5t.ucarecd.net/1941fe6e-ee84-4d35-ace6-02d87613622d/-/crop/1536x945/0,346/-/preview/root3.jpg "The roots are all covered with mud")
+
 ### Cleaning
 
 If you harvest roots full of mud, spraying them off with a garden hose before bringing them inside can be helpful. Clean roots gently with water and a vegetable brush, but do not scrub too hard. 
 
+![Cleaning echinacea roots under a water spicket](https://4w1qaaek5t.ucarecd.net/887b57ae-2f5a-4ccf-b108-0da550c5270b/-/crop/1536x1416/0,632/-/preview/root2.jpg)
+
 ### Chopping
 
  Chop the roots into pieces. It's best to chop roots right away after harvest because some roots start to get tough, making them harder to cut. If you plan on using fresh roots for herbal products, then you should use them straight away. It's best to use fresh roots when making some tinctures. Valerian roots, for example, are best tinctured fresh. 
+
+![Chopped up ashwagandha roots being tinctured in alcohol](https://4w1qaaek5t.ucarecd.net/34e21536-db8f-41d8-bfbe-d3125371d357/ashroots.jpg "Making  a tincture from fresh ashwagandha root")
 
 ### Drying
 
@@ -63,6 +73,8 @@ With herbal roots, you can make: 
 * Use horseradish root to make your own classic condiment or as an addition to an herbal "fire cider recipe.
 
 Sometimes, at the end of a long growing season, the last thing I want to do is get dirty and harvest the roots of my herbs, especially when it's getting colder. But every time I do, I'm so happy I did it. Harvesting roots isn't always glamorous work, but it's definitely rewarding.  
+
+![Close-up of a marshmallow plant roots](https://4w1qaaek5t.ucarecd.net/26b27409-6090-49fb-a2ac-387f7e5ccccc/marshmallowroot.jpg "Marshmallow roots")
 
 ### Harvest Time Table
 
