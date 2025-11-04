@@ -15,7 +15,7 @@ image = "https://4w1qaaek5t.ucarecd.net/1e69d782-cdfe-433a-808f-b33c63b1b96e/Gar
 
 Breakfast need not be neglected when it comes to using your garden abundance! We had tons of extra jalapeños and tomatoes this season, and while we love making all kinds of salsas one of our favorite ways to use them is in 'Mexican-style' eggs. We eat these several times a week for breakfast and we never tire of them. Not only are they delicious, it's also rewarding to start the first meal of the day with veggies I grew myself!
 
-This is hardly a recipe as much as an idea and cooking method, but I hope it provides inspiration for your own morning routine! The amounts listed are what we generally use for two people but you can easily adjust the quantities to suit the number of people you're cooking for and your preferences.
+The amounts listed are what we generally use for two people but you can easily adjust the quantities to suit the number of people you're cooking for and your preferences.
 
 \- 3-4 large eggs
 
@@ -37,17 +37,17 @@ Continue cooking, stirring all the ingredients in the pan to combine them and pr
 
 Serve with warm tortillas or toast, and if you have them refried beans!
 
-### Creamy Scandinavian Cucumber Salad- Contributed by Samantha
+## Creamy Scandinavian Cucumber Salad- Contributed by Samantha
 
 For the last couple of summers, I've had a surplus of cucumbers from my garden. I am not really fond of cucumbers, so I grow them for my husband. But only he can eat so many cucumbers, and I didn't want all of the cucumbers to go to waste, so I looked for a way I would enjoy them, too. 
 
 I have a small collection of Scandinavian cookbooks and came across some cucumber salads. The traditional way is basically a quick-pickled style blend of cucumbers that's usually eaten with fish. Then I came across some recipes that involved adding sour cream, apparently popular with the American Midwestern Scandinavians. I like anything with sour cream, so I tried it and made that salad all summer. Even now, as summer's gone, I still make it! Cream makes everything delicious in my opinion. This recipe is a blend of several versions I've seen, and you can customize it to your liking. 
 
-\-2 Cucumbers, skin on or peeled 
+\- 2 Cucumbers, skin on or peeled 
 
 \-1/4 Cup of sour cream, more or less as desired
 
-\-1 TBSP of white vinegar, more or less as desired
+\-1 Tbsp of white vinegar, more or less as desired
 
 \-1 Tsp of lemon juice
 
@@ -57,7 +57,7 @@ I have a small collection of Scandinavian cookbooks and came across some cucumbe
 
 \-1 Tsp of salt and more to taste
 
-\-Pepper
+\- Pepper
 
 Slice the two peeled or unpeeled cucumbers fairly thin and place them in a bowl. Sprinkle about 1 Tsp of salt over the cucumbers and let them sit. After about 15 minutes, strain out the water from the bowl. Add the sour cream to the cucumbers, adding more or less as desired. Add the white vinegar, the lemon juice, the chopped garlic, the dill, and salt and pepper as desired. Gently stir the cucumbers to evenly coat. Let it chill in the refrigerator for 1 hour before serving. 
 
