@@ -8,6 +8,7 @@ author = "The Planter Team"
 [cover]
 relative = false
 image = "https://4w1qaaek5t.ucarecd.net/1e69d782-cdfe-433a-808f-b33c63b1b96e/Garden-feast.png"
+alt = "Several different garden veggies on a wooden background with the words 'a garden inspired feast'"
 +++
 <<Introduction>>
 
@@ -29,7 +30,7 @@ The amounts listed are what we generally use for two people but you can easily a
 
 \- Salt to taste
 
-![Chopped jalapeños, onions, and tomatoes on a cutting board with eggs, oil, and salt behind](https://4w1qaaek5t.ucarecd.net/5b298ea5-4b79-4bdf-92b5-7c577e2c0a46/Eggs-ingredients.jpg)
+![Chopped jalapeños, onions, and tomatoes on a cutting board with eggs, oil, and salt behind](https://4w1qaaek5t.ucarecd.net/5b298ea5-4b79-4bdf-92b5-7c577e2c0a46/Eggs-ingredients.jpg "Chopped ingredients arranged as the colors of the Mexican flag!")
 
 In a large bowl, whisk the eggs together with a pinch of salt until thoroughly mixed. Pre-heat a frying pan over medium heat and add the oil. Once the oil is hot (but not smoking), add the diced onion and minced jalapeno. Cook for a minute or two until the onions turn translucent then add the tomatoes\*\** and another pinch of salt. Let the tomatoes cook down for a minute or two then add the well-mixed eggs. 
 
@@ -38,6 +39,8 @@ Continue cooking, stirring all the ingredients in the pan to combine them and pr
 \*\**My husband tends to add the tomatoes before adding the eggs so the tomatoes break down and the flavor infuses the eggs. I tend to add the tomatoes near the end of cooking so that they stay intact yet still add tomato-y flavor. Try both ways to see if you prefer one over the other!
 
 Serve with warm tortillas or toast, and if you have them refried beans!
+
+![Mexican style eggs on a plate with a toasted bagel](https://4w1qaaek5t.ucarecd.net/e2cfbbd5-1c08-43c2-b6c8-2bc6dcf5ad26/Mexican-eggs.jpg)
 
 ## Creamy Scandinavian Cucumber Salad- Contributed by Samantha
 
