@@ -40,7 +40,7 @@ Continue cooking, stirring all the ingredients in the pan to combine them and pr
 
 Serve with warm tortillas or toast, and if you have them refried beans!
 
-![Mexican style eggs on a plate with a toasted bagel](https://4w1qaaek5t.ucarecd.net/e2cfbbd5-1c08-43c2-b6c8-2bc6dcf5ad26/Mexican-eggs.jpg)
+![Mexican-style eggs on a plate with a toasted bagel](https://4w1qaaek5t.ucarecd.net/e2cfbbd5-1c08-43c2-b6c8-2bc6dcf5ad26/Mexican-eggs.jpg)
 
 ## Creamy Scandinavian Cucumber Salad- Contributed by Samantha
 
