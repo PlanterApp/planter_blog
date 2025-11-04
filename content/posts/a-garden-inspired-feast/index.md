@@ -29,6 +29,8 @@ The amounts listed are what we generally use for two people but you can easily a
 
 \- Salt to taste
 
+![Chopped jalapeños, onions, and tomatoes on a cutting board with eggs, oil, and salt behind](https://4w1qaaek5t.ucarecd.net/5b298ea5-4b79-4bdf-92b5-7c577e2c0a46/Eggs-ingredients.jpg)
+
 In a large bowl, whisk the eggs together with a pinch of salt until thoroughly mixed. Pre-heat a frying pan over medium heat and add the oil. Once the oil is hot (but not smoking), add the diced onion and minced jalapeno. Cook for a minute or two until the onions turn translucent then add the tomatoes\*\** and another pinch of salt. Let the tomatoes cook down for a minute or two then add the well-mixed eggs. 
 
 Continue cooking, stirring all the ingredients in the pan to combine them and prevent sticking. At first the mixture will be liquid-y but after about 5 or so minutes of cooking the eggs should be set and most of the excess liquid will have evaporated leaving tasty tomato-flavored eggs. Taste and add more salt if needed.
