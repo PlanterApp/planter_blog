@@ -7,6 +7,7 @@ author = "The Planter Team"
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/1e69d782-cdfe-433a-808f-b33c63b1b96e/Garden-feast.png"
 +++
 <<Introduction>>
 
@@ -22,7 +23,7 @@ This is hardly a recipe as much as an idea and cooking method, but I hope it pro
 
 \- A small wedge of white onion, diced (roughly 3-4 tablespoons)
 
-\- 3-4 roma tomatoes, diced (you can use other types of tomatoes but roma tomatoes are ideal since they are more meaty and less watery)
+\- 3-4 roma tomatoes, diced (you can use other types of tomatoes but roma tomatoes are ideal since they are more meaty and less watery- if you use larger tomatoes you may want to reduce the quantity)
 
 \- Vegetable oil (or any neutral-tasting fat of your choice for cooking)
 
@@ -35,8 +36,6 @@ Continue cooking, stirring all the ingredients in the pan to combine them and pr
 \*\**My husband tends to add the tomatoes before adding the eggs so the tomatoes break down and the flavor infuses the eggs. I tend to add the tomatoes near the end of cooking so that they stay intact yet still add tomato-y flavor. Try both ways to see if you prefer one over the other!
 
 Serve with warm tortillas or toast, and if you have them refried beans!
-
-
 
 ### Creamy Scandinavian Cucumber Salad- Contributed by Samantha
 
@@ -59,8 +58,6 @@ I have a small collection of Scandinavian cookbooks and came across some cucumbe
 \-1 Tsp of salt and more to taste
 
 \-Pepper
-
-
 
 Slice the two peeled or unpeeled cucumbers fairly thin and place them in a bowl. Sprinkle about 1 Tsp of salt over the cucumbers and let them sit. After about 15 minutes, strain out the water from the bowl. Add the sour cream to the cucumbers, adding more or less as desired. Add the white vinegar, the lemon juice, the chopped garlic, the dill, and salt and pepper as desired. Gently stir the cucumbers to evenly coat. Let it chill in the refrigerator for 1 hour before serving. 
 
