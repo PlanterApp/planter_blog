@@ -50,17 +50,17 @@ I have a small collection of Scandinavian cookbooks and came across some cucumbe
 
 \- 2 Cucumbers, skin on or peeled 
 
-\-1/4 Cup of sour cream, more or less as desired
+\- 1/4 Cup of sour cream, more or less as desired
 
-\-1 Tbsp of white vinegar, more or less as desired
+\- 1 Tbsp of white vinegar, more or less as desired
 
-\-1 Tsp of lemon juice
+\- 1 Tsp of lemon juice
 
-\-1 clove of chopped garlic
+\- 1 clove of chopped garlic
 
-\-1 Tsp of fresh dill or 1/2 tsp of dried, more or less to taste
+\- 1 Tsp of fresh dill or 1/2 tsp of dried, more or less to taste
 
-\-1 Tsp of salt and more to taste
+\- 1 Tsp of salt and more to taste
 
 \- Pepper
 
