@@ -66,8 +66,6 @@ I have a small collection of Scandinavian cookbooks and came across some cucumbe
 
 Slice the two peeled or unpeeled cucumbers fairly thin and place them in a bowl. Sprinkle about 1 Tsp of salt over the cucumbers and let them sit. After about 15 minutes, strain out the water from the bowl. Add the sour cream to the cucumbers, adding more or less as desired. Add the white vinegar, the lemon juice, the chopped garlic, the dill, and salt and pepper as desired. Gently stir the cucumbers to evenly coat. Let it chill in the refrigerator for 1 hour before serving. 
 
-
-
 ### 
 Jalapeño Cottage Garden Salad (Serves 1): Contributed by Sam
 
@@ -101,6 +99,10 @@ We used the jalapeños and tomatoes in a few meals, black bean taquitos, salads,
 5. Serve immediately or refrigerate for later. Keeps for 2-3 days.
 
 This salad is perfect to enjoy in the bold summer heat, a cool fall evening, or as an appetizer for a winter feast. It's delicious.
+
+
+
+![spicy pepper plant](https://4w1qaaek5t.ucarecd.net/8add40ee-6660-4939-a1d3-6ea285d3150a/-/crop/4000x2902/0,1684/-/preview/green-pepper-spicy-black-background.jpg)
 
 
 
