@@ -101,43 +101,54 @@ This salad is perfect to enjoy in the bold summer heat, a cool fall evening, or 
 
 ![Three jalapeño peppers on the left-hand side with a black background.](https://4w1qaaek5t.ucarecd.net/8add40ee-6660-4939-a1d3-6ea285d3150a/-/crop/4000x2902/0,1684/-/preview/green-pepper-spicy-black-background.jpg)
 
-
-
 ## Deep Dish Pizza - Contributed by Peter
+
+![A slice of deep dish pizza on a white plate.](https://4w1qaaek5t.ucarecd.net/3cfe35fa-cd23-4686-9d4f-8696194d9331/PXL_20200928_215954894.jpg)
+
 
 
 Makes enough for a 11-12” pizza, ~8 servings
+
 ### Ingredients:
 
 #### Dough:
-- 3 ½  tsp yeast
-- 2 ¼ tsp sugar
-- 1 ⅔ cup warm water
-- 4 ½ cup all purpose flour
-- ¾ cup olive oil
-- 2 ¼ tsp salt
+
+* 3 ½  tsp yeast
+* 2 ¼ tsp sugar
+* 1 ⅔ cup warm water
+* 4 ½ cup all purpose flour
+* ¾ cup olive oil
+* 2 ¼ tsp salt
 
 #### Sauce:
-- 2 Tbsp olive oil
-- 1 small onion, grated or minced
-- 1 Tbsp dried oregano
-- 3 garlic cloves, minced
-- 1 can (28 oz) crushed tomatoes, strain beforehand OR equivalent fresh
+
+* 2 Tbsp olive oil
+* 1 small onion, grated or minced
+* 1 Tbsp dried oregano
+* 3 garlic cloves, minced
+* 1 can (28 oz) crushed tomatoes, strain beforehand OR equivalent fresh
 
 #### Toppings:
-- 15-16 oz shredded mozzarella cheese
-- 6 oz ground italian sausage
-- 3 Tablespoons parmesan cheese
+
+* 15-16 oz shredded mozzarella cheese
+* 6 oz ground italian sausage
+* 3 Tablespoons parmesan cheese
+
+![A deep dish pizza on a cutting board](https://4w1qaaek5t.ucarecd.net/6e5561b5-8931-43c2-8a8e-f19d93b7137d/IMG_20200621_174010.jpg "Sometimes it takes 2 or even 3 spatulas to get the pizza out of the pan!")
 
 ### Directions:
+
 #### Dough:
+
 1. Dissolve yeast and sugar in warm (110℉ to 115℉, use a thermometer) water in a bowl. Let stand for 5 to 10 minutes until the yeast softens and begins to form a creamy foam.
 2. Mix yeast mixture, flour, oil, and salt. Dough should hold together but will be sticky.
 3. Transfer dough to a buttered bowl. Cover bowl with a towel and allow dough to rise at room temperature until double in size, 6 hours.
+
 #### The Rest:
+
 1. Heat the olive oil in a medium saucepan over medium-high heat and add the grated onion, minced garlic, and oregano. Once the onion has slightly browned (2 minutes or so) add the tomato sauce (after straining). Turn the heat down to low-medium and allow to simmer until the sauce has thickened, about 30 minutes. It has to be thick. Remove from heat and set aside until ready to be used.
 2. Preheat oven to 425°F.
-3. Roll out the dough and place it in a 12” pizza or cake pan, trying to get the dough to stick to the sides.
+3. Roll out the dough and place it in a 12” pizza or cake pan, trying to get the dough to stick to the sides.  *However*, it never sticks on the sides for me so I have a trick: Transfer the pizza dough to the 12” deep dish pizza pan. Then, press a non-stick or greased 11” pan into the dough to squish the pizza dough up the sides, between the two pans. Keep the smaller pan in place for the next step.
 4. Cook the dough by itself for 8 minutes.
 5. Remove the dough. The crust should have puffed up a lot!
 6. Add cheese.
@@ -145,12 +156,5 @@ Makes enough for a 11-12” pizza, ~8 servings
 8. Add the sauce.
 9. Sprinkle with grated parmesan cheese on top.
 10. Bake for 25 minutes, or until the crust is golden brown and the filling is set. To prevent the edges from burning, cover with foil after 10 minutes of baking.
-
-
-
-
-
-
-
 
 <<Summary>>
