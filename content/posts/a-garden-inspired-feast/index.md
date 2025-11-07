@@ -42,7 +42,7 @@ Serve with warm tortillas or toast, and if you have them refried beans!
 
 ![Mexican-style eggs on a plate with a toasted bagel](https://4w1qaaek5t.ucarecd.net/e2cfbbd5-1c08-43c2-b6c8-2bc6dcf5ad26/Mexican-eggs.jpg)
 
-## Creamy Scandinavian Cucumber Salad- Contributed by Samantha
+## Creamy Scandinavian Cucumber Salad - Contributed by Samantha
 
 For the last couple of summers, I've had a surplus of cucumbers from my garden. I am not really fond of cucumbers, so I grow them for my husband. But only he can eat so many cucumbers, and I didn't want all of the cucumbers to go to waste, so I looked for a way I would enjoy them, too. 
 
