@@ -109,9 +109,9 @@ I love a good Chicago-style deep dish pizza, but after moving to Connecticut I h
 
 Makes enough for a 11-12” pizza, ~8 servings
 
-### Ingredients:
+**Ingredients:**
 
-#### Dough:
+**Dough:**
 
 * 3 ½  tsp yeast
 * 2 ¼ tsp sugar
@@ -120,7 +120,7 @@ Makes enough for a 11-12” pizza, ~8 servings
 * ¾ cup olive oil
 * 2 ¼ tsp salt
 
-#### Sauce:
+**Sauce:**
 
 * 2 Tbsp olive oil
 * 1 small onion, grated or minced
@@ -128,23 +128,23 @@ Makes enough for a 11-12” pizza, ~8 servings
 * 3 garlic cloves, minced
 * 1 can (28 oz) crushed tomatoes, strain beforehand OR equivalent fresh
 
-#### Toppings:
+**Toppings:**
 
 * 15-16 oz shredded mozzarella cheese
-* 6 oz ground italian sausage
+* 6 oz ground Italian sausage
 * 3 Tablespoons parmesan cheese
 
 ![A deep dish pizza on a cutting board](https://4w1qaaek5t.ucarecd.net/6e5561b5-8931-43c2-8a8e-f19d93b7137d/IMG_20200621_174010.jpg "Sometimes it takes 2 or even 3 spatulas to get the pizza out of the pan!")
 
-### Directions:
+**Directions:**
 
-#### Dough:
+**Dough:**
 
 1. Dissolve yeast and sugar in warm (110℉ to 115℉, use a thermometer) water in a bowl. Let stand for 5 to 10 minutes until the yeast softens and begins to form a creamy foam.
 2. Mix yeast mixture, flour, oil, and salt. Dough should hold together but will be sticky.
 3. Transfer dough to a buttered bowl. Cover bowl with a towel and allow dough to rise at room temperature until double in size, 6 hours.
 
-#### The Rest:
+**The Rest:**
 
 1. Heat the olive oil in a medium saucepan over medium-high heat and add the grated onion, minced garlic, and oregano. Once the onion has slightly browned (2 minutes or so) add the tomato sauce (after straining). Turn the heat down to low-medium and allow to simmer until the sauce has thickened, about 30 minutes. It has to be thick. Remove from heat and set aside until ready to be used.
 2. Preheat oven to 425°F.
@@ -158,3 +158,6 @@ Makes enough for a 11-12” pizza, ~8 servings
 10. Bake for 25 minutes, or until the crust is golden brown and the filling is set. To prevent the edges from burning, cover with foil after 10 minutes of baking.
 
 <<Summary>>
+
+
+{{< affiliate >}}
