@@ -99,6 +99,6 @@ We used the jalapeños and tomatoes in a few meals, black bean taquitos, salads,
 
 This salad is perfect to enjoy in the bold summer heat, a cool fall evening, or as an appetizer for a winter feast. It's delicious.
 
-![spicy pepper plant](https://4w1qaaek5t.ucarecd.net/8add40ee-6660-4939-a1d3-6ea285d3150a/-/crop/4000x2902/0,1684/-/preview/green-pepper-spicy-black-background.jpg)
+![Three jalapeño peppers on the left-hand side with a black background.](https://4w1qaaek5t.ucarecd.net/8add40ee-6660-4939-a1d3-6ea285d3150a/-/crop/4000x2902/0,1684/-/preview/green-pepper-spicy-black-background.jpg)
 
 <<Summary>>
