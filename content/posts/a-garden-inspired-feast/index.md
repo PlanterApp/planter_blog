@@ -105,7 +105,7 @@ This salad is perfect to enjoy in the bold summer heat, a cool fall evening, or 
 
 ![A slice of deep dish pizza on a white plate.](https://4w1qaaek5t.ucarecd.net/3cfe35fa-cd23-4686-9d4f-8696194d9331/PXL_20200928_215954894.jpg)
 
-
+I love a good Chicago-style deep dish pizza, but after moving to Connecticut I haven't found any place around that offers it. So I make my own! The sauce uses a lot of fresh tomatoes, great for when the harvest comes in. I also make extra batches of sauce and freeze them for later. For fresh tomatoes, you can simply put them in a food processor if you don't mind the skins/seeds. If you want to avoid skins and seeds in your sauce, a [saucer attachment](https://amzn.to/49IyD87) for your mixer is a great way to speed up tomato processing.
 
 Makes enough for a 11-12” pizza, ~8 servings
 
