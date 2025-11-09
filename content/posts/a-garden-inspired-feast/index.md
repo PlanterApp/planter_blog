@@ -10,7 +10,7 @@ relative = false
 image = "https://4w1qaaek5t.ucarecd.net/1e69d782-cdfe-433a-808f-b33c63b1b96e/Garden-feast.png"
 alt = "Several different garden veggies on a wooden background with the words 'a garden inspired feast'"
 +++
-As the gardening season hits peak abundance, and soon thereafter starts to wind down, the dilemma facing gardeners turns from "how do I keep my plants healthy?" and "how can I keep all these weeds at bay?" to "how am I going to use up all this produce?!"
+As the gardening season hits peak production, and soon thereafter starts to wind down, the dilemma facing gardeners turns from "how do I keep my plants healthy?" and "how can I keep all these weeds at bay?" to "how am I going to use up all this produce?!"
 
 If you're like us this means you're often looking for inspirational recipes and cooking methods to use up what you've grown. To help with that, we've compiled a few of our favorite recipes from this year that helped us use up what we had in abundance!
 
@@ -161,6 +161,6 @@ Makes enough for a 11-12” pizza, ~8 servings
 
 If you've been scratching your heading trying to figure out what to do with your garden harvests this year, we hope you'll give one of these recipes a try! Tweak them as needed to use up the veggies and herbs you have on hand, and to suit your family's preferences. If you happen to try one of these recipes, or have an awesome garden-inspired recipe of your own to share, let us know on Facebook or Instagram!
 
-Cheers and happy gardening- and cooking! - The Planter Team
+Cheers and happy gardening...and cooking! - The Planter Team
 
 {{< affiliate >}}
