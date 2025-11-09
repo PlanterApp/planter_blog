@@ -159,7 +159,7 @@ Makes enough for a 11-12” pizza, ~8 servings
 9. Sprinkle with grated parmesan cheese on top.
 10. Bake for 25 minutes, or until the crust is golden brown and the filling is set. To prevent the edges from burning, cover with foil after 10 minutes of baking.
 
-If you've been scratching your heading trying to figure out what to do with your garden harvests this year, we hope you'll give one of these recipes a try! Tweak them as needed to use up the veggies and herbs you have on hand, and to suit your family's preferences. If you happen to try one of these recipes, or have an awesome garden-inspired recipe of your own to share, let us know on Facebook or Instagram!
+If you've been scratching your heading trying to figure out what to do with your garden harvests this year, we hope you'll give one of these recipes a try! If you happen to try one of these recipes, or have an awesome garden-inspired recipe of your own to share, we'd love to see it on Facebook or Instagram!
 
 Cheers and happy gardening...and cooking! - The Planter Team
 
