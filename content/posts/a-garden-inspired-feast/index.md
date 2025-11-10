@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "A Garden Inspired Feast!"
 slug = "a-garden-inspired-feast"
-date = "2025-11-03T09:27:00.000Z"
+date = "2025-11-10T02:00:00.000Z"
 author = "The Planter Team"
 
 [cover]
@@ -10,9 +10,9 @@ relative = false
 image = "https://4w1qaaek5t.ucarecd.net/1e69d782-cdfe-433a-808f-b33c63b1b96e/Garden-feast.png"
 alt = "Several different garden veggies on a wooden background with the words 'a garden inspired feast'"
 +++
-As the gardening season hits peak production, and soon thereafter starts to wind down, the dilemma facing gardeners turns from "how do I keep my plants healthy?" and "how can I keep all these weeds at bay?" to "how am I going to use up all this produce?!"
+As the gardening season hits peak production, and soon thereafter starts to wind down, the main dilemma facing gardeners can turn from "how do I keep my plants healthy?" and "how can I keep all these weeds at bay?" to "how am I going to use up all this produce?!"
 
-If you're like us this means you're often looking for inspirational recipes and cooking methods to use up what you've grown. To help with that, we've compiled a few of our favorite recipes from this year that helped us use up what we had in abundance!
+If you're like us this means you're often searching for inspirational recipes and cooking methods to use up what you've grown. To help with that, we've compiled a few of our favorite recipes from this year that helped us use up what we had in abundance!
 
 ## Mexican-Style Eggs - Contributed by Erin
 
@@ -161,7 +161,7 @@ Makes enough for a 11-12” pizza, ~8 servings
 9. Sprinkle with grated parmesan cheese on top.
 10. Bake for 25 minutes, or until the crust is golden brown and the filling is set. To prevent the edges from burning, cover with foil after 10 minutes of baking.
 
-If you've been scratching your heading trying to figure out what to do with your garden harvests this year, we hope you'll give one of these recipes a try! If you happen to try one of these recipes, or have an awesome garden-inspired recipe of your own to share, we'd love to see it on Facebook or Instagram!
+If you've been scratching your head trying to figure out what to do with your harvest, we hope you'll give one of these ideas a try! If you do happen to try one of these recipes, or if you have an awesome garden-inspired recipe of your own to share, we'd love to see it on [Facebook](https://www.facebook.com/PlanterApp/) or [Instagram](https://www.instagram.com/planterapp/)!
 
 Cheers and happy gardening...and cooking! - The Planter Team
 
