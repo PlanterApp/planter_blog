@@ -68,6 +68,8 @@ I have a small collection of Scandinavian cookbooks and came across some cucumbe
 
 Slice the two peeled or unpeeled cucumbers fairly thin and place them in a bowl. Sprinkle about 1 Tsp of salt over the cucumbers and let them sit. After about 15 minutes, strain out the water from the bowl. Add the sour cream to the cucumbers, adding more or less as desired. Add the white vinegar, the lemon juice, the chopped garlic, the dill, and salt and pepper as desired. Gently stir the cucumbers to evenly coat. Let it chill in the refrigerator for 1 hour before serving. 
 
+![Cucumber salad with sour cream ](https://4w1qaaek5t.ucarecd.net/ebc21787-3126-4aaf-9a81-758da451c384/cucumber.jpg)
+
 ## Jalapeño Cottage Garden Salad - Contributed by Sam
 
 This summer was our first time growing jalapeños and tomatoes, and grow they did. We had a steady harvest for a few months before the summer heat rang the bell in late August, and the plants wilted away.
