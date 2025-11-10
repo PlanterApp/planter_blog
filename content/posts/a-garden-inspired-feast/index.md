@@ -16,7 +16,7 @@ If you're like us this means you're often searching for inspirational recipes an
 
 ## Mexican-Style Eggs - Contributed by Erin
 
-Breakfast need not be neglected when it comes to using your garden abundance! We had tons of extra jalapeños and tomatoes this season, and while we love making all kinds of salsas one of our favorite ways to use them is in 'Mexican-style' eggs. We eat these several times a week for breakfast and we never tire of them. Not only are they delicious, it's also rewarding to start the first meal of the day with veggies I grew myself!
+Breakfast need not be neglected when it comes to using your garden abundance! We had tons of extra jalapeños and tomatoes this season, and while we love making all kinds of salsas, one of our favorite ways to use them is in 'Mexican-style' eggs. We eat these several times a week for breakfast and we never tire of them. Not only are they delicious, it's also rewarding to start the first meal of the day with veggies I grew myself!
 
 The amounts listed are what we generally use for two people but you can easily adjust the quantities to suit the number of people you're cooking for and your preferences.
 
@@ -46,7 +46,7 @@ Serve with warm tortillas or toast, and if you have them refried beans!
 
 ## Creamy Scandinavian Cucumber Salad - Contributed by Samantha
 
-For the last couple of summers, I've had a surplus of cucumbers from my garden. I am not really fond of cucumbers, so I grow them for my husband. But only he can eat so many cucumbers, and I didn't want all of the cucumbers to go to waste, so I looked for a way I would enjoy them, too. 
+For the last couple of summers, I've had a surplus of cucumbers from my garden. I am not really fond of cucumbers, so I grow them for my husband. But only he can eat so many cucumbers, and I didn't want all of the cucumbers to go to waste, so I looked for a way I could enjoy them, too. 
 
 I have a small collection of Scandinavian cookbooks and came across some cucumber salads. The traditional way is basically a quick-pickled style blend of cucumbers that's usually eaten with fish. Then I came across some recipes that involved adding sour cream, apparently popular with the American Midwestern Scandinavians. I like anything with sour cream, so I tried it and made that salad all summer. Even now, as summer's gone, I still make it! Cream makes everything delicious in my opinion. This recipe is a blend of several versions I've seen, and you can customize it to your liking. 
 
@@ -146,13 +146,13 @@ Makes enough for a 11-12” pizza, ~8 servings
 
 1. Dissolve yeast and sugar in warm (110℉ to 115℉, use a thermometer) water in a bowl. Let stand for 5 to 10 minutes until the yeast softens and begins to form a creamy foam.
 2. Mix yeast mixture, flour, oil, and salt. Dough should hold together but will be sticky.
-3. Transfer dough to a buttered bowl. Cover bowl with a towel and allow dough to rise at room temperature until double in size, 6 hours.
+3. Transfer dough to a buttered bowl. Cover bowl with a towel and allow dough to rise at room temperature until doubled in size, 6 hours.
 
 **The Rest:**
 
 1. Heat the olive oil in a medium saucepan over medium-high heat and add the grated onion, minced garlic, and oregano. Once the onion has slightly browned (2 minutes or so) add the tomato sauce (after straining). Turn the heat down to low-medium and allow to simmer until the sauce has thickened, about 30 minutes. It has to be thick. Remove from heat and set aside until ready to be used.
 2. Preheat oven to 425°F.
-3. Roll out the dough and place it in a 12” pizza or cake pan, trying to get the dough to stick to the sides.  *However*, it never sticks on the sides for me so I have a trick: Transfer the pizza dough to the 12” deep dish pizza pan. Then, press a non-stick or greased 11” pan into the dough to squish the pizza dough up the sides, between the two pans. Keep the smaller pan in place for the next step.
+3. Roll out the dough and place it in a 12” pizza or cake pan, trying to get the dough to stick to the sides.  *However*, it never sticks to the sides for me so I have a trick: Transfer the pizza dough to the 12” deep dish pizza pan. Then, press a non-stick or greased 11” pan into the dough to squish the pizza dough up the sides, between the two pans. Keep the smaller pan in place for the next step.
 4. Cook the dough by itself for 8 minutes.
 5. Remove the dough. The crust should have puffed up a lot!
 6. Add cheese.
