@@ -7,6 +7,8 @@ author = "Erin Thomson"
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/1bff0961-1dc4-47cd-9601-82d68b5a17b5/Newbie-mistakes.png"
+alt = "A wilted pepper plant with a hand holding a small pepper and the text \"Newbie Gardening Mistakes to Avoid\""
 +++
 ## Not planning your garden
 
