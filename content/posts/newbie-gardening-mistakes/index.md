@@ -14,9 +14,21 @@ Gardening is a journey. It can take years to build up enough knowledge and exper
 
 ## Not planning your garden
 
+Not planning your garden is probably the number one most common mistakes for new gardeners. In the beginning gardeners often think that gardening starts with a fun trip to the garden centre to load up on plants and seeds for the year, and then coming home and trying to figure out where to put them and how to grow them. While this can work to an extent, it can inadvertently lead to many other mistakes listed here such as not selecting seeds and plants for your climate, starting plants too early or too late, not having enough space for your plants, and not having the right plants in the areas of your garden where they will thrive. 
+
+Garden planning can be a fun activity but it does require discipline and time to think through everything in detail. That is why the Planter app is such a game-changer- you can think about and plan your garden from virtually anywhere! It also lets you easily revise your plans and visualize the result of your plans so you don't make a mistake!
+
 ## Selecting seeds and plants that don't suit your climate
 
-## Starting too early or too late
+While most new gardeners realize you can't grow tropical plants outside in the snowy dead of winter, there is a lot more nuance to learn when it comes to selecting climate-adapted plants.
+
+As a starting point, for annual plants you need to know your frost dates and the number of days in your growing season, and for perennials you need to know your hardiness zone. From there you'll also want to read the seed packets and plant tags carefully- while they might survive, some plants produce better in hot climates with long seasons while others prefer things a bit milder. Then there are plants that are adapted to being resistant to pests and diseases that may be common in your area.
+
+While it can take some experience to find the varieties that perform best in your region, a good starting point is to research and talk to other local gardeners to get a sense of which varieties have the best chance of success.
+
+## Starting plants too early or too late
+
+Timing is key when it comes to gardening
 
 ## Not matching plant needs with the growing area
 
