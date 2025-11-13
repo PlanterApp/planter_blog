@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Samm's Garden Journal: Entry 3"
 slug = "samm-gardening-journal-3"
 date = "2025-11-13T08:20:00.000Z"
