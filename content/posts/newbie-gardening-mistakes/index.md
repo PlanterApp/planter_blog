@@ -8,19 +8,21 @@ author = "Erin Thomson"
 [cover]
 relative = false
 image = "https://4w1qaaek5t.ucarecd.net/1bff0961-1dc4-47cd-9601-82d68b5a17b5/Newbie-mistakes.png"
-alt = "A wilted pepper plant with a hand holding a small pepper and the text \"Newbie Gardening Mistakes to Avoid\""
+alt = "A wilted pepper plant with a hand holding a small red pepper and the text \"Newbie Gardening Mistakes to Avoid\""
 +++
-Gardening is a journey. It can take years to build up enough knowledge and experience to be a 'successful' gardener, and in the beginning you don't know what you don't know. Even those that have been gardening for years can make newbie mistakes when they forget (or choose to ignore) gardening fundamentals. There are so many common pitfalls that can befall gardeners, but in this article we're highlighting some of the most common or most impactful oversights that can negatively impact your garden's success and productivity:
+Gardening is a journey. It takes years to build up enough knowledge and experience to get consistently good harvests. In the beginning of the journey, you don't know what you don't know and you might be making mistakes with your garden and not even realize it. Even once we have some gardening experience under our belts, it's still easy to make 'newbie' mistakes when we forget (or choose to ignore) gardening fundamentals. 
+
+So what are some of these common gardening pitfalls, and how can we avoid them?
 
 ## Not planning your garden
 
-Not planning your garden is probably the number one most common mistakes for new gardeners. In the beginning gardeners often think that gardening starts with a fun trip to the garden centre to load up on plants and seeds for the year, and then coming home and trying to figure out where to put them and how to grow them. While this can work to an extent, it can inadvertently lead to many other mistakes listed here such as not selecting seeds and plants for your climate, starting plants too early or too late, not having enough space for your plants, and not having the right plants in the areas of your garden where they will thrive. 
+Not planning your garden is a very common mistake for new gardeners. New gardeners often think that gardening season starts with a fun trip to the garden center to load up on plants and seeds, and then coming home and trying to figure out where to squeeze them in and how to grow them. While this laid-back approach can work, it can also be the root cause almost all of the other mistakes listed here- like starting plants too early or too late, or not having the right plants in the right areas of your garden (just to name a couple).
 
-Garden planning can be a fun activity but it does require discipline and time to think through everything in detail. That is why the Planter app is such a game-changer- you can think about and plan your garden from virtually anywhere! It also lets you easily revise your plans and visualize the result of your plans so you don't make a mistake!
+Many gardeners enjoy the process of garden planning, but it does require some time to think through everything in detail. That is why the [Planter app](https://planter.garden/) is such a game-changer- you can easily plan your garden from virtually anywhere. Whether you're on a bus, on a comfy couch, or even out in your garden! Planter also makes it easy to make changes to your plans and visualize your updated garden layout. With a solid plan your garden will be set up for success going into the growing season!
 
 ## Selecting seeds and plants that don't suit your climate
 
-While most new gardeners realize you can't grow tropical plants outside in the snowy dead of winter, there is a lot more nuance to learn when it comes to selecting climate-adapted plants.
+nuance to learn when it comes to selecting plants that are well-adapted for your climate. 
 
 As a starting point, for annual plants you need to know your frost dates and the number of days in your growing season, and for perennials you need to know your hardiness zone. From there you'll also want to read the seed packets and plant tags carefully- while they might survive, some plants produce better in hot climates with long seasons while others prefer things a bit milder. Then there are plants that are adapted to being resistant to pests and diseases that may be common in your area.
 
