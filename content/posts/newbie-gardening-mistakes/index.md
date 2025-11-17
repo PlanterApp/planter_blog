@@ -50,6 +50,8 @@ Another common mistake is not understanding the different needs of different pla
 
 Proper plant spacing is crucial to having a successful garden, but new gardeners may not be aware of their plants' spacing needs (or may choose to ignore them). 
 
+![Crowded cucurbit plants with diseased leaves](https://4w1qaaek5t.ucarecd.net/d4546bad-9335-419b-b168-f41da9f7669a/Crowded-plants.jpg)
+
 ## Not observing your plants regularly
 
 Growing a garden isn't just about planting, fertilizing, watering, and waiting for a harvest. One of the most important steps to having a successful garden is to regularly observe each of your plants to make sure they are staying healthy. Many gardening problems can be corrected if they're caught early enough, but if you don't take time to observe your plants regularly issues like lack of water, lack of fertility, or pests and diseases can go unnoticed for so long that they're beyond fixing. With tender seedlings, young plants, and container plants sometimes even a matter of a few hours without water or with too much sun can be life-or-death. 
