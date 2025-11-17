@@ -20,6 +20,8 @@ Not planning your garden is a very common mistake for new gardeners. It's easy t
 
 Many gardeners enjoy the process of garden planning, but it does take some time to think through everything in detail. That's why the [Planter app](https://planter.garden/) is such a game-changer- you can easily plan your garden from virtually anywhere. Whether you're on a bus, on a comfy couch, or even out in your garden! Planter also makes it easy to make changes to your garden plans and visualize your garden. With a solid plan your garden will be set up for a successful growing season!
 
+
+
 ## Selecting plants and varieties that don't suit your climate
 
 There's a lot to learn when it comes to selecting plants and varieties that are well-adapted for your climate. 
