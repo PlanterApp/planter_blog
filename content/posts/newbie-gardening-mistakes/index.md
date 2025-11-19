@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Newbie Gardening Mistakes to Avoid"
 slug = "newbie-gardening-mistakes"
 date = "2025-11-17T10:21:00.000Z"
@@ -16,7 +16,7 @@ So what are some common gardening pitfalls, and how can we avoid them?
 
 ## Not planning your garden
 
-Not planning your garden is a very common mistake for new gardeners. It's easy to assume that gardening season starts with a fun trip to the garden center to load up on plants and seeds, then coming home and trying to figure out where to squeeze them in and how to grow them. While this laid-back approach can work, it can also cause almost all the other mistakes listed here- like starting plants too early or too late, or not having the right plants in the right areas of your garden (just to name a couple!)
+Not planning your garden is a very common mistake for new gardeners. It's easy to assume that gardening season starts with a fun trip to the garden center to load up on plants and seeds, then coming home and trying to figure out where to squeeze them in and how to grow them. While this laid-back approach can work, it can also cause almost all the other mistakes in this article- like starting plants too early or too late, or not having the right plants in the right areas of your garden (just to name a couple!)
 
 Many gardeners enjoy the process of garden planning, but it does take some time to think through everything in detail. That's why the [Planter app](https://planter.garden/) is such a game-changer- you can easily plan your garden from virtually anywhere. Whether you're on a bus, on a comfy couch, or even out in your garden! Planter also makes it easy to make changes to your garden plans and visualize your garden. With a solid plan your garden will be set up for a successful growing season!
 
@@ -56,11 +56,11 @@ New gardeners will often 'wing it' when planting out their garden, not realizing
 
 ![Crowded cucurbit plants with diseased leaves](https://4w1qaaek5t.ucarecd.net/d4546bad-9335-419b-b168-f41da9f7669a/Crowded-plants.jpg)
 
-Different plants have different spacing requirements, depending on how big they get and their water and nutrient needs. There are several different plant spacing methods that gardeners use, and with experience you can hone in on the spacing that works best for your garden. Plant spacing noted on seed packets is usually row spacing, a traditional plant spacing method. Another popular spacing method is Square Foot Gardening which aims to maximize the number of plants per square foot of garden space by building healthy soil. The plant spacings in [Planter](<>) follow the square foot gardening method.
+Different plants have different spacing requirements, depending on how big they get and their water and nutrient needs. There are several different plant spacing methods that gardeners use, and with experience you can hone in on the spacing that works best for your garden. Plant spacing noted on seed packets is usually row spacing, a traditional plant spacing method. Another popular spacing method is [Square Foot Gardening](https://squarefootgardening.org/) which aims to maximize the number of plants per square foot of garden space by building healthy soil. The plant spacings in [Planter](https://planter.garden/) follow the Square Foot Gardening method.
 
 ## Not observing your plants regularly
 
-Growing a garden isn't just about planting, fertilizing, watering, and waiting for a harvest. One of the most important steps to having a successful garden is to regularly observe each of your plants to make sure they are staying healthy. Many gardening problems can be corrected if they're caught early enough, but if you don't take time to observe your plants regularly issues like lack of water, lack of fertility, or pests and diseases can go unnoticed for so long that they're beyond fixing. With tender seedlings, young plants, and container plants sometimes even a few hours without water or with too much sun can be life-or-death. 
+Growing a garden isn't just about planting, fertilizing, watering, and waiting for a harvest. One of the most important steps to having a successful garden is to regularly observe each of your plants to make sure they're staying healthy. Many gardening problems can be corrected if they're caught early enough, but if you don't take time to observe your plants regularly issues like lack of water, lack of fertility, or pests and diseases can go unnoticed for so long that they're beyond fixing. With tender seedlings, young plants, and container plants sometimes even a few hours without water or with too much sun can be life-or-death. 
 
 Observing plants regularly is much easier said than done with our busy daily lives. 
 Sometimes having tools like irrigation systems on timers can help, but automation isn't a full replacement for a gardener's presence. The best thing to do is to figure out a gardening routine that works with your schedule, and don't take unnecessary risks with sensitive plants if you might not have time to check on them. 
