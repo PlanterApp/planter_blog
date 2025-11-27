@@ -10,7 +10,7 @@ relative = false
 image = "https://4w1qaaek5t.ucarecd.net/1bff0961-1dc4-47cd-9601-82d68b5a17b5/Newbie-mistakes.png"
 alt = "A wilted pepper plant with a hand holding a small red pepper and the text \"Newbie Gardening Mistakes to Avoid\""
 +++
-Gardening is a journey. It takes years to build up enough knowledge and experience to get consistently good harvests. In the beginning of the journey, you don't know what you don't know and you might make mistakes with your garden and not even realize it. Even with some gardening experience under our belts, it's easy to still make 'newbie' mistakes when we forget (or ignore) gardening fundamentals. 
+Gardening is a journey. It takes years to build up enough knowledge and experience to get consistently good harvests. In the beginning of our journey we might make mistakes with our garden and not even realize it. Even with some gardening experience under our belts, it's easy to still make 'newbie' mistakes when we forget (or ignore) gardening fundamentals. 
 
 So what are some common gardening pitfalls, and how can we avoid them?
 
