@@ -70,7 +70,7 @@ Slice the two peeled or unpeeled cucumbers fairly thin and place them in a bowl.
 
 ![Cucumber salad with sour cream ](https://4w1qaaek5t.ucarecd.net/ebc21787-3126-4aaf-9a81-758da451c384/cucumber.jpg)
 
-## Jalapeño Cottage Garden Salad - Contributed by Sam
+## Jalapeño Cottage Garden Salad - Contributed by Samm
 
 This summer was our first time growing jalapeños and tomatoes, and grow they did. We had a steady harvest for a few months before the summer heat rang the bell in late August, and the plants wilted away.
 
