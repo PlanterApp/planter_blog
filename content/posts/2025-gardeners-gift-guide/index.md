@@ -52,4 +52,4 @@ alt = "Christmas gifts with red and brown wrapping paper and green bows with fad
 
 # Planter
 
-<<affiliate/>>
+{{< affiliate >}}
