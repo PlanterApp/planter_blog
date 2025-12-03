@@ -9,4 +9,29 @@ series = ["Gift Guides"]
 [cover]
 relative = false
 +++
-Lorem ipsum
+# Erin:
+
+## Gardener Scott's Guide to Raised Bed Gardening
+
+<https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366/>
+
+## Waterproof Pruning/Wash Gloves
+
+[Protective Pruning Gloves - Lee Valley Tools](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves)
+
+## Chestnut Potting Tools
+
+[Set of 2 Potting Tools - Lee Valley Tools](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools)[](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools)
+
+## Soil Blockers
+
+[20-Cell Handheld Soil Blocker | Johnny's Selected Seeds](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/20-cell-handheld-soil-blocker-9528.html)
+
+[Soil Cube Mold - Lee Valley Tools](https://www.leevalley.com/en-us/shop/garden/planting/propagation/seed-starting/69004-soil-cube-mold)
+
+[4-Cell Handheld Soil Blocker | Johnny's Selected Seeds](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html)
+
+## The Living Soil Handbook
+
+<https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266>
+
