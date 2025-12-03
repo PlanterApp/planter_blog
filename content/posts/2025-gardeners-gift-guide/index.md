@@ -50,6 +50,6 @@ alt = "Christmas gifts with red and brown wrapping paper and green bows with fad
 
 # Greenstalk
 
-# Planter
+# Planter (app + merch)
 
 {{< affiliate >}}
