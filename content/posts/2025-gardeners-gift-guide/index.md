@@ -8,6 +8,8 @@ series = ["Gift Guides"]
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/9bea073b-6653-4f59-a01a-21f0b958e068/Christmas-gifts.jpg"
+alt = "Christmas gifts with red and brown wrapping paper and green bows with faded twinkle lights in the background"
 +++
 # Erin:
 
@@ -39,7 +41,15 @@ relative = false
 
 <https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J>
 
-[](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)[](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)
+## Muck Boots
+
+<https://www.amazon.com/Muckster-Mid-Height-Womens-Rubber-Garden/dp/B01N9RYOZR/>
+
+[Amazon.com: The Original Muck Boot Company](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto)
+[](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)
 
 # Greenstalk
+
 # Planter
+
+<<affiliate/>>
