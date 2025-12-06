@@ -49,12 +49,10 @@ If your recipient lives in a colder climate and is expecting a white Christmas t
 
 ## Muck Boots
 
+![Green MUCK Women's Muckster II Mid Boot](https://m.media-amazon.com/images/I/71UzPjoSzZL._AC_SY575_.jpg "Image source: Amazon")
+
 Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions and [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn even when it's warm out, but they're tough and waterproof to handle the muck (or a wayward spray from the garden hose!) As a thoughtful design detail, the boot soles are self-cleaning so you won't be walking around the garden on mud-clump-moon-boots.[](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto)
-[](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)
-
-## Wellipets Frog Boots
-
-<https://wellipets.com/shop/women/frog-wellingtons-green-green-prod7f460119-28d0-4e4b-bc82-b2523bb50321>
+[](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)[](https://wellipets.com/shop/women/frog-wellingtons-green-green-prod7f460119-28d0-4e4b-bc82-b2523bb50321)
 
 ## Wildflower Seeds
 
