@@ -15,11 +15,15 @@ We're dreaming of a green Christmas...or at least we're dreaming of our gardens 
 
 ... 
 
+# Gardening Books
+
 ## Gardener Scott's Guide to Raised Bed Gardening
 
 ![Screenshot of the book cover for 'Gardener Scott's Guide to Raised Bed Gardening'](https://m.media-amazon.com/images/I/81+9o-Ax4cL._SY385_.jpg "Image source: Amazon")
 
-Gardener Scott is one of the best-known gardening experts on YouTube, and in his first book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information on the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice  that's relevant to all gardening styles.[](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366)
+Gardener Scott is one of the best-known gardening experts on YouTube, and in his first book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information on the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice  that's relevant to all gardening styles.
+
+# Seed Starting and Indoor Growing[](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366)
 
 ## Waterproof Pruning/Wash Gloves
 
@@ -45,7 +49,7 @@ If the gardener on your list hasn't given it a go yet why not introduce them to 
 
 ![Screenshot of the book cover for 'The Living Soil Handbook'](https://m.media-amazon.com/images/I/514eB7WTrvL._SY445_SX342_FMwebp_.jpg "Image source: Amazon")
 
-Jesse Frost is a small-scale farmer and runs the No-Till gardening channel and Grower's Daily on YouTube. Even if you're not gardening on the scale of a market gardener, his book [The Living Soil Handbook](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266) is still a must-read for any gardener interested in building healthy garden soil. [](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266)
+Jesse Frost is a small-scale farmer and runs the No-Till gardening channel and Grower's Daily on YouTube. Even if you're not gardening on the scale of a market gardener, his book [The Living Soil Handbook](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266) is still a must-read for any gardener interested in building healthy garden soil.
 
 ## Microgreens Grow Kit
 
@@ -57,8 +61,9 @@ If your recipient lives in a colder climate and is expecting a white Christmas t
 
 ![Green MUCK Women's Muckster II Mid Boot](https://m.media-amazon.com/images/I/71UzPjoSzZL._AC_SY575_.jpg "Image source: Amazon")
 
-Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions and [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn even when it's warm out, but they're tough and waterproof to handle the muck (or a wayward spray from the garden hose!) As a thoughtful design detail, the boot soles are self-cleaning so you won't be walking around the garden on mud-clump-moon-boots.[](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto)
-[](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)[](https://wellipets.com/shop/women/frog-wellingtons-green-green-prod7f460119-28d0-4e4b-bc82-b2523bb50321)
+Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions and [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn even when it's warm out, but they're tough and waterproof to handle the muck (or a wayward spray from the garden hose!) As a thoughtful design detail, the boot soles are self-cleaning so you won't be walking around the garden on mud-clump-moon-boots.\[]
+
+# For the Garden Ecosystem
 
 ## Wildflower Seeds and Riparian Buffer Seeds
 
@@ -83,7 +88,7 @@ Being a gardener sometimes means getting out in the garden even on days with les
 [](https://www.bigbatbox.com/products/single-chamber-bat-house)
 [bat houses - Eco-Friendly Solutions for Mosquito Management – Big Bat Box](https://www.bigbatbox.com/collections/bat-houses)
 
-
+# Garden Tools and Gear
 
 ## Grampa's Weeder
 
@@ -103,12 +108,10 @@ Being a gardener sometimes means getting out in the garden even on days with les
 
 You might have seen the [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) showcased on your favorite gardening YouTube channels…And for good reason! The GreenStalk is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The GreenStalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it’s built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
 
-## Planter App and Merch!
+# Planter App and Merch!
 
 ![Planter Cats n' Plants t-shirt in green](https://imgproxy.fourthwall.com/bDqFl3yJpN81ku0KgWbsOuR4f4T9zocNjEX1pXVCAOE/w:1920/sm:1/enc/v7CX4HIs4gwNcETB/K6TEvkmsF_nu_cC2/C0jVkJbKk4nN0Mvh/-wczxJvzqRTCUuOF/MfTZ-zqFMOOnAp-L/BCQzy12sqqV1MOgj/WYwDBX21K3EUTND0/dbox4Y4SHTAmtLLZ/jzzlgXOdVbA1iwaq/lFdTc2HvC0foXGNe/fFlIItnPvnp8L8OK/IK9YRhX8VSG4ILF_/YDUeSXII1EyNzDcc/bE6ImuHodyWv7wgq/uZdoArLtERI)
 
 Share the gift of the [Planter gardening app](https://planter.garden/) with your family and friends this holiday season! Gift them a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/) so they can easily plan and manage their garden anytime, anywhere! We don’t have our own Planter branded gift cards (yet!) but you can gift them a Google Play or Apple App store gift card and point them to the Planter app. If your giftee already enjoys the perks of a Planter Premium subscription, why not gift them some [snazzy Planter merch](https://www.amazon.com/s?dc=&ds=v1%3Azc4C9dQRpLNMa5iIF70O%2FAN05ehVxvczxcQOyQX%2B%2Bnw&i=fashion&language=en_US&linkCode=ll2&linkId=5575d067d49bebbce1f339be1b2bc01d&qid=1732750635&ref=glow_cls&refresh=1&rh=n%3A7141123011%2Cp_4%3APlanter%2Cp_6%3AATVPDKIKX0DER&rnid=2661622011&tag=planter-app-20) instead?
-
-
 
 {{< affiliate >}}
