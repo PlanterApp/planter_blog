@@ -73,7 +73,7 @@ If your recipient lives in a colder climate and is expecting a white Christmas t
 
 [bat houses - Eco-Friendly Solutions for Mosquito Management – Big Bat Box](https://www.bigbatbox.com/collections/bat-houses)
 
-# Garden Tools and Gear
+# Gardening Tools and Gear
 
 ## Grampa's Weeder
 
