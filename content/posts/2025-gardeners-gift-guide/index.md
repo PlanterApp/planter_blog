@@ -43,6 +43,8 @@ Jesse Frost is a small-scale farmer and runs the No-Till gardening channel and G
 
 ## Microgreens Grow Kit
 
+![Back to the Roots microgreens grow kit](https://m.media-amazon.com/images/I/91s8zj3B-sL._AC_SX679_.jpg "Image source: Amazon")
+
 If your recipient lives in a colder climate and is expecting a white Christmas this year, why not give them the gift of growing nutritious, delicious indoors? Growing microgreens can be a bit of a learning curve but these [Back to the Roots microgreens kits](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J) make it easy to get started. The kit includes a mix of different organic seeds, compostable starting trays and growing medium, as well as access to "Green Thumb Technical Support" for detailed microgreen growing instructions!
 
 ## Muck Boots
