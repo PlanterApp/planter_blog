@@ -37,7 +37,9 @@ If the gardener on your list hasn't given it a go yet why not introduce them to 
 
 ## The Living Soil Handbook
 
-Jesse Frost is a small-scale farmer and runs the No-Till gardening channel and Grower's Daily on YouTube. Even if you're not gardening on a farm-like scale, his book [The Living Soil Handbook](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266) is a must-read for any gardener interested in building healthy garden soil[](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266)
+![Screenshot of the book cover for 'The Living Soil Handbook'](https://m.media-amazon.com/images/I/514eB7WTrvL._SY445_SX342_FMwebp_.jpg "Image source: Amazon")
+
+Jesse Frost is a small-scale farmer and runs the No-Till gardening channel and Grower's Daily on YouTube. Even if you're not gardening on the scale of a market gardener, his book [The Living Soil Handbook](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266) is still a must-read for any gardener interested in building healthy garden soil. [](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266)
 
 ## Microgreens Grow Kit
 
