@@ -19,6 +19,8 @@ We're dreaming of a green Christmas...or at least we're dreaming of our gardens 
 
 ## Gardener Scott's Guide to Raised Bed Gardening
 
+
+
 Gardener Scott is one of the best-known gardening experts on YouTube, and in his first book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information on the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice  that's relevant to all gardening styles.[](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366)
 
 ## Waterproof Pruning/Wash Gloves
@@ -27,13 +29,13 @@ These might not be the cutest gardening gloves around but these [waterproof prun
 
 ## Chestnut Potting Tools
 
-These [little potting tools](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools) might not look like much, but they are the absolute handy-dandiest tools for seed starting and potting up plants! The pointed tool is perfect for dibbling seeding holes, picking up seeds (with a bit of moisture) and for pricking out tiny seedlings. The flat-ended tool is perfect for arranging and flattening soil in trays or pots. If you're looking for a stocking stuffer for the gardener on your list these tools are a must-have![](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools)[](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools)
+These [little potting tools](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools) might not look like much, but they are the absolute handy-dandiest tools for seed starting and potting up plants! The pointed tool is perfect for dibbling seeding holes, picking up seeds (with a bit of moisture) and for pricking out tiny seedlings. The flat-ended tool is perfect for arranging and flattening soil in trays or pots. If you're looking for a stocking stuffer for the gardener on your list these tools are a must-have[](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools)
 
 ## Soil Blockers
 
 If the gardener on your list hasn't given it a go yet why not introduce them to the benefits of soil blocking for starting seeds? Soil blocking is space-efficient, reduces plastic, and helps grow healthy seedlings. To get started the [20-cell handheld soil blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/20-cell-handheld-soil-blocker-9528.html)* is great for smaller seeds. For potting up the smaller blocks or for starting larger seeds the [4-cell handheld blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html) (or better yet pick up both!)
 
-\*At the time of writing, the 20-cell handheld soil blocker at Johnny's seeds is less expensive but backordered. Lee Valley has a [similar blocker](https://www.leevalley.com/en-us/shop/garden/planting/propagation/seed-starting/69004-soil-cube-mold) that is slightly more expensive but currently in-stock.[](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html)
+*\*At the time of writing, the 20-cell handheld soil blocker at Johnny's seeds is less expensive but backordered. Lee Valley has a [similar blocker](https://www.leevalley.com/en-us/shop/garden/planting/propagation/seed-starting/69004-soil-cube-mold) that is slightly more expensive but seems to be in stock.*[](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html)
 
 ## The Living Soil Handbook
 
@@ -85,9 +87,5 @@ Being a gardener sometimes means getting out in the garden even on days with les
 # Greenstalk
 
 # Planter (app + merch)
-
-
-
-
 
 {{< affiliate >}}
