@@ -13,8 +13,6 @@ alt = "Christmas gifts with red and brown wrapping paper and green bows with fad
 +++
 We're dreaming of a green Christmas...or at least we're dreaming of our gardens filled with lush green plants! And while we're at it we're rounding up our top gardening gift picks for 2025. 
 
-... 
-
 # Great Gardening Reads
 
 ## Gardener Scott's Guide to Raised Bed Gardening
@@ -27,7 +25,7 @@ Gardener Scott is one of the best-known gardening experts on YouTube, and in his
 
 ![Screenshot of the book cover for 'Good Bugs For Your Garden'](https://i.thriftbooks.com/api/imagehandler/m/14440E87B123FC2C9D127ED4C0A7BFD5638BA6AD.jpeg "Image source: Thrift books")
 
-<https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149>[](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366)
+<https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149>
 
 ## The Living Soil Handbook
 
@@ -67,13 +65,12 @@ If your recipient lives in a colder climate and is expecting a white Christmas t
 
 ![Lush green grasses beside a wooded area](https://roundstoneseed.com/1334-large_default_btt/mix-168-southern-riparian-buffer-mix.jpg "Image source: Roundstone Native Seed")
 
-<https://roundstoneseed.com/landscape-and-design-mixes/1562-mix-168-southern-riparian-buffer-mix.html>[](https://a.co/d/9HtURuX)
+<https://roundstoneseed.com/landscape-and-design-mixes/1562-mix-168-southern-riparian-buffer-mix.html>
 
 ## Bat House
 
 ![Cedar single chamber bat box](https://www.bigbatbox.com/cdn/shop/products/54.png?v=1760581949&width=590 "Image source: Big Bat Box")
 
-[](https://www.bigbatbox.com/products/single-chamber-bat-house)
 [bat houses - Eco-Friendly Solutions for Mosquito Management – Big Bat Box](https://www.bigbatbox.com/collections/bat-houses)
 
 # Garden Tools and Gear
@@ -83,7 +80,6 @@ If your recipient lives in a colder climate and is expecting a white Christmas t
 ![Grampa's Weeder in action with a weed in it and a foot beside it](https://cdn11.bigcommerce.com/s-3c8l9ljcjn/images/stencil/1280x1280/products/22637/22819/65p0101_grampasweeder_main__21992__49573.1735233113.jpg?c=1 "Image source: Garrett Wade")
 
 <https://garrettwade.com/product/grampas-weeders>
-
 
 ## Muck Boots
 
