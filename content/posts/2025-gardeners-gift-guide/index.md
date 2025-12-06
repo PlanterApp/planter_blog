@@ -60,11 +60,11 @@ If your recipient lives in a colder climate and is expecting a white Christmas t
 Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions and [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn even when it's warm out, but they're tough and waterproof to handle the muck (or a wayward spray from the garden hose!) As a thoughtful design detail, the boot soles are self-cleaning so you won't be walking around the garden on mud-clump-moon-boots.[](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto)
 [](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)[](https://wellipets.com/shop/women/frog-wellingtons-green-green-prod7f460119-28d0-4e4b-bc82-b2523bb50321)
 
-## Wildflower Seeds
+## Wildflower Seeds and Riparian Buffer Seeds
+
+![Illustration of the colorful wildflowers in the wildflower seed mix](https://images.squarespace-cdn.com/content/v1/6070d6f3946b4147e4a18583/1736379380974-SDFUJ02FLHFOC9L4T16W/Southeast_mix_17.jpg?format=1000w "Image source: SFinBloom")
 
 <https://www.sfinbloom.art/shop/p/southeast-native-wildflower-seed-mix>
-
-## Riparian Buffer Seeds
 
 ![Lush green grasses beside a wooded area](https://roundstoneseed.com/1334-large_default_btt/mix-168-southern-riparian-buffer-mix.jpg "Image source: Roundstone Native Seed")
 
