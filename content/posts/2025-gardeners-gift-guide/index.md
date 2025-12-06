@@ -15,7 +15,7 @@ We're dreaming of a green Christmas...or at least we're dreaming of our gardens 
 
 ... 
 
-# Gardening Books
+# Great Gardening Reads
 
 ## Gardener Scott's Guide to Raised Bed Gardening
 
@@ -23,27 +23,11 @@ We're dreaming of a green Christmas...or at least we're dreaming of our gardens 
 
 Gardener Scott is one of the best-known gardening experts on YouTube, and in his first book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information on the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice  that's relevant to all gardening styles.
 
-# Seed Starting and Indoor Growing[](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366)
+## Good Bugs for Your Garden
 
-## Waterproof Pruning/Wash Gloves
+![Screenshot of the book cover for 'Good Bugs For Your Garden'](https://i.thriftbooks.com/api/imagehandler/m/14440E87B123FC2C9D127ED4C0A7BFD5638BA6AD.jpeg "Image source: Thrift books")
 
-![A woman pruning roses using the Lee Valley waterproof pruning and wash gloves](https://www.leevalley.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt050573defaf102e3%2Fbltb2afc894f86af1a3%2F669c054ae810f359f7d52fc0%2Fhttps_assets.leevalley.com_Size5_10122_AH140-medium-pruning-gloves-u-0054.jpg%3Fbranch%3Dproduction&w=3840&q=75 "Image source: Lee Valley")
-
-These might not be the cutest gardening gloves around but these [waterproof pruning and wash gloves](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves) are rugged, tough, and get the job done! They're  100% waterproof so they're great for washing down carrots, lettuce, and your other garden harvests. Not only that they're prefect for working with pokey and irritating plants like zucchini and parsnips, so you can save yourself from battle wounds on your hands, wrists, and arms.[](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves)
-
-## Chestnut Potting Tools
-
-![Chestnut set of 2 potting tools on a wooden background](https://www.leevalley.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt050573defaf102e3%2Fblt0bf2d2c24676b2a5%2F669c269f3af6f7ca8e8301e8%2Fhttps_assets.leevalley.com_Size5_10126_DB140-d-0027.jpg%3Fbranch%3Dproduction&w=1080&q=75 "Image source: Lee Valley")
-
-These [little potting tools](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools) might not look like much, but they are the absolute handy-dandiest tools for seed starting and potting up plants! The pointed tool is perfect for dibbling seeding holes, picking up seeds (with a bit of moisture) and for pricking out tiny seedlings. The flat-ended tool is perfect for arranging and flattening soil in trays or pots. If you're looking for a stocking stuffer for the gardener on your list these tools are a must-have[](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools)
-
-## Soil Blockers
-
-![20-cell handheld soil blocker](https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwd81f175d/images/products/tools/09528_01_20blockmkr.jpg?sw=800&sh=800 "Image source: Johnny's Selected Seeds")
-
-If the gardener on your list hasn't given it a go yet why not introduce them to the benefits of soil blocking for starting seeds? Soil blocking is space-efficient, reduces plastic, and helps grow healthy seedlings. To get started the [20-cell handheld soil blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/20-cell-handheld-soil-blocker-9528.html)* is great for smaller seeds. For potting up the smaller blocks or for starting larger seeds the [4-cell handheld blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html) (or better yet pick up both!)
-
-*\*At the time of writing, the 20-cell handheld soil blocker at Johnny's seeds is less expensive but backordered. Lee Valley has a [similar blocker](https://www.leevalley.com/en-us/shop/garden/planting/propagation/seed-starting/69004-soil-cube-mold) that is slightly more expensive but appears to be in stock.*[](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html)
+<https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149>[](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366)
 
 ## The Living Soil Handbook
 
@@ -51,17 +35,27 @@ If the gardener on your list hasn't given it a go yet why not introduce them to 
 
 Jesse Frost is a small-scale farmer and runs the No-Till gardening channel and Grower's Daily on YouTube. Even if you're not gardening on the scale of a market gardener, his book [The Living Soil Handbook](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266) is still a must-read for any gardener interested in building healthy garden soil.
 
+# Seed Starting and Indoor Growing
+
+## Chestnut Potting Tools
+
+![Chestnut set of 2 potting tools on a wooden background](https://www.leevalley.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt050573defaf102e3%2Fblt0bf2d2c24676b2a5%2F669c269f3af6f7ca8e8301e8%2Fhttps_assets.leevalley.com_Size5_10126_DB140-d-0027.jpg%3Fbranch%3Dproduction&w=1080&q=75 "Image source: Lee Valley")
+
+These [little potting tools](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools) might not look like much, but they are the absolute handy-dandiest tools for seed starting and potting up plants! The pointed tool is perfect for dibbling seeding holes, picking up seeds (with a bit of moisture) and for pricking out tiny seedlings. The flat-ended tool is perfect for arranging and flattening soil in trays or pots. If you're looking for a stocking stuffer for the gardener on your list these tools are a must-have
+
+## Soil Blockers
+
+![20-cell handheld soil blocker](https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwd81f175d/images/products/tools/09528_01_20blockmkr.jpg?sw=800&sh=800 "Image source: Johnny's Selected Seeds")
+
+If the gardener on your list hasn't given it a go yet why not introduce them to the benefits of soil blocking for starting seeds? Soil blocking is space-efficient, reduces plastic, and helps grow healthy seedlings. To get started the [20-cell handheld soil blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/20-cell-handheld-soil-blocker-9528.html)* is great for smaller seeds. For potting up the smaller blocks or for starting larger seeds the [4-cell handheld blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html) (or better yet pick up both!)
+
+*\*At the time of writing, the 20-cell handheld soil blocker at Johnny's seeds is less expensive but backordered. Lee Valley has a [similar blocker](https://www.leevalley.com/en-us/shop/garden/planting/propagation/seed-starting/69004-soil-cube-mold) that is slightly more expensive but appears to be in stock.*
+
 ## Microgreens Grow Kit
 
 ![Back to the Roots microgreens grow kit](https://m.media-amazon.com/images/I/91s8zj3B-sL._AC_SX679_.jpg "Image source: Amazon")
 
 If your recipient lives in a colder climate and is expecting a white Christmas this year, why not give them the gift of growing nutritious, delicious indoors? Growing microgreens can be a bit of a learning curve but these [Back to the Roots microgreens kits](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J) make it easy to get started. The kit includes a mix of different organic seeds, compostable starting trays and growing medium, as well as access to "Green Thumb Technical Support" for detailed microgreen growing instructions!
-
-## Muck Boots
-
-![Green MUCK Women's Muckster II Mid Boot](https://m.media-amazon.com/images/I/71UzPjoSzZL._AC_SY575_.jpg "Image source: Amazon")
-
-Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions and [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn even when it's warm out, but they're tough and waterproof to handle the muck (or a wayward spray from the garden hose!) As a thoughtful design detail, the boot soles are self-cleaning so you won't be walking around the garden on mud-clump-moon-boots.\[]
 
 # For the Garden Ecosystem
 
@@ -74,12 +68,6 @@ Being a gardener sometimes means getting out in the garden even on days with les
 ![Lush green grasses beside a wooded area](https://roundstoneseed.com/1334-large_default_btt/mix-168-southern-riparian-buffer-mix.jpg "Image source: Roundstone Native Seed")
 
 <https://roundstoneseed.com/landscape-and-design-mixes/1562-mix-168-southern-riparian-buffer-mix.html>[](https://a.co/d/9HtURuX)
-
-## Good Bugs for Your Garden
-
-![Screenshot of the book cover for 'Good Bugs For Your Garden'](https://i.thriftbooks.com/api/imagehandler/m/14440E87B123FC2C9D127ED4C0A7BFD5638BA6AD.jpeg "Image source: Thrift books")
-
-<https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149>
 
 ## Bat House
 
@@ -95,6 +83,19 @@ Being a gardener sometimes means getting out in the garden even on days with les
 ![Grampa's Weeder in action with a weed in it and a foot beside it](https://cdn11.bigcommerce.com/s-3c8l9ljcjn/images/stencil/1280x1280/products/22637/22819/65p0101_grampasweeder_main__21992__49573.1735233113.jpg?c=1 "Image source: Garrett Wade")
 
 <https://garrettwade.com/product/grampas-weeders>
+
+
+## Muck Boots
+
+![Green MUCK Women's Muckster II Mid Boot](https://m.media-amazon.com/images/I/71UzPjoSzZL._AC_SY575_.jpg "Image source: Amazon")
+
+Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions and [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn even when it's warm out, but they're tough and waterproof to handle the muck (or a wayward spray from the garden hose!) As a thoughtful design detail, the boot soles are self-cleaning so you won't be walking around the garden on mud-clump-moon-boots.
+
+## Waterproof Pruning/Wash Gloves
+
+![A woman pruning roses using the Lee Valley waterproof pruning and wash gloves](https://www.leevalley.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt050573defaf102e3%2Fbltb2afc894f86af1a3%2F669c054ae810f359f7d52fc0%2Fhttps_assets.leevalley.com_Size5_10122_AH140-medium-pruning-gloves-u-0054.jpg%3Fbranch%3Dproduction&w=3840&q=75 "Image source: Lee Valley")
+
+These might not be the cutest gardening gloves around but these [waterproof pruning and wash gloves](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves) are rugged, tough, and get the job done! They're  100% waterproof so they're great for washing down carrots, lettuce, and your other garden harvests. Not only that they're prefect for working with pokey and irritating plants like zucchini and parsnips, so you can save yourself from battle wounds on your hands, wrists, and arms.
 
 ## Rolling Work Seat
 
