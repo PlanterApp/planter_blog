@@ -68,35 +68,47 @@ Being a gardener sometimes means getting out in the garden even on days with les
 
 ![Lush green grasses beside a wooded area](https://roundstoneseed.com/1334-large_default_btt/mix-168-southern-riparian-buffer-mix.jpg "Image source: Roundstone Native Seed")
 
-<https://roundstoneseed.com/landscape-and-design-mixes/1562-mix-168-southern-riparian-buffer-mix.html>
-
-## Creative Deer Scare
-
-<https://a.co/d/9HtURuX>
+<https://roundstoneseed.com/landscape-and-design-mixes/1562-mix-168-southern-riparian-buffer-mix.html>[](https://a.co/d/9HtURuX)
 
 ## Good Bugs for Your Garden
+
+![Screenshot of the book cover for 'Good Bugs For Your Garden'](https://i.thriftbooks.com/api/imagehandler/m/14440E87B123FC2C9D127ED4C0A7BFD5638BA6AD.jpeg "Image source: Thrift books")
 
 <https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149>
 
 ## Bat House
 
-<https://www.bigbatbox.com/products/single-chamber-bat-house>
+![Cedar single chamber bat box](https://www.bigbatbox.com/cdn/shop/products/54.png?v=1760581949&width=590 "Image source: Big Bat Box")
+
+[](https://www.bigbatbox.com/products/single-chamber-bat-house)
+[bat houses - Eco-Friendly Solutions for Mosquito Management – Big Bat Box](https://www.bigbatbox.com/collections/bat-houses)
+
+
 
 ## Grampa's Weeder
+
+![Grampa's Weeder in action with a weed in it and a foot beside it](https://cdn11.bigcommerce.com/s-3c8l9ljcjn/images/stencil/1280x1280/products/22637/22819/65p0101_grampasweeder_main__21992__49573.1735233113.jpg?c=1 "Image source: Garrett Wade")
 
 <https://garrettwade.com/product/grampas-weeders>
 
 ## Rolling Work Seat
 
+![Rolling work seat with tool tray](https://www.harborfreight.com/media/catalog/product/cache/c7f358f04aec81e7c5e0be4c56edf041/9/1/91495_W3.jpg?auto=webp&width=1200&height=1200&canvas=1200,1200&fit=bounds "Image source: Harbour Freight")
+
 <https://www.harborfreight.com/rolling-work-seat-with-tool-tray-91495.html>
 
-## Greenstalk
+## GreenStalk Vertical Planter
+
+![A white Greenstalk vertical planter filled with plants sitting on a dock with a pond behind](https://greenstalkgarden.com/cdn/shop/files/greenstalk-13_dc7a654d-62cd-49b4-9830-e7e49202445c_5000x.jpg?v=1763562344 "Image source: GreenStalk")
 
 You might have seen the [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) showcased on your favorite gardening YouTube channels…And for good reason! The GreenStalk is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The GreenStalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it’s built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
 
-## Planter (app + merch)
+## Planter App and Merch!
+
+![Planter Cats n' Plants t-shirt in green](https://imgproxy.fourthwall.com/bDqFl3yJpN81ku0KgWbsOuR4f4T9zocNjEX1pXVCAOE/w:1920/sm:1/enc/v7CX4HIs4gwNcETB/K6TEvkmsF_nu_cC2/C0jVkJbKk4nN0Mvh/-wczxJvzqRTCUuOF/MfTZ-zqFMOOnAp-L/BCQzy12sqqV1MOgj/WYwDBX21K3EUTND0/dbox4Y4SHTAmtLLZ/jzzlgXOdVbA1iwaq/lFdTc2HvC0foXGNe/fFlIItnPvnp8L8OK/IK9YRhX8VSG4ILF_/YDUeSXII1EyNzDcc/bE6ImuHodyWv7wgq/uZdoArLtERI)
 
 Share the gift of the [Planter gardening app](https://planter.garden/) with your family and friends this holiday season! Gift them a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/) so they can easily plan and manage their garden anytime, anywhere! We don’t have our own Planter branded gift cards (yet!) but you can gift them a Google Play or Apple App store gift card and point them to the Planter app. If your giftee already enjoys the perks of a Planter Premium subscription, why not gift them some [snazzy Planter merch](https://www.amazon.com/s?dc=&ds=v1%3Azc4C9dQRpLNMa5iIF70O%2FAN05ehVxvczxcQOyQX%2B%2Bnw&i=fashion&language=en_US&linkCode=ll2&linkId=5575d067d49bebbce1f339be1b2bc01d&qid=1732750635&ref=glow_cls&refresh=1&rh=n%3A7141123011%2Cp_4%3APlanter%2Cp_6%3AATVPDKIKX0DER&rnid=2661622011&tag=planter-app-20) instead?
+
 
 
 {{< affiliate >}}
