@@ -82,8 +82,13 @@ Being a gardener sometimes means getting out in the garden even on days with les
 
 <https://www.harborfreight.com/rolling-work-seat-with-tool-tray-91495.html>
 
-# Greenstalk
+## Greenstalk
 
-# Planter (app + merch)
+You might have seen the [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) showcased on your favorite gardening YouTube channels…And for good reason! The GreenStalk is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The GreenStalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it’s built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
+
+## Planter (app + merch)
+
+Share the gift of the [Planter gardening app](https://planter.garden/) with your family and friends this holiday season! Gift them a [Planter Premium subscription](https://info.planter.garden/account/premium-subscription/) so they can easily plan and manage their garden anytime, anywhere! We don’t have our own Planter branded gift cards (yet!) but you can gift them a Google Play or Apple App store gift card and point them to the Planter app. If your giftee already enjoys the perks of a Planter Premium subscription, why not gift them some [snazzy Planter merch](https://www.amazon.com/s?dc=&ds=v1%3Azc4C9dQRpLNMa5iIF70O%2FAN05ehVxvczxcQOyQX%2B%2Bnw&i=fashion&language=en_US&linkCode=ll2&linkId=5575d067d49bebbce1f339be1b2bc01d&qid=1732750635&ref=glow_cls&refresh=1&rh=n%3A7141123011%2Cp_4%3APlanter%2Cp_6%3AATVPDKIKX0DER&rnid=2661622011&tag=planter-app-20) instead?
+
 
 {{< affiliate >}}
