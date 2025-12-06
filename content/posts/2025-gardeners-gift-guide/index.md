@@ -17,6 +17,8 @@ We're dreaming of a green Christmas...or at least we're dreaming of our gardens 
 
 ## Gardener Scott's Guide to Raised Bed Gardening
 
+![Screenshot of the book cover for 'Gardener Scott's Guide to Raised Bed Gardening'](https://m.media-amazon.com/images/I/81+9o-Ax4cL._SY385_.jpg "Image source: Amazon")
+
 Gardener Scott is one of the best-known gardening experts on YouTube, and in his first book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information on the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice  that's relevant to all gardening styles.[](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366)
 
 ## Waterproof Pruning/Wash Gloves
