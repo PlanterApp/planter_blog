@@ -63,8 +63,6 @@ If your recipient lives in a colder climate and is expecting a white Christmas t
 
 <https://www.sfinbloom.art/shop/p/southeast-native-wildflower-seed-mix>
 
-![Lush green grasses beside a wooded area](https://roundstoneseed.com/1334-large_default_btt/mix-168-southern-riparian-buffer-mix.jpg "Image source: Roundstone Native Seed")
-
 <https://roundstoneseed.com/landscape-and-design-mixes/1562-mix-168-southern-riparian-buffer-mix.html>
 
 ## Bat House
