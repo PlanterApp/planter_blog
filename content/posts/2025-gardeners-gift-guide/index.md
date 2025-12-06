@@ -35,11 +35,11 @@ These [little potting tools](https://www.leevalley.com/en-us/shop/garden/plantin
 
 ## Soil Blockers
 
-
+![20-cell handheld soil blocker](https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwd81f175d/images/products/tools/09528_01_20blockmkr.jpg?sw=800&sh=800 "Image source: Johnny's Selected Seeds")
 
 If the gardener on your list hasn't given it a go yet why not introduce them to the benefits of soil blocking for starting seeds? Soil blocking is space-efficient, reduces plastic, and helps grow healthy seedlings. To get started the [20-cell handheld soil blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/20-cell-handheld-soil-blocker-9528.html)* is great for smaller seeds. For potting up the smaller blocks or for starting larger seeds the [4-cell handheld blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html) (or better yet pick up both!)
 
-*\*At the time of writing, the 20-cell handheld soil blocker at Johnny's seeds is less expensive but backordered. Lee Valley has a [similar blocker](https://www.leevalley.com/en-us/shop/garden/planting/propagation/seed-starting/69004-soil-cube-mold) that is slightly more expensive but seems to be in stock.*[](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html)
+*\*At the time of writing, the 20-cell handheld soil blocker at Johnny's seeds is less expensive but backordered. Lee Valley has a [similar blocker](https://www.leevalley.com/en-us/shop/garden/planting/propagation/seed-starting/69004-soil-cube-mold) that is slightly more expensive but appears to be in stock.*[](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html)
 
 ## The Living Soil Handbook
 
