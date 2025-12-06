@@ -29,6 +29,8 @@ These might not be the cutest gardening gloves around but these [waterproof prun
 
 ## Chestnut Potting Tools
 
+![Chestnut set of 2 potting tools on a wooden background](https://www.leevalley.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt050573defaf102e3%2Fblt0bf2d2c24676b2a5%2F669c269f3af6f7ca8e8301e8%2Fhttps_assets.leevalley.com_Size5_10126_DB140-d-0027.jpg%3Fbranch%3Dproduction&w=1080&q=75 "Image source: Lee Valley")
+
 These [little potting tools](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools) might not look like much, but they are the absolute handy-dandiest tools for seed starting and potting up plants! The pointed tool is perfect for dibbling seeding holes, picking up seeds (with a bit of moisture) and for pricking out tiny seedlings. The flat-ended tool is perfect for arranging and flattening soil in trays or pots. If you're looking for a stocking stuffer for the gardener on your list these tools are a must-have[](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools)
 
 ## Soil Blockers
