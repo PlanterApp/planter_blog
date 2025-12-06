@@ -15,11 +15,7 @@ We're dreaming of a green Christmas...or at least we're dreaming of our gardens 
 
 ... 
 
-# Erin:
-
 ## Gardener Scott's Guide to Raised Bed Gardening
-
-
 
 Gardener Scott is one of the best-known gardening experts on YouTube, and in his first book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information on the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice  that's relevant to all gardening styles.[](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366)
 
@@ -49,8 +45,6 @@ If your recipient lives in a colder climate and is expecting a white Christmas t
 
 Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions and [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn even when it's warm out, but they're tough and waterproof to handle the muck (or a wayward spray from the garden hose!) As a thoughtful design detail, the boot soles are self-cleaning so you won't be walking around the garden on mud-clump-moon-boots.[](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto)
 [](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)
-
-# Wren:
 
 ## Wellipets Frog Boots
 
