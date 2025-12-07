@@ -75,13 +75,13 @@ If the gardener you're shopping has an interest in supporting garden wildlife, g
 
 ![Grampa's Weeder in action with a weed in it and a foot beside it](https://cdn11.bigcommerce.com/s-3c8l9ljcjn/images/stencil/1280x1280/products/22637/22819/65p0101_grampasweeder_main__21992__49573.1735233113.jpg?c=1 "Image source: Garrett Wade")
 
-<https://garrettwade.com/product/grampas-weeders>
+Any gardener would appreciate receiving a tool to make weeding a little bit easier! [Grampa's Weeders](https://garrettwade.com/product/grampas-weeders) are well known for their design, quality, and craftsmanship. Grampa's weeders easily remove weeds with taproots, with no bending over and minimal soil disturbance. Best of all they get the majority of the root out to prevent weed regrowth.
 
 ## Muck Boots
 
 ![Green MUCK Women's Muckster II Mid Boot](https://m.media-amazon.com/images/I/71UzPjoSzZL._AC_SY575_.jpg "Image source: Amazon")
 
-Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions and [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn even when it's warm out, but they're tough and waterproof to handle the muck (or a wayward spray from the garden hose!) As a thoughtful design detail, the boot soles are self-cleaning so you won't be walking around the garden on mud-clump-moon-boots.
+Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions and [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn even when it's warm-ish out, but they're tough and waterproof to handle the muck (or a wayward spray from the garden hose!) As a thoughtful design detail, the boot outsoles are self-cleaning so you won't be stuck walking around the garden on mud-clump-moon-boots.
 
 ## Waterproof Pruning/Wash Gloves
 
@@ -93,13 +93,13 @@ These might not be the cutest gardening gloves around but these [waterproof prun
 
 ![Rolling work seat with tool tray](https://www.harborfreight.com/media/catalog/product/cache/c7f358f04aec81e7c5e0be4c56edf041/9/1/91495_W3.jpg?auto=webp&width=1200&height=1200&canvas=1200,1200&fit=bounds "Image source: Harbour Freight")
 
-<https://www.harborfreight.com/rolling-work-seat-with-tool-tray-91495.html>
+All gardeners know that working in the garden can be hard on the body. So what better gift to give a gardener than this [rolling garden work seat with a tool tray](https://www.harborfreight.com/rolling-work-seat-with-tool-tray-91495.html)? With this work seat long spending long hours in the garden will be a breeze. Also if the gardener on your list has physical or energy limitations this work seat is the perfect gift so they can enjoy gardening in comfort.[](https://www.harborfreight.com/rolling-work-seat-with-tool-tray-91495.html)[](https://www.harborfreight.com/rolling-work-seat-with-tool-tray-91495.html)
 
 ## GreenStalk Vertical Planter
 
 ![A white Greenstalk vertical planter filled with plants sitting on a dock with a pond behind](https://greenstalkgarden.com/cdn/shop/files/greenstalk-13_dc7a654d-62cd-49b4-9830-e7e49202445c_5000x.jpg?v=1763562344 "Image source: GreenStalk")
 
-You might have seen the [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) showcased on your favorite gardening YouTube channels…And for good reason! The GreenStalk is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The GreenStalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it’s built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
+The [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The GreenStalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it’s built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
 
 # Planter App and Merch!
 
