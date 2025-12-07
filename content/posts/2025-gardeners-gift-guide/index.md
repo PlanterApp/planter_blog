@@ -89,7 +89,7 @@ Being a gardener sometimes means getting out in the garden even on days with les
 
 ![A woman pruning roses using the Lee Valley waterproof pruning and wash gloves](https://www.leevalley.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt050573defaf102e3%2Fbltb2afc894f86af1a3%2F669c054ae810f359f7d52fc0%2Fhttps_assets.leevalley.com_Size5_10122_AH140-medium-pruning-gloves-u-0054.jpg%3Fbranch%3Dproduction&w=3840&q=75 "Image source: Lee Valley")
 
-These might not be the cutest gardening gloves around but these [waterproof pruning and wash gloves](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves) are rugged, tough, and get the job done! They're 100% waterproof so they're great for washing down carrots, lettuce, and your other garden harvests. Not only that they're prefect for working with pokey and irritating plants like zucchini and parsnips, so you can save your giftee from scratched and irritated hands, wrists, and arms.
+These might not be the cutest gardening gloves around but these [waterproof pruning and wash gloves](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves) are rugged, tough, and get the job done! They're 100% waterproof so they're great for washing down carrots, lettuce, and your other garden harvests. Not only that they're prefect for working with pokey and irritating plants like zucchini and parsnips, so you can save your giftee from scraping and burning their hands, wrists, and arms.
 
 ## Rolling Work Seat
 
