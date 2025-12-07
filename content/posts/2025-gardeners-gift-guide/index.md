@@ -11,7 +11,7 @@ relative = false
 image = "https://4w1qaaek5t.ucarecd.net/9bea073b-6653-4f59-a01a-21f0b958e068/Christmas-gifts.jpg"
 alt = "Christmas gifts with red and brown wrapping paper and green bows with faded twinkle lights in the background"
 +++
-We're dreaming of a green Christmas...or at least we're dreaming of our gardens filled with lush green plants! And while we're at it we're rounding up our top gardening gift picks for 2025. 
+We're dreaming of a green Christmas...or at least we're dreaming of our gardens filled with lush green plants! And while we're at it we're rounding up our top gardening gift picks for 2025.
 
 # Great Gardening Reads
 
@@ -19,13 +19,13 @@ We're dreaming of a green Christmas...or at least we're dreaming of our gardens 
 
 ![Screenshot of the book cover for 'Gardener Scott's Guide to Raised Bed Gardening'](https://m.media-amazon.com/images/I/81+9o-Ax4cL._SY385_.jpg "Image source: Amazon")
 
-Gardener Scott is one of the best-known gardening experts on YouTube, and in his first book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information on the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice  that's relevant to all gardening styles.
+Gardener Scott is one of the foremost gardening experts on YouTube, and in his first book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information about the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice that's relevant to all gardening styles.
 
 ## Good Bugs for Your Garden
 
 ![Screenshot of the book cover for 'Good Bugs For Your Garden'](https://i.thriftbooks.com/api/imagehandler/m/14440E87B123FC2C9D127ED4C0A7BFD5638BA6AD.jpeg "Image source: Thrift books")
 
-<https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149>
+When gardeners see bugs in the garden sometimes alarm bells often start going off but it's important to also learn about the 'good guys'- beneficial insects that help keep garden pest populations in check. In [Good Bugs For Your Garden](https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149) Allison Mia Starcher teachers gardeners all about these garden superheros and how to attract them to your garden. 
 
 ## The Living Soil Handbook
 
@@ -39,13 +39,13 @@ Jesse Frost is a small-scale farmer and runs the No-Till gardening channel and G
 
 ![Chestnut set of 2 potting tools on a wooden background](https://www.leevalley.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt050573defaf102e3%2Fblt0bf2d2c24676b2a5%2F669c269f3af6f7ca8e8301e8%2Fhttps_assets.leevalley.com_Size5_10126_DB140-d-0027.jpg%3Fbranch%3Dproduction&w=1080&q=75 "Image source: Lee Valley")
 
-These [little potting tools](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools) might not look like much, but they are the absolute handy-dandiest tools for seed starting and potting up plants! The pointed tool is perfect for dibbling seeding holes, picking up seeds (with a bit of moisture) and for pricking out tiny seedlings. The flat-ended tool is perfect for arranging and flattening soil in trays or pots. If you're looking for a stocking stuffer for the gardener on your list these tools are a must-have
+These [little potting tools](https://www.leevalley.com/en-us/shop/garden/planting/potting/115936-set-of-2-potting-tools) might not look like much, but they are the absolute handy-dandiest tools for seed starting and potting up plants! The pointed tool is perfect for dibbling seeding holes, picking up seeds (with a bit of moisture) and for pricking out tiny seedlings. The flat-ended tool is perfect for arranging and flattening soil in trays or pots. If you're looking for a stocking stuffer for the gardener on your list these tools are a must-have.
 
 ## Soil Blockers
 
 ![20-cell handheld soil blocker](https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwd81f175d/images/products/tools/09528_01_20blockmkr.jpg?sw=800&sh=800 "Image source: Johnny's Selected Seeds")
 
-If the gardener on your list hasn't given it a go yet why not introduce them to the benefits of soil blocking for starting seeds? Soil blocking is space-efficient, reduces plastic, and helps grow healthy seedlings. To get started the [20-cell handheld soil blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/20-cell-handheld-soil-blocker-9528.html)* is great for smaller seeds. For potting up the smaller blocks or for starting larger seeds the [4-cell handheld blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html) (or better yet pick up both!)
+If the gardener on your list hasn't given it a go yet why not introduce them to [the benefits of soil blocking](https://blog.planter.garden/posts/revolutionize-your-seed-starting-with-soil-blocking/) for starting seeds? Soil blocking is space-efficient, can help reduce plastic use, and encourages healthy well-rooted seedlings. To get started the [20-cell handheld soil blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/20-cell-handheld-soil-blocker-9528.html)* is great for starting smaller seeds. For potting up the smaller blocks or for starting larger seeds the [4-cell handheld blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html) (or better yet pick up both!)
 
 *\*At the time of writing, the 20-cell handheld soil blocker at Johnny's seeds is less expensive but backordered. Lee Valley has a [similar blocker](https://www.leevalley.com/en-us/shop/garden/planting/propagation/seed-starting/69004-soil-cube-mold) that is slightly more expensive but appears to be in stock.*
 
@@ -53,7 +53,7 @@ If the gardener on your list hasn't given it a go yet why not introduce them to 
 
 ![Back to the Roots microgreens grow kit](https://m.media-amazon.com/images/I/91s8zj3B-sL._AC_SX679_.jpg "Image source: Amazon")
 
-If your recipient lives in a colder climate and is expecting a white Christmas this year, why not give them the gift of growing nutritious, delicious indoors? Growing microgreens can be a bit of a learning curve but these [Back to the Roots microgreens kits](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J) make it easy to get started. The kit includes a mix of different organic seeds, compostable starting trays and growing medium, as well as access to "Green Thumb Technical Support" for detailed microgreen growing instructions!
+If your recipient lives is expecting a white Christmas this year (or even if not) why not give them the gift of growing nutritious, delicious microgreens indoors? Growing microgreens [can be a bit of a learning curve](https://blog.planter.garden/posts/grow-microgreens-at-home/) but these [Back to the Roots microgreens kits](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J) make it super-easy to get started. The kit includes a mix of different organic seeds, compostable starting trays and growing medium, as well as access to "Green-Thumb Text Support" for detailed microgreen growing instructions!
 
 # For the Garden Ecosystem
 
@@ -61,9 +61,7 @@ If your recipient lives in a colder climate and is expecting a white Christmas t
 
 ![Illustration of the colorful wildflowers in the wildflower seed mix](https://images.squarespace-cdn.com/content/v1/6070d6f3946b4147e4a18583/1736379380974-SDFUJ02FLHFOC9L4T16W/Southeast_mix_17.jpg?format=1000w "Image source: SFinBloom")
 
-<https://www.sfinbloom.art/shop/p/southeast-native-wildflower-seed-mix>
-
-<https://roundstoneseed.com/landscape-and-design-mixes/1562-mix-168-southern-riparian-buffer-mix.html>
+If your giftee has some open space in their garden why not gift them packets of mixed native wildflower seeds? Native wildflowers are beautiful, low-maintenance, and key for attracting pollinators and beneficial insects to the garden. For two great native seed sources to try: SFinBloom has [stunning native wildflower mixes](https://www.sfinbloom.art/shop) tailored to a variety of different regions and Roundstone Seeds also has a great selection of [beautiful region-appropriate mixes](https://roundstoneseed.com/13-landscape-and-design-mixes).[](https://www.sfinbloom.art/shop/p/southeast-native-wildflower-seed-mix)[](https://roundstoneseed.com/landscape-and-design-mixes/1562-mix-168-southern-riparian-buffer-mix.html)
 
 ## Bat House
 
