@@ -61,13 +61,13 @@ If your recipient lives is expecting a white Christmas this year (or even if not
 
 ![Illustration of the colorful wildflowers in the wildflower seed mix](https://images.squarespace-cdn.com/content/v1/6070d6f3946b4147e4a18583/1736379380974-SDFUJ02FLHFOC9L4T16W/Southeast_mix_17.jpg?format=1000w "Image source: SFinBloom")
 
-If your giftee has some open space in their garden why not gift them packets of mixed native wildflower seeds? Native wildflowers are beautiful, low-maintenance, and key for attracting pollinators and beneficial insects to the garden. For two great native seed sources to try: SFinBloom has [stunning native wildflower mixes](https://www.sfinbloom.art/shop) tailored to a variety of different regions and Roundstone Seeds also has a great selection of [beautiful region-appropriate mixes](https://roundstoneseed.com/13-landscape-and-design-mixes).[](https://www.sfinbloom.art/shop/p/southeast-native-wildflower-seed-mix)[](https://roundstoneseed.com/landscape-and-design-mixes/1562-mix-168-southern-riparian-buffer-mix.html)
+If your giftee has some open space in their garden why not gift them packets of mixed native wildflower seeds? Native wildflowers are beautiful, low-maintenance, and key for attracting pollinators and beneficial insects to the garden. For two great native seed sources to try: SFinBloom has [stunning native wildflower mixes](https://www.sfinbloom.art/shop) tailored to a variety of different regions and Roundstone Seeds also has a great selection of [beautiful region-appropriate mixes](https://roundstoneseed.com/13-landscape-and-design-mixes).
 
 ## Bat House
 
 ![Cedar single chamber bat box](https://www.bigbatbox.com/cdn/shop/products/54.png?v=1760581949&width=590 "Image source: Big Bat Box")
 
-[bat houses - Eco-Friendly Solutions for Mosquito Management – Big Bat Box](https://www.bigbatbox.com/collections/bat-houses)
+If the gardener you're shopping has an interest in supporting garden wildlife, gifting them a [bat house](https://www.bigbatbox.com/collections/bat-houses) (yes, a bat house!) is a unique gift idea. Why a bat house for a gardener? Bats are amazing hunters of all kinds of garden pests and in some areas certain bat species can also help pollinate plants! It's the perfect gift for the gardener who has everything and wants to encourage all kinds of good critters in the garden.
 
 # Gardening Tools and Gear
 
