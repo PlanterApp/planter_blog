@@ -27,7 +27,7 @@ Gardener Scott is one of the foremost gardening experts on YouTube, and in his f
 
 ![Screenshot of the book cover for 'Good Bugs For Your Garden'](https://i.thriftbooks.com/api/imagehandler/m/14440E87B123FC2C9D127ED4C0A7BFD5638BA6AD.jpeg "Image source: Thrift books")
 
-When gardeners see bugs in the garden sometimes alarm bells often start going off but it's important to also learn about the 'good guys'- beneficial insects that help keep garden pest populations in check. In [Good Bugs For Your Garden](https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149) Allison Mia Starcher teachers gardeners all about these garden superheros and how to attract them to your garden. 
+When gardeners see bugs in the garden sometimes alarm bells go off but it's important to also learn about the 'good guys'- beneficial insects that help keep garden pest populations in check. In [Good Bugs For Your Garden](https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149) Allison Mia Starcher teachers gardeners all about these garden superheros and how to attract them to your garden. 
 
 ## The Living Soil Handbook
 
