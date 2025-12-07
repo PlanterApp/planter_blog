@@ -21,7 +21,7 @@ This year we've got a gamut of gardening gift ideas from must-read books, to han
 
 ![Screenshot of the book cover for 'Gardener Scott's Guide to Raised Bed Gardening'](https://m.media-amazon.com/images/I/81+9o-Ax4cL._SY385_.jpg "Image source: Amazon")
 
-Gardener Scott is one of the foremost gardening experts on YouTube, and in his first book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information about the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice that's relevant to all gardening styles.
+Gardener Scott is one of the foremost gardening experts on YouTube, and in his new book [Gardener Scott's Guide To Raised Bed Gardening](https://www.amazon.com/Gardener-Scotts-Guide-Raised-Gardening/dp/0228105366) he introduces gardeners to every aspect of of raised bed gardening. Not only does the book have detailed information about the benefits of raised bed gardening and how to start your own raised bed garden, it's also chock-full of great gardening advice that's relevant to all gardening styles.
 
 ## Good Bugs for Your Garden
 
@@ -33,7 +33,7 @@ When gardeners see bugs in the garden sometimes alarm bells go off but it's impo
 
 ![Screenshot of the book cover for 'The Living Soil Handbook'](https://m.media-amazon.com/images/I/514eB7WTrvL._SY445_SX342_FMwebp_.jpg "Image source: Amazon")
 
-Jesse Frost is a small-scale farmer and runs the No-Till gardening channel and Grower's Daily on YouTube. Even if you're not gardening on the scale of a market gardener, his book [The Living Soil Handbook](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266) is still a must-read for any gardener interested in building healthy garden soil.
+Jesse Frost is a small-scale farmer and runs the No-Till gardening channel and Grower's Daily Podcast on YouTube. Even if your giftee isn't gardening on the scale of a market gardener, his book [The Living Soil Handbook](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266) is still a must-read for any gardener interested in building healthy garden soil and ecological gardening.
 
 # Seed Starting and Indoor Growing
 
