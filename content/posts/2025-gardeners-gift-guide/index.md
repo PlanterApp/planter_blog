@@ -13,6 +13,8 @@ alt = "Christmas gifts with red and brown wrapping paper and green bows with fad
 +++
 We're dreaming of a green Christmas...or at least we're dreaming of our gardens filled with lush green plants! And while we're at it we're rounding up our top gardening gift picks for 2025.
 
+This year we've got a gamut of gardening gift ideas from must-read books, to handy gadgets, to eco-friendly gardening gear!
+
 # Great Gardening Reads
 
 ## Gardener Scott's Guide to Raised Bed Gardening
