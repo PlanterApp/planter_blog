@@ -27,13 +27,13 @@ Gardener Scott is one of the foremost gardening experts on YouTube, and in his n
 
 ![Screenshot of the book cover for 'Good Bugs For Your Garden'](https://i.thriftbooks.com/api/imagehandler/m/14440E87B123FC2C9D127ED4C0A7BFD5638BA6AD.jpeg "Image source: Thrift books")
 
-When gardeners see bugs in the garden sometimes alarm bells go off but it's important to also learn about the 'good guys'- beneficial insects that help keep garden pest populations in check. In [Good Bugs For Your Garden](https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149) Allison Mia Starcher teaches gardeners all about these garden superheroes and how to attract them to your garden. 
+When gardeners see bugs in the garden sometimes alarm bells go off, but it's important to also learn about the 'good guys'- beneficial insects that help keep garden pest populations in check. In [Good Bugs For Your Garden](https://www.thriftbooks.com/w/good-bugs-for-your-garden_allison-mia-starcher/417446/#idiq=1961291&edition=3280149) Allison Mia Starcher teaches gardeners all about these garden superheroes and how to attract them to your garden. 
 
 ## The Living Soil Handbook
 
 ![Screenshot of the book cover for 'The Living Soil Handbook'](https://m.media-amazon.com/images/I/514eB7WTrvL._SY445_SX342_FMwebp_.jpg "Image source: Amazon")
 
-Jesse Frost is a small-scale farmer/market gardener who runs the No-Till gardening channel and Grower's Daily Podcast on YouTube. Even if your giftee isn't gardening on the scale of a market gardener, his book [The Living Soil Handbook](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266) is a must-read for any gardener interested in building healthy garden soil and ecological gardening.
+Jesse Frost is a market gardener (small-scale farmer) who runs the No-Till Growers channel and Grower's Daily podcast on YouTube. Even if your giftee isn't gardening on the scale of a market gardener, 'Farmer Jesse's' book [The Living Soil Handbook](https://www.amazon.com/Living-Soil-Handbook-Ecological-Gardening/dp/1645020266) is a must-read for any gardener interested in building healthy garden soil and ecological gardening.
 
 # Seed Starting and Indoor Growing
 
@@ -47,7 +47,7 @@ These [little potting tools](https://www.leevalley.com/en-us/shop/garden/plantin
 
 ![20-cell handheld soil blocker](https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwd81f175d/images/products/tools/09528_01_20blockmkr.jpg?sw=800&sh=800 "Image source: Johnny's Selected Seeds")
 
-If the gardener on your list hasn't given it a go yet why not introduce them to [the benefits of soil blocking](https://blog.planter.garden/posts/revolutionize-your-seed-starting-with-soil-blocking/) for starting seeds? Soil blocking is space-efficient, can help reduce plastic use, and encourages healthy well-rooted seedlings. To get started the [20-cell handheld soil blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/20-cell-handheld-soil-blocker-9528.html)* is great for starting smaller seeds. For potting up the smaller blocks or for starting larger seeds the [4-cell handheld blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html) (or better yet pick up both!)
+If the gardener on your list hasn't given it a go yet, they're sure to appreciate being introduced to [the benefits of soil blocking](https://blog.planter.garden/posts/revolutionize-your-seed-starting-with-soil-blocking/). Soil blocking is space-efficient, can help reduce plastic use, and encourages healthy well-rooted seedlings. To get started the [20-cell handheld soil blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/20-cell-handheld-soil-blocker-9528.html)* is great for starting smaller seeds. For potting up the smaller blocks or for starting larger seeds the [4-cell handheld blocker](https://www.johnnyseeds.com/tools-supplies/seed-starting-supplies/soil-blocking/4-cell-handheld-soil-blocker-7862.html) (or better yet pick up both!)
 
 *\*At the time of writing, the 20-cell handheld soil blocker at Johnny's seeds is less expensive but backordered. Lee Valley has a [similar blocker](https://www.leevalley.com/en-us/shop/garden/planting/propagation/seed-starting/69004-soil-cube-mold) that is slightly more expensive but appears to be in stock.*
 
@@ -55,7 +55,7 @@ If the gardener on your list hasn't given it a go yet why not introduce them to 
 
 ![Back to the Roots microgreens grow kit](https://m.media-amazon.com/images/I/91s8zj3B-sL._AC_SX679_.jpg "Image source: Amazon")
 
-If your recipient is expecting a white Christmas this year (or even if not) why not give them the gift of growing nutritious, delicious microgreens indoors? Growing microgreens [can be a bit of a learning curve](https://blog.planter.garden/posts/grow-microgreens-at-home/) but these [Back to the Roots microgreens kits](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J) make it super-easy to get started. The kit includes a mix of different organic seeds, compostable starting trays and growing medium, as well as access to "Green-Thumb Text Support" for detailed microgreen growing instructions!
+If your recipient is expecting a white Christmas this year, give them the gift of growing indoors with these [Back to the Roots microgreens kits](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)! Growing delicious, nutritious microgreens [can be a bit of a learning curve](https://blog.planter.garden/posts/grow-microgreens-at-home/) but these kits make it super-easy for them to get started. The kit includes a mix of different organic seeds, compostable starting trays and growing medium, as well as access to "Green-Thumb Text Support" for detailed microgreen growing instructions!
 
 # For the Garden Ecosystem
 
@@ -63,7 +63,7 @@ If your recipient is expecting a white Christmas this year (or even if not) why 
 
 ![Illustration of the colorful wildflowers in the wildflower seed mix](https://images.squarespace-cdn.com/content/v1/6070d6f3946b4147e4a18583/1736379380974-SDFUJ02FLHFOC9L4T16W/Southeast_mix_17.jpg?format=1000w "Image source: SFinBloom")
 
-If your giftee has some open space in their garden why not gift them packets of mixed native wildflower seeds? Native wildflowers are beautiful, low-maintenance, and key for attracting pollinators and beneficial insects to the garden. For two great native seed sources to try: SFinBloom has [stunning native wildflower mixes](https://www.sfinbloom.art/shop) tailored to a variety of different regions and Roundstone Seeds also has a great selection of [beautiful region-appropriate mixes](https://roundstoneseed.com/13-landscape-and-design-mixes).
+If your giftee has some open space in their garden, gifting them native wildflower seeds is sure to inspire them to create a natural garden oasis. Native wildflowers are beautiful, low-maintenance, and key for attracting pollinators and beneficial insects to the garden. For two great native seed sources to try: SFinBloom has [stunning native wildflower mixes](https://www.sfinbloom.art/shop) tailored to a variety of different regions and Roundstone Seeds also has a great selection of [beautiful region-appropriate mixes](https://roundstoneseed.com/13-landscape-and-design-mixes).
 
 ## Bat House
 
@@ -77,19 +77,19 @@ If the gardener in your life is interested in supporting all types of garden wil
 
 ![Grampa's Weeder in action with a weed in it and a foot beside it](https://cdn11.bigcommerce.com/s-3c8l9ljcjn/images/stencil/1280x1280/products/22637/22819/65p0101_grampasweeder_main__21992__49573.1735233113.jpg?c=1 "Image source: Garrett Wade")
 
-Any gardener would appreciate receiving a tool to make weeding a little bit easier! [Grampa's Weeders](https://garrettwade.com/product/grampas-weeders) are well known for their design, quality, and craftsmanship. Grampa's weeders easily remove weeds with long taproots, with no bending over and minimal soil disturbance. Best of all they get the majority of the root out to prevent weed regrowth.
+Any gardener would appreciate receiving a tool to make weeding a little bit easier! [Grampa's Weeders](https://garrettwade.com/product/grampas-weeders) are well known for their design, quality, and craftsmanship. Grampa's Weeders easily remove weeds with long taproots, with no bending over and minimal soil disturbance. Best of all they get the majority of the root out to prevent weed regrowth.
 
 ## Muck Boots
 
 ![Green MUCK Women's Muckster II Mid Boot](https://m.media-amazon.com/images/I/71UzPjoSzZL._AC_SY575_.jpg "Image source: Amazon")
 
-Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions. [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn when it's warm-ish out (although there are winter weather models too), but they're also tough and waterproof. As a thoughtful design detail, the boot outsoles are self-cleaning so you won't be stuck walking around the garden on mud-clump-moon-boots.
+Being a gardener sometimes means getting out in the garden even on days with less-than-perfect conditions. [Muck boots](https://www.amazon.com/stores/TheOriginalMuckBootCompany/page/C467EE9D-7F8B-4C34-83D9-3A164D3F5D13?lp_asin=B07QL3DKQD&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto) are the perfect all-weather boots for doing just that. They're flexible and breathable so they can be worn when it's warm-ish out but they're also tough and waterproof for damp days (there are also winter boots available). As a thoughtful design detail, the boot outsoles are self-cleaning so your giftee won't be stuck walking around the garden on mud-clump-moon-boots.
 
 ## Waterproof Pruning/Wash Gloves
 
 ![A woman pruning roses using the Lee Valley waterproof pruning and wash gloves](https://www.leevalley.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt050573defaf102e3%2Fbltb2afc894f86af1a3%2F669c054ae810f359f7d52fc0%2Fhttps_assets.leevalley.com_Size5_10122_AH140-medium-pruning-gloves-u-0054.jpg%3Fbranch%3Dproduction&w=3840&q=75 "Image source: Lee Valley")
 
-These might not be the cutest gardening gloves around but these [waterproof pruning and wash gloves](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves) are rugged, tough, and get the job done! They're 100% waterproof so they're great for washing down carrots, lettuce, and your other garden harvests. Not only that, they're prefect for working with pokey and irritating plants like zucchini and parsnips, so you can save your giftee from scraping and burning their hands, wrists, and arms.
+These might not be the cutest gardening gloves around but these [waterproof pruning and wash gloves](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves) are rugged, tough, and get the job done! They're 100% waterproof so they're great for washing down carrots, lettuce, and your other garden harvests. Not only that, they're prefect for working with pokey and irritating plants like zucchini and parsnips, so you can save your giftee from scraping and roughing up their hands and arms.
 
 ## Rolling Work Seat
 
@@ -101,7 +101,7 @@ All gardeners know that working in the garden can be hard on the body. So what b
 
 ![A white Greenstalk vertical planter filled with plants sitting on a dock with a pond behind](https://greenstalkgarden.com/cdn/shop/files/greenstalk-13_dc7a654d-62cd-49b4-9830-e7e49202445c_5000x.jpg?v=1763562344 "Image source: GreenStalk")
 
-The [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) is a super-versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. The GreenStalk is made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it’s built strong and guaranteed to last! Greenstalks come in a wide variety of eye-catching colors so they're both a growing system and garden art! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
+The [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) is a versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. GreenStalks come in a wide variety of eye-catching colors so they're both a growing system and garden art! GreenStalks are made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it’s built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
 
 # Planter App and Merch!
 
