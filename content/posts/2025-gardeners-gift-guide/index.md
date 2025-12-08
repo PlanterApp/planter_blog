@@ -55,7 +55,7 @@ If the gardener on your list hasn't given it a go yet, they're sure to appreciat
 
 ![Back to the Roots microgreens grow kit](https://m.media-amazon.com/images/I/91s8zj3B-sL._AC_SX679_.jpg "Image source: Amazon")
 
-If your recipient is expecting a white Christmas this year, give them the gift of growing indoors with these [Back to the Roots microgreens kits](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)! Growing delicious, nutritious microgreens [can be a bit of a learning curve](https://blog.planter.garden/posts/grow-microgreens-at-home/) but these kits make it super-easy for them to get started. The kit includes a mix of different organic seeds, compostable starting trays and growing medium, as well as access to "Green-Thumb Text Support" for detailed microgreen growing instructions!
+If your recipient is expecting a white Christmas this year, give them the gift of growing indoors with these [Back to the Roots microgreens kits](https://www.amazon.com/Back-Roots-50041-Microgreens-Gardening/dp/B085PWHM5J)! Growing delicious, nutritious microgreens [can be a bit of a learning curve](https://blog.planter.garden/posts/grow-microgreens-at-home/) but these kits make it super-easy for them to get started. Each kit includes a mix of different organic seeds, compostable starting trays and growing medium, as well as access to "Green-Thumb Text Support" for detailed microgreen growing instructions!
 
 # For the Garden Ecosystem
 
