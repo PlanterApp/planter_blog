@@ -89,13 +89,13 @@ Being a gardener sometimes means getting out in the garden even on days with les
 
 ![A woman pruning roses using the Lee Valley waterproof pruning and wash gloves](https://www.leevalley.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt050573defaf102e3%2Fbltb2afc894f86af1a3%2F669c054ae810f359f7d52fc0%2Fhttps_assets.leevalley.com_Size5_10122_AH140-medium-pruning-gloves-u-0054.jpg%3Fbranch%3Dproduction&w=3840&q=75 "Image source: Lee Valley")
 
-These might not be the cutest gardening gloves around but these [waterproof pruning and wash gloves](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves) are rugged, tough, and get the job done! They're 100% waterproof so they're great for washing down carrots, lettuce, and other garden harvests. Not only that, they're prefect for working with pokey and irritating plants like zucchini and parsnips, so you can save your giftee from scraping and roughing up their hands and arms.
+These might not be the cutest gardening gloves around but these [waterproof pruning and wash gloves](https://www.leevalley.com/en-us/shop/garden/clothing/gloves/62005-protective-pruning-gloves) are rugged, tough, and get the job done! They're 100% waterproof so they're great for washing down carrots, lettuce, and other garden harvests. Not only that, they're perfect for working with pokey and irritating plants like zucchini and parsnips, so you can save your giftee from scraping and roughing up their hands and arms.
 
 ## Rolling Work Seat
 
 ![Rolling work seat with tool tray](https://www.harborfreight.com/media/catalog/product/cache/c7f358f04aec81e7c5e0be4c56edf041/9/1/91495_W3.jpg?auto=webp&width=1200&height=1200&canvas=1200,1200&fit=bounds "Image source: Harbour Freight")
 
-All gardeners know that working in the garden can be hard on the body. So what better gift to give a gardener than this [rolling garden work seat with a tool tray](https://www.harborfreight.com/rolling-work-seat-with-tool-tray-91495.html)? With this work seat spending long hours in the garden will be a breeze. If the gardener on your list has physical or energy limitations this work seat is the perfect gift so they can enjoy gardening in comfort.
+All gardeners know that working in the garden can be hard on the body. So what better gift to give a gardener than this [rolling garden work seat with a tool tray](https://www.harborfreight.com/rolling-work-seat-with-tool-tray-91495.html)? With this work seat, spending long hours in the garden will be a breeze. If the gardener on your list has physical or energy limitations this work seat is the perfect gift so they can enjoy gardening in comfort.
 
 ## GreenStalk Vertical Planter
 
