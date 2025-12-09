@@ -101,7 +101,7 @@ All gardeners know that working in the garden can be hard on the body. So what b
 
 ![A white Greenstalk vertical planter filled with plants sitting on a dock with a pond behind](https://greenstalkgarden.com/cdn/shop/files/greenstalk-13_dc7a654d-62cd-49b4-9830-e7e49202445c_5000x.jpg?v=1763562344 "Image source: GreenStalk")
 
-The [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) is a versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. GreenStalks come in a wide variety of eye-catching colors so they're both a growing system and garden art! GreenStalks are made from high-quality, UV-resistant plastic and comes with a 5-year warranty- so it’s built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
+The [GreenStalk Vertical Planter](https://store.greenstalkgarden.com/product/greenstalk-stackable-garden/?rstr=PLANTERAPP) is a versatile self-watering growing system that makes efficient use of vertical space to grow a ton of produce in a small footprint. GreenStalks come in a wide variety of eye-catching colors so they're both a growing system and garden art! GreenStalks are made from high-quality, UV-resistant plastic and come with a 5-year warranty- so they're built strong and guaranteed to last! Use code PLANTERAPP to get $10 off your purchase of $75 or more.
 
 # Planter App and Merch!
 
