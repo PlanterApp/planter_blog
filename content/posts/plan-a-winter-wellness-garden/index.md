@@ -58,4 +58,4 @@ Echinacea has been used for centuries for many conditions, including the common 
 
 
 
-Planning a winter-wellness garden is one way to keep the gardening fun going all year, and it could be helpful one day!  For tips on growing herbs in the winter, check out [this growing guide](https://blog.planter.garden/posts/herb-garden-winter/). You can start planning your garden today withe the[ Planter App](https://planter.garden/). * Always consult with your health care professional before using herbs.*
+Planning a winter-wellness garden is one way to keep the gardening fun going all year, and it could be helpful one day!  For tips on growing herbs in the winter, check out [this growing guide](https://blog.planter.garden/posts/herb-garden-winter/). You can start planning your garden today withe the[ Planter App](https://planter.garden/).  *Always consult with your health care professional before using herbs.*
