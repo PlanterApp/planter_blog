@@ -2,15 +2,15 @@
 draft = true
 title = "Plan a Winter Wellness Garden"
 slug = "plan-a-winter-wellness-garden"
-date = "2025-12-14T04:47:00.000Z"
+date = "2025-12-16T02:58:00.000Z"
 author = "Samantha Togstad"
 plants = ["sage", "parsley", "horseradish", "rosemary", "rose", "thyme", "echinacea"]
 series = ["herbs"]
 
 [cover]
 relative = false
-image = ""
-alt = "A garden in winter "
+image = "https://4w1qaaek5t.ucarecd.net/15d39fe5-bb4c-475c-87ed-d54718bbff0b/winterwellnesstwo.jpg"
+alt = "A garden designed in the Planter app"
 +++
 For many gardeners, winter is a time to rest and reflect on the year and dream up plans for next year’s garden. It’s time for festivities and merriment. But it’s also the time of year when sniffles and sneezes make the rounds. Now’s a great time to plan a winter wellness garden. Imagine being able to step outside and harvest remedies from your yard. With a little planning, you can have your own winter wonderland of wellness. 
 
@@ -56,6 +56,6 @@ Echinacea has been used for centuries for many conditions, including the common 
 
 ![Pink echinacea flowers in the garden](https://4w1qaaek5t.ucarecd.net/48d0ba1c-3738-4a4e-a1e8-6fe5b2c096c3/hans-i-Guex8ggo0-unsplash.jpg)
 
-
-
 Planning a winter-wellness garden is one way to keep the gardening fun going all year, and it could be helpful one day!  For tips on growing herbs in the winter, check out [this growing guide](https://blog.planter.garden/posts/herb-garden-winter/). You can start planning your garden today withe the[ Planter App](https://planter.garden/).  *Always consult with your health care professional before using herbs.*
+
+![](https://4w1qaaek5t.ucarecd.net/db648342-ec76-4b91-aa34-c7f493886f1e/screenshot1.png)
