@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Plan a Winter Wellness Garden"
 slug = "plan-a-winter-wellness-garden"
 date = "2025-12-16T02:58:00.000Z"
@@ -34,7 +34,7 @@ Horseradish is an easy plant to grow. The best way is to get a root division fro
 
 ### Rosemary​
 
-Rosemary is an evergreen herb.    It comes in all sizes, so there’s sure to be one that suits your garden.  Rosemary is a tough plant, but if you’re expecting a particularly rough stretch of weather, like an ice storm, you can cover up your plant. Rosemary thrives in well-draining soil.  Throughout history, rosemary has been used as a circulatory stimulant, so a cup of rosemary infusion  could be helpful when you feel you need to warm up.  It’s full of antioxidants and may help support the immune system.  When you’re feeling under the weather, try adding a few sprigs of fresh or dried rosemary to your chicken soup.  ​
+Rosemary is an evergreen herb.  It comes in all sizes, so there’s sure to be one that suits your garden.  Rosemary is a tough plant, but if you’re expecting a particularly rough stretch of weather, like an ice storm, you can cover up your plant. Rosemary thrives in well-draining soil.  Throughout history, rosemary has been used as a circulatory stimulant, so a cup of rosemary infusion  could be helpful when you feel you need to warm up.  It’s full of antioxidants and may help support the immune system.  When you’re feeling under the weather, try adding a few sprigs of fresh or dried rosemary to your chicken soup.  ​
 
 ![Up close image of rosemary](https://4w1qaaek5t.ucarecd.net/8d082882-5d72-4cb2-8e11-27d065b611a0/natalia-blauth-r3D2Z-tcdMg-unsplash.jpg)
 
