@@ -6,22 +6,22 @@ author = "Sam Liddicott"
 
 [cover]
 relative = false
-alt = ""
+alt = "Small harvested herb garden"
+image = "https://4w1qaaek5t.ucarecd.net/ff08c40f-132b-4a47-92b8-f1aea480cac0/germination-microgreens-germination-seeds-home.jpg"
 +++
-
-
-
 # **A Southwest Herb Garden**
 
 The Desert Southwest is fortunate to have not one, but two growing seasons: a cool season from October through May, and a warm season from May through September. With careful planning, many plants can thrive through both seasons, providing fresh produce year-round. Herbs are especially well-suited to this climate, offering flavor, fragrance, and resilience.
 
-The Planter Team’s herbs series is an excellent resource for learning about herbs and how to use them. This article focuses on creating a herb garden suited to desert conditions.
+The Planter Team’s herbs series is an excellent resource for learning about herbs and how to use them. Exercise caution with herbs that you are unfamiliar with, and take the time to research them and their uses. You can find the series [here.](https://blog.planter.garden/posts/grow-abundant-herbs/)
+
+This article focuses on creating a herb garden suited to desert conditions.
 
 ### Location, Location, Location
 
 Light exposure is perhaps the most important consideration when planting. Summers in the Desert Southwest are hot and dry, with extreme UV exposure. Winters are cooler, and frosts are not uncommon from late December through early March.
 
-In the most extreme reaches of the region—especially the Mojave Desert, where rainfall is scarce and conditions are harsher—gardening in pots can be more suitable, as containers allow plants to be moved as conditions change.
+In the most extreme reaches of the region—especially the Mojave Desert, where rainfall is scarce, and conditions are harsher—gardening in pots can be more suitable, as containers allow plants to be moved as conditions change.
 
 In general, eastern exposures are ideal year-round, as they provide sun in the morning and shade in the afternoon. Other locations can work if steps are taken to limit summer sun exposure, such as covering plants with 30–40% shade cloth or relocating containers to shadier areas.
 
@@ -48,7 +48,7 @@ To test drainage, moisten a handful of soil and gently squeeze it. When you open
 
 While classic herbs grow well with care in the Desert Southwest, many native herbs thrive in even the harshest desert conditions and can make it easier to grow more common culinary plants.
 
-Because many native herbs grow tall and bushy, they work well as companion plants, providing shade and shelter from sun and wind.
+Because many native herbs grow tall and bushy, they work well as companion plants, providing shade and shelter from the sun and wind.
 
 **Yerba Mansa (*Anemopsis californica*)**
 
@@ -58,7 +58,9 @@ A low-growing, waxy-leaved groundcover that prefers damp, almost marshy soil. Be
 
 Sometimes called desert tea, this shrubby evergreen perennial can be steeped for tea. It does not flower and photosynthesizes through its stems rather than leaves. Plants are either male or female and are wind-pollinated. 
 
-*Note: Ephedra species have a long history of traditional use but should be consumed with care and proper knowledge.*
+*Note: Ephedra species have a long history of traditional use, but should be consumed with care and proper knowledge.*
+
+![Mormon tea](https://4w1qaaek5t.ucarecd.net/4cd64717-e638-423d-8b2a-637278840497/16129941467_17a8e12e16_b.jpg "\"[Nevada Mormon tea, Ephedra nevadensis, male](https://www.flickr.com/photos/127605180@N04/16129941467)\" by [Jim Morefield](https://www.flickr.com/photos/127605180@N04) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse).")
 
 **Chiltepin (*Capsicum annuum* var. *glabriusculum*)**
 
@@ -71,6 +73,9 @@ A hardy herb native to Mexico and the Southwest. Epazote enhances soups and stew
 **Amaranth (*Amaranthus* spp.)**
 
 Many native amaranth varieties thrive in the Desert Southwest. Some can be aggressive, so choose carefully. These tall, hardy plants provide edible leaves and seeds, and some varieties can be used as natural dyes.
+
+![Amaranth plant](https://4w1qaaek5t.ucarecd.net/4853e12b-226d-4ab4-b240-c0ef442c8273/indian-red-amaranth-plant-growing-summer-garden-leaf-vegetable-cereal-ornamental-plant-source-proteins-amino-acids.jpg)
+
 
 **Purslane (*Portulaca oleracea*)**
 
