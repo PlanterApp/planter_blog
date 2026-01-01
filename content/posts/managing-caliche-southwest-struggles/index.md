@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Managing Caliche: Southwest Struggles"
 slug = "managing-caliche-desert-southwest"
 date = "2025-12-30T07:32:00.000Z"
