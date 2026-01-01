@@ -10,8 +10,6 @@ relative = false
 alt = "Small harvested herb garden"
 image = "https://4w1qaaek5t.ucarecd.net/04597413-a613-4313-b9fe-bde0648f7deb/olympus-digital-camera.jpg"
 +++
-# A Southwest Herb Garden
-
 The Desert Southwest is fortunate to have not one, but two growing seasons: a cool season from October through May, and a warm season from May through September. With careful planning, many plants can thrive through both seasons, providing fresh produce year-round. Herbs are especially well-suited to this climate, offering flavor, fragrance, and resilience.
 
 The Planter Team’s herbs series is an excellent resource for learning about herbs and how to use them. Exercise caution with herbs that you are unfamiliar with, and take the time to research them and their uses. You can find the series [here.](https://blog.planter.garden/posts/grow-abundant-herbs/)
@@ -93,7 +91,6 @@ Cool-season perennials like French tarragon, lemon balm, marjoram, mint, oregano
 
 Desert-adapted species such as chiltepin, amaranth, epazote, purslane, and Mormon tea persist year-round, offering structure, shade, and wind protection. 
 Spring planting is usually ideal because the risk of frost has passed, allowing the plants to establish before the summer heat. Fall planting can work too, especially in milder areas, but some protection may be needed for young plants if frost occurs.
-
 
 ### Example Southwest Herb Garden Layout
 
