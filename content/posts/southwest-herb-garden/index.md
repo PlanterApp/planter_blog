@@ -9,7 +9,7 @@ relative = false
 alt = "Small harvested herb garden"
 image = "https://4w1qaaek5t.ucarecd.net/ff08c40f-132b-4a47-92b8-f1aea480cac0/germination-microgreens-germination-seeds-home.jpg"
 +++
-# **A Southwest Herb Garden**
+# A Southwest Herb Garden
 
 The Desert Southwest is fortunate to have not one, but two growing seasons: a cool season from October through May, and a warm season from May through September. With careful planning, many plants can thrive through both seasons, providing fresh produce year-round. Herbs are especially well-suited to this climate, offering flavor, fragrance, and resilience.
 
@@ -21,13 +21,13 @@ This article focuses on creating a herb garden suited to desert conditions.
 
 Light exposure is perhaps the most important consideration when planting. Summers in the Desert Southwest are hot and dry, with extreme UV exposure. Winters are cooler, and frosts are not uncommon from late December through early March.
 
-In the most extreme reaches of the region—especially the Mojave Desert, where rainfall is scarce, and conditions are harsher—gardening in pots can be more suitable, as containers allow plants to be moved as conditions change.
-
 In general, eastern exposures are ideal year-round, as they provide sun in the morning and shade in the afternoon. Other locations can work if steps are taken to limit summer sun exposure, such as covering plants with 30–40% shade cloth or relocating containers to shadier areas.
 
 Dry, hot winds can also be a problem. Using a wall, fence, deciduous trees, or a hedge can help protect herbs while still allowing them to receive adequate light.
 
-**Note:** A “full sun” herb is not necessarily suited to full sun in the Desert Southwest. Full sun typically means 6–8 hours of sun per day, which can be achieved through dappled light in desert environments.
+{{< notice info >}}A “full sun” herb is not necessarily suited to full sun in the Desert Southwest. Full sun typically means 6–8 hours of sun per day, which can be achieved through dappled light in desert environments.{{< /notice >}}
+
+![](https://4w1qaaek5t.ucarecd.net/36c1034b-65e0-4195-815c-bbacb1feabb2/wooden-chair-small-garden.jpg)
 
 ### Soil
 
@@ -43,6 +43,8 @@ Herbs require excellent drainage; otherwise, they are prone to root rot and deca
 You may also add worm castings, leaf mold, or other organic materials to improve fertility.
 
 To test drainage, moisten a handful of soil and gently squeeze it. When you open your hand, the soil should crumble easily. If it clumps or holds its shape, add more coarse material.
+
+![](https://4w1qaaek5t.ucarecd.net/37af2ca9-c956-4473-94d9-5f33ba04eafe/close-up-growing-herbs-seeds-dirt.jpg "Creating a good soil blend is very important.")
 
 ### Native Desert Southwest Herbs
 
@@ -76,43 +78,25 @@ Many native amaranth varieties thrive in the Desert Southwest. Some can be aggre
 
 ![Amaranth plant](https://4w1qaaek5t.ucarecd.net/4853e12b-226d-4ab4-b240-c0ef442c8273/indian-red-amaranth-plant-growing-summer-garden-leaf-vegetable-cereal-ornamental-plant-source-proteins-amino-acids.jpg)
 
-
 **Purslane (*Portulaca oleracea*)**
 
 Often dismissed as a weed, purslane is highly nutritious. Its leaves are excellent in salads and smoothies. With afternoon shade, it can grow nearly year-round in much of the Desert Southwest.
 
 ### Seasonal Guide
 
-Herbs in the Desert Southwest can be grouped into cool-season annuals, warm-season annuals, and perennials. Annuals live for one season, while perennials persist for several years.
+Herbs in the Desert Southwest fall into cool-season annuals (October–May), warm-season annuals (April–November), and perennials. 
 
-* **Cool-season annuals** grow from October to May.
-* **Warm-season annuals** grow from April to November.
+Cool-season annuals are best planted in fall to establish roots before summer, though spring planting is possible with extra care. Warm-season annuals should be planted in spring to get established before the heat. 
 
-#### Cool-season annual herbs
+Cool-season perennials like French tarragon, lemon balm, marjoram, mint, oregano, and chamomile prefer fall planting, while heat-loving perennials such as Mexican tarragon, lemon verbena, lemongrass, and society garlic do best in spring. 
 
-Fall is the best time to plant cool-season annuals. Mild days and chilly nights allow roots to establish before summer. Not all cool-season herbs are frost-hardy, so protection may be necessary.
+Desert-adapted species such as chiltepin, amaranth, epazote, purslane, and Mormon tea persist year-round, offering structure, shade, and wind protection. 
+Spring planting is usually ideal because the risk of frost has passed, allowing the plants to establish before the summer heat. Fall planting can work too, especially in milder areas, but some protection may be needed for young plants if frost occurs.
 
-Spring planting is also possible, but strong drying winds often require extra watering and wind protection.
-
-#### Warm-season annual herbs
-
-Spring is ideal for planting warm-season herbs such as basil and summer savory. Cooler temperatures allow plants to establish before extreme heat arrives.
-
-#### Cool-season perennial herbs
-
-Fall planting suits perennials that prefer cooler weather, including French tarragon, lemon balm, marjoram, mint, oregano, and chamomile. Most tolerate light cold once established.
-
-#### Warm-season perennial herbs
-
-Heat-loving perennials such as Mexican tarragon, lemon verbena, lemongrass, and society garlic do best when planted in spring. Summer planting requires regimented watering—potted herbs may need water two or three times daily—and most benefit from afternoon shade.
-
-#### Year-round herbs
-
-Desert-adapted species such as chiltepin, amaranth, epazote, purslane, and Mormon tea persist through both seasons, providing structure, shade, and wind protection for other plants.
 
 ### Example Southwest Herb Garden Layout
 
-This layout works for a 4×8 raised bed, a similar in-ground bed, or a cluster of large containers. Tall native herbs create pockets of shade, shelter, and moderated airflow, making it easier to grow classic kitchen herbs.
+This layout offers plant suggestions for a 4×8 raised bed, a similar in-ground bed, or a cluster of large containers. Tall native herbs create pockets of shade, shelter, and moderated airflow, making it easier to grow classic kitchen herbs. 
 
 **Back (North) Side — Tall, Heat-Tolerant Natives**
 
@@ -120,7 +104,7 @@ This layout works for a 4×8 raised bed, a similar in-ground bed, or a cluster o
 * Epazote
 * Chiltepin
 
-These plants provide filtered afternoon shade and break hot winds.
+These plants could all provide filtered afternoon shade and break hot winds.
 
 **Middle Layer — Classic Culinary Herbs**
 
@@ -140,6 +124,8 @@ A shallow low spot can be incorporated for Yerba Mansa, allowing occasional floo
 ### Choosing Herbs
 
 Select a mix of dependable culinary favorites and hardy native plants. Choose one or two tall natives for structure, then fill in with herbs you regularly cook with. Prioritize plants suited to your sun exposure, and include a few that provide shade or wind protection.
+
+![small plant pots with herbs](https://4w1qaaek5t.ucarecd.net/3ea618e6-7aa6-4f93-aefc-8ea256d0abec/senior-man-working-field-with-plants.jpg "If you have limited space or a lot of garden sun, small pots can be a very convenient way to grow herbs.")
 
 ### Maintenance at a Glance
 
