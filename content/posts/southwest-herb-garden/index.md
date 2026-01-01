@@ -1,13 +1,14 @@
 +++
-draft = true
+draft = false
 title = "A Southwest Herb Garden"
 slug = "southwest-herb-garden"
+date = "2025-12-29T06:25:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
 relative = false
 alt = "Small harvested herb garden"
-image = "https://4w1qaaek5t.ucarecd.net/ff08c40f-132b-4a47-92b8-f1aea480cac0/germination-microgreens-germination-seeds-home.jpg"
+image = "https://4w1qaaek5t.ucarecd.net/04597413-a613-4313-b9fe-bde0648f7deb/olympus-digital-camera.jpg"
 +++
 # A Southwest Herb Garden
 
