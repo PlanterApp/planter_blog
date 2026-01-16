@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Frost in the Desert Southwest"
 slug = "southwest-frost"
+date = "2026-01-16T02:45:00.000Z"
 author = "Sam Liddicott"
 tags = ["Frost", "Desertsouthwest"]
 
@@ -26,7 +27,7 @@ At higher elevations, frost may be accompanied by snowfall, while lower desert r
 
 Large day-to-night temperature swings are common in arid climates, and when frost does occur in the Desert Southwest, it is usually the result of intense radiational cooling. Dry air and clear skies allow heat to escape rapidly from the sandy soil after sunset. Cold, dense air then sinks and pools in low-lying areas such as washes, valleys, and drainage corridors. This means temperatures can dip below freezing overnight, even when daytime highs are 70F or more!
 
-![Cacti with snow](https://4w1qaaek5t.ucarecd.net/dde397ed-7730-489d-8f4f-6d60e6eff178/close-up-cactus-plant-winter.jpg "Much of the Desert Southwest sees snow about 1-2 times a decade. Most desert plants can survive a heavy snow and frost for around 6-8 hours.")
+![Desert plants in pots](https://4w1qaaek5t.ucarecd.net/8cb756c7-967a-4e6d-a33b-bd4e0c6b26d1/there-are-spineless-cacti-such-as-opuntia-ficusindica.jpg)
 
 ### Microclimates
 
