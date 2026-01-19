@@ -1,26 +1,23 @@
 {{- define "main" }}
-{{- $isNewsletter := eq .Type "newsletter" }}
+{{- $isNewsletter := eq .Type "newsletters" }}
 
 <article class="post-single">
   <header class="post-header">
-    {{ partial "breadcrumbs.html" . }}
 
-    {{- if $isNewsletter -}}
-    {{- partial "newsletter_brand.html" . }}
-    {{- end -}}
     <h1 class="post-title">
-      {{- if $isNewsletter -}}
-      {{- replace .Title (.Param "titlePrefix") (.Param "titlePrefixReplace") -}}
-      {{- else -}}
-      {{- .Title -}}
-      {{- end -}}
-      {{- if .Draft -}}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end -}}
+      {{- if not $isNewsletter }}
+      <h1 class="post-title">
+        {{- .Title -}}
+        {{- if .Draft -}}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end -}}
+      </h1>
+      {{- end }}
     </h1>
     {{- if .Description }}
     <div class="post-description">
       {{- .Description -}}
     </div>
     {{- end }}
+    {{- if not $isNewsletter }}
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
@@ -29,12 +26,10 @@
       {{/* partial "post_canonical.html" . */}}
     </div>
     {{- end }}
+    {{- end }}
   </header>
-  {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
-  {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
-  {{- if (.Param "ShowToc") }}
-  {{- partial "toc.html" . }}
-  {{- end }}
+  {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isNewsletter) }}
+   {{- partial "toc.html" . }}
 
   {{ if .Params.series }}
     {{ $title := .Title }}
@@ -83,19 +78,6 @@
     {{- end }}
 
     {{- partial "bottom_promo.html" . }}
-
-    {{- if $isNewsletter }}
-    <div class="newsletter-sub">
-      <div class="notice">
-        {{- if site.Params.newsletter.notice.usePartial }}
-        {{- partial "newsletter_notice.html"}}
-        {{- else }}
-        {{- site.Params.newsletter.notice.content | default "Thanks for reading, if you like it, please subscribe below." }}
-        {{- end }}
-      </div>
-      {{- partial "newsletter_sub_form.html"}}
-    </div>
-    {{- end }}
   </footer>
 
   {{- if not (.Param "noComments") }}

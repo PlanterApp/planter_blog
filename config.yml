@@ -67,6 +67,7 @@ params:
   ShowBreadCrumbs: false
   ShowAuthor: true
   ShowCodeCopyButtons: false
+  mainSections: ["posts", "newsletters"]
   ShareButtons: ['facebook','twitter','linkedin']
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -83,6 +84,7 @@ params:
     "Frog.svg",
     "Snail.svg"
   ]
+
 #  editPost:
 #    URL: "https://github.com/PlanterApp/planter_blog/blob/main/content/"
 #    Text: "Suggest Changes" # edit text

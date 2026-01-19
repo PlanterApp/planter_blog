@@ -1,0 +1,9 @@
+{{- $isNewsletter := eq .Type "newsletters" }}
+
+{{- if and (not $isNewsletter) (.Param "ShowToc") (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") }}
+<aside class="toc-container">
+    <div class="toc">
+        {{ .TableOfContents }}
+    </div>
+</aside>
+{{- end }}
