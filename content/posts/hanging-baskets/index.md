@@ -1,9 +1,10 @@
 +++
-draft = true
+draft = false
 title = "Hanging Baskets: Floating Greenspace"
 slug = "hanging-baskets"
 date = "2026-01-23T03:40:00.000Z"
 author = "Sam Liddicott"
+series = ["Hanging Baskets"]
 
 [cover]
 relative = false
