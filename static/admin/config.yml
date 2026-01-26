@@ -156,6 +156,44 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
+  - name: "newsletters"
+    label: "Newsletters"
+    folder: "content/newsletter"
+    create: true
+    format: "toml-frontmatter"
+    fields:
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        default: true
+        required: true
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Date"
+        name: "date"
+        widget: "date"
+        required: false
+      - label: "Cover"
+        name: "cover"
+        widget: "object"
+        required: true
+        fields:
+          - label: "Cover Photo"
+            name: "image"
+            widget: "image"
+            choose_url: false
+            media_library:
+              config:
+                multiple: false
+          - label: "Alt Text"
+            name: "alt"
+            widget: "string"
+            required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
   - name: "author"
     label: "Author"
     folder: "content/author"
