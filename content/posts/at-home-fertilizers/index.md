@@ -99,7 +99,7 @@ Good for more than just baking or stirring into hot drinks, molasses is incredib
 
 Molasses with sulfur should be applied in lesser amounts to prevent over-sulfuring the soil.
 
-### **Coffee and Tea**
+### Coffee and Tea
 
 Leftover coffee grounds and teabags can be used one more time before you throw them away or compost them.
 
@@ -109,7 +109,7 @@ Alternatively, coffee grounds can be steeped to form a weak coffee mix, which ca
 
 For tea, you can remove the tea leaves from the bag and mix them into your compost (the bags often have microplastics) or steep the bag further, and use the weak tea mixture to water your plants once a week.
 
-### **Seaweed and Kelp**
+### Seaweed and Kelp
 
 This is perfect if you live near the coast, especially the north-eastern USA, or the UK. You can collect seaweed from permissible places on the coast, or buy it if you’d prefer. To prepare the seaweed, rinse it well to remove sand and salt, and then leave to dry out a little in the sun to kill any bacteria.
 
@@ -117,7 +117,7 @@ The quickest way to help your plants absorb the nutrients is to create a liquid 
 
 ![Beach with kelp.](https://4w1qaaek5t.ucarecd.net/f62a32bb-8909-47c5-af51-1af115b5f2fe/seaweed-beach-with-sand-alga.jpg)
 
-### **When to Apply Fertilizer**
+### When to Apply Fertilizer
 
 Fertilizers are best applied in the early morning when the sun is coming up. High temperatures and intense sun restrict nutrient take-up and can sometimes cause fertilizer burn if it’s accidentally over-applied.
 
@@ -127,6 +127,6 @@ It’s important not to apply too much fertilizer at once, or too many different
 
 ![Kale in the early morning sun.](https://4w1qaaek5t.ucarecd.net/98b8400b-0cf4-4205-8349-81ce61b500e1/close-up-green-curly-kale-plant-vegetable-garden.jpg)
 
-### **Final Thoughts**
+### Final Thoughts
 
 Homemade fertilizers are an affordable, sustainable way to boost your garden’s health. By tuning into your soil’s needs and using what you already have in your kitchen or backyard, you can nourish your plants naturally while reducing waste and protecting the environment.
