@@ -76,15 +76,13 @@ Check moisture daily in warm weather. Water until it runs freely from the bottom
 
 ![watering a hanging basket with a watering can](https://4w1qaaek5t.ucarecd.net/7132a053-2f53-4c79-8a1c-4a198da14815/close-up-gardener-hand-pouring-water-hanging-potted-plant.jpg)
 
-#### 
-Feeding
+### Feeding
 
 Because nutrients leach out quickly, you should feed your basket regularly. A diluted liquid fertilizer every 1–2 weeks keeps annuals blooming and herbs productive. Slow‑release granule pellets can also be mixed into the soil at planting time to provide early nutrition. This is especially good for shrubs and ferns.
 
 {{< notice info >}}Winter baskets do not need fertilizing. Too much growth risks frost damage or them becoming too leggy in the springtime.{{< /notice >}}
 
-#### 
-Deadheading and Pruning
+### Deadheading and Pruning
 
 Regular pruning and deadheading encourage a succession of flowers and prevent the plants’ energy from going into seed production. Trim long or tired stems to maintain shape and encourage fresh growth. For herbs, regular harvesting doubles as pruning and keeps plants tidy
 
