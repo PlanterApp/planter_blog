@@ -10,9 +10,9 @@ relative = false
 image = "https://4w1qaaek5t.ucarecd.net/f3e01fe9-ecb9-4eaa-964f-a88dda3c45b6/organic-waste-composting.jpg"
 alt = "Organic compost waste"
 +++
-Plants love to grow; it’s what they do. However, sometimes conditions are less than ideal. Fertilizers help to optimize plant growth by maximizing the growing conditions and helping to stave off pests and diseases.
+Plants love to grow; it’s what they do. However, sometimes conditions are less than ideal. Fertilizers help to optimize plant growth by maximizing the growing conditions and helping them to stave off pests and diseases.
 
-In this article, we’ll go through some easy **at-home fertilizers** you can make that are more environmentally friendly than most commercial options and can be more affordable, too.
+In this article, we’ll go through some easy at-home fertilizers you can make that are more environmentally friendly than most commercial options and can be more affordable, too.
 
 ### **What Do Fertilizers Do?**
 
@@ -99,7 +99,7 @@ Good for more than just baking or stirring into hot drinks, molasses is incredib
 
 Molasses with sulfur should be applied in lesser amounts to prevent over-sulfuring the soil.
 
-### Coffee and Tea
+#### Coffee and Tea
 
 Leftover coffee grounds and teabags can be used one more time before you throw them away or compost them.
 
