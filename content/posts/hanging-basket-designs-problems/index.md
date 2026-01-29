@@ -1,13 +1,16 @@
 +++
-draft = true
+draft = false
 title = "Hanging Baskets: Designs and Common Problems"
 slug = "hanging-basket-designs-problems"
+date = "2026-01-29T11:25:00.000Z"
 author = "Sam Liddicott"
 series = ["Hanging Baskets"]
 tags = ["Hanging Baskets"]
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/d1b14498-7ad7-420d-a1f4-6daa31936feb/-/crop/3577x2660/0,2705/-/preview/close-up-yellow-flowers-hanging-wicker-basket.jpg"
+alt = "Yellow pansies in a hanging basket"
 +++
 In part 1, we went over the starting principles for hanging baskets. In part 2 (here), we’ll go through some design ideas which you can adapt with plants suited to your area, and discuss some common issues hanging baskets face.  
 
@@ -21,7 +24,7 @@ You can frame the edge of your hanging basket with trailing plants like lobelia 
 
 This design works well as a perennial basket, with annuals traded out through the seasons, giving you a good framed canvas to work with. Most small flowers can work with a basket of this type, which favors dense, showy plantings.
 
-![](https://4w1qaaek5t.ucarecd.net/70f5f8d2-3c2e-4712-8522-bf16cd2bee79/lake-proebsting-borken.jpg "Dense plantings with unified color are vibrant and colorful.")
+![basket of flowers hanging on a fence](https://4w1qaaek5t.ucarecd.net/70f5f8d2-3c2e-4712-8522-bf16cd2bee79/lake-proebsting-borken.jpg "Dense plantings with unified color are vibrant and colorful.")
 
 #### Fragrant Herb Basket
 
@@ -32,6 +35,8 @@ This basket will require regular trimming so it does not become overgrown, but i
 #### Shade-Loving Lush Basket
 
 Choose a small fern, and frame it with fuschias, heuchera, and/or hostas, and an ivy of your choice for a subdued, but no less pretty color palette. This works well in damp, shady environments, or if you want a particularly low-maintenance garden basket for the winter and springtime. In some climates, this will weather the summer, although you can supplement the fading plants with begonias for some easy color.
+
+![](https://4w1qaaek5t.ucarecd.net/e8c5b1cf-5019-4f37-be28-57ab387fd97e/close-up-potted-plant-hanging-clothesline.jpg "Variegated ivy can add interest even when flowering plants are dormant.")
 
 #### Drought-Tolerant Basket
 
@@ -49,9 +54,9 @@ Plant this basket after your last frost date, or start in a protected place such
 
 For cold-season color, consider plants like crocus, cyclamen, and primula for plants to grow on the out edges of your basket. They work well as a trio, interspersed together, or look beautiful as a color block.  Winter-flowering heathers (such as *Erica carnea)* and Gaultheria are excellent centerpieces, with beautiful flowers or berries. 
 
-Consider adding a variegated ivy plant for some trailing interest, and some violas (winter pansies) for extra color. Winter baskets are generally best planted just before your first frost date so the plants can acclimate before the cold weather sets in.
+Consider adding a variegated ivy plant for some trailing interest, and some violas (winter pansies) for extra color. Winter baskets are generally best planted just before your first frost date, so the plants can acclimate before the cold weather sets in.
 
-![](https://4w1qaaek5t.ucarecd.net/3d50387d-55f0-41ec-8328-6df33361981e/cyclamen-flower-multi-colors.jpg "Cyclamen are very hardy and come in a variety of colors.")
+![pink flowering cyclamen](https://4w1qaaek5t.ucarecd.net/3d50387d-55f0-41ec-8328-6df33361981e/cyclamen-flower-multi-colors.jpg "Cyclamen are very hardy and come in a variety of colors.")
 
 ### Common Problems and How to Solve Them
 
@@ -63,7 +68,15 @@ To reduce the risk of underwatering, check soil moisture regularly—this may me
 
 To avoid overwatering, continue watering only until a small, steady drip appears from the bottom of the basket, then stop. Constant saturation can deprive roots of oxygen and lead to stress or rot, especially if drainage is restricted.
 
-Because nutrients leach quickly from hanging baskets, soil fertility is the second major concern. Regular feeding with a diluted liquid fertilizer, or an appropriately diluted granular fertilizer, is essential during active growth periods. Always water before or after feeding so nutrients are absorbed safely and roots are not damaged.
+Because nutrients leach quickly from hanging baskets, soil fertility is the second major concern. Regular feeding with a diluted liquid fertilizer, or an appropriate granular fertilizer, is essential during active growth periods. Always water before and after feeding so nutrients are absorbed safely and roots are not damaged.
+
+{{< notice tip >}}Different plants have different fertilizer needs, and there are lots of different types. Check out the articles below to get more familiar with fertilizers.{{< /notice >}}
+
+[Fertilizer: Beyond the Bag](https://blog.planter.garden/posts/fertilizer-beyond-the-bag/). By Erin
+
+[Understanding Fertilizer Labels](https://blog.planter.garden/posts/understanding-fertilizer-labels/). By Lexi
+
+![Granular fertilzer in a jar](https://4w1qaaek5t.ucarecd.net/b4810d74-2cb3-410e-af0e-638ca81bf003/fertilizer-flowers-close-up-gardener-s-hand-glove-fertilizing-flowers-street-process-planting-flowers-pots-terrace.jpg "Replenishing nutrients is part of an essential care routine for hanging baskets.")
 
 #### Plants Wilting Despite Moist Soil
 
@@ -95,7 +108,7 @@ It’s important to check on the overall health of your plants and baskets. Pere
 
 Additionally, the basket and liner will need upkeep over time. Wood baskets can be refreshed with a suitable natural wood oil, and liners can be replaced as they decay. Hanging baskets are not permanent plantings, and part of their care is knowing when to refresh or retire them.
 
-![](https://4w1qaaek5t.ucarecd.net/c514cda0-cd61-46c1-ada0-851b0cd42e89/three-hanging-pots-flowers-against-background-brown-wooden-wall.jpg "Groups of baskets allow for a lot of design flexibility.")
+![Three hanging baskets on a fence](https://4w1qaaek5t.ucarecd.net/c514cda0-cd61-46c1-ada0-851b0cd42e89/three-hanging-pots-flowers-against-background-brown-wooden-wall.jpg "Groups of baskets allow for a lot of design flexibility.")
 
 ### Wrapping Up
 
