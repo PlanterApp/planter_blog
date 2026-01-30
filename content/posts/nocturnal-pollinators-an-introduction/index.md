@@ -1,8 +1,10 @@
 +++
 draft = true
 title = "Nocturnal Pollinators: An Introduction"
-slug = "Nocturnal Pollinators: An Introduction"
+slug = "nocturnal-pollinators-intro"
 author = "Sam Liddicott"
+series = ["Nocturnal Pollinators"]
+tags = ["Pollinators", "Nocturnal Pollinators"]
 
 [cover]
 relative = false
@@ -32,7 +34,7 @@ Evening primrose, for instance, opens its petals rapidly at dusk and immediately
 
 Many nighttime pollinators also serve as natural pest control, helping to keep populations of troublesome insects and larvae in check.
 
-![Night Blooming Cereus](https://4w1qaaek5t.ucarecd.net/1fc04ed1-ece8-4a1c-a804-bae9d0b78811/queen-night-flower-bloom-lady-night-princess-night.jpg "Many nighttime flowers are light and very fragrant, like the Night Blooming Cereus.")
+![Night Blooming Cereus cactus flower](https://4w1qaaek5t.ucarecd.net/1fc04ed1-ece8-4a1c-a804-bae9d0b78811/queen-night-flower-bloom-lady-night-princess-night.jpg "Many nighttime flowers are light and very fragrant, like the Night Blooming Cereus.")
 
 ### The Perils They Face
 
@@ -45,7 +47,7 @@ Night pollinators have four main challenges:
 
 Many of these issues can be successfully mitigated within your garden; even more so if you are able to work with your neighbors to coordinate efforts.
 
-![Suburban neighborhood with too much grass](https://4w1qaaek5t.ucarecd.net/a25ab4f8-125d-450b-a0a3-f205596bdce4/lowdensity-two-story-private-homes-with-large-lot-size-green-grassy-lawns-summer-season-rural-residential-suburbs-with-upscale-suburban-houses-outside-rochester-new-york.jpg "Habitat fragmentation reduces the accessibility of food and shelter.")
+![Suburban neighborhood with large lawns and a few trees](https://4w1qaaek5t.ucarecd.net/a25ab4f8-125d-450b-a0a3-f205596bdce4/lowdensity-two-story-private-homes-with-large-lot-size-green-grassy-lawns-summer-season-rural-residential-suburbs-with-upscale-suburban-houses-outside-rochester-new-york.jpg "Habitat fragmentation reduces the accessibility of food and shelter.")
 
 ### Creating a Welcoming Garden
 
@@ -61,7 +63,7 @@ If you’ve recently replaced outdoor bulbs, you can also purchase—or make—c
 
 {{< notice tip >}}If you’re using LEDs, look for a Kelvin rating below 3000K.{{< /notice >}}
 
-![](https://4w1qaaek5t.ucarecd.net/cbd074d6-a717-4c4b-b895-3dc917885eb6/solarpowered-outdoor-lighting-illuminating-garden-pathway-lush-garden-with-flowers-plants.jpg "Keeping lighting low and to a safe minimum creates a more welcoming space.")
+![Garden path lights at night with white flowers and some shrubs.](https://4w1qaaek5t.ucarecd.net/cbd074d6-a717-4c4b-b895-3dc917885eb6/solarpowered-outdoor-lighting-illuminating-garden-pathway-lush-garden-with-flowers-plants.jpg "Keeping lighting low and to a safe minimum creates a more welcoming space.")
 
 #### Debris
 
@@ -77,7 +79,7 @@ Understanding how nocturnal pollinators live and move through the night is the f
 
 Pollinators are essential for plant reproduction and for many food chains, supporting birds, mammals, and other wildlife. Environments thrive when there is a healthy interplay between plants and animals, and nocturnal species are an important component of that. 
 
-![Flying bat at night](https://4w1qaaek5t.ucarecd.net/12deaaa3-2d87-4e85-a116-c7eeebe3c18a/flying-bat-night.jpg "Pollinators are a key part of the environment web.")
+![Flying bat at night near a large, leafy shrub.](https://4w1qaaek5t.ucarecd.net/12deaaa3-2d87-4e85-a116-c7eeebe3c18a/flying-bat-night.jpg "Pollinators are a key part of the environment web.")
 
 ### Wrapping Up
 
