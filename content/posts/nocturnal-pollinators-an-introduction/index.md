@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Nocturnal Pollinators: An Introduction"
 slug = "nocturnal-pollinators-intro"
+date = "2026-01-30T10:40:00.000Z"
 author = "Sam Liddicott"
 series = ["Nocturnal Pollinators"]
 tags = ["Pollinators", "Nocturnal Pollinators"]
