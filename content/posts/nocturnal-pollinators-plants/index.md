@@ -100,7 +100,7 @@ Often white or pink, these beautiful flowers thrive in dappled light. Their upri
 
 These dramatic, downward-facing blooms release their strongest perfume after dusk, attracting large moths in particular. While the plants are toxic and aggressive growers, and should be handled with care, their nighttime impact is unparalleled. 
 
-**Clematis (Such as Clematis ligusticifolia or****C. virginiana)**
+**Clematis (Such as Clematis ligusticifolia or C. virginiana)**
 
 Clematis vines produce masses of small, white, sweetly scented flowers that stay open through the night. These blooms are highly visible and useful for guiding insects along trellises or fences. 
 
@@ -132,7 +132,7 @@ Muhly grasses form soft, fountain-like clumps with airy, cloudlike plumes. At ni
 
 {{< notice note >}}Shrubs are largely absent from this list because most produce fewer nectar sources for nocturnal pollinators. However, native shrubs are excellent for habitat and shelter, supporting insects, bats, and other nighttime visitors.{{< /notice >}}
 
-![Gulf muhly grass as sunset](https://4w1qaaek5t.ucarecd.net/19a5e3db-52f3-4305-8884-9a50cd4e0d48/30909248964_9c83f9e278_k.jpg "
+![Gulf Muhly grass](https://4w1qaaek5t.ucarecd.net/958c9943-b001-4704-9b81-58daa94dd991/30909248964_9c83f9e278_k.jpg "
 \"[Gulf Muhly Grass](https://www.flickr.com/photos/72362382@N04/30909248964)\" by [BigCypressNPS](https://www.flickr.com/photos/72362382@N04) is marked with [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/?ref=openverse).")
 
 #### Wrapping Up
