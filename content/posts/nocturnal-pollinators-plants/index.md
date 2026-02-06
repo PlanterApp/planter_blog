@@ -8,10 +8,15 @@ tags = ["Pollinators", "Moths"]
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/67510e9d-1c19-4e99-973b-9bf8ee37429b/close-up-flowering-plant-field.jpg"
+alt = "Globe thistles at dusk"
+caption = "Globe Thistles are great plants for diurnal and nocturnal pollinators."
 +++
 Few plants fully close at night—though some familiar garden species, like daisies (*Asteraceae*), do. Many others respond instead to humidity, temperature, or light. Still, most daytime blooms remain at least partially open after sunset and attract nocturnal pollinators to some degree.
 
 Planting a few night-focused species can act as “anchors,” drawing moths, beetles, bats, and other nocturnal visitors across your garden. In Part 2 of this series, we’ll explore the traits that make plants attractive at night and highlight several excellent species to help you start or expand your after-dark garden.
+
+![Small white anemone growing through leaf mulch](https://4w1qaaek5t.ucarecd.net/4e592787-fc1b-4246-a174-520f01b9162d/small-blooming-plant.jpg "Thousands of plants attract nocturnal pollinators, and they come in all sizes.")
 
 ### What Makes a Plant Vibrant After Dark
 
@@ -33,6 +38,8 @@ Native plants are always an excellent starting point, but many non-invasive orna
 
 Diverse plantings increase nighttime visitation and also support diurnal pollinators, creating a garden that’s active around the clock. Local gardening groups, university extensions, and regional books will have detailed information on the nighttime pollinators in your area.
 
+![Close up of oak tree leaves in autumn](https://4w1qaaek5t.ucarecd.net/305e11cf-cf1c-422c-b002-fa63b8a0b0f9/branch-dry.jpg "Oak trees are incredible keystone species, and their leaves provide habitat and nutrients for the whole garden.")
+
 ### Keystone Host Plants
 
 These species support huge numbers of insects—caterpillars, beetles, fireflies, and leaf-feeding larvae that fuel the entire nocturnal food chain. They also contribute structural habitat for bats and nighttime foragers.
@@ -52,6 +59,8 @@ Goldenrod is a powerhouse for late-season nectar and supports more insect specie
 **Yucca (Yucca filamentosa and regional natives)**
 
 Yucca plants have a famous mutualistic relationship with yucca moths, which pollinate the flowers exclusively. At night, their white, bell-shaped blooms become highly visible, even in low light, and release more fragrance as temperatures cool. Yuccas also offer dense basal structure for beetles and firefly larvae.
+
+![Goldenrod growing in a dense cluster with vibrant yellow flowers](https://4w1qaaek5t.ucarecd.net/c275713e-f4fa-4490-b745-5997243561a1/yellow-solidago-praecox-flower-summer-garden-blooming.jpg "Goldenrod is a fantastic keystone species")
 
 ### Night-Blooming or Night-Perfuming Nectar Plants
 
@@ -73,6 +82,8 @@ Evening primrose opens its blooms rapidly at dusk—sometimes in under a minute�
 
 These flowers open in late afternoon and continue releasing fragrance into the night. Their tubular blooms cater to moths and long-tongued beetles, while the plants tolerate heat, drought, and poor soils. A good option for gardeners in warmer climates who want consistent nighttime fragrance.
 
+![Night blooming cereus fully opened](https://4w1qaaek5t.ucarecd.net/83ec0e76-c1e5-4133-97d0-7b27c632662a/white-flower.jpg "Night-blooming cereus are simply stunning.")
+
 ### Additional Night-Garden All-Stars
 
 These plants enhance nighttime visibility, contribute shelter, or create ecological cues that nocturnal pollinators use for navigation.
@@ -81,19 +92,21 @@ These plants enhance nighttime visibility, contribute shelter, or create ecologi
 
 Artemisia species have silvery, reflective foliage that is excellent for attracting pollinators. Their aromatic leaves deter herbivores during the day but offer excellent cover for beetles and ground-dwelling nocturnal wildlife.
 
-**White Woodland Phlox (Phlox divaricata and spp.)**
+**Anemones (Anemone × hybrida, A. hupehensis, and native varieties)**
 
-This spring-blooming phlox provides early-season food for nocturnal insects, which often have scarce resources in cooler months. It thrives in partial shade and supports diverse moth species.
+Often white or pink, these beautiful flowers thrive in dappled light. Their upright stems and pale colors are highly visible in moonlight, helping nocturnal insects navigate the garden.
 
 **Angel’s Trumpet (Brugmansia or Datura species)**
 
 These dramatic, downward-facing blooms release their strongest perfume after dusk, attracting large moths in particular. While the plants are toxic and aggressive growers, and should be handled with care, their nighttime impact is unparalleled. 
 
-**Sweet Autumn Clematis (Clematis terniflora or native C. virginiana)**
+**Clematis (Such as Clematis ligusticifolia or****C. virginiana)**
 
-In late summer and early fall, this vine produces masses of small, white, sweetly scented flowers that stay open through the night. The blooms are highly visible and useful for guiding insects along trellises or fences. 
+Clematis vines produce masses of small, white, sweetly scented flowers that stay open through the night. These blooms are highly visible and useful for guiding insects along trellises or fences. 
 
-Tip: Not all of these plants may be suited to your garden or growing zone, but hopefully, they serve as a good starting point with groups and species that are particularly helpful and common.
+![White clematis flower with a hoverfly](https://4w1qaaek5t.ucarecd.net/4206a338-5021-4702-bb65-a9882b0791a5/white-flower-with-bee-it.jpg "There is a vast array of cultivars for many of the plants in this list. This Henryi clematis has beautiful, large flowers.")
+
+{{< notice tip >}}Not all of these plants may be suited to your garden or growing zone, but hopefully, they serve as a good starting point with groups and species that are particularly helpful and common.{{< /notice >}}
 
 ### Grasses for Night Gardens
 
@@ -116,6 +129,11 @@ Cool-season grasses start growing earlier in spring and offer early-season forag
 *(Best known: pink muhly, gulf muhly, and bamboo muhly.)*
 
 Muhly grasses form soft, fountain-like clumps with airy, cloudlike plumes. At night, these plumes often shimmer, giving them a distinctive presence. While they are not major host plants, they are excellent shelter species for fireflies, ground beetles, and other nocturnal insects that move through their dense bases. 
+
+{{< notice note >}}Shrubs are largely absent from this list because most produce fewer nectar sources for nocturnal pollinators. However, native shrubs are excellent for habitat and shelter, supporting insects, bats, and other nighttime visitors.{{< /notice >}}
+
+![Gulf muhly grass as sunset](https://4w1qaaek5t.ucarecd.net/19a5e3db-52f3-4305-8884-9a50cd4e0d48/30909248964_9c83f9e278_k.jpg "
+\"[Gulf Muhly Grass](https://www.flickr.com/photos/72362382@N04/30909248964)\" by [BigCypressNPS](https://www.flickr.com/photos/72362382@N04) is marked with [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/?ref=openverse).")
 
 #### Wrapping Up
 
