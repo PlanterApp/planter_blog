@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "After-Dark Plants: Hosts and Nectar for Night Pollinators"
 slug = "nocturnal-pollinators-plants"
+date = "2026-02-06T11:22:00.000Z"
 author = "Sam Liddicott"
 series = ["Nocturnal Pollinators"]
 tags = ["Pollinators", "Moths"]
