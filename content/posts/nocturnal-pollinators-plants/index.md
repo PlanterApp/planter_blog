@@ -13,67 +13,63 @@ Few plants fully close at night—though some familiar garden species, like dais
 
 Planting a few night-focused species can act as “anchors,” drawing moths, beetles, bats, and other nocturnal visitors across your garden. In Part 2 of this series, we’ll explore the traits that make plants attractive at night and highlight several excellent species to help you start or expand your after-dark garden.
 
-
 ### What Makes a Plant Vibrant After Dark
 
 Two traits matter most at night: fragrance and reflective color.
+
 Moonlight is cooler and dimmer than sunlight, so many bright daytime colors—reds, oranges, strong blues—appear muted or nearly invisible after dusk. Whites, silvers, pale yellows, greys, and leaves with waxy or glossy surfaces reflect even faint light, helping nocturnal pollinators locate them.
- Plants that rely on scent often take the opposite approach: richly colored daytime blooms (pinks, purples, reds) dramatically increase fragrance at night to guide pollinators to nectar.
- A resilient night garden typically includes both types.
 
-### **Choosing Plants**
+Plants that rely on scent often take the opposite approach: richly colored daytime blooms (pinks, purples, reds) dramatically increase fragrance at night to guide pollinators to nectar.
 
-Native plants are an excellent starting point, but many non-invasive ornamentals also thrive in night gardens. When selecting species, aim for:
+A resilient night garden typically includes both types.
+
+### Choosing Plants
+
+Native plants are always an excellent starting point, but many non-invasive ornamentals also thrive in night gardens. When selecting species, aim for:
 
 * A bloom sequence across the seasons, including key migration periods
-
-
 * A mix of colors and scents for different nocturnal pollinators
-
-
 * Layers of structure—shrubs, small trees, flowers, grasses—for food and habitat
 
-
-
-Diverse plantings increase nighttime visitation and also support diurnal pollinators, creating a garden that’s active around the clock.
+Diverse plantings increase nighttime visitation and also support diurnal pollinators, creating a garden that’s active around the clock. Local gardening groups, university extensions, and regional books will have detailed information on the nighttime pollinators in your area.
 
 ### Keystone Host Plants
 
 These species support huge numbers of insects—caterpillars, beetles, fireflies, and leaf-feeding larvae that fuel the entire nocturnal food chain. They also contribute structural habitat for bats and nighttime foragers.
 
-#### 1. Oaks (Quercus spp.)
+**Oaks (Quercus spp.)**
 
 Oaks are among the most important plants in any wildlife garden, supporting hundreds of caterpillar species, including many large-bodied moths that bats rely on. Their deep leaf litter provides breeding habitat for fireflies and shelter for beetles. 
 
-#### 2. Birches (Betula spp.)
+**Birches (Betula spp.)**
 
 Birches play a similar role to oaks, though they attract different species of moth larvae. They grow more quickly and are smaller trees, so they are suitable for smaller gardens. Their pale bark is also quite visible in moonlight.
 
-#### 3. Goldenrod (Solidago spp.)
+**Goldenrod (Solidago spp.)**
 
 Goldenrod is a powerhouse for late-season nectar and supports more insect species than almost any other perennial; it attracts over 100 species of moth alone! After flowering, the stems and leaf bases serve as hunting grounds for firefly larvae and as overwintering habitats for beneficial insects.
 
-#### 4. Yucca (Yucca filamentosa and regional natives)
+**Yucca (Yucca filamentosa and regional natives)**
 
 Yucca plants have a famous mutualistic relationship with yucca moths, which pollinate the flowers exclusively. At night, their white, bell-shaped blooms become highly visible, even in low light, and release more fragrance as temperatures cool. Yuccas also offer dense basal structure for beetles and firefly larvae.
 
 ### Night-Blooming or Night-Perfuming Nectar Plants
 
-These plants directly attract nocturnal visitors by producing scent or nectar after dusk. They’re excellent for drawing moths, beetles, and night-flying insects into the garden.
+These plants attract nocturnal visitors by producing scent or nectar after dusk. They’re excellent for drawing moths, beetles, and night-flying insects into the garden.
 
-#### 5. Night-Blooming Cereus (Epiphyllum oxypetalum and related species)
+**Night-Blooming Cereus (Epiphyllum oxypetalum and related species)**
 
 Perhaps the most dramatic of all night bloomers, night-blooming cereus opens enormous white flowers for only a few hours—typically once a year—but the fragrance is powerful and highly attractive to large moths and nectar-feeding beetles. 
 
-#### 6. Night Phlox (Zaluzianskya capensis, often called “Midnight Candy”)
+**Night Phlox (Zaluzianskya capensis)**
 
 This small annual is ideal for patios or walkways because its fragrance intensifies at dusk, releasing a sweet vanilla–honey aroma. It performs well in containers and fills gaps in bloom schedules.
 
-#### 7. Evening Primrose (Oenothera biennis or native species)
+**Evening Primrose (Oenothera biennis or native species)**
 
 Evening primrose opens its blooms rapidly at dusk—sometimes in under a minute—providing an immediate nectar source for sphinx moths, nocturnal bees, and various beetles. The bright yellow flowers remain visible in low light. Later in the season, the seed heads feed finches and night-foraging small mammals.
 
-#### 8. Four O’Clocks (Mirabilis jalapa and native Mirabilis spp.)
+**Four O’Clocks (Mirabilis jalapa and native Mirabilis spp.)**
 
 These flowers open in late afternoon and continue releasing fragrance into the night. Their tubular blooms cater to moths and long-tongued beetles, while the plants tolerate heat, drought, and poor soils. A good option for gardeners in warmer climates who want consistent nighttime fragrance.
 
@@ -81,19 +77,19 @@ These flowers open in late afternoon and continue releasing fragrance into the n
 
 These plants enhance nighttime visibility, contribute shelter, or create ecological cues that nocturnal pollinators use for navigation.
 
-#### 9. Silver Artemisia (Artemisia ‘Powis Castle’, A. ludoviciana, and native options)
+**Silver Artemisia (Artemisia ‘Powis Castle’, A. ludoviciana, and native options)**
 
 Artemisia species have silvery, reflective foliage that is excellent for attracting pollinators. Their aromatic leaves deter herbivores during the day but offer excellent cover for beetles and ground-dwelling nocturnal wildlife.
 
-#### 10. White Woodland Phlox (Phlox divaricata and spp.)
+**White Woodland Phlox (Phlox divaricata and spp.)**
 
 This spring-blooming phlox provides early-season food for nocturnal insects, which often have scarce resources in cooler months. It thrives in partial shade and supports diverse moth species.
 
-#### 11. Angel’s Trumpet (Brugmansia or Datura species)
+**Angel’s Trumpet (Brugmansia or Datura species)**
 
-These dramatic, downward-facing blooms release their strongest perfume after dusk, attracting large moths in particular. While the plants are toxic and should be handled with care, their nighttime impact is unparalleled. 
+These dramatic, downward-facing blooms release their strongest perfume after dusk, attracting large moths in particular. While the plants are toxic and aggressive growers, and should be handled with care, their nighttime impact is unparalleled. 
 
-#### 12. Sweet Autumn Clematis (Clematis terniflora or native C. virginiana)
+**Sweet Autumn Clematis (Clematis terniflora or native C. virginiana)**
 
 In late summer and early fall, this vine produces masses of small, white, sweetly scented flowers that stay open through the night. The blooms are highly visible and useful for guiding insects along trellises or fences. 
 
@@ -105,18 +101,21 @@ While grasses don’t provide nectar, they are *essential* to nocturnal garden e
 
 #### Warm-Season Prairie Grasses
 
-*(Examples include little bluestem, side-oats grama, and switchgrass.)*
-These often form airy clumps and produce tall, reflective seedheads. **Little bluestem** in particular often takes on silvery-blue or copper hues that are luminous at night. Numerous skipper and noctuid moth caterpillars adore these grasses, and they provide shelter for beetles and crickets, too. Their structure stays upright through winter, extending the habitat well beyond the growing season.
+*(Examples include little bluestem, side-oats grama, and switchgrass.)*\
+
+These often form airy clumps and produce tall, reflective seedheads. Little bluestem in particular often takes on silvery-blue or copper hues that are luminous at night. Numerous skipper and noctuid moth caterpillars adore these grasses, and they provide shelter for beetles and crickets, too. Their structure stays upright through winter, extending the habitat well beyond the growing season.
 
 #### Cool-Season Grasses
 
 *(Examples include fescues, Junegrass, and wild ryes.)*
-Cool-season grasses start growing earlier in spring and offer early-season forage for larvae when flowers are scarce. **Wild ryes** add height and gentle movement even in partial shade, making them useful near trees or along north-facing borders.
+
+Cool-season grasses start growing earlier in spring and offer early-season forage for larvae when flowers are scarce. Wild ryes add height and gentle movement even in partial shade, making them useful near trees or along north-facing borders.
 
 #### Muhly Grasses
 
 *(Best known: pink muhly, gulf muhly, and bamboo muhly.)*
-Muhly grasses form soft, fountain-like clumps with airy, cloudlike plumes. At night, these plumes often shimmer, giving them a distinctive presence. While they are **not major host plants**, they are excellent **shelter species** for fireflies, ground beetles, and other nocturnal insects that move through their dense bases. 
+
+Muhly grasses form soft, fountain-like clumps with airy, cloudlike plumes. At night, these plumes often shimmer, giving them a distinctive presence. While they are not major host plants, they are excellent shelter species for fireflies, ground beetles, and other nocturnal insects that move through their dense bases. 
 
 #### Wrapping Up
 
