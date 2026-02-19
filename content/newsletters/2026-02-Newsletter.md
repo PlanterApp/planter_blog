@@ -148,7 +148,7 @@ Get a jump start on 2026 garden planning by **copying existing garden plans**.
 
 <a href="https://apps.apple.com/us/app/planter-garden-planner/id1542642210" class="newsletter-button-outline">App Store</a>
 
-<a href="https://planter.garden/gardens" class="newsletter-button-outline">Web*</a>
+<a href="https://planter.garden/app/gardens" class="newsletter-button-outline">Web*</a>
 
 </div>
 
