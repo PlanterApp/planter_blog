@@ -92,7 +92,7 @@ This article explores how frost behaves in the Desert Southwest, how to plan you
 <div class="two-column-container">
 <div class="column">
 
-![](https://4w1qaaek5t.ucarecd.net/d04f2ca2-f981-4696-9560-c3bcef654968/Winter-wellness.jpg)
+![A wintery background with the text Plant a Winter Wellness Garden](https://4w1qaaek5t.ucarecd.net/d04f2ca2-f981-4696-9560-c3bcef654968/Winter-wellness.jpg)
 
 Now’s a great time to plan a winter wellness garden. Imagine being able to step outside and harvest remedies from your yard!
 
