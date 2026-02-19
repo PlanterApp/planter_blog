@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "February 2026 Newsletter"
 date = 2026-02-13T17:00:00.000Z
 author = "The Planter Team"
