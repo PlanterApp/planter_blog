@@ -9,7 +9,7 @@ hideTitle = true
 
 [cover]
 alt = "Planter logo header"
-image = "https://4w1qaaek5t.ucarecd.net/cf04ea2b-97cb-4af8-80f4-4b90794903f2/Newsletter-header.png"
+image = "https://4w1qaaek5t.ucarecd.net/f12b5dd9-2171-4360-a3fe-4373590d4715/Newsletter-header.png"
 +++
 ![Planter logo header](https://4w1qaaek5t.ucarecd.net/4a4b9dd1-67b6-407d-8046-689ab6c7c7dd/Newsletter-header.png)
 
