@@ -1,17 +1,19 @@
 +++
-title = "February 2026 Newsletter"
-date = 2026-02-13T12:00:00-05:00
-author = "The Planter Team"
 draft = true
+title = "February 2026 Newsletter"
+date = 2026-02-13T17:00:00.000Z
+author = "The Planter Team"
 ShowToc = false
+slug = "February 2026 Newsletter"
 hideTitle = true
 
 [cover]
-  alt = "Planter logo header"
-  image = "/newsletter-uploads-temp/Newsletter-header.png"
+alt = "Planter logo header"
+image = "https://4w1qaaek5t.ucarecd.net/cf04ea2b-97cb-4af8-80f4-4b90794903f2/Newsletter-header.png"
 +++
 
-![Planter logo header](/newsletter-uploads-temp/Newsletter-header.png)
+
+![Planter logo header](https://4w1qaaek5t.ucarecd.net/4a4b9dd1-67b6-407d-8046-689ab6c7c7dd/Newsletter-header.png)
 
 Do you have your garden plans finalized and your seeds ordered for this year? If not, now’s the time to start planning in <a href="https://planter.garden/app/gardens"> Planter</a>!
 
@@ -23,14 +25,17 @@ Check out what we’ve been up lately @ Planter:
 <br>
 <br>
 
+![Wave background graphic with a pea pod icon](https://4w1qaaek5t.ucarecd.net/890c988b-5053-4c85-9714-ba0e19ae6144/Wave-top-pea.png)
+
 <img src="/newsletter-uploads-temp/Wave-top-pea.png" class="wave" alt="Wave background graphic with a pea pod icon">
 
 <div class="newsletter-beige-section">
 
 # What's Growing On?
+
 ### New Plants...And Grains!
 
-![Icons for eight new plants in Planter](/newsletter-uploads-temp/New-plant-icons.png)
+![](https://4w1qaaek5t.ucarecd.net/2f122bea-f26f-4306-8602-f288a8ba46cc/New-plant-icons.png)
 
 Heading into the new season we've been busy adding the most upvoted plants from the <a href="https://planter.garden/app/requests"> Planter Request List</a>.
 
@@ -44,11 +49,9 @@ Still missing key plants for your 2026 garden? Add your own custom plants quickl
 
 </div>
 
-
 ### New Plant Quick Info Tiles
 
-
-![Screenshot of new Quick Info tiles in Planter](/newsletter-uploads-temp/Quick-info-tiles.png)
+![A screenshot of plant Quick Info tiles in Planter with two new tiles highlighted](https://4w1qaaek5t.ucarecd.net/3915fe33-5266-4d96-957c-7b910ce73fce/Quick-info-tiles.png)
 
 We've recently added two new plant Quick Info tiles to help with seed starting:
 
@@ -57,6 +60,8 @@ We've recently added two new plant Quick Info tiles to help with seed starting:
 <b>Seedling ID:</b> When starting seeds outdoors it can be tricky to tell what's a seedling and what's a weed. Use the Seedling ID tile to get a sense of what your seedlings or young plant sprouts will look like (hint: select the tile to expand the image).
 
 </div>
+
+![Wave background graphic with a tomato icon](https://4w1qaaek5t.ucarecd.net/967706ca-70b3-4fdb-b543-1d6be9c0203f/Wave-bottom-tomato.png)
 
 <img src="/newsletter-uploads-temp/Wave-bottom-tomato.png" class="wave" alt="Wave background graphic with a tomato icon">
 
@@ -74,15 +79,18 @@ Join Peter, Milan, and Erin as they share their 2026 garden plans in Planter and
 
 </div>
 
-<img src="/newsletter-uploads-temp/Wave-top-carrot.png" class="wave" alt="Wave background graphic with a carrot icon">
+![Wave background graphic with a carrot icon](https://4w1qaaek5t.ucarecd.net/bdc8c7f3-5f53-4ef6-a67b-0a7c5ef7cd1e/Wave-top-carrot.png)
 
+<img src="/newsletter-uploads-temp/Wave-top-carrot.png" class="wave" alt="Wave background graphic with a carrot icon">
 
 <div class="newsletter-beige-section">
 
 # Growing Guide Highlights
-![A spiney cactus covered in frost](/newsletter-uploads-temp/Frozen-cactus.jpg)
+
+![](https://4w1qaaek5t.ucarecd.net/f9448c8a-4ff6-494d-aa58-81415bcdacbd/Frozen-cactus.jpg)
 
 This article explores how frost behaves in the Desert Southwest, how to plan your garden with frost (and even snow) in mind, and practical ways to prepare for sudden cold snaps when they occur.
+
 <div class="button-container">
 
 <a href="https://blog.planter.garden/posts/southwest-frost/" class="newsletter-button">Read: Frost in the Desert Southwest</a>
@@ -92,9 +100,10 @@ This article explores how frost behaves in the Desert Southwest, how to plan you
 <div class="two-column-container">
 <div class="column">
 
-![A screenshot of a wellness garden in Planter on a wintery background with the text 'Plant a Winter Wellness Garden'](/newsletter-uploads-temp/Winter-wellness.jpg)
+![](https://4w1qaaek5t.ucarecd.net/d04f2ca2-f981-4696-9560-c3bcef654968/Winter-wellness.jpg)
 
 Now’s a great time to plan a winter wellness garden. Imagine being able to step outside and harvest remedies from your yard!
+
 <div class="button-container">
 
 <a href="https://blog.planter.garden/posts/plan-a-winter-wellness-garden/" class="newsletter-button">Read: Winter Wellness Garden</a>
@@ -104,7 +113,7 @@ Now’s a great time to plan a winter wellness garden. Imagine being able to ste
 </div>
 <div class="column">
 
-![A close-up of a grey moth on a grey background](/newsletter-uploads-temp/Moth.jpg)
+![](https://4w1qaaek5t.ucarecd.net/60af1fc8-d913-4c2d-ba19-85863f5d1872/Moth.jpg)
 
 Part 1 in a series on nocturnal pollinators: learn who the night pollinators are, why they matter in the garden, and the conditions they need.
 
@@ -117,7 +126,13 @@ Part 1 in a series on nocturnal pollinators: learn who the night pollinators are
 </div>
 </div>
 
+
+
+![Wave background graphic](https://4w1qaaek5t.ucarecd.net/5df71748-ee05-4545-bcb0-e540c36899fb/Wave-bottom.png)
+
 <img src="/newsletter-uploads-temp/Wave-bottom.png" class="wave" alt="Wave background graphic">
+
+![Planter Pointer header](https://4w1qaaek5t.ucarecd.net/4ea49ee8-cc60-4d7f-876b-402a35472e5f/Planter-pointer.png)
 
 <img src="/newsletter-uploads-temp/Planter-pointer.png" alt="Planter Pointer header" class="img-header-centered">
 
@@ -133,10 +148,11 @@ Get a jump start on 2026 garden planning by **copying existing garden plans**.
 
 </div>
 
+![Wave background graphic](https://4w1qaaek5t.ucarecd.net/5cfde140-fecf-4900-8f8f-c5fcd44f950c/Green-wave.png)
+
 <img src="/newsletter-uploads-temp/Green-wave.png" class="wave" alt="Wave background graphic">
 
 <div class="newsletter-green-section">
-
 
 <b><font size=50>Get Planter</font></b>
 <br> Available <b>everywhere</b>
@@ -154,7 +170,7 @@ Get a jump start on 2026 garden planning by **copying existing garden plans**.
 
 <div class="column">
 
-![Image of the Planter app on different devices'](/newsletter-uploads-temp/Planter-devices.png)
+![](https://4w1qaaek5t.ucarecd.net/46f4dcb0-d60b-4cb6-aa30-2eb2af04c606/Planter-devices.png)
 
 </div>
 </div>
@@ -172,5 +188,3 @@ Get a jump start on 2026 garden planning by **copying existing garden plans**.
 </div>
 
 </div>
-
-    
