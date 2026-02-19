@@ -69,7 +69,7 @@ Join Peter, Milan, and Erin as they share their 2026 garden plans in Planter and
 
 <div class="button-container">
 
-<a href="https://planter.garden/podcast/" class="newsletter-button">Tune In to the Latest Podcast</a>
+<a href="https://www.youtube.com/watch?v=PHwn8wuP0e8" class="newsletter-button">Tune In to the Latest Podcast</a>
 
 </div>
 
