@@ -11,8 +11,6 @@ hideTitle = true
 alt = "Planter logo header"
 image = "https://4w1qaaek5t.ucarecd.net/cf04ea2b-97cb-4af8-80f4-4b90794903f2/Newsletter-header.png"
 +++
-
-
 ![Planter logo header](https://4w1qaaek5t.ucarecd.net/4a4b9dd1-67b6-407d-8046-689ab6c7c7dd/Newsletter-header.png)
 
 Do you have your garden plans finalized and your seeds ordered for this year? If not, now’s the time to start planning in <a href="https://planter.garden/app/gardens"> Planter</a>!
@@ -33,7 +31,7 @@ Check out what we’ve been up lately @ Planter:
 
 ### New Plants...And Grains!
 
-![](https://4w1qaaek5t.ucarecd.net/2f122bea-f26f-4306-8602-f288a8ba46cc/New-plant-icons.png)
+![Icons for eight new plants in Planter](https://4w1qaaek5t.ucarecd.net/2f122bea-f26f-4306-8602-f288a8ba46cc/New-plant-icons.png)
 
 Heading into the new season we've been busy adding the most upvoted plants from the <a href="https://planter.garden/app/requests"> Planter Request List</a>.
 
@@ -49,7 +47,7 @@ Still missing key plants for your 2026 garden? Add your own custom plants quickl
 
 ### New Plant Quick Info Tiles
 
-![A screenshot of plant Quick Info tiles in Planter with two new tiles highlighted](https://4w1qaaek5t.ucarecd.net/3915fe33-5266-4d96-957c-7b910ce73fce/Quick-info-tiles.png)
+![Screenshot of new Quick Info tiles in Planter](https://4w1qaaek5t.ucarecd.net/3915fe33-5266-4d96-957c-7b910ce73fce/Quick-info-tiles.png)
 
 We've recently added two new plant Quick Info tiles to help with seed starting:
 
@@ -81,7 +79,7 @@ Join Peter, Milan, and Erin as they share their 2026 garden plans in Planter and
 
 # Growing Guide Highlights
 
-![](https://4w1qaaek5t.ucarecd.net/f9448c8a-4ff6-494d-aa58-81415bcdacbd/Frozen-cactus.jpg)
+![A spiney cactus covered in frost](https://4w1qaaek5t.ucarecd.net/f9448c8a-4ff6-494d-aa58-81415bcdacbd/Frozen-cactus.jpg)
 
 This article explores how frost behaves in the Desert Southwest, how to plan your garden with frost (and even snow) in mind, and practical ways to prepare for sudden cold snaps when they occur.
 
@@ -107,7 +105,7 @@ Now’s a great time to plan a winter wellness garden. Imagine being able to ste
 </div>
 <div class="column">
 
-![](https://4w1qaaek5t.ucarecd.net/60af1fc8-d913-4c2d-ba19-85863f5d1872/Moth.jpg)
+![A close-up of a gray moth on a gray background](https://4w1qaaek5t.ucarecd.net/60af1fc8-d913-4c2d-ba19-85863f5d1872/Moth.jpg)
 
 Part 1 in a series on nocturnal pollinators: learn who the night pollinators are, why they matter in the garden, and the conditions they need.
 
@@ -119,7 +117,6 @@ Part 1 in a series on nocturnal pollinators: learn who the night pollinators are
 </div>
 </div>
 </div>
-
 
 <img src="https://4w1qaaek5t.ucarecd.net/5df71748-ee05-4545-bcb0-e540c36899fb/Wave-bottom.png" class="wave" alt="Wave background graphic">
 
@@ -157,7 +154,7 @@ Get a jump start on 2026 garden planning by **copying existing garden plans**.
 
 <div class="column">
 
-![](https://4w1qaaek5t.ucarecd.net/46f4dcb0-d60b-4cb6-aa30-2eb2af04c606/Planter-devices.png)
+![Image of the Planter app on different devices](https://4w1qaaek5t.ucarecd.net/46f4dcb0-d60b-4cb6-aa30-2eb2af04c606/Planter-devices.png)
 
 </div>
 </div>
