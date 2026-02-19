@@ -47,19 +47,39 @@ var PostPreview = createClass({
 
 CMS.registerPreviewTemplate("posts", PostPreview);
 
+var NewsletterErrorBoundary = createClass({
+  getInitialState: function() {
+    return { hasError: false, error: null };
+  },
+  componentDidCatch: function(error, info) {
+    this.setState({ hasError: true, error: error.toString() });
+  },
+  render: function() {
+    if (this.state.hasError) {
+      return h('div', {style: {padding: '20px', color: 'red', fontFamily: 'monospace'}},
+        h('h2', {}, 'Newsletter Preview Error'),
+        h('pre', {}, this.state.error)
+      );
+    }
+    return this.props.children;
+  }
+});
+
 var NewsletterPreview = createClass({
   render: function() {
     var entry = this.props.entry;
     var hideTitle = entry.getIn(['data', 'hideTitle']);
-    return h('body', {"className": "top"},
+    return h(NewsletterErrorBoundary, {},
+      h('div', {"className": "newsletter-page"},
         h('main', {"className": "main"},
-          h('article', {"className": "post-single newsletter-page"},
+          h('article', {"className": "post-single"},
             !hideTitle && h('header', {"className": "post-header"},
                 h('h1', {"className": "post-title"}, entry.getIn(['data', 'title'])),
             ),
             h('div', {"className": "post-content"}, this.props.widgetFor('body'))
           ),
-       ),
+        ),
+      )
     );
   }
 });
