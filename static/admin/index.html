@@ -146,7 +146,7 @@ const image = {
     match && {
       image: match[2],
       alt: match[1],
-      title: match[4],
+      title: match[4] || '',
     },
   toBlock: ({ alt, image, title }) => {
     imageUrl = image.replace(/ /g, "%20");
@@ -154,14 +154,19 @@ const image = {
   },
   // eslint-disable-next-line react/display-name
   toPreview: ({ alt, image, title }, getAsset, fields) => {
-    const imageField = fields?.find(f => f.get('widget') === 'image');
-    const src = getAsset(image, imageField);
-
-    if (title === null) {
-      return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /></figure>`;
+    let src;
+    if (image && image.startsWith('/')) {
+      src = image;
+    } else {
+      const imageField = fields?.find(f => f.get('widget') === 'image');
+      src = getAsset(image, imageField);
     }
 
-    return `<figure><img src=${src || ''} alt=${alt || ''} title=${title || ''} /><figcaption>${title}</figcaption></figure>`;
+    if (!title) {
+      return `<figure><img src="${src || ''}" alt="${alt || ''}" /></figure>`;
+    }
+
+    return `<figure><img src="${src || ''}" alt="${alt || ''}" title="${title}" /><figcaption>${title}</figcaption></figure>`;
   },
   pattern: /^!\[(.*)\]\(\<*(.*?)\>*(\s"(.*)")?\)$/,
   fields: [
