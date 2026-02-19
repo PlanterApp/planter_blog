@@ -25,9 +25,7 @@ Check out what we’ve been up lately @ Planter:
 <br>
 <br>
 
-![Wave background graphic with a pea pod icon](https://4w1qaaek5t.ucarecd.net/890c988b-5053-4c85-9714-ba0e19ae6144/Wave-top-pea.png)
-
-<img src="/newsletter-uploads-temp/Wave-top-pea.png" class="wave" alt="Wave background graphic with a pea pod icon">
+<img src="https://4w1qaaek5t.ucarecd.net/890c988b-5053-4c85-9714-ba0e19ae6144/Wave-top-pea.png" class="wave" alt="Wave background graphic with a pea pod icon">
 
 <div class="newsletter-beige-section">
 
@@ -61,9 +59,7 @@ We've recently added two new plant Quick Info tiles to help with seed starting:
 
 </div>
 
-![Wave background graphic with a tomato icon](https://4w1qaaek5t.ucarecd.net/967706ca-70b3-4fdb-b543-1d6be9c0203f/Wave-bottom-tomato.png)
-
-<img src="/newsletter-uploads-temp/Wave-bottom-tomato.png" class="wave" alt="Wave background graphic with a tomato icon">
+<img src="https://4w1qaaek5t.ucarecd.net/967706ca-70b3-4fdb-b543-1d6be9c0203f/Wave-bottom-tomato.png" class="wave" alt="Wave background graphic with a tomato icon">
 
 # Social Media Spotlight
 
@@ -79,9 +75,7 @@ Join Peter, Milan, and Erin as they share their 2026 garden plans in Planter and
 
 </div>
 
-![Wave background graphic with a carrot icon](https://4w1qaaek5t.ucarecd.net/bdc8c7f3-5f53-4ef6-a67b-0a7c5ef7cd1e/Wave-top-carrot.png)
-
-<img src="/newsletter-uploads-temp/Wave-top-carrot.png" class="wave" alt="Wave background graphic with a carrot icon">
+<img src="https://4w1qaaek5t.ucarecd.net/bdc8c7f3-5f53-4ef6-a67b-0a7c5ef7cd1e/Wave-top-carrot.png" class="wave" alt="Wave background graphic with a carrot icon">
 
 <div class="newsletter-beige-section">
 
@@ -127,14 +121,9 @@ Part 1 in a series on nocturnal pollinators: learn who the night pollinators are
 </div>
 
 
+<img src="https://4w1qaaek5t.ucarecd.net/5df71748-ee05-4545-bcb0-e540c36899fb/Wave-bottom.png" class="wave" alt="Wave background graphic">
 
-![Wave background graphic](https://4w1qaaek5t.ucarecd.net/5df71748-ee05-4545-bcb0-e540c36899fb/Wave-bottom.png)
-
-<img src="/newsletter-uploads-temp/Wave-bottom.png" class="wave" alt="Wave background graphic">
-
-![Planter Pointer header](https://4w1qaaek5t.ucarecd.net/4ea49ee8-cc60-4d7f-876b-402a35472e5f/Planter-pointer.png)
-
-<img src="/newsletter-uploads-temp/Planter-pointer.png" alt="Planter Pointer header" class="img-header-centered">
+<img src="https://4w1qaaek5t.ucarecd.net/4ea49ee8-cc60-4d7f-876b-402a35472e5f/Planter-pointer.png" alt="Planter Pointer header" class="img-header-centered">
 
 <div class="text-center">
 
@@ -148,9 +137,7 @@ Get a jump start on 2026 garden planning by **copying existing garden plans**.
 
 </div>
 
-![Wave background graphic](https://4w1qaaek5t.ucarecd.net/5cfde140-fecf-4900-8f8f-c5fcd44f950c/Green-wave.png)
-
-<img src="/newsletter-uploads-temp/Green-wave.png" class="wave" alt="Wave background graphic">
+<img src="https://4w1qaaek5t.ucarecd.net/5cfde140-fecf-4900-8f8f-c5fcd44f950c/Green-wave.png" class="wave" alt="Wave background graphic">
 
 <div class="newsletter-green-section">
 
