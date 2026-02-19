@@ -1,14 +1,15 @@
----
-title: "February 2026 Newsletter"
-date: 2026-02-13T12:00:00-05:00
-author: "The Planter Team"
-draft: false
-ShowToc: false
-hideTitle: true
-cover:
-  alt: "Planter logo header"
-  image: "/newsletter-uploads-temp/Newsletter-header.png"
----
++++
+title = "February 2026 Newsletter"
+date = 2026-02-13T12:00:00-05:00
+author = "The Planter Team"
+draft = true
+ShowToc = false
+hideTitle = true
+
+[cover]
+  alt = "Planter logo header"
+  image = "/newsletter-uploads-temp/Newsletter-header.png"
++++
 
 ![Planter logo header](/newsletter-uploads-temp/Newsletter-header.png)
 
