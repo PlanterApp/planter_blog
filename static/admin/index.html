@@ -47,6 +47,25 @@ var PostPreview = createClass({
 
 CMS.registerPreviewTemplate("posts", PostPreview);
 
+var NewsletterPreview = createClass({
+  render: function() {
+    var entry = this.props.entry;
+    var hideTitle = entry.getIn(['data', 'hideTitle']);
+    return h('body', {"className": "top"},
+        h('main', {"className": "main"},
+          h('article', {"className": "post-single newsletter-page"},
+            !hideTitle && h('header', {"className": "post-header"},
+                h('h1', {"className": "post-title"}, entry.getIn(['data', 'title'])),
+            ),
+            h('div', {"className": "post-content"}, this.props.widgetFor('body'))
+          ),
+       ),
+    );
+  }
+});
+
+CMS.registerPreviewTemplate("newsletters", NewsletterPreview);
+
 CMS.registerEditorComponent({
     id: "affiliate",
     label: "Affiliate",
