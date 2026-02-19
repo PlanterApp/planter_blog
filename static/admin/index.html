@@ -154,13 +154,8 @@ const image = {
   },
   // eslint-disable-next-line react/display-name
   toPreview: ({ alt, image, title }, getAsset, fields) => {
-    let src;
-    if (image && image.startsWith('/')) {
-      src = image;
-    } else {
-      const imageField = fields?.find(f => f.get('widget') === 'image');
-      src = getAsset(image, imageField);
-    }
+    const imageField = fields?.find(f => f.get('widget') === 'image');
+    const src = getAsset(image, imageField);
 
     if (!title) {
       return `<figure><img src="${src || ''}" alt="${alt || ''}" /></figure>`;
@@ -168,7 +163,7 @@ const image = {
 
     return `<figure><img src="${src || ''}" alt="${alt || ''}" title="${title}" /><figcaption>${title}</figcaption></figure>`;
   },
-  pattern: /^!\[(.*)\]\(\<*(.*?)\>*(\s"(.*)")?\)$/,
+  pattern: /^!\[(.*)\]\(\<*(?!\/)(.*?)\>*(\s"(.*)")?\)$/,
   fields: [
     {
       label: 'Image',
