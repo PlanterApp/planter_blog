@@ -35,11 +35,15 @@ Fragrance layers beautifully when related notes are placed together—sweet flor
 **Group plants by similar colors or textures.**
 Because moonlight is dim and cool-toned, subtle differences in shade become exaggerated. A dull white blossom can appear grey or dingy next to a glossy, reflective bloom. Keeping color groups consistent—pale yellows with yellows, silvery foliage with silvery foliage—creates harmony and maximizes nighttime glow.
 
+![](https://4w1qaaek5t.ucarecd.net/34e6878b-f072-4b6f-83d8-99c704caf646/petunia-axillaris-light-pink-purple-flowers-pot-with-blurred-background-garden.jpg)
+
 **Build a layered structure.**
-A successful moon garden has vertical and horizontal depth. Trees form the overstory and offer shelter; shrubs provide nesting space and help shield the area from stray light; perennials and groundcovers fill in the understory. Dense plantings, with sheltered gaps spaced throughout, create pockets of warmth and refuge where nighttime insects feel safe to feed and court.
+A successful moon garden has vertical and horizontal depth. Trees can form the overstory and offer shelter; shrubs provide nesting space and help shield the area from stray light; perennials and groundcovers fill in the understory. Dense plantings, with sheltered gaps spaced throughout, create pockets of warmth and refuge where nighttime insects feel safe to feed and court.
 
 **Think seasonally.**
 Many moon gardens peak in summer, but extending bloom time transforms the space into a nighttime refuge from early spring through late fall. Choose early bloomers (such as hellebores or native spring ephemerals) to support the first waking pollinators in February and March, and late-season options (like asters, goldenrod, or autumn-blooming anemones) to keep activity high into October and November.
+
+![](https://4w1qaaek5t.ucarecd.net/e1243311-053a-4982-b7d5-eb91ef0876a9/vintage-background-little-flowers-nature-beautiful-toning-design-spring-nature.jpg "Depth can be created even in very small gardens by making use of all available space.")
 
 ### Building an Ecosystem
 
@@ -68,6 +72,8 @@ On the moon-facing side, plant a tiered bed of white and soft pink flowers. Plac
 
 The mix of reflective foliage and soft, layered textures creates depth under low light, allowing moonbeams to catch on leaves and blooms so the garden appears to shimmer gently after dark.
 
+![](https://4w1qaaek5t.ucarecd.net/11505837-bfce-4818-b01c-e3c45f0f0ca4/bright-flowers-cute-leaves.jpg "Color contrasts can be as dramatic at night as they are during the day")
+
 **Mini Paradise**
 Ideal for patios or small spaces. Arrange three large pots in an L-shape and two smaller pots in front for depth. In one large pot, build a garden-cane pyramid with a pale-flowered or silver-foliage vine, underplanted with glossy, fragrant herbs and small flowers.
 
@@ -76,9 +82,11 @@ Fill the smaller pots with dwarf shrubs and frame them with trailing plants or g
 This mix of pots will retain heat well in their cluster and create a dense, vibrant pollinator paradise.
 
 **Wild Wonderland**
-For larger gardens, choose a canopy tree with one or two understory trees and fill spaces with bunch grasses, shrubs, and mossy pockets. Create gentle hills, a small pond with partial afternoon shade, and plant marsh-loving species and flowers around it.
+For larger gardens, choose a canopy tree with one or two understory trees and fill spaces with bunch grasses, shrubs, and mossy pockets. Create gentle rises and dips, a small pond with partial afternoon shade, and plant marsh-loving species and flowers around it.
 
 Mulch heavily and leave some dead wood in semi-open spaces for insects and other nocturnal wildlife. Install a bird box once trees mature, space small solar lights a few feet apart, and place a bench in a suitable place so you can comfortably enjoy the garden.
+
+![](https://4w1qaaek5t.ucarecd.net/0b0c934e-4e39-4a76-8668-d985d9f675ed/-/crop/2988x2228/1044,796/-/preview/high-angle-view-pond.jpg)
 
 ### Wrapping Up
 
