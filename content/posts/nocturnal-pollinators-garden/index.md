@@ -1,17 +1,22 @@
 +++
-draft = true
+draft = false
 title = "Creating a Moon Garden"
 slug = "nocturnal-pollinators-garden"
+date = "2026-02-20T01:40:00.000Z"
 author = "Sam Liddicott"
 series = ["Nocturnal Pollinators"]
 tags = ["Nocturnal Pollinators ", "Moon Gardens"]
 
 [cover]
 relative = false
+caption = "A firefly sitting on a rose"
+image = "https://4w1qaaek5t.ucarecd.net/2f5d8d8b-4583-45cd-9853-ffb1d81d9c59/female-firefly-sitting-rose-glowing.jpg"
 +++
 Moon gardens are a beautiful way to attract night-active pollinators while giving you a peaceful place to enjoy them. There’s no single blueprint for designing one—what matters most is creating a space you’ll love spending time in. The principles from Parts 1 and 2 will naturally shape many of your choices, helping you build a serene pocket of nocturnal habitat.
 
 In Part 3 of this series, we’ll explore practical tips, design ideas, and simple strategies for creating your own moon garden.
+
+![](https://4w1qaaek5t.ucarecd.net/578c8cf6-3a68-4108-87b3-03e8bea4f83a/closeup-shot-hand-trowel-green-grass.jpg)
 
 ### Choosing a Location
 
@@ -20,6 +25,8 @@ A moon garden is best placed where moonlight naturally falls, ideally in a spot 
 {{< notice tip >}}Most moon-garden plants still need sun for photosynthesis, so aim for a healthy balance between moonlight and sunlight.{{< /notice >}}
 
 Pay attention to wind and microclimate. Light evening breezes will help fragrance travel, but too much wind can disrupt pollinators. Sheltered spots will hold scent “pockets” and stay slightly warmer after dark, extending nighttime activity for moths, beetles, and fireflies.
+
+![](https://4w1qaaek5t.ucarecd.net/f2ef3fa4-f3ef-4fb5-a945-d0aef0d8f2ee/dandelion-seed.jpg "Large plants, such as trees and shrubs, will also help reduce sun and wind exposure.")
 
 Consider also how you plan to experience the garden. Create it where it is accessible to you. Even small courtyards, balconies, or narrow side yards can work as miniature moon gardens, especially when enhanced with pots and trellises.
 
