@@ -173,7 +173,8 @@ collections:
         required: true
       - label: "Date"
         name: "date"
-        widget: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DDThh:mm:ss.SSS[Z]"
         required: false
       - label: "Author"
         name: "author"
