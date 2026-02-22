@@ -143,4 +143,8 @@
     margin-bottom: 10px;
 }
 
-
+@media (max-width: 768px) {
+    .newsletter-page .post-content .two-column-container {
+        flex-direction: column;
+    }
+}
