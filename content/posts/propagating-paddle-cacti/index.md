@@ -21,7 +21,7 @@ Paddle cacti grow in distinct segments that are designed to detach. Each pad is 
 
 Paddle cacti are best propagated in mid-spring when the chance of frost is well past, and the plants have taken in the winter rains, although any season but winter will work with some adaptations.
 
-{{< notice tip >}}Cacti have both small and large spines. Wear thick, heavy gloves and cover exposed skin to keep you safe. Tongs are great for keeping cactus at arms length too.{{< /notice >}}
+{{< notice tip >}}Cacti have both small and large spines. Wear thick, heavy gloves and cover exposed skin to keep you safe.{{< /notice >}}
 
 ### Choosing a Good Pad
 
@@ -33,9 +33,11 @@ Age matters too. A pad that’s at least a year old has already adapted to the l
 
 Size is the most reliable factor in choosing a pad. Larger pads can root, but they take longer to settle and are more likely to topple or stay unstable in the soil. In practice, pads between three and eight inches tend to root the most reliably as they are well-sized and not too old.
 
+![Paddle cactus with healthy green pads](https://4w1qaaek5t.ucarecd.net/0f93b1e6-c39a-4390-825e-5380f74fb857/PXL_20260227_220454901.RAW-01.COVER.jpg "The pads on this cactus are healthy and free from damage")
+
+
 {{< notice tip >}}If you want a head start on a fuller plant, you can also take two connected pads. They root in much the same way, and the extra stored energy often results in faster top growth once established.{{< /notice >}}
 
-![Paddle cactus with healthy green pads](https://4w1qaaek5t.ucarecd.net/0f93b1e6-c39a-4390-825e-5380f74fb857/PXL_20260227_220454901.RAW-01.COVER.jpg "The pads on this cactus are healthy and free from damage")
 
 ### Removing the Pad
 
@@ -69,7 +71,7 @@ When the pad has rooted, acclimate the cactus to the conditions of its final pla
 
 A moderate soak once a month for the first 3-6 months will help the cactus naturalize itself to the rainfall in your area, and from then on it should be plain sailing!
 
-![Opuntia in the ground](https://4w1qaaek5t.ucarecd.net/c8fb6603-488a-4223-9d4f-4c44a2a1fd50/PXL_20260227_220625273.RAW-01.COVER.jpg "This is a double-pad transplant after 1 year of growth in the ground.")
+![Opuntia in the ground](https://4w1qaaek5t.ucarecd.net/c8fb6603-488a-4223-9d4f-4c44a2a1fd50/PXL_20260227_220625273.RAW-01.COVER.jpg "This is a double-pad transplant after 18 months of growth.")
 
 ### Problems to Watch For
 
@@ -86,3 +88,5 @@ Even with good pads and proper soil, a few issues can show up during propagation
 ### Wrapping Up
 
 Working with paddle cacti is incredibly rewarding. After just a couple of years of propagating you can have many more thriving plants, each producing fruit and flowers for you and wildlife to enjoy.
+
+Check out the other articles in this series to learn how to propagate other cactus types.
