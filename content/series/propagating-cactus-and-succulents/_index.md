@@ -1,6 +1,6 @@
 +++
-draft = true
-title = "Propagating Cactus and Succulents"
+draft = false
+title = "Propagating Cacti and Succulents"
 description = "A guide on common types and the ways to increase the rooting rate."
 slug = "Propagating Cactus and Succulents"
 
