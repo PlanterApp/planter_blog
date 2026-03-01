@@ -61,7 +61,7 @@ Blueberry bushes can be a perfect edible plant for beauty, as long as you give t
 
 Lavender is a top choice for the edible garden because it’s very easy to grow in the right environment. It thrives in very warm weather and plenty of sun, but most importantly, the roots have very good drainage. Lavender buds are highly fragrant and used in baking, cooking, making syrups, and teas. Use English (*angustifolia)* varieties for culinary use. Other types can have a more “soapy” flavor and are better used for aromatherapy. ​
 
-###  The Last Layer
+### The Last Layer
 
 The final layer is of course, plants that are short, low-growing, or groundcover. Let’s explore a few:​
 
