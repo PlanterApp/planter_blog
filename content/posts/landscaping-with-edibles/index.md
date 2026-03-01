@@ -27,8 +27,6 @@ Traditionally used for hedges because its spiky thorns act as a natural deterren
 
 ​Fruit trees can be planted for height in the back of a border. Dwarf tree varieties offer compact solutions for smaller gardens.  Many fruit trees can be trained in the style of espalier,  parallel tiers, to create a “living fence”. Pear and apple trees are perfect for this style of growing. 
 
-
-
 ####  ​Elderberry
 
  ​Elderberry plants are good choices for the edible garden. In the spring, their flowers can be used to make fermented drinks or battered for a tasty spring treat. In the fall, their berries are packed with anthocyanins and are commonly used to make elderberry syrup. The birds love the berries too. Be sure to use the *Sambucus nigra* varieties and research the proper ways to prepare elderberries for consumption. ​
@@ -37,9 +35,13 @@ Traditionally used for hedges because its spiky thorns act as a natural deterren
 
 ​If you live in the Southwestern United States or Mexico, the mesquite tree (*Prosopis spp*.) is a lovely addition to an edible garden.  The pods are edible and have been harvested for centuries by indigenous people, who prepare and mill them into flour.  Pods can be harvested when they are ripe.  Mesquite pods must be properly dried before milling, so be sure to research this before attempting. Even if you don’t plan on using the pods, these trees are beautiful in a desert garden.
 
+![mesquite tree in the desert near a path](https://4w1qaaek5t.ucarecd.net/85efd5f5-a263-4fc2-84d6-fd4358760d30/kelsey-farish-1GriwUbxkVA-unsplash.jpg)
+
 #### ​Olive Trees
 
 ​Olive trees can give your garden a beautiful Mediterranean look, even if you don’t live in a warm environment. Olive trees can be grown in containers and protected over the winter months.  Olive trees look really nice with other edible Mediterranean plants like lavender and rosemary. ​
+
+![olive trees in little pots](https://4w1qaaek5t.ucarecd.net/12727cc5-9514-4132-86c8-fd5a27b858d2/anita-austvika-i9G2kELXsyk-unsplash.jpg)
 
 ### Second Layer
 
