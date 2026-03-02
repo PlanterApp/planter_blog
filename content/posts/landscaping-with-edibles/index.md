@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Landscaping with Edibles"
 slug = "landscaping-with-edibles"
 date = "2026-03-01T02:03:00.000Z"
