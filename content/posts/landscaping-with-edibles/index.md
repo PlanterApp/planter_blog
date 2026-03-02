@@ -93,7 +93,7 @@ Oregano is similar to thyme in terms of versatility.  Little white flowers are 
 * Add plants for movement, but instead of grass, choose fennel, dill,  and asparagus, which will wave in the wind. ​
 
   ![dill plant in the garden](https://4w1qaaek5t.ucarecd.net/1a79ee3c-20b1-460c-a718-70772668baf3/dill.JPEG "Dill waving in the wind")
-* More edibles to landscape with: chives, sunflowers, dahlias, calendula, lilac, and hostas.
+* More edibles to landscape with: citrus trees, chives, sunflowers, dahlias, calendula, lilac, and hostas.
 
   ![hosta leaves up close](https://4w1qaaek5t.ucarecd.net/06a51884-e9c8-4cb7-9f70-52bb3f218eff/laura-adai-ERoqZHhmc7w-unsplash.jpg "Young hosta shoots are a favorite in Japan")
 
