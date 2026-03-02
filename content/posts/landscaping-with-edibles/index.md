@@ -29,7 +29,7 @@ Traditionally used for hedges because its spiky thorns act as a natural deterren
 
 ####  ​Elderberry
 
- ​Elderberry plants are good choices for the edible garden. In the spring, their flowers can be used to make fermented drinks or battered for a tasty spring treat. In the fall, their berries are packed with anthocyanins and are commonly used to make elderberry syrup. The birds love the berries too. Be sure to use the *Sambucus nigra* varieties and research the proper ways to prepare elderberries for consumption. ​
+Elderberry plants are good choices for the edible garden. In the spring, their flowers can be used to make fermented drinks or battered for a tasty spring treat. In the fall, their berries are packed with anthocyanins and are commonly used to make elderberry syrup. The birds love the berries too. Be sure to use the *Sambucus nigra* varieties and research the proper ways to prepare elderberries for consumption. ​
 
 #### Mesquite Trees
 
@@ -53,11 +53,15 @@ Rosemary is great for the edible garden because it comes in many sizes. You can 
 
 #### ​Roses
 
-Roses are a classic in any garden.  From climbers and ramblers, to floribundas and shrub types, there is a rose for everyone. The best roses for edible purposes are the species kinds. Dried rose petals make a lovely addition to tea blends or jellies. In the fall, rose hips look pretty, and you can make rose hip jams.
+Roses are a classic in any garden.  From climbers and ramblers, to floribundas and shrub types, there is a rose for everyone. The best roses for edible purposes are the species kinds like *Rugosa*. Dried rose petals make a lovely addition to tea blends or jellies. In the fall, rose hips look pretty, and you can make rose hip jams.
+
+![roses growing on a brick wall](https://4w1qaaek5t.ucarecd.net/189175e9-1bce-4471-970f-86e5754cce6b/annie-spratt-oMdGkUch5t4-unsplash.jpg)
 
 #### ​Blueberry
 
-Blueberry bushes can be a perfect edible plant for beauty, as long as you give them the right conditions. Blueberry bushes prefer acidic soil.  Blueberries can be grown in containers.  In the autumn, the leaves offer color interest.
+Blueberry bushes can be a perfect edible plant for beauty, as long as you give them the right conditions. Blueberry bushes prefer acidic soil.  Blueberries can be grown in containers.  In the autumn, the leaves offer seasonal color interest.
+
+![blueberry leaves changing colors in the fall ](https://4w1qaaek5t.ucarecd.net/001be4c6-ae27-4f16-8387-1d9a0dade077/kasia-gajek-koEc8kgrms0-unsplash.jpg "Blueberry leaves in the autumn")
 
 #### ​Lavender
 
@@ -71,6 +75,8 @@ The final layer is of course, plants that are short, low-growing, or groundcover
 
 ​Lingonberries are related to blueberries and cranberries, native to Scandinavia, Europe, and northern areas of the United States, such as Alaska and the Pacific Northwest.  Lingonberries are a unique plant to grow and are starting to appear around some nurseries.  If you are looking to try something new and live in an area with cooler temperatures and acidic soil, why not grow a few lingonberry plants as groundcover?   Lingonberries can be grown in the same area as blueberries, too.  The shiny leaves are evergreen, providing year-round interest. The little red berries are tart and similar in taste to cranberries. Although you’d need quite a few productive plants to really make a good harvest, the lingonberry is a fun plant to add to an edible garden. ​ 
 
+![lingonberry plants growing along the ground](https://4w1qaaek5t.ucarecd.net/fc91636c-e0c9-40ca-8899-5b15eafe6033/malin-k-4p3SBralc6w-unsplash.jpg)
+
 #### Thyme
 
 Thyme is such a versatile plant: a culinary herb, a medicinal herb, good for pollinators, and an ornamental. Grow thyme as an attractive ground cover or between pavers or pathways. ​
@@ -82,8 +88,13 @@ Oregano is similar to thyme in terms of versatility.  Little white flowers are 
 ### More Ideas​
 
 * Grow a combination of climbing edibles like tomatoes and nasturtiums up a trellis for a colorful centerpiece of the garden​. 
-* Rhubarb plants make a statement in the spring with their red and green combination​Create a  tunnel with cucumbers, squash, or extra small pumpkins.​
-* Add plants for movement, instead of grass, choose fennel and asparagus, which will wave in the wind. ​
-* More edibles to landscape with-​Chives, sunflowers, dahlias, calendula, lilac, and hostas.
+* Rhubarb plants make a statement in the spring with their red and green combination​.
+* Create a veggie tunnel by growing cucumbers, squash, or extra small pumpkins over an arched trellis. 
+* Add plants for movement, but instead of grass, choose fennel, dill,  and asparagus, which will wave in the wind. ​
+
+  ![dill plant in the garden](https://4w1qaaek5t.ucarecd.net/1a79ee3c-20b1-460c-a718-70772668baf3/dill.JPEG "Dill waving in the wind")
+* More edibles to landscape with: chives, sunflowers, dahlias, calendula, lilac, and hostas.
+
+  ![hosta leaves up close](https://4w1qaaek5t.ucarecd.net/06a51884-e9c8-4cb7-9f70-52bb3f218eff/laura-adai-ERoqZHhmc7w-unsplash.jpg "Young hosta shoots are a favorite in Japan")
 
 ​With edible landscaping, you get to enjoy your garden with all of your senses!  Start planning your dream foodie garden today with the [Planter App](https://planter.garden/).
