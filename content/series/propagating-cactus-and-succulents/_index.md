@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Propagating Cacti and Succulents"
-description = "A guide on common types and the ways to increase the rooting rate."
+description = "A series on propagating cacti and succulent"
 slug = "Propagating Cactus and Succulents"
 
 [cover]
