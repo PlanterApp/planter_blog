@@ -29,7 +29,7 @@ In this article, we’ll dive into propagation techniques and methods for growin
 
 There are three main methods for agave propagation, and each comes at a different stage of an agave’s life cycle. 
 
-#### Pups
+### Pups
 
 This is the easiest and most accessible method, as most agave species produce pups regularly. Agave americana, for example, will produce a handful of pups every year if the conditions are right and the plant is mature enough – usually after 3-4 years. Some agaves are solitary, however, such as A. ovatifolia, which won’t produce pups until they flower.
 
@@ -84,7 +84,7 @@ When the pup has firm roots and a rich, even color, it’s ready for the ground 
 
 {{< notice tip >}} Agaves transplant best when replanted in the same orientation they were growing. Marking the pot or the plant before removal makes it easy to keep track of this.{{< /notice >}}
 
-#### Bulbils
+### Bulbils
 
 Bulbils are the second major way to propagate agave. When a mature plant sends up its towering flower stalk, some species produce hundreds of tiny plantlets along the spent bloom stems. 
 
