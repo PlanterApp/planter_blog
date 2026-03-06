@@ -2,7 +2,7 @@
 draft = true
 title = "Propagating Agave"
 slug = "propagating-agave"
-date = "2026-03-06T11:35:00.000Z"
+date = "2026-03-06T11:26:00.000Z"
 author = "Sam Liddicott"
 plants = ["Agave"]
 series = ["Propagating Cacti and Succulents"]
