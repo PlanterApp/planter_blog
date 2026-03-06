@@ -2,7 +2,7 @@
 draft = true
 title = "Propagating Agave"
 slug = "propagating-agave"
-date = "2026-03-06T11:21:00.000Z"
+date = "2026-03-06T11:35:00.000Z"
 author = "Sam Liddicott"
 plants = ["Agave"]
 series = ["Propagating Cacti and Succulents"]
@@ -20,8 +20,10 @@ Agaves are incredibly resilient plants and a staple in desert and xeriscape gard
 
 In this article, we’ll dive into propagation techniques and methods for growing agave. Let's dive in.
 
-![Flowering agave montana](https://4w1qaaek5t.ucarecd.net/5e6703a6-30e5-4ae3-bc4e-ccebfea33e8e/-/crop/904x1534/0,108/-/preview/Flowering_agave_montana.jpg "
-\"[Flowering agave montana](https://commons.wikimedia.org/w/index.php?curid=90604431)\" by [Pete Forsyth](https://commons.wikimedia.org/wiki/User:Peteforsyth) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/?ref=openverse). (Cropped for size)")
+{{< notice tip >}} Gloves and long sleeves are helpful when working with agave. Eye protection can also help when working with larger mother plants.{{< /notice >}}
+
+![Flowering agave montana](https://4w1qaaek5t.ucarecd.net/5e6703a6-30e5-4ae3-bc4e-ccebfea33e8e/-/crop/904x1534/0,108/-/preview/Flowering_agave_montana.jpg '
+"[Flowering agave montana](https://commons.wikimedia.org/w/index.php?curid=90604431)" by [Pete Forsyth](https://commons.wikimedia.org/wiki/User:Peteforsyth) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/?ref=openverse). (Cropped for size)')
 
 ### The Primary Propagation Methods
 
@@ -80,14 +82,16 @@ Water until the soil is damp, then let it dry completely. After that, water spar
 
 When the pup has firm roots and a rich, even color, it’s ready for the ground or a larger pot. Acclimate it to full sun before planting. Water every two weeks for 1-2 months, then let natural rainfall take over. Some agave root in a matter of weeks, while others take a few months.
 
+{{< notice tip >}} Agaves transplant best when replanted in the same orientation they were growing. Marking the pot or the plant before removal makes it easy to keep track of this.{{< /notice >}}
+
 #### Bulbils
 
 Bulbils are the second major way to propagate agave. When a mature plant sends up its towering flower stalk, some species produce hundreds of tiny plantlets along the spent bloom stems. 
 
 Not every agave makes bulbils. Species such as Agave americana and A. vivipara are very reliable producers, while others, such as Agave shawii, do not produce any at all.
 
-![](https://4w1qaaek5t.ucarecd.net/1a3afde6-fff6-4c3a-97ee-18295be0ddc8/37603052852_b82fe0c013_b.jpg "
-\"[Agave americana bulbils on short stem](https://www.flickr.com/photos/139791896@N06/37603052852)\" by [Mary Gillham Archive Project](https://www.flickr.com/photos/139791896@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).")
+![](https://4w1qaaek5t.ucarecd.net/1a3afde6-fff6-4c3a-97ee-18295be0ddc8/37603052852_b82fe0c013_b.jpg '
+"[Agave americana bulbils on short stem](https://www.flickr.com/photos/139791896@N06/37603052852)" by [Mary Gillham Archive Project](https://www.flickr.com/photos/139791896@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).')
 
 ##### Harvesting and Rooting Bulbils
 
@@ -122,7 +126,6 @@ When the bulbil resists a gentle tug or begins producing new leaves, shift to de
 
 When the bulbil has firm roots and a rich, even color, it’s ready for the ground or a larger pot. Acclimate it to full sun before planting. Water every two weeks for 1-2 months, then let natural rainfall take over. Some agave root in a matter of weeks, while others take a few months.
 
-
 ![](https://4w1qaaek5t.ucarecd.net/8cc49ea6-97c2-45fe-980a-029acc5445d0/agave-plant-potted-decorative.jpg "Many agave will grow well in containers as well as in the ground.")
 
 ### Seed Propagation
@@ -137,14 +140,16 @@ Once you’ve collected the pods, the seeds need a short drying period to ensure
 * Let them air‑dry for **3–7 days** in a warm, shaded spot with good airflow.
 * Once fully dry, the seeds should feel firm and papery, not flexible or tacky.
 
+{{< notice info >}} Most agave seed is viable for just 1-2 years after gathering.{{< /notice >}}
+
 ##### Sowing Agave Seed
 
 Warmth, light, and a gritty, sterile medium are the three pillars of successful germination. Agave seedlings are surprisingly easy to grow when these conditions are met.
 
 Planting in late spring is best. Warm soil (70–85°F) speeds germination and reduces the risk of fungi.
 
-![Tall agave stalk with seeds](https://4w1qaaek5t.ucarecd.net/119f3c70-9867-4bed-8665-8f8e621323d8/Agave_utahensis_seed_pods_on_stalk.jpg "
-\"[File:Agave utahensis seed pods on stalk.jpg](https://commons.wikimedia.org/w/index.php?curid=2426584)\" by Ed Grether is licensed under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/?ref=openverse).")
+![Tall agave stalk with seeds](https://4w1qaaek5t.ucarecd.net/119f3c70-9867-4bed-8665-8f8e621323d8/Agave_utahensis_seed_pods_on_stalk.jpg '
+"[File:Agave utahensis seed pods on stalk.jpg](https://commons.wikimedia.org/w/index.php?curid=2426584)" by Ed Grether is licensed under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/?ref=openverse).')
 
 **Tools you’ll need**
 
@@ -182,7 +187,6 @@ When seedlings have several true leaves and a small root system, move them into 
 **Watch and wait.** 
 
 After 1–2 years of steady growth and proper acclimation, young agaves are ready for transplanting into the garden in spring. Acclimate young starts in the same way you would pups or bulbils in early-mid spring.
-
 
 ![Group of agave in small pots](https://4w1qaaek5t.ucarecd.net/eb065eee-b3ec-47fa-8fe9-e141637674ba/top-view-light-green-succulents-pots-standing-wooden-surface.jpg "When agave starts are around 2-3 inches in size, they are usually ready to transplant into the ground.")
 
