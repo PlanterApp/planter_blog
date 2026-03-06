@@ -25,7 +25,7 @@ There are three main methods for agave propagation, and each comes at a differen
 
 This is the easiest and most accessible method, as most agave species produce pups regularly. Agave americana, for example, will produce a handful of pups every year if the conditions are right and the plant is mature enough – usually after 3-4 years. Some agaves are solitary, however, such as A. ovatifolia, which won’t produce pups until they flower.
 
-##### Choosing a Good Pup
+**Choosing a Good Pup**
 
 A few cues help you pick the strongest candidates:
 
@@ -35,116 +35,127 @@ A few cues help you pick the strongest candidates:
 
 Avoid pups that are yellowing, shriveled, or growing in deep shade under the parent—they often struggle to establish.
 
-### **Tools you’ll need**
+**Tools you’ll need**
 
 * A small garden trowel
 * A sharp, sterilized knife, pruning saw, or pruning shears
+* Thick gloves (agave can be spiky!)
 * A pot filled with fast‑draining sandy cactus mix
 
-### **Step-by-step process**
+**Steps:**
 
-1. Use the trowel to gently excavate around the pup until you can see where it connects to the mother plant, keeping as many roots intact as possible. Not all pups will have roots, and that’s okay.
+Use the trowel to gently excavate around the pup until you can see where it connects to the mother plant, keeping as many roots intact as possible. Not all pups will have roots, and that’s okay.
 
-### **Removing the Pup**
+**Removing the Pup**
 
-1. If the pup is attached by a fleshy tuber or rhizome, cut it as close to the mother plant as you can. Avoid ripping or twisting—the flesh is delicate. Loosen the surrounding soil and lift the pup from the base of the plant.
+If the pup is attached by a fleshy tuber or rhizome, cut it as close to the mother plant as you can. Avoid ripping or twisting as the flesh is delicate. Loosen the surrounding soil and lift the pup from the base of the plant.
 
-### **Callusing**
+**Callusing**
 
-1. Set the pup in bright, indirect light for one to three days. The cut end should dry into a firm, matte, corky surface. If the pup has no tuber, only roots, you can plant it immediately, either in a pot or in the ground.
+Set the pup in bright, indirect light for one to three days. The cut end should dry into a firm, matte, corky surface. If the pup has no tuber, only roots, you can plant it immediately, either in a pot or in the ground.
 
-### **Planting**
+**Planting**
 
-1. Place the pup so the base sits on the soil surface. Agaves are prone to rotting at the rosette base, so bury only the roots and tubers.
+Place the pup so the base sits on the soil surface. Agaves are prone to rotting at the rosette base, so bury only the roots and tubers.
 
-### **Early Watering**
+**Early Watering**
 
-1. Water until the soil is damp, then let it dry completely. After that, water sparingly but regularly to encourage new root growth—once a week is a good guide.
+Water until the soil is damp, then let it dry completely. After that, water sparingly but regularly to encourage new root growth—once a week is a good guide.
 
-### **Transplanting**
+**Transplanting**
 
-1. When the pup has firm roots and a rich, even color, it’s ready for the ground or a larger pot. Acclimate it to full sun before planting. Water every two weeks for 1-2 months, then let natural rainfall take over. Some agave root in a matter of weeks, while others take a few months.
+When the pup has firm roots and a rich, even color, it’s ready for the ground or a larger pot. Acclimate it to full sun before planting. Water every two weeks for 1-2 months, then let natural rainfall take over. Some agave root in a matter of weeks, while others take a few months.
 
 #### Bulbils
 
-Bulbils are the second major way agaves reproduce. When a mature plant sends up its towering flower stalk, some species produce hundreds of tiny plantlets along the spent bloom stems. 
+Bulbils are the second major way to propagate agave. When a mature plant sends up its towering flower stalk, some species produce hundreds of tiny plantlets along the spent bloom stems. 
 
 Not every agave makes bulbils. Species such as Agave americana and A. vivipara are very reliable producers, while others, such as Agave shawii, do not produce any at all.
 
-#### Harvesting and Rooting Bulbils
+##### Harvesting and Rooting Bulbils
 
 Bulbils root easily and with a high success rate. By late summer, as the stalk dries, they typically reach 2–3 inches tall and develop a pale, slightly white base. A gentle tug should detach them; if they resist or feel soft, give them more time.
 
-### **Step-by-step process**
+**Tools you’ll need**
 
-1. Use clean fingers to detach the bulbil. Avoid tearing the base—this is where new roots will emerge.
+* A small garden trowel
+* Thick gloves (agave can be spiky!)
+* Pots of seedling trays with fast-draining cactus soil
 
-Callusing
+**Steps:**
 
-1. Allow one to two days of callusing. Their thin tissues dry quickly, so avoid long waits that can dehydrate them.
+With your hands, detach the bulbil with a gentle tug. Avoid tearing the base—this is where new roots will emerge.
 
-Planting
+**Callusing**
 
-1. Set the bulbil on top of a gritty cactus mix or nestle it slightly into the surface. A coarse, fast‑draining blend prevents moisture from lingering around the base.
+Allow 1-5 days of callusing. Once the base has turned white and looks a little corky, they're ready to plant.
 
-Early Watering
+**Planting**
 
-1. Keep the soil barely moist. Light misting every few days is usually enough until roots form.
+Set the bulbil on top of a gritty cactus mix and nestle it slightly into the surface. A coarse, fast‑draining blend prevents moisture from lingering around the base. Pebbles are good for support.
 
-Increasing Water
+**Early Watering**
 
-1. When the bulbil resists a gentle tug or begins producing new leaves, shift to deeper but infrequent watering—about once a week.
+Keep the soil barely moist. Light misting every few days is usually enough until roots form.
 
-Transplanting
+**Increasing Water**
 
-1. Once roots fill the pot and growth is steady, move the young agave to a larger container or into the ground. Harden it off gradually to outdoor conditions.
+When the bulbil resists a gentle tug or begins producing new leaves, shift to deeper but infrequent watering—about once a week.
+
+**Transplanting**
+
+When the bulbil has firm roots and a rich, even color, it’s ready for the ground or a larger pot. Acclimate it to full sun before planting. Water every two weeks for 1-2 months, then let natural rainfall take over. Some agave root in a matter of weeks, while others take a few months.
+
 
 ### Seed Propagation
 
 Seed propagation is the slowest but most genetically diverse way to grow agave. While pups and bulbils produce clones, seeds introduce variation that strengthens long‑term resilience. Agave seeds are short‑lived, so fresher seed almost always germinates better than older seed.
 
-#### Sowing Agave Seed
+##### Sowing Agave Seed
 
 Warmth, light, and a gritty, sterile medium are the three pillars of successful germination. Agave seedlings are surprisingly easy to grow when these conditions are met.
 
 Planting in late spring is best. Warm soil (70–85°F) speeds germination and reduces the risk of fungi.
 
-### **Materials you’ll need**
+**Tools you’ll need**
 
 * A shallow tray or small pots
 * Sterile, fast‑draining seed mix (cactus mix with added pumice or sand)
 * A spray bottle
 * A humidity dome or clear cover (optional but helpful)
 
-### **Steps**
+**Steps**
 
 **Prepare the soil.**  
 
-1. Fill your tray or pots with a gritty, sterile mix.
+Fill your tray or pots with a gritty, sterile mix.
 
 **Sow the seeds.**  
 
-1. Press the seeds gently into the surface. They need light to germinate, so keep them exposed or only lightly covered.
+Press the seeds gently into the surface. They need light to germinate, so keep them only lightly covered.
 
 **Moisten and cover.**  
 
-1. Mist the soil until damp, then cover the tray with a humidity dome. Keep the mix lightly moist—not wet—and vent daily to prevent fungal growth.
+Mist the soil until damp, then cover the tray with a humidity dome. Keep the mix lightly moist—not wet—and vent daily to prevent fungal growth.
 
 **Provide bright, indirect light.**  
 
-1. Most seeds germinate within 7–21 days under warm, bright conditions.
+Most seeds germinate within 7–21 days under warm, bright conditions.
 
 **Care for seedlings.**  
 
-1. Once sprouted, water from the bottom to avoid disturbing the roots and allow the soil to dry slightly between waterings.
+Once sprouted, water from the bottom to avoid disturbing the roots and allow the soil to dry slightly between waterings.
 
 **Transplant when sturdy.**  
 
-1. When seedlings have several true leaves and a small root system, move them into individual pots filled with gritty cactus mix.
+When seedlings have several true leaves and a small root system, move them into individual pots filled with gritty cactus mix. Water them deeply and infrequently, watching for signs of over- and under-watering. 
 
-**Grow on before planting out.**  
+**Wait a few years.** 
 
-1. After 1–2 years of steady growth and proper acclimation, young agaves are ready for transplanting into the garden in spring.
+After 1–2 years of steady growth and proper acclimation, young agaves are ready for transplanting into the garden in spring.
+
+Acclimate agave to full sun before planting. Water every two weeks for 1-2 months, then let natural rainfall take over. Some agave root in a matter of weeks, while others take a few months.
+
 
 ### Wrapping Up
 
