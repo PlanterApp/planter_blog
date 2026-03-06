@@ -93,7 +93,7 @@ Not every agave makes bulbils. Species such as Agave americana and A. vivipara a
 ![](https://4w1qaaek5t.ucarecd.net/1a3afde6-fff6-4c3a-97ee-18295be0ddc8/37603052852_b82fe0c013_b.jpg '
 "[Agave americana bulbils on short stem](https://www.flickr.com/photos/139791896@N06/37603052852)" by [Mary Gillham Archive Project](https://www.flickr.com/photos/139791896@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).')
 
-##### Harvesting and Rooting Bulbils
+**Harvesting and Rooting Bulbils**
 
 Bulbils root easily and with a high success rate. By late summer, as the stalk dries, they typically reach 2–3 inches tall and develop a pale, slightly white base. A gentle tug should detach them; if they resist or feel soft, give them more time.
 
