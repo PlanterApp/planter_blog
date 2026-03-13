@@ -14,7 +14,7 @@ alt = "San Pedro columnar cactus"
 +++
 There are hundreds of types of columnar cactus (Cereus, Pachycereus, Cephalocereus, etc.), ranging from the impressively tall and majestic Saguaro to smaller, cluster-growing San Pedro. These plants thrive in dry climates, need very little water, and reward growers with striking flowers.
 
-Columnar cacti are relatively simple to propagate, though the method can vary. In this article, we’ll cover the ways to increase the number of columns in your garden.
+Columnar cacti are relatively simple to propagate, though the method can vary. In part 3 of this series, we’ll cover the ways to increase the number of columns in your garden and care for the parent plant after you've taken a cutting.
 
 {{< notice note >}}Saguaros and other ‘giant’ columnar cacti do not readily root from cuttings. Some species of columnar cacti, like Saguaro, are also protected. Check local and state guidelines for restrictions. {{< /notice >}}
 
