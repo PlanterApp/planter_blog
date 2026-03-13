@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Propagating Columnar Cacti"
-slug = "Propagating Columnar Cacti"
+slug = "Propagating-Columnar-Cacti"
 author = "Sam Liddicott"
 series = ["Propagating Cacti and Succulents"]
 tags = ["Columnar Cactus", "Propagation"]
@@ -16,6 +16,8 @@ There are hundreds of types of columnar cactus (Cereus, Pachycereus, Cephalocere
 Columnar cacti are relatively simple to propagate, though the method can vary. In this article, we’ll cover the ways to increase the number of columns in your garden.
 
 {{< notice note >}}Saguaros and other ‘giant’ columnar cacti do not readily root from cuttings. Some species of columnar cacti, like Saguaro, are also protected. Check local and state guidelines for restrictions. {{< /notice >}}
+
+![Saguaro cactus against the sky](https://4w1qaaek5t.ucarecd.net/d0a572c7-a9b8-43e6-b251-f3cfda6ea88d/saguaro-national-park.jpg "Giant cacti are also tall and very heavy (multiple tons sometimes).")
 
 ### Taking a Cutting
 
@@ -52,7 +54,7 @@ Some columnar cacti form joints, either along their main stems (these will be sl
 
 Follow all the steps listed here, but note that drying and rooting will likely be faster. 
 
-![Blue myrtle cactus](https://4w1qaaek5t.ucarecd.net/a9a626a0-8da5-44e6-9463-4ea3de70147e/PXL_20260313_170146069.RAW-01.COVER.jpg "Columnar cacti, like the Blue Myrtle, will readily produce arms.")
+![](https://4w1qaaek5t.ucarecd.net/5281f585-8644-4392-8a40-9e7fb91892c6/cactus-garden-decoration.jpg "This columnar cactus has clear joints on the stems where the plant constricts.")
 
 ### Callus Your Cutting
 
@@ -63,7 +65,6 @@ Place the cutting in a bright, airy spot out of direct sun and protected from ra
 A fully callused cutting will have a firm, dry, corky surface with no remaining moisture. Once it reaches this stage, it’s ready to plant.
 
 {{< notice note >}} Aerial roots aren’t harmful, but too many forming before the cut has sealed can dry out and stress the plant. A few that appear toward the end of the callusing period or after are completely normal. {{< /notice >}}
-
 
 ### Rooting the Cutting
 
@@ -97,6 +98,8 @@ The parent plant now has an exposed wound. The 45-degree angle of the cut, or cu
 * Watch for pests, particularly cactus borer, that may take advantage of the soft tissue.
 
 The parent plant will likely produce multiple offsets from the cut site that will grow from the surrounding areoles. Choosing an offset to begin with means you can retain a healthy main stem, with new growth that starts closer to the ground and is easier to manage.
+
+![Blue myrtle cactus ](https://4w1qaaek5t.ucarecd.net/29edfa57-8a58-4388-b23b-d37e233ad4ac/PXL_20260313_170146069.RAW-01.COVER.jpg "Propagation can also help thin out vigorously growing cacti. This is an especially healthy plant and an excellent one to take cuttings from.")
 
 ### Wrapping Up
 
