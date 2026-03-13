@@ -24,7 +24,7 @@ Columnar cacti are relatively simple to propagate, though the method can vary. I
 
 The most effective method for most columnar cacti is to take a stem cutting. A cutting between 6 and 12 inches tall is ideal, although on smaller varieties, 2-3 inches is plenty. Taller cuttings can work, but they take longer to establish and are more prone to tipping due to their weight.
 
-You’ll need a few basic tools:
+**Things You'll Need:**
 
 * A healthy parent plant
 * A sharp garden knife
