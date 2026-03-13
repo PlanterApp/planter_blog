@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Propagating Columnar Cacti"
 slug = "Propagating-Columnar-Cacti"
+date = "2026-03-13T10:24:00.000Z"
 author = "Sam Liddicott"
 series = ["Propagating Cacti and Succulents"]
 tags = ["Columnar Cactus", "Propagation"]
@@ -17,7 +18,7 @@ Columnar cacti are relatively simple to propagate, though the method can vary. I
 
 {{< notice note >}}Saguaros and other ‘giant’ columnar cacti do not readily root from cuttings. Some species of columnar cacti, like Saguaro, are also protected. Check local and state guidelines for restrictions. {{< /notice >}}
 
-![Saguaro cactus against the sky](https://4w1qaaek5t.ucarecd.net/d0a572c7-a9b8-43e6-b251-f3cfda6ea88d/saguaro-national-park.jpg "Giant cacti are also tall and very heavy (multiple tons sometimes).")
+![Saguaro cactus against the sky](https://4w1qaaek5t.ucarecd.net/d0a572c7-a9b8-43e6-b251-f3cfda6ea88d/saguaro-national-park.jpg)
 
 ### Taking a Cutting
 
