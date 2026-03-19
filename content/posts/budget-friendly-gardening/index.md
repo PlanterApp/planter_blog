@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Budget Friendly Gardening"
+title = "Budget-Friendly Gardening"
 slug = "Budget-Friendly-Gardening"
 date = "2026-03-18T12:00:00.000Z"
 author = "Erin Thomson"
