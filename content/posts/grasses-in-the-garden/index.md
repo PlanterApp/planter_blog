@@ -13,6 +13,8 @@ Grasses are versatile plants that can be incorporated into your garden in dozens
 
 In this article, we’ll go through 7 reasons why you might consider adding grasses to your garden, from them being an essential part of a functional habitat, to a way to add practicality, while still being wonderfully aesthetic.
 
+{{< notice tip >}}When choosing grasses, check local and regional restrictions as some varieties are considered harmful to the environment.{{< /notice >}}
+
 ![Grasshopper on a grass blade](https://4w1qaaek5t.ucarecd.net/c5f4c84d-3e15-495f-b1ab-064c1cff545a/closeup-shot-damselfly-perched-grass-leaf-blade.jpg)
 
 ### 1. Wildlife Habitat and Biodiversity
@@ -25,13 +27,13 @@ Switchgrasses, bluestem, and needlegrass are excellent choices, providing color,
 
 ### 2. Drought Tolerance and Water Conservation
 
-If you’re looking to reduce your garden water usage, which may be a necessity if you’re gardening in a drier area, choosing grasses with deep, fibrous roots is a smart choice. Once established, many ornamental grasses are water-wise and thrive in poor soils. Their deep root systems allow them to withstand long, hot, dry periods, reducing the need for irrigation. Additionally, by planting them strategically, you can shelter your garden beds from the wind and the sun, reducing water evaporation and creating more mld microclimates.
+If you’re looking to reduce your garden water usage, which may be a necessity if you’re gardening in a drier area, choosing grasses with deep, fibrous roots is a smart choice. Once established, many ornamental grasses are water-wise and thrive in poor soils. Their deep root systems allow them to withstand long, hot, dry periods, reducing the need for irrigation. Additionally, by planting them strategically, you can shelter your garden beds from the wind and the sun, reducing water evaporation and creating more mild microclimates.
 
 Muhly grasses are great for this kind of planting, being exceptionally drought-tolerant, while still full of color (my favorite is pink muhly). Grasses also pair very well with xeric landscaping, making them key choices for deserts and gravel gardens.
 
 ![Mulhy grass in pink color](https://4w1qaaek5t.ucarecd.net/d95fb2f9-3e19-49df-828c-2fbc2232c138/2920250663_91a487f67b_b.jpg "\"[Muhly grass](https://www.flickr.com/photos/90267022@N00/2920250663)\" by [kkennedy](https://www.flickr.com/photos/90267022@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse).")
 
-### 3. Soil improvement
+### 3. Soil Improvement
 
 Many grasses are seasonal and will die or go dormant for part of the year. Because they need to be cut down to the ground during this time, you acquire nutrient-rich mulch and soil conditioner as a result. Grass is also an excellent frost protection blanket for more delicate annuals to overwinter under, and as it decays in the spring, it will feed the upcoming plants. 
 
@@ -49,7 +51,7 @@ Corn is a very easy grass to grow, and the kernels are great for a tasty snack. 
 
 Grasses are generally very light, and the slightest gusts of wind can make them sway beautifully. They offer visual appeal through various textures and colors, with many varieties providing vibrant color in the fall and structure during winter, which is an excellent way to have a vibrant garden year-round. 
 
-Grasses can help a patio feel more lively, a front porch feel more welcoming, and a herb garden feel more full during the winter months. Grasses also help to soften hardscaping. Molinia, feathergrasses, and reeds are excellent considerations here. 
+Grasses can help a patio feel more lively, a front porch feel more welcoming, and a herb garden feel more full during the winter months. Grasses also help to soften hardscaping. Molinia, feather grasses, and reeds are excellent considerations here. 
 
 ### 6. Low-maintenance and Variety
 
@@ -58,6 +60,8 @@ Ornamental grasses are generally pest-resistant, disease-free, and require littl
 If you’re often busy, grasses are an excellent way to maintain a lively garden with very little work. There are grasses for every type of location - tall ornamental grasses to shade a patio or provide privacy, bushy grasses to fill out a landscape, and small groundcovers to help suppress weeds and create wildlife habitat.
 
 Grasses are also well-suited to pots and containers, which can be very beneficial for grasses like bamboo, which are aggressive spreaders. Grasses can reliably be grown from seed and mature quickly, so if your local garden center doesn’t have many to choose from, you can grow one of the many thousands of varieties.
+
+{{< notice tip >}}Some grasses can be very aggressive. Keep those varieties confined to patio pots to limit their spread, or choose a native variety instead.{{< /notice >}}
 
 ![](https://4w1qaaek5t.ucarecd.net/43d73d05-8e0b-4c01-9652-4898ca276334/67924.jpg "Grasses can add color, and variety with shape and height to a garden.")
 
