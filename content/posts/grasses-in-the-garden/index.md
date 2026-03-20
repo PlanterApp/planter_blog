@@ -11,7 +11,7 @@ Grasses are versatile plants that can be incorporated into your garden in dozens
 
 In this article, we’ll go through 7 reasons why you might consider adding grasses to your garden, from them being an essential part of a functional habitat, to a way to add practicality, while still being wonderfully aesthetic.
 
-1. Wildlife Habitat and Biodiversity
+### 1. Wildlife Habitat and Biodiversity
 
 Grasses are a keystone species in many ecosystems. By adding them to your garden, you create habitat for hundreds of bugs, insects, and bees. Having more pollinators and foundational insects will help your garden thrive as they pollinate, break down organic matter, and provide food to other beneficial insects and animals.
 
@@ -19,7 +19,7 @@ A bonus is that this will, in turn, attract more birds to your garden, which wil
 
 Switchgrasses, bluestem, and needlegrass are excellent choices, providing color, habitat, seeds for birds, and places for insects to overwinter - something that is often overlooked in gardens.
 
-1. Drought Tolerance and Water Conservation
+### 2. Drought Tolerance and Water Conservation
 
 If you’re looking to reduce your garden water usage, which may be a necessity if you’re gardening in a drier area, choosing grasses with deep, foundational roots is a smart choice. Once established, many ornamental grasses are water-wise and thrive in poor soils. Their deep root systems allow them to withstand long, hot, dry periods, reducing the need for irrigation. Additionally, by planting them strategically, you can shelter your garden beds from the wind and the sun, reducing water evaporation and creating more mld microclimates.
 
@@ -35,7 +35,7 @@ Switchgrass, Indian grass, and cordgrass, along with larger grasses like big blu
 
 Some grasses are edible, and some produce useful oils. Lemongrass is an easy-to-grow culinary herb, and citronella has helpful oils that can be used in soap making. Common grains such as rice, corn, and wheat are also grasses, and growing a few stalks can be a fun experiment. They can also provide good food for animals if you don’t want to eat it yourself.
 
-![Corn ready  to harvest](https://4w1qaaek5t.ucarecd.net/584ed46a-914c-4d59-81ac-8fd8248446e4/corn-stalk-ready-harvest-field.jpg)
+![Corn ready to harvest](https://4w1qaaek5t.ucarecd.net/584ed46a-914c-4d59-81ac-8fd8248446e4/corn-stalk-ready-harvest-field.jpg)
 
 Corn is a very easy grass to grow, and the kernels are great for a tasty snack. There are many native heirloom varieties that are drought-tolerant and low-maintenance.
 
