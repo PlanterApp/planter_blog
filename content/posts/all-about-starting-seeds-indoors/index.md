@@ -37,6 +37,8 @@ The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/)
 **Peppers** should be started inside then transplanted (direct sowing outside is not recommended- no Sow Outside dates appear):
 
 ![Screenshot of the growing calendar for peppers in Planter](https://4w1qaaek5t.ucarecd.net/d3239860-480c-427c-8ad8-cd6aea7dea4d/Peppers-calendar.jpg)
+  
+  
 
 
 
@@ -44,6 +46,8 @@ The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/)
 **Lettuce** can be started indoors then transplanted, or direct-sown outside (both Start Inside/Transplant and Sow Outside dates appear):
 
 ![Screenshot of the lettuce growing calendar in Planter](https://ucarecdn.com/e5d9030c-9321-431b-a7c1-7591c5f4217b/lettuce-calendar.webp)
+  
+  
 
 
 
