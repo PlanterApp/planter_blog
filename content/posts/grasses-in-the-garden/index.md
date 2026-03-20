@@ -27,7 +27,7 @@ Muhly grasses are great for this kind of planting, being exceptionally drought-t
 
 ![Mulhy grass in pink color](https://4w1qaaek5t.ucarecd.net/d95fb2f9-3e19-49df-828c-2fbc2232c138/2920250663_91a487f67b_b.jpg "\"[Muhly grass](https://www.flickr.com/photos/90267022@N00/2920250663)\" by [kkennedy](https://www.flickr.com/photos/90267022@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse).")
 
-1. Soil improvement
+### 3. Soil improvement
 
 Many grasses are seasonal and will die or go dormant for part of the year. Because they need to be cut down to the ground during this time, you acquire nutrient-rich mulch and soil conditioner as a result. Grass is also an excellent frost protection blanket for more delicate annuals to overwinter under, and as it decays in the spring, it will feed the upcoming plants. 
 
