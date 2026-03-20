@@ -40,9 +40,11 @@ The [Growing Calendar](https://info.planter.garden/growing-calendar/how-to-use/)
 
 
 
+
 **Lettuce** can be started indoors then transplanted, or direct-sown outside (both Start Inside/Transplant and Sow Outside dates appear):
 
 ![Screenshot of the lettuce growing calendar in Planter](https://ucarecdn.com/e5d9030c-9321-431b-a7c1-7591c5f4217b/lettuce-calendar.webp)
+
 
 
 
