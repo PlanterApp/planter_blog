@@ -51,9 +51,11 @@ Grasses can help a patio feel more lively, a front porch feel more welcoming, an
 
 Ornamental grasses are generally pest-resistant, disease-free, and require little fertilization. Most only need a single cutting back once a year. They last a long time, and grow deep, healthy roots that can tolerate very poor soils. 
 
-If you’re often busy, grasses are an excellent way to maintain a lively garden with very little work. There are grasses for every type of location - tall ornamental grasses to shade a patio or provide privacy, to small groundcovers to help suppress weeds and create wildlife habitat.
+If you’re often busy, grasses are an excellent way to maintain a lively garden with very little work. There are grasses for every type of location - tall ornamental grasses to shade a patio or provide privacy, bushy grasses to fill out a landscape,to small groundcovers to help suppress weeds and create wildlife habitat.
 
 Grasses are also well-suited to pots and containers, which can be very beneficial for grasses like bamboo, which are aggressive spreaders. Grasses can reliably be grown from seed and mature quickly, so if your local garden center doesn’t have many to choose from, you can grow one of the many thousands of varieties.
+
+![](https://4w1qaaek5t.ucarecd.net/43d73d05-8e0b-4c01-9652-4898ca276334/67924.jpg "Grasses can add color, and variety with shape and height to a garden.")
 
 ### 7. Erosion Control and Soil Stability
 
