@@ -21,7 +21,7 @@ Switchgrasses, bluestem, and needlegrass are excellent choices, providing color,
 
 ### 2. Drought Tolerance and Water Conservation
 
-If you’re looking to reduce your garden water usage, which may be a necessity if you’re gardening in a drier area, choosing grasses with deep, foundational roots is a smart choice. Once established, many ornamental grasses are water-wise and thrive in poor soils. Their deep root systems allow them to withstand long, hot, dry periods, reducing the need for irrigation. Additionally, by planting them strategically, you can shelter your garden beds from the wind and the sun, reducing water evaporation and creating more mld microclimates.
+If you’re looking to reduce your garden water usage, which may be a necessity if you’re gardening in a drier area, choosing grasses with deep, fibrous roots is a smart choice. Once established, many ornamental grasses are water-wise and thrive in poor soils. Their deep root systems allow them to withstand long, hot, dry periods, reducing the need for irrigation. Additionally, by planting them strategically, you can shelter your garden beds from the wind and the sun, reducing water evaporation and creating more mld microclimates.
 
 Muhly grasses are great for this kind of planting, being exceptionally drought-tolerant, while still full of color (my favorite is pink muhly). Grasses also pair very well with xeric landscaping, making them key choices for deserts and gravel gardens.
 
@@ -33,21 +33,21 @@ Many grasses are seasonal and will die or go dormant for part of the year. Becau
 
 Switchgrass, Indian grass, and cordgrass, along with larger grasses like big bluestem, will give you a lot of organic material for the space they occupy, and may provide all of the winter mulch you need for your garden. 
 
-1. Practical Uses
+### 4. Practical Uses
 
 Some grasses are edible, and some produce useful oils. Lemongrass is an easy-to-grow culinary herb, and citronella has helpful oils that can be used in soap making. Common grains such as rice, corn, and wheat are also grasses, and growing a few stalks can be a fun experiment. They can also provide good food for animals if you don’t want to eat it yourself.
 
 ![Corn ready to harvest](https://4w1qaaek5t.ucarecd.net/584ed46a-914c-4d59-81ac-8fd8248446e4/corn-stalk-ready-harvest-field.jpg)
 
-Corn is a very easy grass to grow, and the kernels are great for a tasty snack. There are many native heirloom varieties that are drought-tolerant and low-maintenance.
+Corn is a very easy grass to grow, and the kernels are great for a tasty snack. Many native heirloom varieties are drought-tolerant and low-maintenance.
 
-1. Movement and Seasonal Interest
+### 5. Movement and Seasonal Interest
 
 Grasses are generally very light, and the slightest gusts of wind can make them sway beautifully. They offer visual appeal through various textures and colors, with many varieties providing vibrant color in the fall and structure during winter, which is an excellent way to have a vibrant garden year-round. 
 
 Grasses can help a patio feel more lively, a front porch feel more welcoming, and a herb garden feel more full during the winter months. Grasses also help to soften hardscaping. Molinia, feathergrasses, and reeds are excellent considerations here. 
 
-1. Low-maintenance and Variety
+### 6. Low-maintenance and Variety
 
 Ornamental grasses are generally pest-resistant, disease-free, and require little fertilization. Most only need a single cutting back once a year. They last a long time, and grow deep, healthy roots that can tolerate very poor soils. 
 
@@ -55,11 +55,11 @@ If you’re often busy, grasses are an excellent way to maintain a lively garden
 
 Grasses are also well-suited to pots and containers, which can be very beneficial for grasses like bamboo, which are aggressive spreaders. Grasses can reliably be grown from seed and mature quickly, so if your local garden center doesn’t have many to choose from, you can grow one of the many thousands of varieties.
 
-1. Erosion Control and Soil Stability
+### 7. Erosion Control and Soil Stability
 
 Grasses are often pioneer species that move in first to a location. Many grasses are perfect to help you stop erosion on a steep slope, to provide stability while other plants take root. Creeping fescues and prairie grasses are well-suited and can also help wildflowers become established by providing shade and capturing morning dew on their broad leaves. 
 
-A Bonus Reason
+### A Bonus Reason
 
 They Work Everywhere
 
@@ -67,7 +67,9 @@ Grasses fit into every style of garden: cottage, modern, prairie, xeric, and woo
 
 There’s truly a place for every grass, and a grass for every place — whether you need height, softness, movement, color, or simply a plant that makes the whole space feel more intentional.
 
-Wrapping Up
+![Courtyard with rised beds and grasses](https://4w1qaaek5t.ucarecd.net/65a9b1e5-12a6-432d-9098-7a0cd00478c5/-/crop/4000x5233/0,439/-/preview/superb-courtyard-with-beautifully-laid-paths.jpg "The right grass is a great addition to any outdoor space")
+
+### Wrapping Up
 
 Grasses are wonderfully versatile and fantastically beautiful. Because they can fit a wide range of conditions, they’re an excellent choice for any garden, no matter the shape or size. From culinary grasses to low groundcovers to tall ornamentals, there’s a grass for you if you go looking. Whether you’re after movement, wildlife habitat, drought tolerance, or simply a plant that asks for very little, grasses deliver.
 
