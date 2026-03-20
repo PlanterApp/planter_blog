@@ -11,6 +11,8 @@ Grasses are versatile plants that can be incorporated into your garden in dozens
 
 In this article, we’ll go through 7 reasons why you might consider adding grasses to your garden, from them being an essential part of a functional habitat, to a way to add practicality, while still being wonderfully aesthetic.
 
+![Grasshopper on a grass blade](https://4w1qaaek5t.ucarecd.net/c5f4c84d-3e15-495f-b1ab-064c1cff545a/closeup-shot-damselfly-perched-grass-leaf-blade.jpg)
+
 ### 1. Wildlife Habitat and Biodiversity
 
 Grasses are a keystone species in many ecosystems. By adding them to your garden, you create habitat for hundreds of bugs, insects, and bees. Having more pollinators and foundational insects will help your garden thrive as they pollinate, break down organic matter, and provide food to other beneficial insects and animals.
@@ -69,7 +71,7 @@ Grasses fit into every style of garden: cottage, modern, prairie, xeric, and woo
 
 There’s truly a place for every grass, and a grass for every place — whether you need height, softness, movement, color, or simply a plant that makes the whole space feel more intentional.
 
-![Courtyard with rised beds and grasses](https://4w1qaaek5t.ucarecd.net/65a9b1e5-12a6-432d-9098-7a0cd00478c5/-/crop/4000x5233/0,439/-/preview/superb-courtyard-with-beautifully-laid-paths.jpg "The right grass is a great addition to any outdoor space")
+![Courtyard with raised beds and grasses](https://4w1qaaek5t.ucarecd.net/65a9b1e5-12a6-432d-9098-7a0cd00478c5/-/crop/4000x5233/0,439/-/preview/superb-courtyard-with-beautifully-laid-paths.jpg "The right grass is a great addition to any outdoor space")
 
 ### Wrapping Up
 
