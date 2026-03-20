@@ -6,6 +6,8 @@ author = "Sam Liddicott"
 
 [cover]
 relative = false
+alt = "Variety of ornamental grasses in plant pots"
+image = "https://4w1qaaek5t.ucarecd.net/90d78dc2-dcfd-47cf-a9de-0b13f38746b7/choosing-plants-your-garden-assortment-ornamental-grasses-sold-green-market-outdoor-plants-stylish-modern-garden-backyard-design.jpg"
 +++
 Grasses are versatile plants that can be incorporated into your garden in dozens of ways. They come in a variety of colors, growth habits, and sizes. They’re a key part of many natural environments and are an excellent complement to vegetable gardens, patios, and those awkward spots where nothing quite fits. Additionally, there are thousands of grasses native to the major continents, meaning there’s a grass for just about everything.
 
