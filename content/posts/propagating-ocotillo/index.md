@@ -1,7 +1,8 @@
 +++
-draft = true
-title = "Propagating Ocotiloo (Fouquieria splendens)"
+draft = false
+title = "Propagating Ocotillo (Fouquieria splendens)"
 slug = "propagating-ocotillo"
+date = "2026-04-02T12:55:00.000Z"
 author = "Sam Liddicott"
 series = ["Propagating Cacti and Succulents"]
 tags = ["Desertsouthwest"]
