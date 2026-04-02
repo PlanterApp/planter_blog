@@ -29,7 +29,8 @@ In the midst of all this gardening buzz, we've also got some buzz-worthy updates
 ![Screenshot of the MyFrost.Date landing page](https://4w1qaaek5t.ucarecd.net/84607c42-20c4-48e9-8b11-bc481f49a3cc/My-frost-date.png)
 
 Planter users already know you can find your frost dates automatically within the Planter App. But what about other key weather information that gardeners need to know?
-Enter MyFrost.Date, a comprehensive historical weather data aggregator for gardeners! Enter a city or zip code to get comprehensive historical data on your growing zone, temperature, precipitation, sunrise/sunset, and more!
+
+Enter MyFrost.Date, a comprehensive historical weather data aggregator for gardeners! On MyFrost.Date you'll find comprehensive information on your growing zone, temperature, precipitation, sunrise/sunset, and more!
 
 <div class="button-container">
 
