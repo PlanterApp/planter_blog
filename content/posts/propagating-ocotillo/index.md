@@ -25,6 +25,8 @@ Spring is the best season to propagate ocotillo. Once the risk of frost has pass
 
 The ideal length of a cane is around 3-5ft long, and a cane can be cut as a section of a longer cane; the main plant will regrow. Cuttings should be taken from younger, more supple growth, which is typically a little thicker than a pencil, and can look more purple in color. If the cane is quite bendy or supple, it should root well.
 
+![Young ocotillo cane](https://4w1qaaek5t.ucarecd.net/3dc8974d-d75d-4cb6-9ae4-661d2bc886b4/PXL_20260402_194659986.PORTRAIT.ORIGINAL.jpg "Younger growth has a purple tint to it")
+
 Thinner, younger canes are easier to cut, will heal quicker, and are less woody, so have more adaptive cell tissue.
 
 ### Taking a Cutting
