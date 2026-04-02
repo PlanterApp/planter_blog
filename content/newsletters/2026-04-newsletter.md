@@ -24,7 +24,7 @@ In the midst of all this gardening buzz, we've also got some buzz-worthy updates
 
 # What's Growing On?
 
-## Weather Data for Gardeners
+## Weather Data Geared for Gardeners
 
 ![Screenshot of the MyFrost.Date landing page](https://4w1qaaek5t.ucarecd.net/84607c42-20c4-48e9-8b11-bc481f49a3cc/My-frost-date.png)
 
