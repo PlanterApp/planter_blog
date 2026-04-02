@@ -1,18 +1,21 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: "The Planter Team"
-ShowToc: false
-hideTitle: true
-cover:
-  alt: "Planter logo header"
-  image: "/newsletter-uploads-temp/Newsletter-header.png"
----
-![Planter logo header](/newsletter-uploads-temp/Newsletter-header.png)
++++
+draft = false
+title = "{{ replace .Name '-' ' ' | title }}"
+date = "{{ .Date }}"
+author = "The Planter Team"
+showToc = false
+slug = "Month Year Newsletter"
+hideTitle = true
 
-Introduction paragraph...keep this relatively brief so "What's Growing On?" is still visible in the email preview.
+[cover]
+alt = "Planter logo header"
+image = "https://4w1qaaek5t.ucarecd.net/f12b5dd9-2171-4360-a3fe-4373590d4715/Newsletter-header.png"
++++
+![Planter logo header](https://4w1qaaek5t.ucarecd.net/4a4b9dd1-67b6-407d-8046-689ab6c7c7dd/Newsletter-header.png)
 
-<img src="/newsletter-uploads-temp/Wave-top.png" class="wave" alt="Wave background graphic">
+Introduction paragraph...keep this relatively brief.
+
+<img src="https://4w1qaaek5t.ucarecd.net/890c988b-5053-4c85-9714-ba0e19ae6144/Wave-top-pea.png" class="wave" alt="Wave background graphic">
 
 <div class="newsletter-beige-section">
 
@@ -37,29 +40,31 @@ Text for update 2
 
 </div>
 
-<img src="/newsletter-uploads-temp/Wave-bottom.png" class="wave" alt="Wave background graphic">
+<img src="https://4w1qaaek5t.ucarecd.net/967706ca-70b3-4fdb-b543-1d6be9c0203f/Wave-bottom-tomato.png" class="wave" alt="Wave background graphic">
 
 
 
 # Social Media Spotlight
 
 <div class="youtube-video-container">
-  <iframe src="YOUTUBE_VIDEO_HERE" title="YouTube video player" allow="picture-in-picture" allowfullscreen></iframe>
+  <iframe src="YOUTUBE_EMBED_LINK" title="YouTube video player" allow="picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Text for update 1
 
 <div class="button-container">
 
-<a href="URL_HERE" class="newsletter-button">Button Text Here</a>
+<a href="https://planter.garden/podcast/" class="newsletter-button">Check Out the Planter Podcast</a>
 
 </div>
 
-<img src="/newsletter-uploads-temp/Wave-top.png" class="wave" alt="Wave background graphic">
+<img src="https://4w1qaaek5t.ucarecd.net/bdc8c7f3-5f53-4ef6-a67b-0a7c5ef7cd1e/Wave-top-carrot.png" class="wave" alt="Wave background graphic">
 
 <div class="newsletter-beige-section">
+
 # Growing Guide Highlights
-![Planter logo header](/newsletter-uploads-temp/Newsletter-header.png)
+
+![Alt Text](UPLOAD_CARE_IMAGE_LINK)
 
 Summary for article 1
 
@@ -72,7 +77,7 @@ Summary for article 1
 <div class="two-column-container">
 <div class="column">
 
-![Planter logo header](/newsletter-uploads-temp/Newsletter-header.png)
+![Alt Text](UPLOAD_CARE_IMAGE_LINK)
 
 Summary for article 2
 
@@ -85,7 +90,7 @@ Summary for article 2
 </div>
 <div class="column">
 
-![Planter logo header](/newsletter-uploads-temp/Newsletter-header.png)
+![Alt Text](UPLOAD_CARE_IMAGE_LINK)
 
 Summary for article 3
 
@@ -98,9 +103,9 @@ Summary for article 3
 </div>
 </div>
 
-<img src="/newsletter-uploads-temp/Wave-bottom.png" class="wave" alt="Wave background graphic">
+<img src="https://4w1qaaek5t.ucarecd.net/5df71748-ee05-4545-bcb0-e540c36899fb/Wave-bottom.png" class="wave" alt="Wave background graphic">
 
-<img src="/newsletter-uploads-temp/Planter-pointer.png" alt="Planter Pointer header" class="img-header-centered">
+<img src="https://4w1qaaek5t.ucarecd.net/4ea49ee8-cc60-4d7f-876b-402a35472e5f/Planter-pointer.png" alt="Planter Pointer header" class="img-header-centered">
 
 <div class="text-center">
 
@@ -114,7 +119,7 @@ Planter pointer text.
 
 </div>
 
-<img src="/newsletter-uploads-temp/Green-wave.png" class="wave" alt="Wave background graphic">
+<img src="https://4w1qaaek5t.ucarecd.net/5cfde140-fecf-4900-8f8f-c5fcd44f950c/Green-wave.png" class="wave" alt="Wave background graphic">
 
 <div class="newsletter-green-section">
 
@@ -155,4 +160,3 @@ Planter pointer text.
 </div>
 
     
-
