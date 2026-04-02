@@ -1,10 +1,10 @@
 +++
 draft = true
-title = "April 2026 Newsletter"
-date = 2026-04-01T15:49:21-04:00
-author = "The Planter Team"
 showToc = false
+author = "The Planter Team"
 slug = "April 2026 Newsletter"
+title = "April 2026 Newsletter"
+date = 2026-04-01T19:49:21.000Z
 hideTitle = true
 
 [cover]
@@ -23,7 +23,11 @@ In the midst of all this gardening buzz, we've also got some buzz-worthy updates
 <div class="newsletter-beige-section">
 
 # What's Growing On?
+
 ## New Page: MyFrost.Date
+
+![Screenshot of the MyFrost.Date landing page](https://4w1qaaek5t.ucarecd.net/84607c42-20c4-48e9-8b11-bc481f49a3cc/My-frost-date.png)
+
 Planter users already know you can find your frost dates automatically within the Planter App. But what about other key weather information that gardeners need to know?
 Enter MyFrost.Date, a comprehensive historical weather data aggregator for gardeners! Enter a city or zip code to get comprehensive historical data on your growing zone, temperature, precipitation, sunrise/sunset, and more!
 
@@ -34,22 +38,22 @@ Enter MyFrost.Date, a comprehensive historical weather data aggregator for garde
 </div>
 
 ## Planter App Update Coming Soon!
+
 We teased it in a recent podcast episode, and we are now in the final stages of testing some major updates to Planter!
 The upcoming release will have several top-requested features including:
-- Virtually unlimited garden sizes and the ability to see garden beds in one view
-- Container and GreenStalk gardening
-- Rounded garden beds
-- More seed company and variety info
-- A Garden Compass
-- Garden Plant Height Indicators
+
+* Virtually unlimited garden sizes and the ability to see garden beds in one view
+* Container and GreenStalk gardening
+* Rounded garden beds
+* More seed company and variety info
+* A Garden Compass
+* Garden Plant Height Indicators
 
 We will be sending launch communications via the newsletter and our social media accounts- stay tuned!
 
 </div>
 
 <img src="https://4w1qaaek5t.ucarecd.net/967706ca-70b3-4fdb-b543-1d6be9c0203f/Wave-bottom-tomato.png" class="wave" alt="Wave background graphic">
-
-
 
 # Social Media Spotlight
 
@@ -116,8 +120,9 @@ Landscaping with edibles is becoming more popular with home gardeners. Edible la
 
 <div class="text-center">
 
-Use **Tasks** in Planter to help keep your gardening to-dos on track this spring!*
-<br><i><font size=2>*Tasks are a Planter Premium feature. Remember to set your notification preferences to receive task notifications.</font></i>
+Use **Tasks** in Planter to help keep your gardening to-dos on track this spring!
+*<br><i><font size=2>*Tasks are a Planter Premium feature. Remember to set your notification preferences to receive task notifications.</font></i>
+
 </div>
 
 <div class="button-container">
@@ -129,7 +134,6 @@ Use **Tasks** in Planter to help keep your gardening to-dos on track this spring
 <img src="https://4w1qaaek5t.ucarecd.net/5cfde140-fecf-4900-8f8f-c5fcd44f950c/Green-wave.png" class="wave" alt="Wave background graphic">
 
 <div class="newsletter-green-section">
-
 
 <b><font size=50>Get Planter</font></b>
 <br> Available <b>everywhere</b>
@@ -165,5 +169,3 @@ Use **Tasks** in Planter to help keep your gardening to-dos on track this spring
 </div>
 
 </div>
-
-    
