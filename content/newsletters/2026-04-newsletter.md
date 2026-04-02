@@ -16,7 +16,7 @@ image = "https://4w1qaaek5t.ucarecd.net/f12b5dd9-2171-4360-a3fe-4373590d4715/New
 Spring has sprung! Here at Planter we could not be more excited for the start of the gardening season. 
 Our southern-based team members are on the verge of planting out their warm-season crops, while the northerners are in full indoor seed-starting mode.
 
-In the midst of all this gardening buzz, we've also got some buzz-worthy updates to share with the Planter community:
+In the midst of all this gardening buzz, we've also got some buzz-worthy updates to share with the Planter community. 🐝
 
 <img src="https://4w1qaaek5t.ucarecd.net/890c988b-5053-4c85-9714-ba0e19ae6144/Wave-top-pea.png" class="wave" alt="Wave background graphic">
 
@@ -152,7 +152,7 @@ Use **Tasks** in Planter to help keep your gardening to-dos on track this spring
 
 <div class="column">
 
-![Image of the Planter app on different devices'](/newsletter-uploads-temp/Planter-devices.png)
+![Image of the Planter app on different devices](https://4w1qaaek5t.ucarecd.net/46f4dcb0-d60b-4cb6-aa30-2eb2af04c606/Planter-devices.png)
 
 </div>
 </div>
