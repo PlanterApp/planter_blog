@@ -40,20 +40,6 @@ On MyFrost.Date you'll find comprehensive information on your growing zone, temp
 
 </div>
 
-## Planter App Update Coming Soon!
-
-We teased it in [a recent podcast episode](https://www.youtube.com/watch?v=PHwn8wuP0e8), and we are now in the final stages of testing some major updates to Planter!
-The upcoming release will have several top-requested features including:
-
-* Virtually unlimited garden sizes and the ability to see garden beds in one view
-* Container and GreenStalk gardening
-* Rounded garden beds
-* More seed company and variety info
-* A Garden Compass
-* Garden Plant Height Indicators
-
-We will be sending launch communications via the newsletter and our social media accounts- stay tuned!
-
 </div>
 
 <img src="https://4w1qaaek5t.ucarecd.net/967706ca-70b3-4fdb-b543-1d6be9c0203f/Wave-bottom-tomato.png" class="wave" alt="Wave background graphic">
