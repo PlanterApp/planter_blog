@@ -1,10 +1,10 @@
 +++
-draft = true
+draft = false
 showToc = false
 author = "The Planter Team"
 slug = "April 2026 Newsletter"
 title = "April 2026 Newsletter"
-date = 2026-04-01T19:49:21.000Z
+date = "2026-04-07T10:57:00.000Z"
 hideTitle = true
 
 [cover]
