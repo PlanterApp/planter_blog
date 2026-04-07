@@ -50,7 +50,7 @@ On MyFrost.Date you'll find comprehensive information on your growing zone, temp
   <iframe src="https://www.youtube.com/embed/qL3skhVgHGk" title="YouTube video player" allow="picture-in-picture" allowfullscreen></iframe>
 </div>
 
-In the latest episode of the Planter Podcast, Peter, Milan, and Erin address a viewer question on container gardening, sharing tips and tricks for successfully growing in containers.
+In a recent episode of the Planter Podcast, Peter, Milan, and Erin addressed a viewer question on container gardening, sharing tips and tricks for successfully growing in containers.
 
 <div class="button-container">
 
