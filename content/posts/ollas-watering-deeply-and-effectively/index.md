@@ -35,7 +35,7 @@ Native grasses and flowering plants that prefer steady but not excessive moistur
 
 ### What to Grow with Ollas
 
-Plants with deep, fibrous roots are perhaps the best suited for growing next to ollas. High-Moisture Vegetables such as tomatoes, cucumbers, and pumpkins will thrive when planted with ollas.
+Plants with deep, fibrous roots are perhaps the best suited for growing next to ollas. High-moisture vegetables such as tomatoes, cucumbers, and pumpkins will thrive when planted with ollas.
 
 More shallow-rooted plants like salad crops and herbs can be grown with ollas; however, the shape of the olla is very important. If the bulk of the vessel is too deep, then surface watering will be needed until the roots grow deep enough
 
@@ -45,7 +45,7 @@ Ollas are less well-suited for woody plants and shrubs, as the roots of these pl
 
 ### Making Your Own Olla
 
-A standard unglazed terracotta plant pot can be converted into an effective DIY olla with very little modification. The principle remains the same as traditional versions: a porous clay vessel that slowly releases water into the surrounding soil.
+A standard unglazed terracotta plant pot can be converted into an effective DIY olla with very little modification. 
 
 **You will need:**
 
@@ -71,7 +71,7 @@ Dig a hole deep enough so that the pot sits with its rim about ½-1 inch above t
 
 Backfill soil firmly around the sides to ensure good contact between the olla and the surrounding ground. Fill the olla with water and place the lid on top.
 
-As it can take some time for the water to fully soak the soil, fill your ollas a day or two before you plant your plants.
+As it can take some time for the water to fully soak the soil, fill your ollas a day or two before planting.
 
 ##### Step 4: Observe and adjust
 
