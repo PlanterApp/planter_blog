@@ -13,15 +13,19 @@ Fortunately, there’s a simple, time-tested solution that’s making a comeback
 
 By creating a steady, subsurface source of moisture, ollas help regulate soil conditions, reduce evaporation, and discourage weed growth. The result is healthier plants, less frequent watering, and a more resilient garden—no matter your climate.
 
+![garden pots and tools](https://4w1qaaek5t.ucarecd.net/a078742c-c193-48c6-9550-32bbc26e239c/high-angle-flower-pots-soil-with-tools.jpg)
+
 ### How Ollas Work (and Where They Come From)
 
-Ollas (from the Spanish word for “clay pot”) are a centuries-old irrigation technique. At its core, an olla is an unglazed clay vessel buried in the soil and filled with water. Because porous clay allows slow seepage, water is released gradually into the surrounding soil, moving toward drier areas where plant roots are actively drawing moisture. This process is self-regulating, releasing more water when the soil is dry, and less when it is wetter.
+Ollas (from the Spanish word for “clay pot”) are a centuries-old irrigation technique. At its core, an olla is an unglazed clay vessel buried in the soil and filled with water. Because porous clay allows slow seepage, water is released gradually into the surrounding soil, moving toward drier areas where plant roots are actively drawing moisture. This process is self-regulating, releasing more water when the soil is dry, and less when it is wetter. Plant roots will also grow towards the olla over time as well.
 
 Traditionally, ollas are handmade pots with narrow necks that extend above the soil surface, making them easy to refill without disturbing nearby plants. While these are still available today, they can be expensive or difficult to source.
 
 Fortunately, a simple DIY version can be made using standard unglazed terracotta plant pots. When the drainage hole is sealed and the pot is buried, it functions on the same principle as traditional ollas. 
 
 {{< notice note >}}Studies estimate that olla irrigation can save 60-70% of water used compared to surface methods.{{< /notice >}}
+
+![Diagram showing the flow of water from an olla](https://4w1qaaek5t.ucarecd.net/9a0a45e7-6588-4f1d-b275-4d7f7e82d391/Olla%20rainfall.jpg "When the surrounding soil is wet, such as after rainfall, the olla will release water slowly. When the soil is dry, water will seep more rapidly into the surrounding soil.")
 
 ### Best Uses in the Garden
 
@@ -32,6 +36,10 @@ Large container plants are ideal candidates for ollas. Pots are more exposed to 
 They are also particularly useful in difficult-to-access areas of the garden, such as slopes, embankments, rocky areas where other methods can’t be installed, or widely spaced plantings where regular surface watering is inconvenient. In these contexts, ollas are great passive water sources.
 
 Native grasses and flowering plants that prefer steady but not excessive moisture also respond well to olla irrigation, especially in dry or exposed environments.
+
+![Diagram showing roots growing towards an olla](https://4w1qaaek5t.ucarecd.net/96383f8a-453d-479f-95dd-3f32115f463a/Presentation1.jpg "Roots will grow towards ollas over time")
+
+
 
 ### What to Grow with Ollas
 
@@ -53,6 +61,8 @@ A standard unglazed terracotta plant pot can be converted into an effective DIY 
 * A lid or cover sized to fit the pot (a terracotta saucer, scrap wood, or any opaque cover that limits evaporation)
 * A method to seal the drainage hole (such as a tile fragment and food-safe glue, or a purpose-made plug or bung)
 
+![Teracotta plant pot with lid and piece of tile](https://4w1qaaek5t.ucarecd.net/7dd6807e-0ed5-4d0c-9123-5a3cb9596ccf/PXL_20260424_175413825.RAW-01.COVER.jpg)
+
 ##### Step 1: Plan your spacing
 
 Before installation, decide how far apart your ollas will be placed, as this will determine how many you need. As a general rule, a single olla can water an area roughly twice its own diameter. For example, a 6-inch pot can irrigate a zone up to approximately 12 inches across in each direction. For a raised bed, a 6-8 inch pot can irrigate around a 3ft square area.
@@ -67,17 +77,19 @@ Ensure the drainage hole at the base of the pot is fully sealed. For some pots,
 
 ##### Step 3: Install the olla
 
-Dig a hole deep enough so that the pot sits with its rim about ½-1 inch above the soil surface. This will prevent the pot from filling with dirt, while still making it easy to water.
+Dig a hole deep enough so that the pot sits with its rim about 1/4-1/2 inch above the soil surface. This will prevent the pot from filling with dirt, while still making it easy to water.
 
 Backfill soil firmly around the sides to ensure good contact between the olla and the surrounding ground. Fill the olla with water and place the lid on top.
 
 As it can take some time for the water to fully soak the soil, fill your ollas a day or two before planting.
 
+![Olla full of water](https://4w1qaaek5t.ucarecd.net/40a0866a-4d31-4918-9e58-14be7bb4690c/PXL_20260424_175738798.RAW-01.COVER.jpg)
+
 ##### Step 4: Observe and adjust
 
 Over time, observe how plants respond and how quickly the olla empties. This will help you refine spacing, refill frequency, and placement for your specific garden conditions. If you're using a plant saucer as your lid, consider filling that with water to create a shallow watering station for pollinators.
 
-
+![Olla with the lid on in a raised garden bed](https://4w1qaaek5t.ucarecd.net/f46fcf2b-a38e-4423-b85a-44db32bdf5ca/PXL_20260424_175625039.RAW-01.COVER.jpg)
 
 ### Advantages of Ollas
 
