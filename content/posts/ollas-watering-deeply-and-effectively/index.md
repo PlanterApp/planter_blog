@@ -6,6 +6,8 @@ author = "Sam Liddicott"
 
 [cover]
 relative = false
+alt = "Pots and a watering can"
+image = "https://4w1qaaek5t.ucarecd.net/439e3cc6-7dba-4208-a31f-d6cdf3634975/little-flowerpots-watering-can-wooden-table-garden.jpg"
 +++
 Whether you're in the arid Desert Southwest or in the temperate regions of Europe, summers can get hot, the rainfall a little more sporadic, and even the most tolerant plants can begin to struggle.
 
@@ -13,7 +15,7 @@ Fortunately, there’s a simple, time-tested solution that’s making a comeback
 
 By creating a steady, subsurface source of moisture, ollas help regulate soil conditions, reduce evaporation, and discourage weed growth. The result is healthier plants, less frequent watering, and a more resilient garden—no matter your climate.
 
-![garden pots and tools](https://4w1qaaek5t.ucarecd.net/a078742c-c193-48c6-9550-32bbc26e239c/high-angle-flower-pots-soil-with-tools.jpg)
+![garden pots and tools](https://4w1qaaek5t.ucarecd.net/3232984c-0735-4fcd-a0f9-69f3d79bb34b/high-angle-flower-pots-soil-with-tools.jpg)
 
 ### How Ollas Work (and Where They Come From)
 
