@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Ollas: Watering Deeply and Effectively"
 slug = "Ollas-Watering-Effectively"
 author = "Sam Liddicott"
