@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Ollas: Watering Deeply and Effectively"
-slug = "Ollas: Watering Deeply and Effectively"
+slug = "Ollas-Watering-Effectively"
 author = "Sam Liddicott"
 
 [cover]
@@ -13,11 +13,7 @@ Fortunately, there’s a simple, time-tested solution that’s making a comeback
 
 By creating a steady, subsurface source of moisture, ollas help regulate soil conditions, reduce evaporation, and discourage weed growth. The result is healthier plants, less frequent watering, and a more resilient garden—no matter your climate.
 
-Let's get into it.
-
-
-
-### The History
+### How Ollas Work (and Where They Come From)
 
 Ollas (from the Spanish word for “clay pot”) are a centuries-old irrigation technique. At its core, an olla is an unglazed clay vessel buried in the soil and filled with water. Because porous clay allows slow seepage, water is released gradually into the surrounding soil, moving toward drier areas where plant roots are actively drawing moisture. This process is self-regulating, releasing more water when the soil is dry, and less when it is wetter.
 
@@ -27,7 +23,7 @@ Fortunately, a simple version can be made at home using standard unglazed terrac
 
 {{< notice note >}}Studies estimate that olla irrigation can save 60-70% of water used compared to surface methods.{{< /notice >}}
 
-### Where Ollas are Best Suited
+### Best Uses in the Garden
 
 Ollas can be used throughout the garden, but they are most effective in situations where consistent, low-maintenance subsurface watering is valuable. At larger scales, or in highly irrigated systems, other methods become more practical.
 
@@ -37,7 +33,7 @@ They are also particularly useful in difficult-to-access areas of the garden, su
 
 Native grasses and flowering plants that prefer steady but not excessive moisture also respond well to olla irrigation, especially in dry or exposed environments.
 
-### Crops to Use Them For
+### What to Grow with Ollas
 
 Plants with deep, fibrous roots are perhaps the best suited for growing next to ollas. High-Moisture Vegetables such as tomatoes, cucumbers, and pumpkins will thrive when planted with ollas.
 
@@ -81,8 +77,7 @@ As it can take some time for the water to fully soak the soil, fill your ollas a
 
 Over time, observe how plants respond and how quickly the olla empties. This will help you refine spacing, refill frequency, and placement for your specific garden conditions. If you're using a plant saucer as your lid, consider filling that with a little bit of water too, to create a shallow watering station for pollinators.
 
-### 
-Advantages of Ollas
+### Advantages of Ollas
 
 * They maintain a consistent level of soil moisture below the surface, encouraging deep root growth and more resilient plants.
 * They reduce the frequency of watering, making garden maintenance easier and more efficient.
@@ -98,7 +93,6 @@ Advantages of Ollas
 * They must be refilled regularly, although this can be reduced with gravity-fed or drip-based refill systems.
 * If you live in an area with heavy frosts, ollas need to be brought inside for the winter, otherwise they may crack.
 
+### Wrapping Up
 
-Wrapping Up
-
-* Ollas are a fantastic way to water your plants. Although there are some disadvantages, they are relatively easy to overcome, and the benefits they offer are long-lasting and worth the effort. Whether it’s a DIY solution or a pre-bought vessel, using ollas in your garden will help you have healthier, more resilient plants and reduce your overall water consumption.
+Ollas are a fantastic way to water your plants. Although there are some disadvantages, they are relatively easy to overcome, and the benefits they offer are long-lasting and worth the effort. Whether it’s a DIY solution or a pre-bought vessel, using ollas in your garden will help you have healthier, more resilient plants and reduce your overall water consumption.
