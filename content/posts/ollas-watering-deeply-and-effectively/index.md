@@ -17,9 +17,9 @@ By creating a steady, subsurface source of moisture, ollas help regulate soil co
 
 Ollas (from the Spanish word for “clay pot”) are a centuries-old irrigation technique. At its core, an olla is an unglazed clay vessel buried in the soil and filled with water. Because porous clay allows slow seepage, water is released gradually into the surrounding soil, moving toward drier areas where plant roots are actively drawing moisture. This process is self-regulating, releasing more water when the soil is dry, and less when it is wetter.
 
-Traditionally, ollas are handmade pots with narrow necks that extend above the soil surface, making them easy to refill without disturbing the ground. These are still produced today, though they can be relatively expensive or difficult to source.
+Traditionally, ollas are handmade pots with narrow necks that extend above the soil surface, making them easy to refill without disturbing nearby plants. While these are still available today, they can be expensive or difficult to source.
 
-Fortunately, a simple version can be made at home using standard unglazed terracotta plant pots. When a pot is buried (with the drainage hole plugged), it becomes an effective DIY olla that functions on the same principle.
+Fortunately, a simple DIY version can be made using standard unglazed terracotta plant pots. When the drainage hole is sealed and the pot is buried, it functions on the same principle as traditional ollas. Read on to the end for a walkthrough.
 
 {{< notice note >}}Studies estimate that olla irrigation can save 60-70% of water used compared to surface methods.{{< /notice >}}
 
@@ -47,7 +47,7 @@ Ollas are less well-suited for woody plants and shrubs, as the roots of these pl
 
 A standard unglazed terracotta plant pot can be converted into an effective DIY olla with very little modification. The principle remains the same as traditional versions: a porous clay vessel that slowly releases water into the surrounding soil.
 
-#### You will need:
+**You will need:**
 
 * Unglazed terracotta plant pots
 * A lid or cover sized to fit the pot (a terracotta saucer, scrap wood, or any opaque cover that limits evaporation)
@@ -75,7 +75,9 @@ As it can take some time for the water to fully soak the soil, fill your ollas a
 
 ##### Step 4: Observe and adjust
 
-Over time, observe how plants respond and how quickly the olla empties. This will help you refine spacing, refill frequency, and placement for your specific garden conditions. If you're using a plant saucer as your lid, consider filling that with a little bit of water too, to create a shallow watering station for pollinators.
+Over time, observe how plants respond and how quickly the olla empties. This will help you refine spacing, refill frequency, and placement for your specific garden conditions. If you're using a plant saucer as your lid, consider filling that with water to create a shallow watering station for pollinators.
+
+
 
 ### Advantages of Ollas
 
@@ -95,4 +97,6 @@ Over time, observe how plants respond and how quickly the olla empties. This wil
 
 ### Wrapping Up
 
-Ollas are a fantastic way to water your plants. Although there are some disadvantages, they are relatively easy to overcome, and the benefits they offer are long-lasting and worth the effort. Whether it’s a DIY solution or a pre-bought vessel, using ollas in your garden will help you have healthier, more resilient plants and reduce your overall water consumption.
+Ollas are a simple but highly effective way to irrigate a garden. While they do have limitations, these are generally easy to work around, and the benefits are long-lasting and significant.
+
+Whether you choose a DIY setup or a pre-made vessel, incorporating ollas into your garden can improve plant health, reduce water use, and create a more resilient growing environment.
