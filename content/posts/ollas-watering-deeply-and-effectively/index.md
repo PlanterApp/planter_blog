@@ -19,7 +19,7 @@ Ollas (from the Spanish word for “clay pot”) are a centuries-old irrigation 
 
 Traditionally, ollas are handmade pots with narrow necks that extend above the soil surface, making them easy to refill without disturbing nearby plants. While these are still available today, they can be expensive or difficult to source.
 
-Fortunately, a simple DIY version can be made using standard unglazed terracotta plant pots. When the drainage hole is sealed and the pot is buried, it functions on the same principle as traditional ollas. Read on to the end for a walkthrough.
+Fortunately, a simple DIY version can be made using standard unglazed terracotta plant pots. When the drainage hole is sealed and the pot is buried, it functions on the same principle as traditional ollas. 
 
 {{< notice note >}}Studies estimate that olla irrigation can save 60-70% of water used compared to surface methods.{{< /notice >}}
 
