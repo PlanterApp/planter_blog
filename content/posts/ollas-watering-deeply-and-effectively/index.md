@@ -2,7 +2,7 @@
 draft = false
 title = "Ollas: Watering Deeply and Effectively"
 slug = "Ollas-Watering-Effectively"
-date = "2026-04-24T12:49:00.000Z"
+date = "2026-04-24T12:54:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
