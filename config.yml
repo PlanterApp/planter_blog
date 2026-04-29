@@ -120,12 +120,15 @@ outputs:
   section:
     - HTML
     - JSON
+    - RSS
   taxonomy:
     - HTML
     - JSON
+    - RSS
   term:
     - HTML
     - JSON
+    - RSS
 
 markup:
   goldmark:
