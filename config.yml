@@ -112,6 +112,7 @@ outputs:
   home:
     - HTML
     - JSON
+    - RSS
   page:
     - HTML
     - JSON
