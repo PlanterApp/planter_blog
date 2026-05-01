@@ -2,7 +2,7 @@
 draft = false
 title = "A Beginner’s Guide to Greywater in the Garden"
 slug = "greywater-in-the-garden"
-date = "2026-05-01T02:38:00.000Z"
+date = "2026-05-01T02:43:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
