@@ -6,12 +6,16 @@ author = "Sam Liddicott"
 
 [cover]
 relative = false
+alt = "Watering can in the garden"
+image = "https://4w1qaaek5t.ucarecd.net/191559ab-dde5-4749-9813-2e2e0a8c74de/blue-watering-can-with-trowel-wooden-table.jpg"
 +++
 Greywater is water that has already been used for something else in a residential or commercial setting. Bathtubs, showers, sinks, and washing machines are common sources of greywater. 
 
 Reusing a portion of this water in the garden is a practical way to conserve freshwater resources and reduce overall household water consumption, especially in regions facing increasing water scarcity.
 
 In this article, we’ll cover the basics of greywater use in the garden, how to apply it safely, and key considerations to help you navigate what can be a complex but highly useful area of sustainable gardening.
+
+![Garden hose next to some garden plants](https://4w1qaaek5t.ucarecd.net/66a21d8d-6d57-4ee0-b4fe-1da0afb14a4c/spring-background-gardening.jpg)
 
 ### What is Greywater?
 
@@ -51,6 +55,8 @@ Reusing water that would otherwise go down the drain can cut water costs, as you
 
 Greywater often has trace amounts of nutrients like phosphorus, potassium, and nitrogen, which can benefit plant growth. It is not a substitute for fertilizer, however.
 
+![Bio cleaning products](https://4w1qaaek5t.ucarecd.net/871cdd1e-b186-43cf-b05a-7b2434cdf220/75z_2202_w014_n001_20b_p12_20.jpg)
+
 ### Greywater Best Practices
 
 As mentioned previously, there’s a scale to how good and clean greywater is. It can also be time-consuming and difficult to collect unless you have a household greywater system, which can be expensive to install. Here are some practical tips. 
@@ -89,6 +95,7 @@ You don’t need a full greywater system to begin reusing water in the garden. S
 * Collect the water that runs while waiting for the shower or kitchen sink to heat up.
 * Strain water from cleaning tasks, such as mop buckets, provided only biodegradable cleaners were used.
 * Reuse water from rinsing unprocessed vegetables or grains like potatoes and rice, where no chemicals or pesticides are involved.
+* Pour the leftover water from your bottle or drinking glass onto your flowers rather than down the sink.
 
 {{< notice note >}}From the author: After evaluating what was feasible for me, I settled on collecting the rinse water from fruit, vegetables, and rice. I use this on two ornamental flower pots, with a monthly soak with regular water to balance things out. Over the past year, the plants have thrived, and I reuse around 5-10 gallons a week.{{< /notice >}}
 
@@ -100,4 +107,4 @@ Greywater reuse doesn't have to be complicated. Start small — a bucket under t
 
 Most US states now provide greywater guidelines, and the UK's RHS offers practical guidance for gardeners there. Check your local regulations before installing any dedicated system, but for simple collection and reuse, the barrier to entry is low.
 
-When used thoughtfully, greywater is a practical tool for reducing household water waste and supporting a more water-efficient garden.
+Used thoughtfully, greywater turns an everyday waste stream into a garden resource, helping you conserve what's precious.
