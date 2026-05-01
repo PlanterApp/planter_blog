@@ -104,7 +104,7 @@ You don’t need a full greywater system to begin reusing water in the garden. S
 
 ### Wrapping Up
 
-Greywater reuse doesn't have to be complicated. Start small — a bucket under the shower, rinse water from the kitchen — and build from there as you get a feel for what works in your garden. Even a few gallons a day adds up to thousands of gallons a year that never need to come from the tap.
+Greywater reuse doesn't have to be complicated. Start small — a bucket under the shower, rinse water from the kitchen — and build from there as you get a feel for what works in your garden. Saving a few gallons a day adds up to hundreds or thousands of gallons a year that can be reused.
 
 Most US states now provide greywater guidelines, and the UK's RHS offers practical guidance for gardeners there. Check your local regulations before installing any dedicated system, but for simple collection and reuse, the barrier to entry is low.
 
