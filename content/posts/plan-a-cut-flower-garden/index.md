@@ -8,6 +8,8 @@ plants = ["tulip ", "daffodil", "sweet peas", "cosmos", "dahlia", "sunflower", "
 
 [cover]
 relative = false
+image = "https://4w1qaaek5t.ucarecd.net/31569339-5230-4e23-83dd-10badf3007cf/-/crop/1080x937/0,0/-/preview/flowergardencut.jpg"
+alt = "planter garden planner on laptop screen surrounded by flowers in background"
 +++
 Planning a cut flower garden is a great way to bring joy and beauty to your garden.  Imagine walking outside, gathering blooms to decorate your dining room table, or putting together a bouquet to sell at your roadside farmstand. 
 
