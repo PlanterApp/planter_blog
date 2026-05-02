@@ -19,9 +19,19 @@ To plan your cut flower garden, consider factors such as sunlight, soil quality,
 
 #### Giant Snowdrop
 
-![](https://4w1qaaek5t.ucarecd.net/1b1a5863-dc2e-420b-bc46-c9c45190957b/ales-krivec-d5FqSRKIqvg-unsplash.jpg)
+![snowdrops in the snow in bloom](https://4w1qaaek5t.ucarecd.net/1b1a5863-dc2e-420b-bc46-c9c45190957b/ales-krivec-d5FqSRKIqvg-unsplash.jpg)
 
 Snowdrops are a welcome sight when spring seems like it's a far-off dream.  Snowdrops are one of the first bulbs to flower, and will even flower in snow. 
 Some early blooms you can combine with snowdrops are crocus, evergreen cuttings, and hyacinths. The giant snowdrop (*Galanthus elwesii*) is a favorite for its large blooms. 
 
 #### Daffodils
+
+
+
+![orange and white daffodils in a mug](https://4w1qaaek5t.ucarecd.net/bfe7427a-04a4-4ef3-955d-8f6b45583f6e/annie-spratt-oV2WmrP5wyc-unsplash.jpg)
+
+#### 
+
+
+
+#### Ranunculus
