@@ -30,10 +30,7 @@ Some early blooms you can combine with snowdrops are crocus, evergreen cuttings,
 
 ![orange and white daffodils in a mug](https://4w1qaaek5t.ucarecd.net/bfe7427a-04a4-4ef3-955d-8f6b45583f6e/annie-spratt-oV2WmrP5wyc-unsplash.jpg)
 
-
 Is there anything more uplifting than the sunshine of a yellow daffodil on a blustery spring day? Daffodils make an excellent cut flower.  Plant a row in the fall and await that first glorious bloom. Daffodils come in many sizes and variations of yellow, white, and orange. 
-
-
 
 #### Ranunculus
 
@@ -47,5 +44,11 @@ Ranunculus is known as "the rose of spring" since it resembles a rose.  These fl
 
 ![Pink and white tulip in a vase](https://4w1qaaek5t.ucarecd.net/ace01622-63f4-4036-a78c-9872673b1973/anita-austvika-RX513WIy8tg-unsplash.jpg)
 
-
 In the fall, plant a mass grouping of tulip bulbs to display in vases in the spring. There is such a wide variety to choose from, and some are early- to late-spring bloomers. Plant different varieties to maximize the tulip season.
+
+#### Sweet Peas
+
+![Pink sweet pea flowers against a yellow backdrop](https://4w1qaaek5t.ucarecd.net/3a428fb6-4cdb-4a61-ab94-6e8cb7e232c2/olivie-strauss-9xXQBL874oo-unsplash.jpg)
+
+
+Sweet peas are a classic flower that adds a vintage feel to bouquets.  Sweet pea flowers have a wonderful perfume, and the more often you pick, the more blooms you will get.  Sweet peas are climbers and need a trellis or some type of support to grow on. Sweet peas thrive in the cooler spring months, but some varieties are more tolerant of heat, such as 'Old Spice.'  All parts of the sweet pea are poisonous, so use caution when it comes to kids and pets. Do not confuse the plants with edible peas; plant them away from these.
