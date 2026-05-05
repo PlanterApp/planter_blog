@@ -58,11 +58,23 @@ Sweet peas are a classic flower that adds a vintage feel to bouquets.  Sweet pe
 
 ![Up-close photo of pink cosmos](https://4w1qaaek5t.ucarecd.net/da0bf464-33f1-425f-a97f-4a49055ad452/annie-spratt-8lw-Qquqnt8-unsplash.jpg)
 
-
 Cosmos are the perfect flower for adding whimsy to bouquets. Cosmos come in shades of red, pink, orange, yellow, and white. Cosmos offer a long growing season, just make sure to dead-head spent blooms to keep them going. These flowers prefer hot, dry areas of the garden and don't need much fertilizer. 
 
 #### Dahlias
 
 ![close-up of pink dahlias ](https://4w1qaaek5t.ucarecd.net/8c7a1d6e-5866-4e9f-ba28-1b91353ba17d/joe-eitzen-3SJf2207-Os-unsplash.jpg)
 
-####
+
+Dahlias are an incredible addition to any flower garden due to their long blooming season (right until the first frost) and the selection; with thousands of cultivars, you're sure to find a few dahlias to love. They come in all kinds of colors, sizes, and petal shapes. Some look like pinwheels, and some flowers are the size of dinner plates. It's important to dig up tubers in the fall if you live in an area where the ground regularly freezes or where heavy rain can make the tubers waterlogged. 
+
+#### 
+
+Sunflower
+
+![Sunflowers in the garden ](https://4w1qaaek5t.ucarecd.net/90fb9c80-1c8f-4793-ae18-ca4d60d0c6a9/sunflowers2.JPEG)
+
+Sunflowers are one of the easiest flowers to grow from seed.  These familiar flowers can tolerate many types of soil and a great pollinators, too.  There are varieties that are single stem and pollenless so they won't make a mess.  
+
+#### Zinnia
+
+![Zinnias in a garden bed](https://4w1qaaek5t.ucarecd.net/bcd1e783-0a4f-4e7b-95e1-f43eed06a217/-/crop/3024x2717/0,785/-/preview/zinnias.JPEG)
