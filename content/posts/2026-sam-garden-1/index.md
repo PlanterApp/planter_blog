@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Sam's Garden Update. Entry 1 of 2026"
 slug = "2026-sam-garden-1"
+date = "2026-05-05T03:41:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
