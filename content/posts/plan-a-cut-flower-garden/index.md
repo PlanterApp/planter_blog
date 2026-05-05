@@ -50,5 +50,19 @@ In the fall, plant a mass grouping of tulip bulbs to display in vases in the spr
 
 ![Pink sweet pea flowers against a yellow backdrop](https://4w1qaaek5t.ucarecd.net/3a428fb6-4cdb-4a61-ab94-6e8cb7e232c2/olivie-strauss-9xXQBL874oo-unsplash.jpg)
 
-
 Sweet peas are a classic flower that adds a vintage feel to bouquets.  Sweet pea flowers have a wonderful perfume, and the more often you pick, the more blooms you will get.  Sweet peas are climbers and need a trellis or some type of support to grow on. Sweet peas thrive in the cooler spring months, but some varieties are more tolerant of heat, such as 'Old Spice.'  All parts of the sweet pea are poisonous, so use caution when it comes to kids and pets. Do not confuse the plants with edible peas; plant them away from these.
+
+### Summer Bouquets
+
+#### Cosmos
+
+![Up-close photo of pink cosmos](https://4w1qaaek5t.ucarecd.net/da0bf464-33f1-425f-a97f-4a49055ad452/annie-spratt-8lw-Qquqnt8-unsplash.jpg)
+
+
+Cosmos are the perfect flower for adding whimsy to bouquets. Cosmos come in shades of red, pink, orange, yellow, and white. Cosmos offer a long growing season, just make sure to dead-head spent blooms to keep them going. These flowers prefer hot, dry areas of the garden and don't need much fertilizer. 
+
+#### Dahlias
+
+![close-up of pink dahlias ](https://4w1qaaek5t.ucarecd.net/8c7a1d6e-5866-4e9f-ba28-1b91353ba17d/joe-eitzen-3SJf2207-Os-unsplash.jpg)
+
+####
