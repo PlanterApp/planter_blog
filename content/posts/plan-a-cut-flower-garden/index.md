@@ -26,7 +26,7 @@ When planning your cut flower garden, consider factors such as sunlight, soil qu
 Snowdrops are a welcome sight when spring seems like it's a far-off dream.  Snowdrops are one of the first bulbs to flower, and will (as the name suggests) even flower in snow. 
 Some plants you can combine with snowdrops are crocus, hyacinths, and evergreen cuttings. The giant snowdrop (*Galanthus elwesii*) is a favorite for its large blooms. 
 
-#### Daffodils
+#### Daffodil
 
 ![orange and white daffodils in a mug](https://4w1qaaek5t.ucarecd.net/bfe7427a-04a4-4ef3-955d-8f6b45583f6e/annie-spratt-oV2WmrP5wyc-unsplash.jpg)
 
@@ -60,7 +60,7 @@ Sweet peas are a classic flower that adds a vintage feel to bouquets.  Sweet pe
 
 Cosmos are the perfect flower for adding whimsy to bouquets. Cosmos come in shades of red, pink, orange, yellow, and white. Cosmos offer a long growing season, just make sure to dead-head spent blooms to keep them going. These flowers prefer hot, dry areas of the garden and don't need much fertilizer. 
 
-#### Dahlias
+#### Dahlia
 
 ![close-up of pink dahlias ](https://4w1qaaek5t.ucarecd.net/8c7a1d6e-5866-4e9f-ba28-1b91353ba17d/joe-eitzen-3SJf2207-Os-unsplash.jpg)
 
