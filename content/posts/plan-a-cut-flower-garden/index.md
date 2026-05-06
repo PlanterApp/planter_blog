@@ -70,7 +70,7 @@ Dahlias are an incredible addition to any flower garden due to their long bloomi
 
 ![Sunflowers in the garden ](https://4w1qaaek5t.ucarecd.net/90fb9c80-1c8f-4793-ae18-ca4d60d0c6a9/sunflowers2.JPEG)
 
-Sunflowers are one of the easiest flowers to grow from seed.  These familiar flowers can tolerate many types of soil and a great pollinators, too.  There are varieties that are single stem and pollenless so they won't make a mess.  
+Sunflowers are one of the easiest flowers to grow from seed.  These familiar flowers can tolerate many types of soil and a great for pollinators, too.  There are varieties that are single stem and pollenless so they won't make a mess.  
 
 #### Zinnia
 
