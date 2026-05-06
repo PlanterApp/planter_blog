@@ -66,7 +66,7 @@ Cosmos are the perfect flower for adding whimsy to bouquets. Cosmos come in shad
 
 Dahlias are an incredible addition to any flower garden due to their long blooming season (right until the first frost) and the selection; with thousands of cultivars, you're sure to find a few dahlias to love. They come in all kinds of colors, sizes, and petal shapes. Some look like pinwheels, and some flowers are the size of dinner plates. It's important to dig up tubers in the fall if you live in an area where the ground regularly freezes or where heavy rain can make the tubers waterlogged. 
 
-Sunflower
+### Sunflower
 
 ![Sunflowers in the garden ](https://4w1qaaek5t.ucarecd.net/90fb9c80-1c8f-4793-ae18-ca4d60d0c6a9/sunflowers2.JPEG)
 
