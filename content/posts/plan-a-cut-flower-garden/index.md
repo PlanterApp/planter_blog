@@ -11,11 +11,11 @@ relative = false
 image = "https://4w1qaaek5t.ucarecd.net/31569339-5230-4e23-83dd-10badf3007cf/-/crop/1080x937/0,0/-/preview/flowergardencut.jpg"
 alt = "planter garden planner on laptop screen surrounded by flowers in background"
 +++
-Planning a cut flower garden is a great way to bring joy and beauty to your garden.  Imagine walking outside, gathering blooms to decorate your dining room table, or putting together a bouquet to sell at your roadside farmstand. 
+Having a cut flower garden is a great way to bring joy and beauty to your garden.  Imagine walking outside, gathering blooms to decorate your dining room table, or putting together a bouquet to sell at your roadside farmstand. 
 
-### Start the Plan
+### The Bouquet Blueprint
 
-To plan your cut flower garden, consider factors such as sunlight, soil quality, and climate, as these will influence which flowers you can successfully grow. Next, select flowers that bloom at different times of the year to keep the blooms going.  Design your garden layout by grouping plants by height, color, and blooming season.  If you want early blooms, you can grow some flowers under cover, as in a high tunnel. 
+When planning your cut flower garden, consider factors such as sunlight, soil quality, and climate, as these will influence which flowers you can successfully grow. Next, select flowers that bloom at different times of the year to keep the blooms going.  Design your garden layout by grouping plants by height, color, and blooming season.  If you want early blooms, you can grow some flowers under cover, as in a high tunnel. 
 
 ### Early Blooms
 
@@ -23,8 +23,8 @@ To plan your cut flower garden, consider factors such as sunlight, soil quality,
 
 ![snowdrops in the snow in bloom](https://4w1qaaek5t.ucarecd.net/1b1a5863-dc2e-420b-bc46-c9c45190957b/ales-krivec-d5FqSRKIqvg-unsplash.jpg)
 
-Snowdrops are a welcome sight when spring seems like it's a far-off dream.  Snowdrops are one of the first bulbs to flower, and will even flower in snow. 
-Some early blooms you can combine with snowdrops are crocus, evergreen cuttings, and hyacinths. The giant snowdrop (*Galanthus elwesii*) is a favorite for its large blooms. 
+Snowdrops are a welcome sight when spring seems like it's a far-off dream.  Snowdrops are one of the first bulbs to flower, and will (as the name suggests) even flower in snow. 
+Some plants you can combine with snowdrops are crocus, hyacinths, and evergreen cuttings. The giant snowdrop (*Galanthus elwesii*) is a favorite for its large blooms. 
 
 #### Daffodils
 
@@ -36,7 +36,7 @@ Is there anything more uplifting than the sunshine of a yellow daffodil on a blu
 
 ![orange ranunculus flower in a vase](https://4w1qaaek5t.ucarecd.net/3384ec7f-72c7-44fa-9f1c-f42d97b2b969/laura-adai-2a78u5n6l8s-unsplash.jpg)
 
-Ranunculus is known as "the rose of spring" since it resembles a rose.  These flowers love cold weather  and it will go dormant when the temperatures go above 80 degrees F/ 26 C.  Flowers bloom in a rainbow of colors. 
+Ranunculus is known as "the rose of spring" since it resembles a rose.  These flowers love cold weather  and it will go dormant when the temperatures go above 80 degrees F/ 26 C.  Flowers bloom in a rainbow of colors.  After they have bloomed and died back, lift the corms (the thick underground stem), and let them cure in a dry place out of sunlight.  When they have dried out, store them in a cool, dark, and dry place.  You can start the corms indoors around 6-8 weeks before your last frost. 
 
 ### Spring Bloomers
 
@@ -76,19 +76,32 @@ Sunflowers are one of the easiest flowers to grow from seed.  These familiar flo
 
 ![Zinnias in a garden bed](https://4w1qaaek5t.ucarecd.net/bcd1e783-0a4f-4e7b-95e1-f43eed06a217/-/crop/3024x2717/0,785/-/preview/zinnias.JPEG)
 
-
 Zinnias are vigorous bloomers and keep blooming until frost. They do especially well in the heat.  They come in many vibrant and bright colors. They also come in softer colors and whites, too.  They are perfect for first-time flower growers because they are fuss-free as long as they have good drainage and soil rich in organic matter.  Don't skip zinnias in your cut flower garden.
-
-
 
 ### Foliage Filler
 
-
 When designing your cut flower garden, it's a good idea to think beyond the blooms.  It's nice to add foliage as a bouquet filler.  Think airy additions like fennel or ferns.  Surprisingly, many flowers don't have much scent, so herbs can be a great addition. Basil, mints, lemon balm, rosemary, and lavender can add delicate scents to bouquets.  Don't be afraid to be unconventional and add some fruit and veggies to your bouquets!  Create a touch of surprise by incorporating blueberry plant clippings or cherry tomatoes still on the vine.
+
+### Dried Bouquets
+
+![A bouquet of dried flowers](https://4w1qaaek5t.ucarecd.net/3a307eb2-97d7-452e-b8f7-ce607a71f9e3/takehiro-tomiyama-aHf3dQqsSoU-unsplash.jpg)
+
+Dried bouquets are lovely because they can be enjoyed for many months. But not every flower is a good drying candidate. Some turn brown and crumbly. Here are a few ideas: 
+
+* Baby's breath
+* Calendula
+* Echinacea 
+* Feverfew
+* Hydrangea
+* Lavender
+* Queen Anne's Lace
+* Roses
+* Sunflowers
+* Yarrow
+* Valerian 
 
 
 
 ### Start Planning
-
 
 With summer quickly approaching, now is the best time to start creating the cut flower garden of your dreams. With the Planter App, you can visualize what your garden will look like and get expert growing tips right inside the app.
