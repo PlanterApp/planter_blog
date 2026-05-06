@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Plan a Cut Flower Garden"
 slug = "plan-a-cut-flower-garden"
-date = "2026-05-01T07:57:00.000Z"
+date = "2026-05-06T11:30:00.000Z"
 author = "Samantha Togstad"
 plants = ["tulip ", "daffodil", "sweet peas", "cosmos", "dahlia", "sunflower", "zinnia", "fennel", "basil ", "lemon balm"]
 
@@ -66,7 +66,7 @@ Cosmos are the perfect flower for adding whimsy to bouquets. Cosmos come in shad
 
 Dahlias are an incredible addition to any flower garden due to their long blooming season (right until the first frost) and the selection; with thousands of cultivars, you're sure to find a few dahlias to love. They come in all kinds of colors, sizes, and petal shapes. Some look like pinwheels, and some flowers are the size of dinner plates. It's important to dig up tubers in the fall if you live in an area where the ground regularly freezes or where heavy rain can make the tubers waterlogged. 
 
-### Sunflower
+#### Sunflower
 
 ![Sunflowers in the garden ](https://4w1qaaek5t.ucarecd.net/90fb9c80-1c8f-4793-ae18-ca4d60d0c6a9/sunflowers2.JPEG)
 
@@ -86,7 +86,7 @@ When designing your cut flower garden, it's a good idea to think beyond the bloo
 
 ![A bouquet of dried flowers](https://4w1qaaek5t.ucarecd.net/3a307eb2-97d7-452e-b8f7-ce607a71f9e3/takehiro-tomiyama-aHf3dQqsSoU-unsplash.jpg)
 
-Dried bouquets are lovely because they can be enjoyed for many months. But not every flower is a good drying candidate. Some turn brown and crumbly. Here are a few ideas: 
+Dried bouquets are lovely because they can be enjoyed for many months. But not every flower is a good drying candidate. Some turn brown and crumbly. Here are some flowers that are good for drying: 
 
 * Baby's breath
 * Calendula
@@ -104,4 +104,4 @@ Dried bouquets are lovely because they can be enjoyed for many months. But not e
 
 ### Start Planning
 
-With summer quickly approaching, now is the best time to start creating the cut flower garden of your dreams. With the Planter App, you can visualize what your garden will look like and get expert growing tips right inside the app.
+With summer quickly approaching, now is the best time to start creating the cut flower garden of your dreams. With the [Planter App](https://planter.garden/), you can visualize what your garden will look like and get expert growing tips right inside the app.
