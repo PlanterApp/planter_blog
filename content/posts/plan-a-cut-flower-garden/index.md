@@ -64,10 +64,7 @@ Cosmos are the perfect flower for adding whimsy to bouquets. Cosmos come in shad
 
 ![close-up of pink dahlias ](https://4w1qaaek5t.ucarecd.net/8c7a1d6e-5866-4e9f-ba28-1b91353ba17d/joe-eitzen-3SJf2207-Os-unsplash.jpg)
 
-
 Dahlias are an incredible addition to any flower garden due to their long blooming season (right until the first frost) and the selection; with thousands of cultivars, you're sure to find a few dahlias to love. They come in all kinds of colors, sizes, and petal shapes. Some look like pinwheels, and some flowers are the size of dinner plates. It's important to dig up tubers in the fall if you live in an area where the ground regularly freezes or where heavy rain can make the tubers waterlogged. 
-
-#### 
 
 Sunflower
 
@@ -78,3 +75,20 @@ Sunflowers are one of the easiest flowers to grow from seed.  These familiar flo
 #### Zinnia
 
 ![Zinnias in a garden bed](https://4w1qaaek5t.ucarecd.net/bcd1e783-0a4f-4e7b-95e1-f43eed06a217/-/crop/3024x2717/0,785/-/preview/zinnias.JPEG)
+
+
+Zinnias are vigorous bloomers and keep blooming until frost. They do especially well in the heat.  They come in many vibrant and bright colors. They also come in softer colors and whites, too.  They are perfect for first-time flower growers because they are fuss-free as long as they have good drainage and soil rich in organic matter.  Don't skip zinnias in your cut flower garden.
+
+
+
+### Foliage Filler
+
+
+When designing your cut flower garden, it's a good idea to think beyond the blooms.  It's nice to add foliage as a bouquet filler.  Think airy additions like fennel or ferns.  Surprisingly, many flowers don't have much scent, so herbs can be a great addition. Basil, mints, lemon balm, rosemary, and lavender can add delicate scents to bouquets.  Don't be afraid to be unconventional and add some fruit and veggies to your bouquets!  Create a touch of surprise by incorporating blueberry plant clippings or cherry tomatoes still on the vine.
+
+
+
+### Start Planning
+
+
+With summer quickly approaching, now is the best time to start creating the cut flower garden of your dreams. With the Planter App, you can visualize what your garden will look like and get expert growing tips right inside the app.
