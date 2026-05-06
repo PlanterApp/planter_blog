@@ -19,7 +19,7 @@ When planning your cut flower garden, consider factors such as sunlight, soil qu
 
 ### Early Blooms
 
-#### Giant Snowdrop
+#### Snowdrop
 
 ![snowdrops in the snow in bloom](https://4w1qaaek5t.ucarecd.net/1b1a5863-dc2e-420b-bc46-c9c45190957b/ales-krivec-d5FqSRKIqvg-unsplash.jpg)
 
