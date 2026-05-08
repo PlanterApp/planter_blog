@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Grow Your Own Sponges, Soap, Rope, Containers, and More"
 slug = "homegrown-soap-sponges-rope-containters"
+date = "2026-05-08T02:47:00.000Z"
 author = "Sam Liddicott"
 plants = ["Yucca", "Sunflowers", "Gourds"]
 
@@ -10,7 +11,7 @@ relative = false
 alt = "Luffa with a bar of soap"
 image = "https://4w1qaaek5t.ucarecd.net/eb40497c-cc1a-40b5-ba86-f5ee6f673b52/sponge-various-soaps.jpg"
 +++
-Gardens can be more than places to grow food and flowers. Many plants offer practical uses beyond the kitchen or the vase—materials for cleaning, crafting, storing, and even building everyday household items.
+Gardens can be more than places to grow food and flowers. Many plants offer practical uses in cleaning, crafting, storing, and even building everyday household items.
 
 In this article, we’ll introduce five plants that are well-suited to home gardens, depending on climate, and how they can be processed into useful tools and materials.
 
