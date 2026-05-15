@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Soil Conditioning vs Soil Rejuvenation: Understanding What Your Garden Needs"
+title = "Soil Conditioning vs Soil Rejuvenation. Understanding What Your Garden Needs"
 slug = "soil-conditioning-rejuvenation"
 date = "2026-05-15T10:50:00.000Z"
 author = "Sam Liddicott"
