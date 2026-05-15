@@ -6,6 +6,8 @@ author = "Sam Liddicott"
 
 [cover]
 relative = false
+alt = "Brown soil, close-up view with hands"
+image = "https://4w1qaaek5t.ucarecd.net/d449feec-ce0e-4791-bf94-d7032f12ccb2/flat-lay-hands-holding-soil.jpg"
 +++
 Soil problems can be difficult to diagnose. When plants struggle, it is not always obvious whether the problem is poor drainage, low organic matter, compaction, exhausted biology, or some combination of these.
 
@@ -13,7 +15,7 @@ Most soil improvements fall under the broad category of soil amendments, but the
 
 Put simply, is your soil biologically active but physically unsuitable for plant growth? Is it structurally sound but biologically depleted? Or is it struggling on both fronts?
 
-Understanding that distinction is important because treating the wrong problem can waste time, worsen existing issues, or accomplish very little.
+Understanding this distinction is important because treating the wrong problem can worsen existing issues or accomplish very little.
 
 In this article, we’ll explore the difference between soil conditioning and soil rejuvenation, how to identify which issue your garden is facing, and which solutions are best suited to each.
 
@@ -43,6 +45,8 @@ Many conditioning amendments are physical materials. Compost, mulch, and leaf mo
 
 While conditioning can indirectly improve nutrient availability and biological activity (and should because the two are interconnected), its primary goal is to make the soil physically more suitable for root growth and water movement.
 
+![Leaf mold is an excellent conditioner and rejuvenator.](https://4w1qaaek5t.ucarecd.net/92bed746-b1fe-41ba-8a06-0971e84bbc1b/ground-texture-close-up.jpg)
+
 ### Soil Rejuvenation
 
 Soil rejuvenation focuses on biological health, particularly bacteria, fungi, insects, and other microorganisms, which are essential components of a healthy soil ecosystem. These organisms break down organic matter, cycle nutrients, improve soil structure, and support long-term plant vitality.
@@ -60,6 +64,8 @@ Compacted or poorly structured soils limit air and water movement, creating diff
 In turn, soils lacking biological activity struggle to maintain healthy structure over time, as organic matter is not being continuously processed, integrated, and renewed.
 
 Together, this creates a feedback loop: physical structure influences biological activity, and biological activity influences soil structure.
+
+![Mulch can improve soil structure and add nutrients.](https://4w1qaaek5t.ucarecd.net/06a060a2-c890-467f-8920-6e1c2804ea30/garden-rake-straw-mulch.jpg)
 
 ### How to Know Which One I Need to Do
 
@@ -86,6 +92,10 @@ Read up on leaf mold here: [Leaf Mold: Nutrient Rich Soil Booster](https://blog.
 
 Read Jessalyn’s article on soil compaction here: [](https://blog.planter.garden/posts/how-to-improve-poor-soil-drainage/)[Improving Soil Drainage](https://blog.planter.garden/posts/how-to-improve-poor-soil-drainage/)
 
+[](https://blog.planter.garden/posts/how-to-improve-poor-soil-drainage/)
+
+![Watering a plant in the garden](https://4w1qaaek5t.ucarecd.net/8caf548f-c994-4230-9007-cae6032de0d0/water-falling-plant.jpg)
+
 **Plant response**
 
 * Slow or stunted growth despite watering or feeding may indicate restricted root movement or poor biological activity.
@@ -96,17 +106,16 @@ Read Erin's article on compost here: [Compost! Add Life to Your Garden](https://
 
 **Biological activity**
 
-Earthworms and soil insects are strong indicators of active decomposition and nutrient cycling.
-
-Fungal threads or mycelium within soil or mulch suggest a functioning biological network.
-
-Organic matter that breaks down very slowly may indicate low microbial activity.
-
-Soil that appears dull, dusty, or lifeless even when moist is often biologically depleted.
+* Earthworms and soil insects are strong indicators of active decomposition and nutrient cycling.
+* Fungal threads or mycelium within soil or mulch suggest a functioning biological network.
+* Organic matter that breaks down very slowly may indicate low microbial activity.
+* Soil that appears dull, dusty, or lifeless even when moist is often biologically depleted.
 
 Read Sarah’s article on soil fungi here: [Mycorrhizae 101](https://blog.planter.garden/posts/mycorrhizae-101/)
 
-**Structural indicators**
+![Compost with healthy soil structure and garden worms](https://4w1qaaek5t.ucarecd.net/63a8ae47-9a53-4e1a-a9e2-32620755e3f9/compost-with-worms-from-organic-waste-compost-heap-bio-humus-zero-wastewaste-recycling-concept.jpg)
+
+[](https://blog.planter.garden/posts/mycorrhizae-101/)**Structural indicators**
 
 Physical structure determines how easily roots, air, and water can move through soil.
 
@@ -117,7 +126,6 @@ Physical structure determines how easily roots, air, and water can move through 
 Read Erin’s guide on mulching here: [](https://blog.planter.garden/posts/mulching-a-must-for-your-garden/)[Mulching is a Must](https://blog.planter.garden/posts/mulching-a-must-for-your-garden/)
 
 {{< notice tip >}}No single indicator should be treated in isolation. If your soil isn’t holding water, for example, it’s likely poor structure and a lack of soil decomposition. In most gardens, both conditioning and rejuvenation will be required to some degree.{{< /notice >}}
-
 
 ### Wrapping Up
 
