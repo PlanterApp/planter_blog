@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "What Rain Does That Irrigation Can’t: Soil, Microbes, and Plant Response"
 slug = "rainwater-and-irrigation"
 author = "Sam Liddicott"
@@ -65,6 +65,8 @@ Using stored rainwater to irrigate plants will:
 * Help maintain a slightly acidic soil environment
 
 with the added benefit of reducing your water bill.
+
+{{< notice info >}}One inch of rain falling on a 1,000 sq ft roof is around 600 gallons of water!{{< /notice >}}
 
 ![Rain barrel connected to a house downspout](https://4w1qaaek5t.ucarecd.net/467044a6-91a6-4828-807f-258409f8f828/barrel-with-green-label-that-says-word-it.jpg)
 
