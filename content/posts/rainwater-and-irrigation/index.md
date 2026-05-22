@@ -2,6 +2,7 @@
 draft = false
 title = "What Rain Does That Irrigation Can’t: Soil, Microbes, and Plant Response"
 slug = "rainwater-and-irrigation"
+date = "2026-05-21T10:09:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
