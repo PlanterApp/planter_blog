@@ -4,6 +4,7 @@ title = "What Rain Does That Irrigation Can’t: Soil, Microbes, and Plant Respo
 slug = "rainwater-and-irrigation"
 date = "2026-05-22T10:15:00.000Z"
 author = "Sam Liddicott"
+tags = ["Rain", "Rainwater Harvesting"]
 
 [cover]
 relative = false
