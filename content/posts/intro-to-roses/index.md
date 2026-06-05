@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "An Intro to Roses: Choosing and Caring for Healthy Plants"
 slug = "intro-to-roses"
 date = "2026-06-05T10:48:00.000Z"
