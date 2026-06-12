@@ -27,7 +27,7 @@ The first step to a successful planting is having a good rose plant. Before you 
 
 When possible, choose a variety that is resistant to pests and diseases as well.
 
-![](https://4w1qaaek5t.ucarecd.net/ff32aaa8-4a02-47f6-a3f9-5ec1daf39c09/close-up-man-holding-elegant-house-plants.jpg)
+![Miniature roses in a container](https://4w1qaaek5t.ucarecd.net/ff32aaa8-4a02-47f6-a3f9-5ec1daf39c09/close-up-man-holding-elegant-house-plants.jpg)
 
 ### Choosing the Planting Site
 
