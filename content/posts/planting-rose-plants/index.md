@@ -53,6 +53,8 @@ After selecting your planting location, it is beneficial to amend the soil. Reco
 
 Clear the area around the planting site from annual and perennial weeds, and mulch heavily to prevent regrowth, and help the rose bush. Mulch will reduce water loss, keep the soil at a more consistent temperature, and slow-release nutrients into the soil. Keep the mulch 2-3 inches away from the rose stems.
 
+![Shovel in a garden in the dirt](https://4w1qaaek5t.ucarecd.net/f849ee39-7d3e-48bb-af9a-47624d1316bd/shot-digging-allotment.jpg)
+
 Dig a hole roughly twice the width of the current roots, and deep enough to accommodate the plant and keep the base of the stems at ground level. The ground will settle after planting, so plant a little higher than you think.
 
 Carefully tease out the roots of container plants because, if this is not done, the roots may be very slow to extend outwards, leaving the young plant more susceptible to drought in summer. Backfill the hole and gently compact the soil. Some rose plants will need staking for the first year as they stabilize.
@@ -92,6 +94,8 @@ Roses should be pruned the first winter after they have been planted. Focus on r
 {{< notice tip >}}Roses are susceptible to disease. Sterilize pruning tools before use and between plants. If you have the space, consider having a dedicated pair just for roses. Rubbing alcohol is an excellent cleaning solution.{{< /notice >}}
 
 Pruning, fertilizing, and long-term maintenance are all important aspects of rose care, and we'll explore those topics in greater detail later in this series.
+
+![Pruning an old rose with secateurs](https://4w1qaaek5t.ucarecd.net/c04c502d-1a8b-48cf-8e0e-29a8a1a46bae/gardener-pruning-withered-rose-with-secateurs-garden.jpg)
 
 ### Wrapping Up
 
