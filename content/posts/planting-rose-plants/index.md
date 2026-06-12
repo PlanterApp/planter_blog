@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Planting Roses: Tips for Success"
 slug = "planting-rose-plants"
+date = "2026-06-12T11:08:00.000Z"
 author = "Sam Liddicott"
 plants = ["Rose"]
 series = ["A Guide to Roses"]
@@ -25,6 +26,8 @@ The first step to a successful planting is having a good rose plant. Before you 
 * Doesn't have overly dry roots if it is bare root, but instead has several long, tapering roots and many smaller, hair-like roots
 
 When possible, choose a variety that is resistant to pests and diseases as well.
+
+![](https://4w1qaaek5t.ucarecd.net/ff32aaa8-4a02-47f6-a3f9-5ec1daf39c09/close-up-man-holding-elegant-house-plants.jpg)
 
 ### Choosing the Planting Site
 
@@ -78,6 +81,8 @@ Newly planted roses need a bit of attention for the first couple of years as the
 New roses should not be fertilized as young roots are more susceptible to root burn from chemicals. Once vigorous growth begins to emerge, a light application of general fertilizer or rose fertilizer will do the job well, and periodic feedings will help the plant continue to grow. Granular fertilizers should be avoided for the first year.
 
 {{< notice tip >}}Fertilizer is best absorbed by plants when the temperature is below 75°F (24°C). If you have hot, dry summers, time fertilizing for summer rainfall or early mornings when temperatures and UV are lower.{{< /notice >}}
+
+
 
 #### Mulching
 
