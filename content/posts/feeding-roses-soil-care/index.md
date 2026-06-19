@@ -9,10 +9,14 @@ tags = ["roses"]
 
 [cover]
 relative = false
+alt = "Watering roses with a watering can"
+image = "https://4w1qaaek5t.ucarecd.net/a1f8de96-1445-4541-b05b-28c17e80a1ff/gardener-watering-roses-flowers-with-watering-can-after-transplanting-summer-garden-work.jpg"
 +++
 Roses are prolific growers, and all of that growth requires nutrients. Most roses are heavy feeders, requiring nutrient-rich soil to really thrive. However, they are relatively easy to care for once you know what they need.
 
 In Part 3 of this series, we'll explore how to fertilize roses, improve soil health, and create growing conditions that support healthy plants year after year.
+
+![Gardener holding a bag of fertilizer](https://4w1qaaek5t.ucarecd.net/150efd3c-7f0f-4b5a-8c3c-011c1f7685b0/woman-with-bag-fertilizer-green-grass-outdoors-top-view.jpg)
 
 ### Nutrients
 
@@ -31,6 +35,8 @@ Here are some general fertilizing tips.
 Fertilizer labels display these nutrients as an N-P-K ratio. For example, a 10-10-10 fertilizer contains equal proportions of nitrogen, phosphorus, and potassium, while a 3-1-3 fertilizer provides relatively more nitrogen and potassium than phosphorus.
 
 Most all-purpose plant foods and fertilizers focus on these three macronutrients. An all-purpose 10-10-10 is an excellent, stress-free choice for healthy plants, and a 3-1-3 is a more tailored all-purpose blend.
+
+You can read more on fertilizer here in this great article by Erin: [Fertilizer: Beyond the Bag](https://blog.planter.garden/posts/fertilizer-beyond-the-bag/)
 
 {{< notice tip >}}It can be beneficial for roses to have a little more nitrogen in the spring to boost the growth of new canes. {{< /notice >}}
 
@@ -73,6 +79,8 @@ If the soil becomes too acidic (below 6.0), phosphorus, calcium, and magnesium b
 
 As a general guide to raise pH, mix in agricultural lime. To lower pH, incorporate organic matter like peat moss or powdered sulfur.
 
+![Close up of well-mulched rose bushes](https://4w1qaaek5t.ucarecd.net/fce2b300-d6fa-4f45-baad-073391ea5070/-/crop/2084x1844/0,2527/-/preview/portland-oregon-usa-06142024-beautiful-roses-garden-peninsula-park-rose-garden-portland-oregon.jpg)
+
 ### Soil Conditioning 
 
 While fertilizing is beneficial for roses, it is most effective when added to a healthy and well-conditioned soil environment. Roses benefit greatly from consistency in their growing environment, and good conditioning helps with that. 
@@ -85,7 +93,9 @@ Rich compost and manure improve soil structure, fertility, and moisture retentio
 
 Very sandy soils, common to more arid environments, will need heavy amendment with organic material, and very heavy clay soils generally benefit most from repeated additions of compost and organic matter over time.
 
-Feeding the soil is perhaps more important than feeding the plant, so soil amendments such as alfalfa meal or slow-release fish fertilizer, which break down slowly over the growing season, are wonderful ways to keep the soil healthy by feeding the soil microbes and reducing the need for supplemental fertilizer applications.
+Feeding the soil is perhaps more important than feeding the plant, so soil amendments such as alfalfa meal or slow-release fish fertilizer, which break down slowly over the growing season, are wonderful ways to keep the soil healthy by feeding soil microbes and reducing the need for supplemental fertilizer applications.
+
+![Lush red roses in a garden bed](https://4w1qaaek5t.ucarecd.net/f570c196-b48e-4d0d-8382-7124df9c904d/lush-roses-beautiful-blossom-flowers-bushes-chinese-tea-rosa-rosehip-beautiful-blossom-flower-sunny-summer-day-gardening-floristry-landscaping-concept.jpg)
 
 ### Wrapping Up
 
