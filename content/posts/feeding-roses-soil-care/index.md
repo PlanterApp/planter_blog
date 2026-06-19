@@ -1,7 +1,8 @@
 +++
-draft = true
+draft = false
 title = "Feeding and Soil Care for Roses"
 slug = "feeding-roses-soil-care"
+date = "2026-06-19T04:01:00.000Z"
 author = "Sam Liddicott"
 plants = ["Rose"]
 series = ["A Guide to Roses"]
