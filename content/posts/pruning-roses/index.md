@@ -76,7 +76,7 @@ A good general pruning sequence is:
 
 ![Gardener pruning a rose just above a bud](https://4w1qaaek5t.ucarecd.net/fba864f8-2b47-43f9-ab19-f4ae1130a2af/gardener-pruning-roses-garden.jpg)
 
-For stems that are dead or diseased, cut back to healthy tissue where the centre (pith) is clean and white. These stems can be removed at any time of year to reduce the spread of disease and limit pest activity.
+For stems that are dead or diseased, cut back to healthy tissue where the center (pith) is clean and white. These stems can be removed at any time of year to reduce the spread of disease and limit pest activity.
 
 On established roses, older stems will eventually flower poorly or stop flowering altogether. These can be removed near the base of the plant to encourage vigorous new growth.
 
