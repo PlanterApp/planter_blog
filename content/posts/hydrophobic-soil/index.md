@@ -1,7 +1,8 @@
 +++
-draft = true
-title = "Hyrdophobic Soil"
+draft = false
+title = "Hydrophobic Soil: Causes and Fixes"
 slug = "hydrophobic-soil"
+date = "2026-06-30T08:53:00.000Z"
 author = "Sam Liddicott"
 
 [cover]
