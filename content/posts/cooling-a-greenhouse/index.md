@@ -1,8 +1,10 @@
 +++
-draft = true
-title = "Keeping Your Greenhouse Cool"
+draft = false
+title = "Keeping Your Greenhouse Cool(er)"
 slug = "cooling-a-greenhouse"
+date = "2026-07-06T10:57:00.000Z"
 author = "Sam Liddicott"
+tags = ["Greenhouse"]
 
 [cover]
 relative = false
