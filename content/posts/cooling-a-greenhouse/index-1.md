@@ -2,7 +2,7 @@
 draft = false
 title = "Keeping Your Greenhouse Cool"
 slug = "keeping-greenhouses-cooler"
-date = "2026-07-09T03:40:00.000Z"
+date = "2026-07-09T04:00:00.000Z"
 author = "Sam Liddicott"
 tags = ["Greenhouse"]
 
